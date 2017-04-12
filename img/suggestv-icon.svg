@@ -1,0 +1,15 @@
+<svg width="192" height="192" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    suggestv-icon
+  </title>
+  <defs>
+    <rect id="a" width="192" height="192" rx="27"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <use fill="#0073A1" xlink:href="#a"/>
+    <path d="M116.5 36.6H87V8c0-4-3-7.2-7-7.2H8C4 .8 1 4 1 8v35.8c0 4 3 7 7 7h29.5v28.7c0 4 3.2 7.2 7.2 7.2h71.8c4 0 7.2-3.2 7.2-7.2V43.8c0-4-3.2-7.2-7.2-7.2zm-43.8 0H51.2V15h21.5v21.6zM15.3 15h21.5v21.6H15.3V15zM52 51h21.4v21.4H52V51zm57.3 21.4H87.8V51h21.5v21.4z" fill="#FFF" fill-rule="nonzero" transform="translate(34 52)" mask="url(#b)"/>
+  </g>
+</svg>
