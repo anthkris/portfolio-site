@@ -1,0 +1,55 @@
+{
+    "data": {
+        "allSitePage": {
+            "totalCount": 9,
+            "edges": [
+                {
+                    "node": {
+                        "path": "/404/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/CrowdScores/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Gradient/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Numilli/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Suggestv/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Weather/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/page-2/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/404.html"
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}
