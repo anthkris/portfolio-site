@@ -22,6 +22,12 @@ const TemplateWrapper = ({ children }) =>
   <div>
     <Helmet
       title="James Ciclitira - Freelancer Product Designer"
+      link={[
+        { rel: 'apple-touch-icon', sizes: '180x180', href: 'favicon/apple-touch-icon.png'},
+        { rel: 'icon', sizes: '32x32', href: 'favicon/favicon-32x32.png'},
+        { rel: 'icon', sizes: '16x16', href: 'favicon/favicon-16x16.png'},
+        ]}
+
       meta={[
         { name: 'description', content: 'Freelance Product Designer based in London. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web design' },
         { name: 'keywords', content: 'Freelance Product Design, James Ciclitira, UI/UX, User Interface Design, User Experiences Design, London, Europe, HTML, CSS, React, iOS, Andriod, Mobile, Web, Sketch, Prototyping, Web development, Responsive Design, User Testing, Mobile Apps, Interaction Design, Front-end Development, Digital Product Design, Jimmy, Jimi, Tech' },
