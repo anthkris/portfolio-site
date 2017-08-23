@@ -13,16 +13,16 @@ role='My role comprised the design of the web app. Its function was to enable fr
 clients='Product Designer'
 job='UI/UX Research, Wireframing, Prototyping,  UI/UX Design '
 />
-<section>
-  <h1 className='pb2 ma0 ph5-ns ph2 fw4'>Prototyping</h1>
-  <div className='pv4 ma0 ph5-ns ph2'>
-  <a className='db dim pv2'  target='blank' href='http://yunojuno.surge.sh/availability-menu'>Availability toggle development</a>
-  <a className='db dim pv2' target='blank' href='http://yunojuno.surge.sh/freelancer-profile'>Freelancers profile</a>
-  <a className='db dim pv2' target='blank' href='http://yunojuno.surge.sh/employers-dashboard-info-copy'>Employers empty states</a>
+<section className='center mw8'>
+  <div className='pb4 ma0 ph0-ns ph2'>
+  <h1 className='fw4'>Prototyping</h1>
+  <a className='w-third pr4 dim pv2'  target='blank' href='http://yunojuno.surge.sh/availability-menu'>Availability toggle development</a>
+  <a className='w-third pr4 dim pv2' target='blank' href='http://yunojuno.surge.sh/freelancer-profile'>Freelancers profile</a>
+  <a className='w-third pr4 dim pv2' target='blank' href='http://yunojuno.surge.sh/employers-dashboard-info-copy'>Employers empty states</a>
   </div>
 
-  <h1 className='pv4 ma0 ph5-ns ph2 fw4'>Final designs</h1>
-  <CaseStudyImg img='images/yunojuno/1.jpg'/>
+  <h1 className='pv4 ma0 ph0-ns ph2 fw4'>Final designs</h1>
+  <CaseStudyImg  img='images/yunojuno/1.jpg'/>
   <CaseStudyImg  img='images/yunojuno/2.jpg'/>
   <CaseStudyImg  img='images/yunojuno/3.jpg'/>
   <CaseStudyImg  img='images/yunojuno/4.jpg'/>

@@ -9,10 +9,10 @@ role='I had the pleasure of working as the principal designer, taking responsibi
 clients='Product Designer '
 job='UI/UX Research, Wireframing, UI/UX Design, Icon Design, Conceptualising Ideas and Prototyping.'
 />
-<div className='ph5-ns ph2 center'>
-<section className='mt4 dib' id='interface-design'>
+<div className='ph0-ns ph2 center mw8'>
+<section className='mt3 dib'>
   <div className='w-100 w-40-ns fl'>
-    <h1 className='fw4 tracked'>Interface design</h1>
+    <h2 className='fw4'>Interface design</h2>
     <div className='bg-accent' style={{width: '40', height:'4' }}> </div>
    <p className='mt4'> CrowdScores offers a clean, clear and useable interface on both Andriod and iOS platforms. The influence of material design can be clearly seen throughout the app. <br /> <br /> Whilst working on the application I stuck to the the philosophy that data within mobile applications should be scannable and easily consumed. This was achieved by respecting elements layout bounds.</p>
   </div>
@@ -29,7 +29,7 @@ job='UI/UX Research, Wireframing, UI/UX Design, Icon Design, Conceptualising Ide
     <img src='images/crowdscores/filters.jpg' alt='CrowdScores - Live football scores'/>
   </div>
   <div className='w-100 w-40-ns mt4 fr'>
-    <h1 className='fw4 tracked'>UX design</h1>
+    <h2 className='fw4'>UX design</h2>
     <div className='bg-accent' style={{width: '40', height:'4' }}> </div>
     <p className='mt4'>With over 1,300 matches on an average week, an intuitive user experience is crucial. Navigation within the app has been an issue due to the vast amount of infomation covered. Recently, navigation has been improved with the implementation of a search facility.</p>
   </div>
@@ -39,9 +39,9 @@ job='UI/UX Research, Wireframing, UI/UX Design, Icon Design, Conceptualising Ide
 
 </section>
 
- <section className='mt5 dib' id='visual-design'>
+ <section className='mt5 dib'>
     <div className='w-100 w-40-ns fl mt5'>
-      <h1 className='fw4 tracked'>Visual design</h1>
+      <h2 className='fw4'>Visual design</h2>
       <div className='bg-accent' style={{width: '40', height:'4' }}> </div>
       <p className='mt4 bottom'> Visual are used as an important method of communication with the user. They entertain and can even trigger an emotional response to the digital. All in-match events covered within the app have a unique animation.</p>
       <a className='no-underline mt3 fw3 grow dib f5' href='https://www.ccv.adobe.com/v1/player/ccv/M3M5rR6B7GX/embed' target='blank'>Watch the animation</a>
@@ -55,71 +55,53 @@ job='UI/UX Research, Wireframing, UI/UX Design, Icon Design, Conceptualising Ide
   </section>
 
 <section className='mt5 dib' id='advertising'>
-    <h1 className='ml3 fw4 tracked'>Advertising</h1>
+    <h2 className='fw4 ml3'>Advertising</h2>
         <div className='bg-accent ml3 mb4' style={{width: '40', height:'4' }}> </div>
 
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-      <div className='card '>
-        <div className='card-image '>
+        <div className='shadow'>
           <img src='images/crowdscores/marketing/web1.jpg' alt='CrowdScore-marketing'/>
         </div>
-      </div>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-      <div className='card '>
-        <div className='card-image '>
+        <div className='shadow'>
           <img src='images/crowdscores/marketing/web2.jpg' alt='CrowdScore-marketing'/>
         </div>
-      </div>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-      <div className='card '>
-        <div className='card-image '>
+        <div className='shadow'>
           <img src='images/crowdscores/marketing/web3.jpg' alt='CrowdScore-marketing'/>
         </div>
-      </div>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-      <div className='card '>
-        <div className='card-image '>
+        <div className='shadow'>
           <img src='images/crowdscores/marketing/web4.jpg' alt='CrowdScore-marketing'/>
         </div>
-      </div>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-      <div className='card '>
-        <div className='card-image '>
+        <div className='shadow'>
           <img src='images/crowdscores/marketing/web5.jpg' alt='CrowdScore-marketing'/>
         </div>
-      </div>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-      <div className='card '>
-        <div className='card-image '>
+        <div className='shadow'>
           <img src='images/crowdscores/marketing/web6.jpg' alt='CrowdScore-marketing'/>
         </div>
-      </div>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-      <div className='card '>
-        <div className='card-image '>
+        <div className='shadow'>
           <img src='images/crowdscores/marketing/web7.jpg' alt='CrowdScore-marketing'/>
         </div>
-      </div>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-      <div className='card '>
-        <div className='card-image '>
+        <div className='shadow'>
           <img src='images/crowdscores/marketing/web8.jpg' alt='CrowdScore-marketing'/>
         </div>
-      </div>
     </div>
     <div className='grow w-third-l w-50-ns pa3 w-100 fl'>
-      <div className='card '>
-        <div className='card-image '>
+        <div className='shadow'>
           <img src='images/crowdscores/marketing/web9.jpg' alt='CrowdScore-marketing'/>
         </div>
-      </div>
     </div>
   </section>
 </div>
