@@ -6,8 +6,9 @@ class CaseStudyAbout extends React.Component {
   render() {
     return (
  <section className='center mw8'>
-    <div className='ph0-ns ph2'>
-    <h1 className='f2 fw4 lh-title'>{this.props.about}</h1>
+    <div className='ph0-ns ph2 '>
+    <h2 className='fw5 db dn-ns'>About</h2>
+    <h1 className='f2-ns f4 fw4 lh-title ma0 mb3' >{this.props.about}</h1>
     <div className='pb6-ns pb3'>
     <div className='w-50-ns w-100 v-top dib'>
     <h2 className='fw5 '>Role Summary</h2>

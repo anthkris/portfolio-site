@@ -10,12 +10,12 @@
                 },
                 {
                     "node": {
-                        "path": "/Gradient/"
+                        "path": "/CrowdScores/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/CrowdScores/"
+                        "path": "/Gradient/"
                     }
                 },
                 {
@@ -35,6 +35,11 @@
                 },
                 {
                     "node": {
+                        "path": "/Yunojuno/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/"
                     }
                 },
@@ -46,11 +51,6 @@
                 {
                     "node": {
                         "path": "/404.html"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/Yunojuno/"
                     }
                 }
             ]

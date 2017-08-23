@@ -319,12 +319,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-08-23T08:54:58.460Z",
+      "buildTime": "2017-08-23T20:39:51.371Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "cbffecd044982e883d27491f83e18837",
+        "contentDigest": "80d69a9d63718ebfcb4adc8414934b59",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -348,25 +348,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Gradient/": {
-      "path": "/Gradient/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Gradient.js",
-      "componentChunkName": "component---src-pages-gradient-js",
-      "layout": "index",
-      "jsonName": "gradient.json",
-      "internalComponentName": "ComponentGradient",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Gradient.js",
-      "id": "SitePage /Gradient/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5b6667897e2d1b10a27b05572899df68",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /CrowdScores/": {
       "path": "/CrowdScores/",
       "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/CrowdScores.js",
@@ -383,6 +364,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "befb4baee6513aeb48648a91565fffbf",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Gradient/": {
+      "path": "/Gradient/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Gradient.js",
+      "componentChunkName": "component---src-pages-gradient-js",
+      "layout": "index",
+      "jsonName": "gradient.json",
+      "internalComponentName": "ComponentGradient",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Gradient.js",
+      "id": "SitePage /Gradient/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5b6667897e2d1b10a27b05572899df68",
         "owner": "internal-data-bridge"
       }
     },
@@ -443,6 +443,25 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /Yunojuno/": {
+      "path": "/Yunojuno/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Yunojuno.js",
+      "componentChunkName": "component---src-pages-yunojuno-js",
+      "layout": "index",
+      "jsonName": "yunojuno.json",
+      "internalComponentName": "ComponentYunojuno",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Yunojuno.js",
+      "id": "SitePage /Yunojuno/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9798d2496b12d920fdec900969848682",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /": {
       "path": "/",
       "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/index.js",
@@ -497,25 +516,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "fe11a5e6eba615d873e738fd05ba2edb",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Yunojuno/": {
-      "path": "/Yunojuno/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Yunojuno.js",
-      "componentChunkName": "component---src-pages-yunojuno-js",
-      "layout": "index",
-      "jsonName": "yunojuno.json",
-      "internalComponentName": "ComponentYunojuno",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Yunojuno.js",
-      "id": "SitePage /Yunojuno/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9798d2496b12d920fdec900969848682",
         "owner": "internal-data-bridge"
       }
     }
