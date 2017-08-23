@@ -61,7 +61,7 @@ textarea {
 }
 
 ::selection {
-  background: #F50057;
+  background: #000;
   color: #fff
 }
 
