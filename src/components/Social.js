@@ -33,6 +33,9 @@ class Social extends React.Component {
           </g>
         </svg>
         </a>
+          <a className="link dim gray dib br-100 h2 w2 mr3 pa2" href="https://www.uplabs.com/jimi" title="">
+      <img src="images/uplabs.svg" alt='Uplabs logo' />
+  </a>
       </div>
     )
   }

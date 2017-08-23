@@ -46,7 +46,6 @@ const TemplateWrapper = ({ children }) =>
         { name: 'twitter:image', content: 'https://jciclitira.com/images/preview.png' },
       ]}
     />
-
     <Header />
     <div
     >
