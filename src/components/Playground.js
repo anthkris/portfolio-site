@@ -10,7 +10,7 @@ class Playground extends React.Component {
     return (
 <section className="center mw8 mt4 db ph0-ns ph2">
 <Title text='Freebies'/>
-<p className='pl3 ml1 ma0 pa0 fw5 secondary-text'>Collection of Open source project, UI kits and assests available for download</p>
+<p className=' ma0 pa0 fw5 secondary-text'>Collection of Open source project, UI kits and assests available for download</p>
 <div className='pt3 db'>
 <PlayTile  title='Résumé template' type='images/tools/js.svg' img='images/preview/cv.svg' link='https://github.com/james-ciclitira/resume'/>
 <PlayTileIn  title='CSS gradient' type='images/tools/css.svg' img='images/preview/gradient.svg' link='Gradient'/>
