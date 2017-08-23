@@ -10,7 +10,8 @@ exports.components = {
   "component---src-pages-suggestv-js": require("gatsby-module-loader?name=component---src-pages-suggestv-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Suggestv.js"),
   "component---src-pages-weather-js": require("gatsby-module-loader?name=component---src-pages-weather-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Weather.js"),
   "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/index.js"),
-  "component---src-pages-page-2-js": require("gatsby-module-loader?name=component---src-pages-page-2-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/page-2.js")
+  "component---src-pages-page-2-js": require("gatsby-module-loader?name=component---src-pages-page-2-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/page-2.js"),
+  "component---src-pages-yunojuno-js": require("gatsby-module-loader?name=component---src-pages-yunojuno-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Yunojuno.js")
 }
 
 exports.json = {
@@ -33,7 +34,9 @@ exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
   "page-2.json": require("gatsby-module-loader?name=path---page-2!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/page-2.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/404-html.json")
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/404-html.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
+  "yunojuno.json": require("gatsby-module-loader?name=path---yunojuno!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/yunojuno.json")
 }
 
 exports.layouts = {

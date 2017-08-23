@@ -12,7 +12,7 @@ const Header = () =>
           <Link className="db dtc-l v-mid link dim tc tl-l mb2 mb0-l f4" to="/" title="Home">
           James Ciclitira</Link>
           <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
-            <a className="link dim dib mr3 " target='blank' href="https://jciclitira-resume.netlify.com/">Digital Résumé</a>
+            <a className="link dim dib mr3 " target='blank' href="http://jimmmy.design/">Digital Résumé</a>
           </div>
         </div>
         </div>

@@ -499,6 +499,25 @@
         "contentDigest": "fe11a5e6eba615d873e738fd05ba2edb",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /Yunojuno/": {
+      "path": "/Yunojuno/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Yunojuno.js",
+      "componentChunkName": "component---src-pages-yunojuno-js",
+      "layout": "index",
+      "jsonName": "yunojuno.json",
+      "internalComponentName": "ComponentYunojuno",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Yunojuno.js",
+      "id": "SitePage /Yunojuno/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9798d2496b12d920fdec900969848682",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {

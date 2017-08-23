@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 class CaseStudyAbout extends React.Component {
   render() {
     return (
- <section>
+ <section className=''>
     <div className='ph5-ns ph2'>
     <h1 className='f-large fw3'>{this.props.about}</h1>
     <div className='pb6-ns pb3'>
