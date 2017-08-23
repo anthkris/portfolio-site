@@ -6,7 +6,7 @@ class Info extends React.Component {
   render() {
     return (
 <section>
-<div className="pv2 mw8 mb4 db center">
+<div className="pv2 mw8 mb4 db center ph0-ns ph2">
 <div className='pl2'>
 <Title text='Recommendation'/>
 </div>

@@ -8,7 +8,7 @@ class Work extends React.Component {
   render() {
     return (
     <section id='Portfolio'>
-        <div className='mw8 mt5 center db'>
+        <div className='mw8 mt5 center db ph0-ns ph2'>
         <Title text='Portfolio'/>
         <WorkTile title='CrowdScores' info='MOBILE APP DESIGN' summary='CrowdScores brings you the fastest live scores, it is a social network which allows fans to share in-match events and opinion. Running on both a iOS and Android.' img='images/preview/crowdscores-app.jpg' link='/CrowdScores'/>
         <WorkTile title='Suggestv' info='WEB APP DESIGN' summary='Suggestv is the inventor of semantic video distribution. Suggestv brings together content sellers and publishes creating a marketplace for online video.' img='images/preview/suggestv-platfom.jpg' link='Suggestv'/>
