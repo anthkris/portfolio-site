@@ -10,16 +10,20 @@ class Work extends React.Component {
     <section id='Portfolio'>
         <div className='mw8 mt5 center db ph0-ns ph2'>
         <Title text='Portfolio'/>
-        <WorkTile title='CrowdScores' info='MOBILE APP DESIGN' summary='CrowdScores brings you the fastest live scores, it is a social network which allows fans to share in-match events and opinion. Running on both a iOS and Android.' img='images/preview/crowdscores-app.jpg' link='/CrowdScores'/>
-        <WorkTile title='Suggestv' info='WEB APP DESIGN' summary='Suggestv is the inventor of semantic video distribution. Suggestv brings together content sellers and publishes creating a marketplace for online video.' img='images/preview/suggestv-platfom.jpg' link='Suggestv'/>
+        <WorkTile title='CrowdScores' info='Moblie app design' summary='CrowdScores brings you the fastest live scores, it is a social network which allows fans to share in-match events and opinion. Running on both a iOS and Android.' img='images/preview/crowdscores-app.jpg' link='/CrowdScores'/>
+        <WorkTile title='Suggestv' info='Web app & static site' summary='Suggestv is the inventor of semantic video distribution. Suggestv brings together content sellers and publishes creating a marketplace for online video.' img='images/preview/suggestv-platfom.jpg' link='Suggestv'/>
 
-        <WorkTile title='Numilli' info='MOBILE & ATM DESIGN' summary='Bitcoin safe and easy. Numilli makes it easy to securely buy and sell bitcoin currency, on the go using a mobile application & Automated teller machine.' img='images/preview/numilli.jpg' link='Numilli'/>
-        <WorkTile title='YunoJuno' info='WEB APP DESIGN' summary='YunoJuno connects the best freelancers work with great companies. Employers work directly with freelancers with yunojuno managing contact & payment.' img='images/preview/yunojuno.jpg' link='YunoJuno'/>
+        <WorkTile title='Numilli' info='Mobile app & atm design' summary='Bitcoin safe and easy. Numilli makes it easy to securely buy and sell bitcoin currency, on the go using a mobile application & Automated teller machine.' img='images/preview/numilli.jpg' link='Numilli'/>
+        <WorkTile title='YunoJuno' info='Web app design' summary='YunoJuno connects the best freelancers work with great companies. Employers work directly with freelancers with yunojuno managing contact & payment.' img='images/preview/yunojuno.jpg' link='YunoJuno'/>
 
+        <WorkTileOut title='Numilli' info='Web app - design & development' summary='Web app showing the bitcoin ATM locaitons - under development' img='images/preview/numilli-site.jpg' link='http://numilli.surge.sh/'/>
 
-        <WorkTileOut title='Numilli' info='WEB APP DESIGN & DEVELOPMENT ' summary='Web app showing the bitcoin ATM locaitons - under development' img='images/preview/numilli-site.jpg' link='http://numilli.surge.sh/'/>
+        <h1 className='fw4'>Personal projects</h1>
+        <p className='mw7'>As a designer there’s always more to learn. These side projects are challenges set by me to develop new skills and refine my existing abilities.</p>
 
-        <WorkTileOut title='Deliverate' info='REACT APP' summary='Delivary rating web app showing the top rated take abouts in your local area' img='images/preview/deliverate.jpg' link='http://deliverate.co.uk/'/>
+        <WorkTileOut title='Deliverate.co.uk' info='React web app' summary='Delivary rating web app showing the top rated take abouts in your local area.' img='images/preview/deliverate.svg' link='http://deliverate.co.uk/'/>
+
+        <WorkTileOut title='Working-out.design' info='React CMS' summary='Collection of the best free co-working spots in London. Why not submit a location?' img='images/preview/working-out.svg' link='https://working-out.design/'/>
 
        </div>
     </section>
