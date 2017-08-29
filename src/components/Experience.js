@@ -9,7 +9,7 @@ class Experience extends React.Component {
     return (
 <section>
 <div className="mw8 db-ns dn center ph2 mt4">
-<Title text='Past Experience'/>
+<Title text='Past experience'/>
     <div className='pt3 ph2'>
     <div className='dib w-third-ns w-100'>
     <Role jobTitle='Product designer' employer='CrowdScores' img='images/companies/crowdscores-icon.svg' link='https://crowdscores.com/' length='Sep 2015 – Jan 2017 &#8226; 1 yr 5 Mon'/>
