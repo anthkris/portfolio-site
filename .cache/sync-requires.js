@@ -4,8 +4,8 @@ const preferDefault = m => m && m.default || m
 
 exports.components = {
   "component---cache-dev-404-page-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/dev-404-page.js")),
-  "component---src-pages-404-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/404.js")),
   "component---src-pages-crowd-scores-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/CrowdScores.js")),
+  "component---src-pages-404-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/404.js")),
   "component---src-pages-gradient-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Gradient.js")),
   "component---src-pages-numilli-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Numilli.js")),
   "component---src-pages-suggestv-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Suggestv.js")),
@@ -19,9 +19,9 @@ exports.json = {
   "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
   "dev-404-page.json": require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/dev-404-page.json"),
   "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
-  "404.json": require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/404.json"),
-  "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
   "crowd-scores.json": require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/crowd-scores.json"),
+  "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
+  "404.json": require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/404.json"),
   "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
   "gradient.json": require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/gradient.json"),
   "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),

@@ -19,9 +19,9 @@ class Work extends React.Component {
         <WorkTileOut title='Numilli' info='Web app - design & development' summary='Web app showing the bitcoin ATM locaitons - under development' img='images/preview/numilli-site.jpg' link='http://numilli.surge.sh/'/>
 
         <h1 className='fw4'>Personal projects</h1>
-        <p className='mw7'>As a designer there’s always more to learn. These side projects are challenges set by me to develop new skills and refine my existing abilities.</p>
+        <p className='mw7'>As a designer there’s always more to learn. These side projects are challenges I’ve set myself to develop new skills and refine my existing abilities</p>
 
-        <WorkTileOut title='Deliverate.co.uk' info='React web app' summary='Delivary rating web app showing the top rated takeaway abouts in your local area.' img='images/preview/deliverate.svg' link='http://deliverate.co.uk/'/>
+        <WorkTileOut title='Deliverate.co.uk' info='React web app' summary='Front-end for a delivary rating web app showing the top rated takeaway in your local area.' img='images/preview/deliverate.svg' link='http://deliverate.co.uk/'/>
 
         <WorkTileOut title='Working-out.design' info='React CMS' summary='Collection of the best free co-working spots in London. Why not submit a location?' img='images/preview/working-out.svg' link='https://working-out.design/'/>
 

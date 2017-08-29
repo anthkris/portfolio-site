@@ -5,12 +5,12 @@
             "edges": [
                 {
                     "node": {
-                        "path": "/404/"
+                        "path": "/CrowdScores/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/CrowdScores/"
+                        "path": "/404/"
                     }
                 },
                 {
