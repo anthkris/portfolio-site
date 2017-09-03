@@ -1,4 +1,5 @@
 import React from 'react'
+import Availability from './Availability'
 import Social from './Social'
 
 
@@ -15,6 +16,7 @@ class Landing extends React.Component {
           <a target='blank' className='no-underline dim' href='https://www.sugges.tv/'> Suggestv</a> &
           <a target='blank' className='no-underline dim' href='http://crowdscores.com/'> Crowdscores.</a>
           </h1>
+          <Availability/>
           <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6'}} href="mailto:jciclitira@gmail.com">Get in touch</a>
           <Social/>
         </div>

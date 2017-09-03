@@ -319,32 +319,13 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-08-29T12:21:00.304Z",
+      "buildTime": "2017-09-03T09:15:05.898Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "898206d2d27967e804ac2e6b129dd5e6",
+        "contentDigest": "ca31a0aa05cc3498723785e2ac64a3c3",
         "type": "Site",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /CrowdScores/": {
-      "path": "/CrowdScores/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/CrowdScores.js",
-      "componentChunkName": "component---src-pages-crowd-scores-js",
-      "layout": "index",
-      "jsonName": "crowd-scores.json",
-      "internalComponentName": "ComponentCrowdScores",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/CrowdScores.js",
-      "id": "SitePage /CrowdScores/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "befb4baee6513aeb48648a91565fffbf",
         "owner": "internal-data-bridge"
       }
     },
@@ -364,6 +345,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "19cc9736d0e932b522831a9dff748485",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /CrowdScores/": {
+      "path": "/CrowdScores/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/CrowdScores.js",
+      "componentChunkName": "component---src-pages-crowd-scores-js",
+      "layout": "index",
+      "jsonName": "crowd-scores.json",
+      "internalComponentName": "ComponentCrowdScores",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/CrowdScores.js",
+      "id": "SitePage /CrowdScores/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "befb4baee6513aeb48648a91565fffbf",
         "owner": "internal-data-bridge"
       }
     },
