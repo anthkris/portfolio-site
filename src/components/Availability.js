@@ -5,8 +5,8 @@ class Availability extends React.Component {
   render() {
     return (
       <article className='mt4'>
-      <p  className='fw4 w-100 dib v-top ma0 pa0'>
-      <span className='bg-red dib mr3' style={{height:'8', width: '8', borderRadius: '50'}}></span>
+      <p  className='fw3 w-100 dib ma0 pa0'>
+      <span className='bg-red dib mr2 v-mid' style={{height:'6', width: '6', borderRadius: '50%'}}></span>
      Unavailable until -  6 Oct 2017</p>
       </article>
     )
