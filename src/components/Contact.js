@@ -6,13 +6,22 @@ class Contact extends React.Component {
     return (
 <section className='mw8 db ph3 center mt6'>
 <h2 className='fw4 mb5'>Get in touch</h2>
+
+
 <form
-    name="contact"
-    method="post"
-    data-netlify="true"
-    data-netlify-honeypot="bot-field"
-    action="/Thank-you/"
-    >
+          name="contact"
+          method="post"
+          action="/thanks/"
+          data-netlify="true"
+          data-netlify-honeypot="bot-field"
+        >
+        <input type="hidden" name="form-name" value="contact" />
+          <p hidden>
+            <label>
+              Don’t fill this out: <input name="bot-field" />
+            </label>
+          </p>
+
     <label className='dib w-50-ns w-100'>Name:
     <input className="bg-transparent db mt3 w-80-ns w-100 pointer" type="text" name="name"/>
     </label>

@@ -519,22 +519,22 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Thank-you/": {
-      "path": "/Thank-you/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thank-you.js",
-      "componentChunkName": "component---src-pages-thank-you-js",
+    "SitePage /Thanks/": {
+      "path": "/Thanks/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thanks.js",
+      "componentChunkName": "component---src-pages-thanks-js",
       "layout": "index",
-      "jsonName": "thank-you.json",
-      "internalComponentName": "ComponentThankYou",
+      "jsonName": "thanks.json",
+      "internalComponentName": "ComponentThanks",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thank-you.js",
-      "id": "SitePage /Thank-you/",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thanks.js",
+      "id": "SitePage /Thanks/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "910e58dc6f8f455b1f642e898a5178a0",
+        "contentDigest": "74c0f1afaf6b96c0f1845430b1b24a1b",
         "owner": "internal-data-bridge"
       }
     }
