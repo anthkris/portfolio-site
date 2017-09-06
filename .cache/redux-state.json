@@ -319,12 +319,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-09-06T11:47:10.223Z",
+      "buildTime": "2017-09-06T13:16:25.346Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2695528696b3986de369487563fa12e3",
+        "contentDigest": "bef628fc593b42d52a9f3962ae2fbf54",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -519,22 +519,22 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Sent/": {
-      "path": "/Sent/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Sent.js",
-      "componentChunkName": "component---src-pages-sent-js",
+    "SitePage /Thank-you/": {
+      "path": "/Thank-you/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thank-you.js",
+      "componentChunkName": "component---src-pages-thank-you-js",
       "layout": "index",
-      "jsonName": "sent.json",
-      "internalComponentName": "ComponentSent",
+      "jsonName": "thank-you.json",
+      "internalComponentName": "ComponentThankYou",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Sent.js",
-      "id": "SitePage /Sent/",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thank-you.js",
+      "id": "SitePage /Thank-you/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "43b3274cb36ce316f786f9d6bc2827d2",
+        "contentDigest": "910e58dc6f8f455b1f642e898a5178a0",
         "owner": "internal-data-bridge"
       }
     }

@@ -4,16 +4,14 @@ import React from 'react'
 class Contact extends React.Component {
   render() {
     return (
-
-
 <section className='mw8 db ph3 center mt6'>
 <h2 className='fw4 mb5'>Get in touch</h2>
 <form name="contact" action="thank-you" data-netlify="true">
 <label className='dib w-50-ns w-100'>Name:
-<input className="bg-transparent db mt3 w-80 pointer" type="text" name="name"/>
+<input className="bg-transparent db mt3 w-80-ns w-100 pointer" type="text" name="name"/>
 </label>
-<label className='dib w-50-ns w-100'>Email:
-<input className="bg-transparent db mt3 w-80 pointer" type="email" name="email"/>
+<label className='dib w-50-ns w-100 mt4 mt0-ns'>Email:
+<input className="bg-transparent db mt3 w-80-ns w-100 pointer" type="email" name="email"/>
 </label>
 <label className='db w-100 pt4 mv3'>Message
 <textarea rows="3" className="db w-100 bg-transparent pointer" name="message">

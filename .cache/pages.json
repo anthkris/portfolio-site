@@ -77,10 +77,10 @@
         "path": "/404.html"
     },
     {
-        "componentChunkName": "component---src-pages-sent-js",
+        "componentChunkName": "component---src-pages-thank-you-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "sent.json",
-        "path": "/Sent/"
+        "jsonName": "thank-you.json",
+        "path": "/Thank-you/"
     }
 ]
