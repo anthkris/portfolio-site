@@ -11,7 +11,7 @@ class Contact extends React.Component {
     method="post"
     data-netlify="true"
     data-netlify-honeypot="bot-field"
-    action="thank-you"
+    action="/Thank-you/"
     >
     <label className='dib w-50-ns w-100'>Name:
     <input className="bg-transparent db mt3 w-80-ns w-100 pointer" type="text" name="name"/>
