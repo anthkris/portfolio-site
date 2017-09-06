@@ -17,7 +17,7 @@ class Landing extends React.Component {
           <a target='blank' className='no-underline dim' href='http://crowdscores.com/'> Crowdscores.</a>
           </h1>
           <Availability/>
-          <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6'}} href="mailto:jciclitira@gmail.com">Get in touch</a>
+          <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6px'}} href="mailto:jciclitira@gmail.com">Get in touch</a>
           <Social/>
         </div>
         <div className='w-50 dib-ns dn'>
