@@ -319,12 +319,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-09-03T09:15:05.898Z",
+      "buildTime": "2017-09-06T11:47:10.223Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ca31a0aa05cc3498723785e2ac64a3c3",
+        "contentDigest": "2695528696b3986de369487563fa12e3",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -516,6 +516,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "fe11a5e6eba615d873e738fd05ba2edb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Sent/": {
+      "path": "/Sent/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Sent.js",
+      "componentChunkName": "component---src-pages-sent-js",
+      "layout": "index",
+      "jsonName": "sent.json",
+      "internalComponentName": "ComponentSent",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Sent.js",
+      "id": "SitePage /Sent/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "43b3274cb36ce316f786f9d6bc2827d2",
         "owner": "internal-data-bridge"
       }
     }
