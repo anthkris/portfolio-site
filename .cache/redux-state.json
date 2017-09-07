@@ -319,12 +319,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-09-06T13:16:25.346Z",
+      "buildTime": "2017-09-07T06:23:24.798Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bef628fc593b42d52a9f3962ae2fbf54",
+        "contentDigest": "755dd7f4c069588eeb4461460a059664",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -424,6 +424,25 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /Thanks/": {
+      "path": "/Thanks/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thanks.js",
+      "componentChunkName": "component---src-pages-thanks-js",
+      "layout": "index",
+      "jsonName": "thanks.json",
+      "internalComponentName": "ComponentThanks",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thanks.js",
+      "id": "SitePage /Thanks/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "74c0f1afaf6b96c0f1845430b1b24a1b",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /Weather/": {
       "path": "/Weather/",
       "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Weather.js",
@@ -516,25 +535,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "fe11a5e6eba615d873e738fd05ba2edb",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Thanks/": {
-      "path": "/Thanks/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thanks.js",
-      "componentChunkName": "component---src-pages-thanks-js",
-      "layout": "index",
-      "jsonName": "thanks.json",
-      "internalComponentName": "ComponentThanks",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thanks.js",
-      "id": "SitePage /Thanks/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "74c0f1afaf6b96c0f1845430b1b24a1b",
         "owner": "internal-data-bridge"
       }
     }

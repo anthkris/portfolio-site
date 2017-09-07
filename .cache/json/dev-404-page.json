@@ -30,6 +30,11 @@
                 },
                 {
                     "node": {
+                        "path": "/Thanks/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/Weather/"
                     }
                 },
@@ -51,11 +56,6 @@
                 {
                     "node": {
                         "path": "/404.html"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/Thanks/"
                     }
                 }
             ]

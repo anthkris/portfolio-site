@@ -42,6 +42,13 @@
         "path": "/Suggestv/"
     },
     {
+        "componentChunkName": "component---src-pages-thanks-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "thanks.json",
+        "path": "/Thanks/"
+    },
+    {
         "componentChunkName": "component---src-pages-weather-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -75,12 +82,5 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
-    },
-    {
-        "componentChunkName": "component---src-pages-thanks-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "thanks.json",
-        "path": "/Thanks/"
     }
 ]
