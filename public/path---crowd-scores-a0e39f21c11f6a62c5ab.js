@@ -1,2 +1,0 @@
-webpackJsonp([0x25cb189025314400],{"./node_modules/json-loader/index.js!./.cache/json/crowd-scores.json":function(o,e){o.exports={pathContext:{}}}});
-//# sourceMappingURL=path---crowd-scores-a0e39f21c11f6a62c5ab.js.map
