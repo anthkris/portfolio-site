@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_Utilities</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="29.986 22.22 1.43 22.22 1.43 0 29.986 0"></polygon>
+        <polygon id="path-3" points="0 119.504 0 0 99.946 0 99.946 119.504"></polygon>
+        <polygon id="path-5" points="0 169.532 99.946 169.532 99.946 0 0 0"></polygon>
+        <polygon id="path-7" points="0 169.532 99.946 169.532 99.946 0 0 0"></polygon>
+        <polygon id="path-9" points="0 169.532 99.946 169.532 99.946 0 0 0"></polygon>
+        <polygon id="path-11" points="0 169.532 99.946 169.532 99.946 0 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_Utilities">
+            <g id="Utilities" transform="translate(8.000000, 9.000000)">
+                <polygon id="Shape" points="0 0 176 0 176 173.8 0 173.8"></polygon>
+                <g id="Group" transform="translate(37.400000, 2.145000)">
+                    <g transform="translate(34.269400, 147.301000)" id="Clipped">
+                        <g>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="a"></g>
+                            <path d="M9.988,8.36 L9.988,12.76 C9.988,13.376 10.538,13.904 11.198,13.904 L20.218,13.904 C20.878,13.904 21.362,13.376 21.362,12.738 L21.362,8.338 L9.922,8.338 M20.152,22.198 L11.22,22.198 C5.786,22.22 1.408,17.952 1.408,12.76 L1.408,4.18 C1.408,1.87 3.344,0 5.72,0 L25.696,0 C28.072,0 29.986,1.87 29.986,4.18 L29.986,12.76 C29.986,17.974 25.586,22.22 20.218,22.22" id="Shape" fill="#FFD218" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                    <path d="M55.66,155.628 L44.264,155.628 L44.264,160.028 C44.264,160.688 44.792,161.194 45.452,161.194 L54.472,161.194 C55.132,161.194 55.682,160.666 55.682,160.028 L55.682,155.628" id="Shape" fill="#FFF4C5" fill-rule="nonzero"></path>
+                    <path d="M58.52,152.856 L38.544,152.856 L38.544,161.436 C38.544,164.362 41.008,166.76 44.044,166.76 L53.064,166.76 C56.1,166.76 58.564,164.34 58.564,161.436 L58.564,152.856 M45.452,161.216 C44.792,161.216 44.264,160.688 44.264,160.028 L44.264,155.628 L55.704,155.628 L55.704,160.028 C55.704,160.688 55.154,161.194 54.494,161.194 L45.474,161.194" id="Shape" fill="#FFD218" fill-rule="nonzero"></path>
+                    <g id="Clipped">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="c"></g>
+                        <path d="M31.174,111.166 L68.794,111.166 C69.894,100.386 75.284,89.958 80.454,79.86 C86.086,68.992 91.388,58.74 91.388,48.62 C91.388,26.4 72.798,8.36 49.984,8.36 C27.148,8.36 8.58,26.4 8.58,48.62 C8.58,58.828 13.926,69.3 19.58,80.388 C24.728,90.398 30.008,100.716 31.174,111.188 M72.82,119.46 L27.126,119.46 C24.772,119.46 22.836,117.59 22.836,115.28 C22.836,105.38 17.556,95.04 11.946,84.04 C6.072,72.666 0,60.786 0,48.686 C0,21.78 22.44,0 49.984,0 C77.528,0 99.924,21.824 99.924,48.62 C99.924,60.72 93.94,72.336 88.132,83.6 C82.456,94.6 77.132,104.984 77.132,115.346 C77.132,117.634 75.196,119.526 72.82,119.526" id="Shape" fill="#FFD218" fill-rule="nonzero" mask="url(#mask-4)"></path>
+                    </g>
+                    <path d="M49.984,61.16 C37.356,61.16 27.104,71.104 27.104,83.38 C27.104,92.62 35.024,101.992 37.664,111.166 L62.26,111.166 C64.9,101.816 72.864,92.686 72.864,83.38 C72.864,71.104 62.634,61.16 50.028,61.16" id="Shape" fill="#FFF4C5" fill-rule="nonzero"></path>
+                    <path d="M62.216,111.166 L37.686,111.166 C38.236,113.036 38.566,114.906 38.566,116.732 L61.38,116.732 C61.38,114.862 61.71,112.992 62.216,111.166" id="Shape" fill="#FFD218" fill-rule="nonzero"></path>
+                    <g id="Clipped">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="e"></g>
+                        <polyline id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-6)" points="28.556 140.36 71.39 140.36 71.39 129.228 28.556 129.228"></polyline>
+                    </g>
+                    <g id="Clipped">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="e"></g>
+                        <path d="M32.846,136.18 L67.1,136.18 L67.1,133.408 L32.846,133.408 L32.846,136.18 Z M71.39,144.54 L28.556,144.54 C26.202,144.54 24.266,142.648 24.266,140.36 L24.266,129.228 C24.266,126.94 26.202,125.048 28.556,125.048 L71.39,125.048 C73.766,125.048 75.68,126.94 75.68,129.228 L75.68,140.36 C75.68,142.648 73.766,144.54 71.39,144.54 Z" id="Shape" fill="#1D7BCE" fill-rule="nonzero" mask="url(#mask-8)"></path>
+                    </g>
+                    <g id="Clipped">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <g id="e"></g>
+                        <polyline id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-10)" points="28.556 151.47 71.39 151.47 71.39 140.36 28.556 140.36"></polyline>
+                    </g>
+                    <g id="Clipped">
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <g id="e"></g>
+                        <path d="M32.846,147.29 L67.1,147.29 L67.1,144.54 L32.846,144.54 L32.846,147.29 Z M71.39,155.65 L28.556,155.65 C26.202,155.65 24.266,153.78 24.266,151.47 L24.266,140.36 C24.266,138.05 26.202,136.18 28.556,136.18 L71.39,136.18 C73.766,136.18 75.68,138.05 75.68,140.36 L75.68,151.47 C75.68,153.78 73.766,155.65 71.39,155.65 Z" id="Shape" fill="#1D7BCE" fill-rule="nonzero" mask="url(#mask-12)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
