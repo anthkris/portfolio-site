@@ -13,7 +13,6 @@ class Landing extends React.Component {
           <h1 className='fw5 f1 mb2'>Hello!</h1>
           <h2 className='fw3' style={{lineHeight: '1.5'}}>I'm James Ciclitira, a freelance product designer based in London. Specialising in native & web apps.
           </h2>
-          <Availability/>
           <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6px'}} href="mailto:jciclitira@gmail.com">Get in touch</a>
           <Social/>
         </div>
