@@ -36,7 +36,7 @@ class TextInput extends Component {
       <div className={ show }>
         <div className='relative w-100'>
           <p className={ magic }>{ label || backupName }</p>
-          <input className='w-90 mt2 mb5'
+          <input required className='w-90 mt2 mb5'
             type={ type || 'text' }
             value={ value }
             name={ this.props.name}
