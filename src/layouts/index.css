@@ -1,3 +1,43 @@
+.TextInput p {
+  margin: 0;
+}
+
+.TextInput {
+  max-width: 100%;
+  display: inline-block;
+  width: 50%;
+}
+
+.TextInput ::-webkit-input-placeholder {
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  opacity: 1;
+}
+
+input {
+    padding-bottom: 6px
+}
+
+
+.TextInput input:focus::-webkit-input-placeholder {
+  opacity: 0;
+}
+
+.TextInput .magic-label {
+  transition: all 0.3s ease-in-out;
+  pointer-events: none;
+  position: absolute;
+  opacity: 0;
+  padding: 0 2px;
+  top: 0px;
+  font-size: 10px;
+}
+
+.TextInput .magic-label.focused {
+  opacity: 1;
+  top: -10px;
+}
+
 @fontface {
   font-family: 'Lato', sans-serif;
   src: url('https://fonts.googleapis.com/css?family=Lato:400,700')
@@ -8,7 +48,7 @@ body {
 }
 
 p {
-  line-height:1.5
+  line-height: 1.5
 }
 
 a {

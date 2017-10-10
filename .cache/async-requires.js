@@ -7,13 +7,13 @@ exports.components = {
   "component---src-pages-crowd-scores-js": require("gatsby-module-loader?name=component---src-pages-crowd-scores-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/CrowdScores.js"),
   "component---src-pages-gradient-js": require("gatsby-module-loader?name=component---src-pages-gradient-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Gradient.js"),
   "component---src-pages-numilli-js": require("gatsby-module-loader?name=component---src-pages-numilli-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Numilli.js"),
+  "component---src-pages-quidco-js": require("gatsby-module-loader?name=component---src-pages-quidco-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Quidco.js"),
   "component---src-pages-suggestv-js": require("gatsby-module-loader?name=component---src-pages-suggestv-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Suggestv.js"),
   "component---src-pages-thanks-js": require("gatsby-module-loader?name=component---src-pages-thanks-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thanks.js"),
   "component---src-pages-weather-js": require("gatsby-module-loader?name=component---src-pages-weather-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Weather.js"),
   "component---src-pages-yunojuno-js": require("gatsby-module-loader?name=component---src-pages-yunojuno-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Yunojuno.js"),
   "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/index.js"),
-  "component---src-pages-page-2-js": require("gatsby-module-loader?name=component---src-pages-page-2-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/page-2.js"),
-  "component---src-pages-quidco-js": require("gatsby-module-loader?name=component---src-pages-quidco-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Quidco.js")
+  "component---src-pages-page-2-js": require("gatsby-module-loader?name=component---src-pages-page-2-js!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/page-2.js")
 }
 
 exports.json = {
@@ -28,6 +28,8 @@ exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
   "numilli.json": require("gatsby-module-loader?name=path---numilli!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/numilli.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
+  "quidco.json": require("gatsby-module-loader?name=path---quidco!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/quidco.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
   "suggestv.json": require("gatsby-module-loader?name=path---suggestv!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/suggestv.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
   "thanks.json": require("gatsby-module-loader?name=path---thanks!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/thanks.json"),
@@ -40,9 +42,7 @@ exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
   "page-2.json": require("gatsby-module-loader?name=path---page-2!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/page-2.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/404-html.json"),
-  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/layout-index.json"),
-  "quidco.json": require("gatsby-module-loader?name=path---quidco!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/quidco.json")
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/json/404-html.json")
 }
 
 exports.layouts = {

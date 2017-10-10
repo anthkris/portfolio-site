@@ -276,6 +276,10 @@
         "license": "MIT",
         "dependencies": [
           {
+            "name": "classnames",
+            "version": "^2.2.5"
+          },
+          {
             "name": "gatsby",
             "version": "^1.8.12"
           },
@@ -319,12 +323,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-10-10T07:56:17.390Z",
+      "buildTime": "2017-10-10T16:29:50.996Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d69a599e8eff2bb535c369b169ba3450",
+        "contentDigest": "51a60cdda4ad68a591c56432f2164865",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -402,6 +406,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "6c144553c735e0559cf25bcd1c2b0529",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Quidco/": {
+      "path": "/Quidco/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Quidco.js",
+      "componentChunkName": "component---src-pages-quidco-js",
+      "layout": "index",
+      "jsonName": "quidco.json",
+      "internalComponentName": "ComponentQuidco",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Quidco.js",
+      "id": "SitePage /Quidco/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7952feb49c57112bb95edf5f330c8490",
         "owner": "internal-data-bridge"
       }
     },
@@ -537,30 +560,11 @@
         "contentDigest": "fe11a5e6eba615d873e738fd05ba2edb",
         "owner": "internal-data-bridge"
       }
-    },
-    "SitePage /Quidco/": {
-      "path": "/Quidco/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Quidco.js",
-      "componentChunkName": "component---src-pages-quidco-js",
-      "layout": "index",
-      "jsonName": "quidco.json",
-      "internalComponentName": "ComponentQuidco",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Quidco.js",
-      "id": "SitePage /Quidco/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7952feb49c57112bb95edf5f330c8490",
-        "owner": "internal-data-bridge"
-      }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "b41f49c002af04b6abe379fbbcb8da10"
+    "PLUGINS_HASH": "89fc0314e062ec08c25cd44653bcc900"
   },
   "componentDataDependencies": {
     "nodes": {},

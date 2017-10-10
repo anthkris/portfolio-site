@@ -25,6 +25,11 @@
                 },
                 {
                     "node": {
+                        "path": "/Quidco/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/Suggestv/"
                     }
                 },
@@ -56,11 +61,6 @@
                 {
                     "node": {
                         "path": "/404.html"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/Quidco/"
                     }
                 }
             ]
