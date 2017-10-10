@@ -17,7 +17,6 @@ class PlayTile extends React.Component {
 <div className='pa2 dib relative'>
  <img className='hoverable' src={this.props.img} alt='Open source design'/>
   <div className='absolute download w-20' style={{left:'40%', top: '40%'}}>
-  <img className='h3 o-30' src='images/download.svg'/>
   </div>
  </div>
 

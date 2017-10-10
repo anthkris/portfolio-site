@@ -13,8 +13,8 @@ class Playground extends React.Component {
 <p className=' ma0 pa0 fw5 secondary-text'>Collection of open source projects, UI kits and assets available for download</p>
 <div className='pt3 db'>
 <PlayTile  title='Résumé template' type='images/tools/js.svg' img='images/preview/cv.svg' link='https://github.com/james-ciclitira/resume'/>
-<PlayTileIn  title='CSS gradient' type='images/tools/css.svg' img='images/preview/gradient.svg' link='Gradient'/>
-<PlayTileIn  title='Weather icon set' type='images/tools/sketch.svg' img='images/preview/weather.svg' link='Weather'/>
+<PlayTileIn  title='CSS gradient' type='images/tools/css.svg' img='images/preview/gradient.svg' source='Gradient'/>
+<PlayTileIn  title='Weather icon set' type='images/tools/sketch.svg' img='images/preview/weather.svg' source='Weather'/>
 <PlayTile  title='Light-Weight SVG Flags' type='images/tools/sketch.svg' img='images/preview/flag.svg' link='https://james-ciclitira.github.io/sketch-files/Material-flags.sketch'/>
 <PlayTile  title='Food Delivery App' type='images/tools/sketch.svg'img='images/preview/delivery.jpg' link='https://james-ciclitira.github.io/sketch-files/delivery-on-demand.sketch'/>
 <PlayTile  title='Shifts On-demand' type='images/tools/sketch.svg' img='images/preview/shifts.svg' link='https://james-ciclitira.github.io/sketch-files/shifts-on-demand.sketch'/>

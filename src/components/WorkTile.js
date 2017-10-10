@@ -25,7 +25,6 @@ WorkTile.propTypes = {
   info: PropTypes.string.isRequired,
   summary: PropTypes.string.isRequired,
   img: PropTypes.string.isRequired,
-  live: PropTypes.string.isRequired,
 };
 export default WorkTile
 

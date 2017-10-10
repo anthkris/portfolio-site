@@ -1,4 +1,3 @@
-
 import React from 'react'
 import Link from 'gatsby-link'
 
@@ -8,7 +7,7 @@ class PlayTileIn extends React.Component {
     return (
 <div className='w-third-ns w-100 dib'>
 <div className='pa2'>
-<Link className='no-underline ' to={this.props.link}>
+<Link className='no-underline' to={this.props.source}>
   <div className='center'>
   <div className='w-100 ph2 pt3 pb2'>
   <img className='h1' src={this.props.type}/>
@@ -27,10 +26,10 @@ class PlayTileIn extends React.Component {
 
 
 PlayTileIn.propTypes = {
-  link: React.PropTypes.string.requiredAny,
-  title: React.PropTypes.string.requiredAny,
-  type: React.PropTypes.string.requiredAny,
-  img: React.PropTypes.string.requiredAny,
+  source: React.PropTypes.string.isRequired,
+  title: React.PropTypes.string.isRequired,
+  type: React.PropTypes.string.isRequired,
+  img: React.PropTypes.string.isRequired,
 };
 
 
