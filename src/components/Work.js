@@ -17,6 +17,7 @@ class Work extends React.Component {
         <WorkTile title='YunoJuno' info='Web app design' summary='YunoJuno connects the best freelancers with great companies. Employers work directly with freelancers with YunoJuno managing contact and payment.' img='images/preview/yunojuno.jpg' link='YunoJuno'/>
 
         <WorkTileOut title='Numilli' info='Web app - design & development' summary='Web app showing the bitcoin ATM locations - under development' img='images/preview/numilli-site.jpg' link='http://numilli.surge.sh/'/>
+        <WorkTileOut title='QuidCo' info='Mobile app design' summary='Quidco is the number one cashback service. Partnering with retailers to help consumers earn cashback every year.' img='images/preview/quidco.jpg' link='https://quidco.com/'/>
 
         <h1 className='fw4'>Personal projects</h1>
         <p className='mw7'>As a designer there’s always more to learn. These side projects are challenges I’ve set myself to develop new skills and refine my existing abilities</p>
