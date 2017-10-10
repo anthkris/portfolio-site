@@ -537,6 +537,25 @@
         "contentDigest": "fe11a5e6eba615d873e738fd05ba2edb",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /Quidco/": {
+      "path": "/Quidco/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Quidco.js",
+      "componentChunkName": "component---src-pages-quidco-js",
+      "layout": "index",
+      "jsonName": "quidco.json",
+      "internalComponentName": "ComponentQuidco",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Quidco.js",
+      "id": "SitePage /Quidco/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7952feb49c57112bb95edf5f330c8490",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {

@@ -1,7 +1,7 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 11,
+            "totalCount": 12,
             "edges": [
                 {
                     "node": {
@@ -56,6 +56,11 @@
                 {
                     "node": {
                         "path": "/404.html"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Quidco/"
                     }
                 }
             ]

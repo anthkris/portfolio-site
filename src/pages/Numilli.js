@@ -5,10 +5,10 @@ import Footer from '../components/Footer'
 
 
 
-const Suggestv = () =>
+const Numilli = () =>
 <div className='pt5'>
 <CaseStudyAbout
-about='The quickest and easiest way to buy bitcoin. Numilli makes it easy to securely buy and sell bitcoins via a mobile application and ATM machine.'
+about='Numilli makes it easy to quickly & securely buy bitcoins on the go, using a mobile application linked to ATM machines.'
 role='My role comprised the design of the native application, web app & ATM machines. '
 clients='Freelance Product Designer '
 job='UI/UX Research, Wireframing,  UI/UX Design, Icon Design'
@@ -23,4 +23,4 @@ job='UI/UX Research, Wireframing,  UI/UX Design, Icon Design'
 </div>
 <Footer/>
 </div>
-export default Suggestv
+export default Numilli
