@@ -9,21 +9,22 @@ class Experience extends React.Component {
     return (
 <section>
 <div className="mw8 db-ns dn center ph2 mt4">
-<Title text='Past experience'/>
+<Title text='Experience'/>
     <div className='pt3 ph2'>
     <div className='dib w-third-ns w-100'>
-    <Role jobTitle='Product designer' employer='CrowdScores' img='images/companies/crowdscores-icon.svg' link='https://crowdscores.com/' length='Sep 2015 – Jan 2017 &#8226; 1 yr 5 Mon'/>
-            <Role jobTitle='Design intern' employer='Samlabs' img='images/companies/sam-icon.svg' link='https://samlabs.com/' length='Jun 2015 - Aug 2015 &#8226;  1 Month'/>
+    <Role jobTitle='Product designer' employer='CrowdScores' img='images/companies/crowdscores-icon.svg' link='https://crowdscores.com/'/>
+    <Role jobTitle='Design intern' employer='Samlabs' img='images/companies/sam-icon.svg' link='https://samlabs.com/'/>
 
     </div>
     <div className='dib w-third-ns w-100'>
-    <Role jobTitle='Product designer' employer='Numilli' img='images/companies/numilli-icon.svg' link='http://numilli.surge.sh/' length='Feb 2017 - Present &#8226;  7 Months' />
-    <Role jobTitle='Product designer' employer='Suggestv' img='images/companies/suggestv-icon.svg' link='https://sugges.tv/' length='Jan 2017 - Apr 2017 &#8226;  4 Months'/>
+    <Role jobTitle='Product designer' employer='Numilli' img='images/companies/numilli-icon.svg' link='http://numilli.surge.sh/'/>
+    <Role jobTitle='Product designer' employer='Suggestv' img='images/companies/suggestv-icon.svg' link='https://sugges.tv/'/>
 
     </div>
 
     <div className='dib w-third-ns w-100 v-top'>
-    <Role jobTitle='Product designer' employer='YunoJuno' img='images/companies/YunoJuno-icon.svg' link='https://YunoJuno.com/' length='May 2017 - August &#8226;  3 Months'/>
+    <Role jobTitle='Product designer' employer='YunoJuno' img='images/companies/yunoJuno-icon.svg' link='https://yunojuno.com/'/>
+    <Role jobTitle='Mobile designer' employer='Quidco' img='images/companies/quidco-icon.svg' link='https://quidco.com/'/>
 
     </div>
 </div>
