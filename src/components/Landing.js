@@ -1,7 +1,6 @@
 import React from 'react'
 import Social from './Social'
 
-
 class Landing extends React.Component {
   render() {
     return (
@@ -17,7 +16,7 @@ class Landing extends React.Component {
         </div>
         <div className='w-50 dib-ns dn'>
         <img className='w-70 ml5' src='images/app.svg'/>
-        </div>
+   </div>
       </div>
 </section>
 <div className='mw8 db center mt5-ns mt3 mb5 overflow-auto ph0-ns ph2'>
