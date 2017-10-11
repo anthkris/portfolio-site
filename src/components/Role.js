@@ -6,7 +6,7 @@ class Role extends React.Component {
   render() {
     return (
     <article className='dib w-100 ph3 pv2'>
-      <a href={this.props.link} target='blank' className="link pointer grow dt w-100 pb2 dim">
+      <a href={this.props.link} target='blank' className="link pointer dt w-100 pb2 dim">
         <div className="dtc"
         style={{
           width: '56px'
