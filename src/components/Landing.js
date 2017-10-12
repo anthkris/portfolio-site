@@ -9,13 +9,13 @@ class Landing extends React.Component {
       <div className='mw8 center db pt2'>
           <div className="dib v-top w-50-ns w-100 mt4-ns pa0-ns pa3 mw6 tl-ns tc ">
           <h1 className='fw5 f1 mb2'>Hello!</h1>
-          <h2 className='fw5' style={{lineHeight: '1.6'}}>
+          <h2 className='fw3' style={{lineHeight: '1.6'}}>
           I'm James a Product Designer working for
-          <a className='link hover-blue' target='blank' href='https://uvita.eu/'> Uvita </a>
+          <a className='link hover-red' target='blank' href='https://uvita.eu/'> Uvita </a>
           in Berlin. Previously at
-          <a className='link hover-blue' target='blank' href='https://crowdscores.com/'> CrowdScores</a>,
-          <a className='link hover-blue' target='blank' href='https://www.yunojuno.com/'> YunoJuno </a> &
-          <a className='link hover-blue' target='blank' href='https://quidco.com/'> Quico</a>
+          <a className='link hover-red' target='blank' href='https://crowdscores.com/'> CrowdScores</a>,
+          <a className='link hover-red' target='blank' href='https://www.yunojuno.com/'> YunoJuno </a> &
+          <a className='link hover-red' target='blank' href='https://quidco.com/'> Quico</a>.
           </h2>
 
 

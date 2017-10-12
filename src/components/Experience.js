@@ -18,7 +18,7 @@ class Experience extends React.Component {
     </div>
     <div className='dib w-third-ns w-100'>
     <Role jobTitle='Product designer' employer='Numilli' img='images/companies/numilli-icon.svg' link='http://numilli.surge.sh/'/>
-    <Role jobTitle='Product designer' employer='Suggestv' img='images/companies/suggestv-icon.svg' link='https://sugges.tv/'/>
+    <Role jobTitle='Product designer' employer='Suggestv' img='images/companies/suggestv-icon.svg' link='https://suggestv.io/'/>
 
     </div>
 

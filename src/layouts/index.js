@@ -10,10 +10,10 @@ const Header = () =>
    <nav className='w-100' >
     <div className='mw8 db center'>
         <div className="dt-l w-100 border-box pa3 ph0-l pt3">
-          <Link className="db dtc-l v-mid link dim tc tl-l mb2 mb0-l f4" to="/" title="Home">
+          <Link className="db dtc-l v-mid link hover-red tc tl-l mb2 mb0-l f4" to="/" title="Home">
           James Ciclitira</Link>
           <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
-            <a className="link dim dib mr3-ns mr0" target='blank' href="http://jimmmy.design/">Digital Résumé</a>
+            <a className="link dib mr3-ns mr0 hover-red" target='blank' href="http://jimmmy.design/">Digital Résumé</a>
           </div>
         </div>
         </div>
