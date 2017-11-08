@@ -23,7 +23,7 @@ class Experience extends React.Component {
     </div>
 
     <div className='dib w-third-ns w-100 v-top'>
-    <Role jobTitle='Product designer' employer='YunoJuno' img='images/companies/yunoJuno-icon.svg' link='https://yunojuno.com/'/>
+    <Role jobTitle='Product designer' employer='YunoJuno' img='images/companies/yunoJuno-icon.svg' link='https://www.yunojuno.com/'/>
     <Role jobTitle='Mobile designer' employer='Quidco' img='images/companies/quidco-icon.svg' link='https://quidco.com/'/>
 
     </div>
