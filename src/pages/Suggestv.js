@@ -15,10 +15,10 @@ job='UI/UX Research, Wireframing,  UI/UX Design & Front-end development'
 />
 <section className='mw8 center'>
   <div className='pv4 ma0  ph2'>
-  <img className='w-50' src='images/suggestv/usecase.png' />
-  <img className='w-50' src='images/suggestv/usecase2.png' />
-  <img className='w-50' src='images/suggestv/usecase3.png' />
-  <img className='w-50' src='images/suggestv/usecase4.png' />
+  <img className='w-50' alt='suggestv-wireframe' src='images/suggestv/usecase.png' />
+  <img className='w-50' alt='suggestv-wireframe' src='images/suggestv/usecase2.png' />
+  <img className='w-50' alt='suggestv-wireframe' src='images/suggestv/usecase3.png' />
+  <img className='w-50' alt='suggestv-wireframe' src='images/suggestv/usecase4.png' />
   </div>
   <h1 className='fw4 pv4 ma0 ph0-ns ph2'>Platform Design</h1>
   <CaseStudyImg img='images/suggestv/Search.png'/>

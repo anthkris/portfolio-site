@@ -16,13 +16,11 @@ class Landing extends React.Component {
           <a className='link hover-red' target='blank' href='https://www.yunojuno.com/'> YunoJuno </a> &
           <a className='link hover-red' target='blank' href='https://quidco.com/'> Quico</a>.
           </h2>
-
-
           <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6px'}} href="#form">Get in touch</a>
           <Social/>
         </div>
         <div className='w-50 dib-ns dn'>
-        <img className='w-70 ml5' src='images/app.svg'/>
+        <img className='w-70 ml5' alt='Mobile-illustration' src='images/app.svg'/>
    </div>
       </div>
 </section>

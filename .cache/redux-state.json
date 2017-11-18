@@ -266,7 +266,6 @@
       "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site",
       "packageJson": {
         "name": "gatsby-starter-default",
-        "description": "Gatsby default starter",
         "version": "1.0.0",
         "main": "n/a",
         "keywords": [
@@ -323,12 +322,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-11-07T05:53:07.413Z",
+      "buildTime": "2017-11-18T07:08:26.447Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "18441d987d82db4b806451add0d98f3b",
+        "contentDigest": "04719110a098f259da6605f5ec0f64bd",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -564,7 +563,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "89fc0314e062ec08c25cd44653bcc900"
+    "PLUGINS_HASH": "82108346108c0f164eeda0b6bdb1109c"
   },
   "componentDataDependencies": {
     "nodes": {},

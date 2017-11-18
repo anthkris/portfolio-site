@@ -10,12 +10,12 @@ class PlayTile extends React.Component {
   <a className='no-underline pv2' href={this.props.link} >
   <div className='center tile'>
   <div className='w-100 ph2 pt3 pb2'>
-  <img className='h1' src={this.props.type}/>
+  <img alt='Design-tool' className='h1' src={this.props.type}/>
   <h3 className='ma0 fw5 secondary-text pl2 dib'>{this.props.title}</h3>
 
   </div>
 <div className='pa2 dib relative'>
- <img className='hoverable' src={this.props.img} alt='Open source design'/>
+ <img className='hoverable' src={this.props.img} alt='Open-source-design'/>
   <div className='absolute download w-20' style={{left:'40%', top: '40%'}}>
   </div>
  </div>

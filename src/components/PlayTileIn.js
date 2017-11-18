@@ -10,7 +10,7 @@ class PlayTileIn extends React.Component {
 <Link className='no-underline' to={this.props.source}>
   <div className='center'>
   <div className='w-100 ph2 pt3 pb2'>
-  <img className='h1' src={this.props.type}/>
+  <img alt='Design-tool' className='h1' src={this.props.type}/>
   <h3 className='ma0 fw5 secondary-text pl2 dib'>{this.props.title}</h3>  </div>
 <div className='pa2 dib  relative'>
  <img className='hoverable' src={this.props.img} alt='Open source design'/>

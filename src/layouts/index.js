@@ -10,8 +10,7 @@ const Header = () =>
    <nav className='w-100' >
     <div className='mw8 db center'>
         <div className="dt-l w-100 border-box pa3 ph0-l pt3">
-          <Link className="db dtc-l v-mid link hover-red tc tl-l mb2 mb0-l f4" to="/" title="Home">
-          James Ciclitira</Link>
+          <Link className="db dtc-l v-mid link hover-red tc tl-l mb2 mb0-l f4" to="/" title="Home">James Ciclitira</Link>
           <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
             <a className="link dib mr3-ns mr0 hover-red" target='blank' href="http://jimmmy.design/">Digital Résumé</a>
           </div>
@@ -29,7 +28,6 @@ const TemplateWrapper = ({ children }) =>
         { rel: 'icon', sizes: '16x16', href: 'favicon/favicon-16x16.png'},
         ]}
       meta={[
-        { name: 'google-site-verification', content: 'PZ9byAh8GJ8FO13Xz9qhVr3ZgNl7zas3wHR4UYRXWxY' },
         { name: 'description', content: 'Digital Product Designer based in London. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web design' },
         { name: 'keywords', content: 'Digital Product Design, James Ciclitira, UI/UX, User Interface Design, User Experiences Design, London, Europe, HTML, CSS, React, iOS, Andriod, Mobile, Web, Sketch, Prototyping, Web development, Responsive Design, User Testing, Mobile Apps, Interaction Design, Front-end Development, Digital Product Design, Jimmy, Jimi, Tech' },
         { name: 'og:type', content: 'profile' },
@@ -48,8 +46,7 @@ const TemplateWrapper = ({ children }) =>
       ]}
     />
     <Header />
-    <div
-    >
+    <div>
       {children()}
     </div>
   </div>
