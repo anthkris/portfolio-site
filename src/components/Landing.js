@@ -1,5 +1,7 @@
 import React from 'react'
 import Social from './Social'
+import Phone from './Phone'
+
 
 class Landing extends React.Component {
   render() {
@@ -20,7 +22,8 @@ class Landing extends React.Component {
           <Social/>
         </div>
         <div className='w-50 dib-ns dn'>
-        <img className='w-70 ml5' alt='Mobile-illustration' src='images/app.svg'/>
+        <Phone/>
+
    </div>
       </div>
 </section>

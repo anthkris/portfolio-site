@@ -1,7 +1,7 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/dev-404-page.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/dev-404-page.js",
       "path": "/dev-404-page/",
       "componentChunkName": "component---cache-dev-404-page-js",
       "layout": "index",
@@ -9,24 +9,24 @@
       "internalComponentName": "ComponentDev404Page",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/.cache/dev-404-page.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e09d377783c0e6b1f87648c1012c5e39",
+        "contentDigest": "eacbe86f0aac5b1894b04e57768b7340",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -48,19 +48,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "52c50a9bdc670a2734f346c173aee1cf",
+        "contentDigest": "d0bbf13d191b5439487e1aeff03902bd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -82,19 +82,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7a1b5e408a6ffa4c43349669ad22df96",
+        "contentDigest": "9aa0ca466a84a1bbf56d076bd0022318",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -112,19 +112,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ae7fc2c791a77e4521c29f813be6cd4b",
+        "contentDigest": "1dad6087acdc7e0eae3c2d7b2ac4b89a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -142,19 +142,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "521c08101442dbb6de6e171acff6dc80",
+        "contentDigest": "3a5bd37f4c553b575c0b3da427e4aaa4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/prod-404",
       "name": "prod-404",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -172,19 +172,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "85f835fcfba419bbfcb8a5267fb9a34d",
+        "contentDigest": "c3889b5375ccfd6cd5d6f3ef1d1108d8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/query-runner",
       "name": "query-runner",
       "version": "1.0.0",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -202,19 +202,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c19e8a3162f822392a6b6280456f4fb9",
+        "contentDigest": "4a819279789df8f44467435c8a34a375",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "1.0.3",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Stub description for gatsby-plugin-react-helmet",
@@ -251,19 +251,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "823bf9fe1dc28a28503bdc4ea681bbd2",
+        "contentDigest": "69d718fde284ad9f4251e30c155a5d81",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site",
+      "resolve": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site",
       "name": "default-site-plugin",
       "version": "4492b3667245f2e293a43dee99bc333b",
       "pluginOptions": {
         "plugins": []
       },
-      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site",
+      "pluginFilepath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site",
       "packageJson": {
         "name": "gatsby-starter-default",
         "version": "1.0.0",
@@ -309,7 +309,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4ca7726807fe520ffeb6ed9f74b3fb56",
+        "contentDigest": "bbce5137fd460944f07e8efc2130545e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -322,241 +322,241 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-11-18T07:08:26.447Z",
+      "buildTime": "2017-12-28T08:41:05.139Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "04719110a098f259da6605f5ec0f64bd",
+        "contentDigest": "6437c8be6482d6c3116d9a0fb2743606",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /404/": {
       "path": "/404/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/404.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "layout": "index",
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/404.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "19cc9736d0e932b522831a9dff748485",
+        "contentDigest": "df3b11706cf6ff2144796b6d1440a66e",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /CrowdScores/": {
       "path": "/CrowdScores/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/CrowdScores.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/CrowdScores.js",
       "componentChunkName": "component---src-pages-crowd-scores-js",
       "layout": "index",
       "jsonName": "crowd-scores.json",
       "internalComponentName": "ComponentCrowdScores",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/CrowdScores.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/CrowdScores.js",
       "id": "SitePage /CrowdScores/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "befb4baee6513aeb48648a91565fffbf",
+        "contentDigest": "2a7dd7328de20dbaad42e8b052c6ca13",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /Gradient/": {
       "path": "/Gradient/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Gradient.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Gradient.js",
       "componentChunkName": "component---src-pages-gradient-js",
       "layout": "index",
       "jsonName": "gradient.json",
       "internalComponentName": "ComponentGradient",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Gradient.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Gradient.js",
       "id": "SitePage /Gradient/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5b6667897e2d1b10a27b05572899df68",
+        "contentDigest": "4920e79a998571eb0f3ab9934d2d2049",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /Numilli/": {
       "path": "/Numilli/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Numilli.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Numilli.js",
       "componentChunkName": "component---src-pages-numilli-js",
       "layout": "index",
       "jsonName": "numilli.json",
       "internalComponentName": "ComponentNumilli",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Numilli.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Numilli.js",
       "id": "SitePage /Numilli/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6c144553c735e0559cf25bcd1c2b0529",
+        "contentDigest": "fb47812da5deaf5a596b84d40c8671c3",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /Quidco/": {
       "path": "/Quidco/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Quidco.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Quidco.js",
       "componentChunkName": "component---src-pages-quidco-js",
       "layout": "index",
       "jsonName": "quidco.json",
       "internalComponentName": "ComponentQuidco",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Quidco.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Quidco.js",
       "id": "SitePage /Quidco/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7952feb49c57112bb95edf5f330c8490",
+        "contentDigest": "731cd158bf370245e8b2ebbda0b29e79",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /Suggestv/": {
       "path": "/Suggestv/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Suggestv.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js",
       "componentChunkName": "component---src-pages-suggestv-js",
       "layout": "index",
       "jsonName": "suggestv.json",
       "internalComponentName": "ComponentSuggestv",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Suggestv.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js",
       "id": "SitePage /Suggestv/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "682f5f4c118421b0c8a20e598220c772",
+        "contentDigest": "9d7c188180e6f07af75eafae2cf34204",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /Thanks/": {
       "path": "/Thanks/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thanks.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Thanks.js",
       "componentChunkName": "component---src-pages-thanks-js",
       "layout": "index",
       "jsonName": "thanks.json",
       "internalComponentName": "ComponentThanks",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Thanks.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Thanks.js",
       "id": "SitePage /Thanks/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "74c0f1afaf6b96c0f1845430b1b24a1b",
+        "contentDigest": "8d47f59d3ecd3015a065daec0ea46033",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /Weather/": {
       "path": "/Weather/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Weather.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Weather.js",
       "componentChunkName": "component---src-pages-weather-js",
       "layout": "index",
       "jsonName": "weather.json",
       "internalComponentName": "ComponentWeather",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Weather.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Weather.js",
       "id": "SitePage /Weather/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "734bf34d1ae7dddbd60d28e0471a0465",
+        "contentDigest": "edbeab612685025bb4cdcfaea886268f",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /Yunojuno/": {
       "path": "/Yunojuno/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Yunojuno.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Yunojuno.js",
       "componentChunkName": "component---src-pages-yunojuno-js",
       "layout": "index",
       "jsonName": "yunojuno.json",
       "internalComponentName": "ComponentYunojuno",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/Yunojuno.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Yunojuno.js",
       "id": "SitePage /Yunojuno/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9798d2496b12d920fdec900969848682",
+        "contentDigest": "a1bece8abdba20bad11f6b0bd6322e23",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /": {
       "path": "/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/index.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "layout": "index",
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/index.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a93999299465243824b0eed45acd15a4",
+        "contentDigest": "d3a39151e8140f7eb5417ac9f1412ad6",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /page-2/": {
       "path": "/page-2/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/page-2.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "layout": "index",
       "jsonName": "page-2.json",
       "internalComponentName": "ComponentPage2",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/page-2.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a776274252c4985865931525e6b7a3a2",
+        "contentDigest": "554f97e991c8a6c2542b27797fe2908e",
         "owner": "internal-data-bridge"
       }
     },
     "SitePage /404.html": {
       "path": "/404.html",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/404.js",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "layout": "index",
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/Portfolio-site/src/pages/404.js",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fe11a5e6eba615d873e738fd05ba2edb",
+        "contentDigest": "55537fb16695ab7946717df399252617",
         "owner": "internal-data-bridge"
       }
     }
