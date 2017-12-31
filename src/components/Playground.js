@@ -1,15 +1,13 @@
 import React from 'react'
 import PlayTile from './PlayTile'
 import PlayTileIn from './PlayTileIn'
-import Title from './Title'
-
 
 class Playground extends React.Component {
   render() {
     return (
-<section className="center mw8 mt4 db ph0-ns ph2">
-<Title text='Freebies'/>
-<p className=' ma0 pa0 fw5 secondary-text'>Collection of open source projects, UI kits and assets available for download</p>
+<section>
+<h1 className='fw4 mt5'>Freebies</h1>
+<p className='ma0 pa0 fw5 secondary-text'>Collection of open source projects, UI kits and assets available for download</p>
 <div className='pt3 db'>
 <PlayTile  title='Résumé template' type='images/tools/js.svg' img='images/preview/cv.svg' link='https://github.com/james-ciclitira/resume'/>
 <PlayTileIn  title='CSS gradient' type='images/tools/css.svg' img='images/preview/gradient.svg' source='Gradient'/>

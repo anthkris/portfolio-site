@@ -132,15 +132,7 @@ class GradientPage extends React.Component {
     }
   render() {
     return (
-    <div className='pt5'>
-    <div className='mw7 db center'>
-    <div>
-    <h2 className='dib ml2 code'>CSS Gradients</h2>
-    <a className='fr mt3 pt1 mr3' download href='http://jciclitira.com/sketch-files/gradient.sketch' >
-    <img className='h1 dib' src='/assets/images/tools/sketch.svg' alt='Sketch icon'/>
-    <h4 className='dib v-top ma0 pl3 code'>Sketch download</h4>
-    </a>
-    </div>
+    <div className='mt4'>
     <GradientCard title='Tangelo' gradient='Tangelo' clicked={() => this.copyCSS(Tangelo)} />
     <GradientCard title='Phlox' gradient='Phlox' clicked={() => this.copyCSS(Phlox)}/>
     <GradientCard title='Crimson' gradient='Crimson' clicked={() => this.copyCSS(Crimson)}/>
@@ -156,7 +148,6 @@ class GradientPage extends React.Component {
     <span className={`fixed white bottom-1 left-1 pv2 ph3 br2 animated ${this.state.showNotification ? 'fadeIn' : 'fadeOut'}`}
     style={{backgroundColor: '#333333', bottom: this.state.showNotification ? '16px' : '-72px'}}
     >CSS copied to clipboard</span>
-    </div>
     </div>
     )
   }

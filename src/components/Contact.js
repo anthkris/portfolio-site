@@ -6,13 +6,15 @@ class Contact extends React.Component {
   render() {
 
     return (
-<section className='mw8 db ph3 center mt6 bg-transparent' id='form'>
+<section className='center mt6 bg-transparent' id='form'>
 <h2 className='fw4 mb5 pt5'>Get in touch</h2>
-<form     name="contact"
-          method="post"
-          action="/thanks/"
-          data-netlify="true"
-          data-netlify-honeypot="bot-field">
+  <form
+  name="contact"
+  method="post"
+  action="/thanks/"
+  data-netlify="true"
+  data-netlify-honeypot="bot-field"
+  >
     <input type="hidden" name="form-name" value="contact"/>
     <p hidden><label>Don’t fill this out:<input name="bot-field"/></label></p>
     <TextInput type='name' name='email' label='Name'/>

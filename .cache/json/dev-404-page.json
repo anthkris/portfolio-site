@@ -5,12 +5,12 @@
             "edges": [
                 {
                     "node": {
-                        "path": "/404/"
+                        "path": "/CrowdScores/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/CrowdScores/"
+                        "path": "/404/"
                     }
                 },
                 {
@@ -30,12 +30,12 @@
                 },
                 {
                     "node": {
-                        "path": "/Suggestv/"
+                        "path": "/Thanks/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/Thanks/"
+                        "path": "/Suggestv/"
                     }
                 },
                 {

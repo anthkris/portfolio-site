@@ -322,32 +322,13 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-31T10:26:14.541Z",
+      "buildTime": "2017-12-31T14:23:37.786Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "74c854b6b17ebf2cc119127d61020abe",
+        "contentDigest": "8d2a0cb6cfa57433eedf5d0b09a2d742",
         "type": "Site",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "path": "/404/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "df3b11706cf6ff2144796b6d1440a66e",
         "owner": "internal-data-bridge"
       }
     },
@@ -367,6 +348,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "2a7dd7328de20dbaad42e8b052c6ca13",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "path": "/404/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "df3b11706cf6ff2144796b6d1440a66e",
         "owner": "internal-data-bridge"
       }
     },
@@ -427,25 +427,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Suggestv/": {
-      "path": "/Suggestv/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js",
-      "componentChunkName": "component---src-pages-suggestv-js",
-      "layout": "index",
-      "jsonName": "suggestv.json",
-      "internalComponentName": "ComponentSuggestv",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js",
-      "id": "SitePage /Suggestv/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9d7c188180e6f07af75eafae2cf34204",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /Thanks/": {
       "path": "/Thanks/",
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Thanks.js",
@@ -462,6 +443,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "8d47f59d3ecd3015a065daec0ea46033",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Suggestv/": {
+      "path": "/Suggestv/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js",
+      "componentChunkName": "component---src-pages-suggestv-js",
+      "layout": "index",
+      "jsonName": "suggestv.json",
+      "internalComponentName": "ComponentSuggestv",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js",
+      "id": "SitePage /Suggestv/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9d7c188180e6f07af75eafae2cf34204",
         "owner": "internal-data-bridge"
       }
     },
