@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
 
-
 class CaseStudyAbout extends React.Component {
   render() {
     return (
@@ -26,6 +25,7 @@ class CaseStudyAbout extends React.Component {
     )
   }
 }
+
 CaseStudyAbout.propTypes = {
   about: PropTypes.string.isRequired,
   role: PropTypes.string.isRequired,

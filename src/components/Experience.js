@@ -2,8 +2,6 @@ import React from 'react'
 import Role from './Role'
 import Title from './Title'
 
-
-
 class Experience extends React.Component {
   render() {
     return (

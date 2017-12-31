@@ -4,7 +4,6 @@ import PlayTileIn from './PlayTileIn'
 import Title from './Title'
 
 
-
 class Playground extends React.Component {
   render() {
     return (

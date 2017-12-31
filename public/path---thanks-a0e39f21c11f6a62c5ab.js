@@ -1,0 +1,2 @@
+webpackJsonp([0xd060d772e5e06000],{"./node_modules/json-loader/index.js!./.cache/json/thanks.json":function(e,n){e.exports={pathContext:{}}}});
+//# sourceMappingURL=path---thanks-a0e39f21c11f6a62c5ab.js.map

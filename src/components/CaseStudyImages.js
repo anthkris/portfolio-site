@@ -12,6 +12,7 @@ class CaseStudyImages extends React.Component {
     )
   }
 }
+
 CaseStudyImages.propTypes = {
   img: PropTypes.string.isRequired,
 };

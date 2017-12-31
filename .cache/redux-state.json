@@ -322,12 +322,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-31T09:13:01.974Z",
+      "buildTime": "2017-12-31T09:45:33.516Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "20ba6c19212331f190c2d86a4c6b8a5f",
+        "contentDigest": "c5301fb3ed3565516d1d4fe93448a848",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
