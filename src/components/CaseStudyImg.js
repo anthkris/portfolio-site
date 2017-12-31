@@ -6,7 +6,7 @@ class CaseStudyImg extends React.Component {
     return (
    <div className='w-50-ns w-100 dib'>
     <div className='pv3-ns pv2 ph3'>
-      <img className=' hoverable' src={this.props.img} alt='Suggestv-sematic video'/>
+      <img className='hoverable' src={this.props.img} alt='Suggestv-sematic video'/>
    </div>
    </div>
     )

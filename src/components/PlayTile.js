@@ -10,7 +10,7 @@ class PlayTile extends React.Component {
   <div className='center tile'>
   <div className='w-100 pt3 pb2'>
   <img alt='Design-tool' className='h1' src={this.props.type}/>
-  <h3 className='ma0 fw5 secondary-text pl2 dib'>{this.props.title}</h3>
+  <h3 className='ma0 fw3 secondary-text pl2 dib'>{this.props.title}</h3>
 
   </div>
 <div className='pv2 dib relative'>
