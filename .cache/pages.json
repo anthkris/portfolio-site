@@ -42,18 +42,18 @@
         "path": "/Quidco/"
     },
     {
-        "componentChunkName": "component---src-pages-thanks-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "thanks.json",
-        "path": "/Thanks/"
-    },
-    {
         "componentChunkName": "component---src-pages-suggestv-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "suggestv.json",
         "path": "/Suggestv/"
+    },
+    {
+        "componentChunkName": "component---src-pages-thanks-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "thanks.json",
+        "path": "/Thanks/"
     },
     {
         "componentChunkName": "component---src-pages-weather-js",
