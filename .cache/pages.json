@@ -1,5 +1,12 @@
 [
     {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
+    },
+    {
         "componentChunkName": "component---src-pages-404-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -7,18 +14,18 @@
         "path": "/404/"
     },
     {
-        "componentChunkName": "component---src-pages-crowd-scores-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "crowd-scores.json",
-        "path": "/CrowdScores/"
-    },
-    {
         "componentChunkName": "component---src-pages-gradient-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "gradient.json",
         "path": "/Gradient/"
+    },
+    {
+        "componentChunkName": "component---src-pages-crowd-scores-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "crowd-scores.json",
+        "path": "/CrowdScores/"
     },
     {
         "componentChunkName": "component---src-pages-numilli-js",

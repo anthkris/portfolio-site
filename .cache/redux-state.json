@@ -1,13 +1,21 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/dev-404-page.js",
       "path": "/dev-404-page/",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "eacbe86f0aac5b1894b04e57768b7340",
         "owner": "internal-data-bridge"
       }
     },
@@ -310,14 +318,16 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-31T09:56:15.903Z",
+      "buildTime": "2017-12-31T10:09:16.172Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6c17ac3035e89acde7608d87b8216b12",
+        "contentDigest": "174a1220f6861f6e7642aff966727f9f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -341,25 +351,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /CrowdScores/": {
-      "path": "/CrowdScores/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/CrowdScores.js",
-      "componentChunkName": "component---src-pages-crowd-scores-js",
-      "layout": "index",
-      "jsonName": "crowd-scores.json",
-      "internalComponentName": "ComponentCrowdScores",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/CrowdScores.js",
-      "id": "SitePage /CrowdScores/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2a7dd7328de20dbaad42e8b052c6ca13",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /Gradient/": {
       "path": "/Gradient/",
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Gradient.js",
@@ -376,6 +367,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "4920e79a998571eb0f3ab9934d2d2049",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /CrowdScores/": {
+      "path": "/CrowdScores/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/CrowdScores.js",
+      "componentChunkName": "component---src-pages-crowd-scores-js",
+      "layout": "index",
+      "jsonName": "crowd-scores.json",
+      "internalComponentName": "ComponentCrowdScores",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/CrowdScores.js",
+      "id": "SitePage /CrowdScores/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2a7dd7328de20dbaad42e8b052c6ca13",
         "owner": "internal-data-bridge"
       }
     },

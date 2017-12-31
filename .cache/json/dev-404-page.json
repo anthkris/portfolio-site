@@ -10,12 +10,12 @@
                 },
                 {
                     "node": {
-                        "path": "/CrowdScores/"
+                        "path": "/Gradient/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/Gradient/"
+                        "path": "/CrowdScores/"
                     }
                 },
                 {
