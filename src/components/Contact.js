@@ -7,7 +7,7 @@ class Contact extends React.Component {
 
     return (
 <section className='center mt6 bg-transparent' id='form'>
-<h2 className='fw4 mb5 pt5'>Get in touch</h2>
+<h2 className='fw3 mb5 pt5'>Get in touch</h2>
   <form
   name="contact"
   method="post"

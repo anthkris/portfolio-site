@@ -5,8 +5,8 @@ class Experience extends React.Component {
   render() {
     return (
 <section>
-<div className="mw8 db-ns dn center ph2 mt4">
-    <h1 className='fw4'>Experience</h1>
+<div className="db-ns dn center mt4">
+    <h1 className='fw3'>Experience</h1>
     <div className='pt3 ph2'>
     <div className='dib w-third-ns w-100'>
     <Role jobTitle='Product designer' employer='CrowdScores' img='images/companies/crowdscores-icon.svg' link='https://crowdscores.com/'/>

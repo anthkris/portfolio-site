@@ -15,10 +15,8 @@ class Role extends React.Component {
         src={this.props.img} alt='Company logo'/>
         </div>
         <div className="dtc ph3 v-top">
-        <p className="lh-title mv0">{this.props.jobTitle}</p>
-        <p className="mt1 mb0 secondary-text">{this.props.employer}</p>
-        <p className="f7 mt2 secondary-text">{this.props.length}</p>
-
+        <p className="lh-title mv0 fw4">{this.props.jobTitle}</p>
+        <p className="mt1 mb0 fw3 secondary-text">{this.props.employer}</p>
         </div>
       </a>
     </article>
@@ -31,7 +29,6 @@ Role.propTypes = {
   img: PropTypes.string.isRequired,
   jobTitle: PropTypes.string.isRequired,
   employer: PropTypes.string.isRequired,
-  length: PropTypes.string.isRequired,
 };
 
 export default Role
