@@ -7,8 +7,7 @@
     "gatsby": "^1.8.12",
     "gatsby-link": "^1.6.8",
     "gatsby-plugin-react-helmet": "^1.0.3",
-    "react-forecast": "0.0.7",
-    "underscore": "./node_modules/backbone/node_modules/underscore",
+    "react-forecast": "0.0.7"
   },
   "keywords": [
     "gatsby"
@@ -23,6 +22,5 @@
   },
   "devDependencies": {
     "prettier": "^1.5.2"
-
   }
 }

@@ -322,12 +322,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-31T10:09:16.172Z",
+      "buildTime": "2017-12-31T10:18:37.891Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "174a1220f6861f6e7642aff966727f9f",
+        "contentDigest": "eaa397f61b7a9589fd59bf5bf138dc6f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -351,25 +351,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Gradient/": {
-      "path": "/Gradient/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Gradient.js",
-      "componentChunkName": "component---src-pages-gradient-js",
-      "layout": "index",
-      "jsonName": "gradient.json",
-      "internalComponentName": "ComponentGradient",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Gradient.js",
-      "id": "SitePage /Gradient/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4920e79a998571eb0f3ab9934d2d2049",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /CrowdScores/": {
       "path": "/CrowdScores/",
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/CrowdScores.js",
@@ -386,6 +367,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "2a7dd7328de20dbaad42e8b052c6ca13",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Gradient/": {
+      "path": "/Gradient/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Gradient.js",
+      "componentChunkName": "component---src-pages-gradient-js",
+      "layout": "index",
+      "jsonName": "gradient.json",
+      "internalComponentName": "ComponentGradient",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Gradient.js",
+      "id": "SitePage /Gradient/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4920e79a998571eb0f3ab9934d2d2049",
         "owner": "internal-data-bridge"
       }
     },
