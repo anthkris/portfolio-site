@@ -3,7 +3,6 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js")),
   "component---src-pages-crowd-scores-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/CrowdScores.js")),
   "component---src-pages-gradient-js": preferDefault(require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Gradient.js")),
@@ -18,8 +17,6 @@ exports.components = {
 }
 
 exports.json = {
-  "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
-  "dev-404-page.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/dev-404-page.json"),
   "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
   "404.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/404.json"),
   "layout-index.json": require("/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),

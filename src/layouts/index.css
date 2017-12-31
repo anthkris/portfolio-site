@@ -3,13 +3,10 @@ img:not([alt]) {
   border: 5px dashed pink;
 }
 
-
 .DropShadow {
     -webkit-filter: drop-shadow( 0px 4px 32px  rgba(0, 0, 0, 0.12));
       filter: drop-shadow( 0px 4px 32px rgba(0, 0, 0, 0.12) );
 }
-
-
 
 .TextInput p {
   margin: 0;

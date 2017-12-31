@@ -1,2 +1,0 @@
-webpackJsonp([205887395960661e4],{"./node_modules/json-loader/index.js!./.cache/json/gradient.json":function(e,n){e.exports={pathContext:{}}}});
-//# sourceMappingURL=path---gradient-a0e39f21c11f6a62c5ab.js.map
