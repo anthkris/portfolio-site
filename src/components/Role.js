@@ -5,11 +5,11 @@ import PropTypes from 'prop-types';
 class Role extends React.Component {
   render() {
     return (
-    <article className='w-100 ph3 pv2'>
+    <article className='w-100 pv2 fl'>
       <a href={this.props.link} target='blank' className="link pointer dt w-100 pb2">
         <div className="dtc"
         style={{
-          width: '56px'
+          width: '50px'
               }}>
       <img className='db w-100 grow'
         src={this.props.img} alt='Company logo'/>

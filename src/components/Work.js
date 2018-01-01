@@ -15,8 +15,8 @@ class Work extends React.Component {
         <WorkTileOut title='Numilli' info='Progressive Web App' summary='Web app showing the bitcoin ATM locations - under development' img='images/preview/numilli-site.jpg' link='http://numilli.surge.sh/'/>
         <WorkTile title='QuidCo' info='Mobile application' summary='Quidco is the number one cashback service. Partnering with retailers to help consumers earn cashback every year.' img='images/preview/quidco.jpg' link='Quidco'/>
         <h1 className='fw3'>Personal projects</h1>
-        <WorkTileOut title='Deliverate.co.uk' info='React web app' summary='Front-end for a Delivery rating web app showing the top-rated takeaways in your local area.' img='images/preview/deliverate.svg' link='http://deliverate.co.uk/'/>
-        <WorkTileOut title='Working-out.design' info='React CMS' summary='Collection of the best free co-working spots in London. Why not submit a location?' img='images/preview/working-out.svg' link='https://working-out.design/'/>
+        <WorkTileOut title='Deliverate.co.uk' info='Web application' summary='Front-end for a Delivery rating web app showing the top-rated takeaways in your local area.' img='images/preview/deliverate.svg' link='http://deliverate.co.uk/'/>
+        <WorkTileOut title='Working-out.design' info='Content management system' summary='Collection of the best free co-working spots in London. Why not submit a location?' img='images/preview/working-out.svg' link='https://working-out.design/'/>
     </section>
     )
   }
