@@ -1,5 +1,4 @@
 import React from "react"
-import ForecastPlug from '../components/ForecastPlug.js'
 import WeatherTile from '../components/WeatherTile.js'
 
 const Weather = () =>
