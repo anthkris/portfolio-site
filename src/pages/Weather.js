@@ -12,7 +12,6 @@ const Weather = () =>
     <h4 className='dib v-top ma0 pl3 code'>Sketch download</h4>
     </a>
     </div>
-    <ForecastPlug/>
     <WeatherTile weather='images/weather/weather-icon-1.svg'/>
     <WeatherTile weather='images/weather/weather-icon-2.svg'/>
     <WeatherTile weather='images/weather/weather-icon-3.svg'/>
