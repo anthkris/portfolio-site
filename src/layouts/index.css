@@ -65,7 +65,7 @@ a {
 }
 
 .neon {
-  background-color: #0ADFCE
+  background-color: #07D3C3
 }
 
 button,
@@ -2197,6 +2197,12 @@ code {
 .hover-red:hover {
   color: #ff4136;
 }
+
+.hover-neon:focus,
+.hover-neon:hover {
+  color: #05C6B6;
+}
+
 
 .hover-light-red:focus,
 .hover-light-red:hover {

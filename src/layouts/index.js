@@ -8,10 +8,10 @@ import './index.css'
 const Header = () =>
 
    <nav className='mw8 db center' >
-        <div className="dt-l w-100 border-box pa3">
-          <Link className="db dtc-l v-mid link hover-red tc tl-l mb2 mb0-l f4 fw3" to="/" title="Home">James Ciclitira</Link>
+        <div className="dt-l w-100 border-box pa3 pt4">
+          <Link className="db dtc-l v-mid link hover-neon tc tl-l mb0-l mb2 f6 ttu" to="/" title="Home">James Ciclitira</Link>
           <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
-            <a className="link dib mr3-l mr0 hover-red fw3" target='blank' href="https://jimmmy.design/">Digital Résumé</a>
+            <a className="link dib mr3-l mr0 hover-neon f6 ttu" target='blank' href="https://jimmmy.design/">Digital Résumé</a>
           </div>
         </div>
       </nav>
