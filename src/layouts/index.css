@@ -48,10 +48,6 @@ input {
   top: -10px;
 }
 
-html {
-  font-family: 'EuclidCircularATrial-Medium';
-}
-
 p {
   line-height: 1.5
 }
@@ -114,7 +110,7 @@ textarea {
 }
 
 ::selection {
-  background: #000;
+  background: #07D3C3;
   color: #fff
 }
 
