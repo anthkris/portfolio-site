@@ -324,7 +324,7 @@ progress {
 
 @font-face {
     font-family: EuclidFlex;
-    src: url(/font/EuclidFlex-Regular.otf) format('otf');
+    src: url(font/EuclidFlex-Regular.otf) format('opentype');
 }
 
 html {
