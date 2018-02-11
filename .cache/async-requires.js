@@ -2,7 +2,6 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
-  "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/dev-404-page.js"),
   "component---src-pages-404-js": require("gatsby-module-loader?name=component---src-pages-404-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js"),
   "component---src-pages-crowd-scores-js": require("gatsby-module-loader?name=component---src-pages-crowd-scores-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/CrowdScores.js"),
   "component---src-pages-gradient-js": require("gatsby-module-loader?name=component---src-pages-gradient-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Gradient.js"),
@@ -10,15 +9,13 @@ exports.components = {
   "component---src-pages-quidco-js": require("gatsby-module-loader?name=component---src-pages-quidco-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Quidco.js"),
   "component---src-pages-suggestv-js": require("gatsby-module-loader?name=component---src-pages-suggestv-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js"),
   "component---src-pages-thanks-js": require("gatsby-module-loader?name=component---src-pages-thanks-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Thanks.js"),
-  "component---src-pages-weather-js": require("gatsby-module-loader?name=component---src-pages-weather-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Weather.js"),
   "component---src-pages-yunojuno-js": require("gatsby-module-loader?name=component---src-pages-yunojuno-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Yunojuno.js"),
+  "component---src-pages-weather-js": require("gatsby-module-loader?name=component---src-pages-weather-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Weather.js"),
   "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/index.js"),
   "component---src-pages-page-2-js": require("gatsby-module-loader?name=component---src-pages-page-2-js!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/page-2.js")
 }
 
 exports.json = {
-  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
-  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/dev-404-page.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
   "404.json": require("gatsby-module-loader?name=path---404!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/404.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
@@ -34,9 +31,9 @@ exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
   "thanks.json": require("gatsby-module-loader?name=path---thanks!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/thanks.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
-  "weather.json": require("gatsby-module-loader?name=path---weather!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/weather.json"),
-  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
   "yunojuno.json": require("gatsby-module-loader?name=path---yunojuno!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/yunojuno.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
+  "weather.json": require("gatsby-module-loader?name=path---weather!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/weather.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/index.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/json/layout-index.json"),
