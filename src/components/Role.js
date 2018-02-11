@@ -16,7 +16,7 @@ class Role extends React.Component {
         </div>
         <div className="dtc ph3 v-top">
         <p className="lh-title mv0 fw4">{this.props.jobTitle}</p>
-        <p className="mt1 mb0 fw3 secondary-text">{this.props.employer}</p>
+        <p className="mt1 mb0 f6 secondary-text">{this.props.employer}</p>
         </div>
       </a>
     </article>

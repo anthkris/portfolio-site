@@ -4,8 +4,8 @@ img:not([alt]) {
 }
 
 .DropShadow {
-    -webkit-filter: drop-shadow( 0px 4px 32px  rgba(0, 0, 0, 0.12));
-      filter: drop-shadow( 0px 4px 32px rgba(0, 0, 0, 0.12) );
+  -webkit-filter: drop-shadow( 0px 4px 32px rgba(0, 0, 0, 0.12));
+  filter: drop-shadow( 0px 4px 32px rgba(0, 0, 0, 0.12));
 }
 
 .TextInput p {
@@ -48,13 +48,13 @@ input {
   top: -10px;
 }
 
-@fontface {
-  font-family: 'Lato', sans-serif;
-  src: url('https://fonts.googleapis.com/css?family=Lato:400,700')
+html {
+  font-family: 'EuclidCircularATrial-Medium';
 }
 
+
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'EuclidCircularATrial-Medium', ;
 }
 
 p {
@@ -70,7 +70,7 @@ a {
 }
 
 .neon {
-  color: #00F3B1
+  background-color: #00CCBC
 }
 
 button,
@@ -102,11 +102,12 @@ body {
   padding: 0;
   overflow-x: hidden;
   margin: 0;
+/**/
 }
 
 a,
 body {
-  color: #3B465C
+  color: #1e2022
 }
 
 input,
@@ -122,8 +123,9 @@ textarea {
   color: #fff
 }
 
+
 .secondary-text {
-  color: rgba(0, 0, 0, .54)
+  color: #81909a
 }
 
 .hint-text {
@@ -324,8 +326,14 @@ progress {
   background-repeat: no-repeat
 }
 
+
+@font-face {
+    font-family: EuclidFlex;
+    src: url(EuclidFlex-Regular.otf);
+}
+
 html {
-  font-family: sans-serif;
+  font-family: EuclidFlex;
   line-height: 1.15;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%
