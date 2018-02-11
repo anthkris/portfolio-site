@@ -52,11 +52,6 @@ html {
   font-family: 'EuclidCircularATrial-Medium';
 }
 
-
-body {
-  font-family: 'EuclidCircularATrial-Medium', ;
-}
-
 p {
   line-height: 1.5
 }
@@ -329,7 +324,7 @@ progress {
 
 @font-face {
     font-family: EuclidFlex;
-    src: url(EuclidFlex-Regular.otf);
+    src: url(/font/EuclidFlex-Regular.otf) format('otf');
 }
 
 html {
