@@ -6,7 +6,7 @@ class Landing extends React.Component {
     return (
   <section >
           <div className="dib v-top w-80-ns w-100 mt4-ns pa0 tl-ns tc vh-100">
-          <h2 className='f2-ns pt2 f3' style={{lineHeight: '1.4'}}>Hello! <br /> I'm a Product Designer based in Berlin, creating meaningful digital experiences with a focus on user-centred design.</h2>
+          <h2 className='f2-ns pt2 f3' style={{lineHeight: '1.2'}}>Hello! <br /> I'm a Product Designer based in Berlin, creating meaningful digital experiences with a focus on user-centred design.</h2>
           <a className="f6 grow no-underline ph4 pv3 dib neon white mt3" style={{borderRadius:'6px'}} href="#form">Get in touch</a>
           <Social/>
           </div>

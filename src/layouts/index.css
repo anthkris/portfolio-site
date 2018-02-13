@@ -93,7 +93,7 @@ body {
   padding: 0;
   overflow-x: hidden;
   margin: 0;
-/**/
+  /**/
 }
 
 a,
@@ -319,15 +319,17 @@ progress {
 
 
 @font-face {
-    font-family: EuclidFlex;
-    src: url(EuclidFlex-Regular.otf) format('opentype');
+  font-family: EuclidFlex;
+  src: url(EuclidFlex-Regular.otf) format('opentype');
 }
 
 html {
   font-family: EuclidFlex;
+  font-variation-settings: "XHGT" 0.7;
   line-height: 1.15;
   -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%
+  -webkit-text-size-adjust: 100%;
+  font-feature-settings: "ss04";
 }
 
 article,
