@@ -63,6 +63,10 @@ a {
 .neon {
   background-color: #07D3C3
 }
+.accent {
+  color: #07D3C3
+}
+
 
 button,
 hr,
@@ -139,9 +143,6 @@ textarea {
   background-color: #EC407A
 }
 
-.accent {
-  color: #EC407A
-}
 
 .bg {
   background-color: #F9F8FD
