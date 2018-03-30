@@ -12,7 +12,7 @@ class Landing extends React.Component {
           <h3 className='mt4 fw1 font-1 pr5-ns pr0' style={{lineHeight: '1.8' }}>Hi I'm James a product desinger based in berlin, creating meaningful digital experiences with a focus on user-centred design.</h3>
           <Social/>
           </div>
-    <div className='dib-ns dn w-40 mt5'><img className=' mr2 mt4' alt='iphone-header' src='images/iphone.png'/></div>
+    <div className='dib-ns dn w-40 mt5'><img className=' mt4' alt='iphone-header' src='images/iphone.png'/></div>
 
           </div>
 </section>
