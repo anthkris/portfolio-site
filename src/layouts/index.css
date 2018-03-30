@@ -331,6 +331,12 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   font-feature-settings: "ss04";
+  background-color: #FCFCFC;
+}
+
+
+.font-1 {
+    font-feature-settings: "ss00";
 }
 
 article,
@@ -7575,7 +7581,7 @@ code {
   }
   .f-5-l,
   .f-subheadline-l {
-    font-size: 5rem
+    font-size: 4rem
   }
   .f1-l {
     font-size: 3rem
