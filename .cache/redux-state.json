@@ -8,7 +8,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1522402846670,
+      "updatedAt": 1522665026965,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "08edfed7a97509768246bbd8629ba53d",
+        "contentDigest": "2f2c5af566ebff5396dd4d3cb7018a96",
         "owner": "internal-data-bridge"
       }
     },
@@ -347,12 +347,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-03-30T09:40:43.656Z",
+      "buildTime": "2018-04-02T10:30:23.023Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "658fb2f41937c65b6bb145e4dfb2fcca",
+        "contentDigest": "7cd1f0af77a32265fac5e1a6040c145a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -365,7 +365,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1522402846694,
+      "updatedAt": 1522665026973,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
@@ -374,7 +374,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "93c1cb3fb524f6ccda8c9f46492e6d6f",
+        "contentDigest": "edd582f888516919bc8a972f7b7acc80",
         "owner": "internal-data-bridge"
       }
     },
@@ -386,7 +386,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/CrowdScores.js",
       "componentChunkName": "component---src-pages-crowd-scores-js",
       "context": {},
-      "updatedAt": 1522402846695,
+      "updatedAt": 1522665026974,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/CrowdScores.js",
@@ -395,7 +395,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2550e2da1dbf4a4ba02ded98e77d5f61",
+        "contentDigest": "7a5f038a40ea6ba38133b6d931bbf668",
         "owner": "internal-data-bridge"
       }
     },
@@ -407,7 +407,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Gradient.js",
       "componentChunkName": "component---src-pages-gradient-js",
       "context": {},
-      "updatedAt": 1522402846696,
+      "updatedAt": 1522665026974,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Gradient.js",
@@ -416,7 +416,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5e3779f291dc9e1b80aee5ea3be1d148",
+        "contentDigest": "92520ab4f385b11b8de7813500a6b78c",
         "owner": "internal-data-bridge"
       }
     },
@@ -428,7 +428,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Numilli.js",
       "componentChunkName": "component---src-pages-numilli-js",
       "context": {},
-      "updatedAt": 1522402846697,
+      "updatedAt": 1522665026976,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Numilli.js",
@@ -437,28 +437,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c80e7bbc7b5d62257711d6612a32a722",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Suggestv/": {
-      "layout": "index",
-      "jsonName": "suggestv.json",
-      "internalComponentName": "ComponentSuggestv",
-      "path": "/Suggestv/",
-      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js",
-      "componentChunkName": "component---src-pages-suggestv-js",
-      "context": {},
-      "updatedAt": 1522402846698,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js",
-      "id": "SitePage /Suggestv/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "2fca83dad7ece08972704dfee92e59df",
+        "contentDigest": "a2471bdc08cf51adc2985dd3dab96dd0",
         "owner": "internal-data-bridge"
       }
     },
@@ -470,7 +449,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Quidco.js",
       "componentChunkName": "component---src-pages-quidco-js",
       "context": {},
-      "updatedAt": 1522402846700,
+      "updatedAt": 1522665026979,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Quidco.js",
@@ -479,7 +458,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b5b947cab8166214e6ad9ebba7f5c3e3",
+        "contentDigest": "abef97465ca0d5bc1b716ac3032712f1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Suggestv/": {
+      "layout": "index",
+      "jsonName": "suggestv.json",
+      "internalComponentName": "ComponentSuggestv",
+      "path": "/Suggestv/",
+      "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js",
+      "componentChunkName": "component---src-pages-suggestv-js",
+      "context": {},
+      "updatedAt": 1522665026981,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Suggestv.js",
+      "id": "SitePage /Suggestv/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e20a73b1880f85a44e08a58094705694",
         "owner": "internal-data-bridge"
       }
     },
@@ -491,7 +491,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Thanks.js",
       "componentChunkName": "component---src-pages-thanks-js",
       "context": {},
-      "updatedAt": 1522402846705,
+      "updatedAt": 1522665026982,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Thanks.js",
@@ -500,7 +500,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "169ca777c5f42b07ea8125a97f6d3c8d",
+        "contentDigest": "7ae006fb92749b6abc30603271419082",
         "owner": "internal-data-bridge"
       }
     },
@@ -512,7 +512,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Weather.js",
       "componentChunkName": "component---src-pages-weather-js",
       "context": {},
-      "updatedAt": 1522402846706,
+      "updatedAt": 1522665026983,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Weather.js",
@@ -521,7 +521,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "378c4fcde6ae5222dae52c8111f034a7",
+        "contentDigest": "0a5cb7f61fb571224d4509a2e2a87de6",
         "owner": "internal-data-bridge"
       }
     },
@@ -533,7 +533,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Yunojuno.js",
       "componentChunkName": "component---src-pages-yunojuno-js",
       "context": {},
-      "updatedAt": 1522402846707,
+      "updatedAt": 1522665026983,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/Yunojuno.js",
@@ -542,7 +542,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "95d99bd6469183f2404bd0f46d965631",
+        "contentDigest": "f35beaf0033e949749fff4321c8c3e0c",
         "owner": "internal-data-bridge"
       }
     },
@@ -554,7 +554,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1522402846708,
+      "updatedAt": 1522665026985,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/index.js",
@@ -563,7 +563,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "533123741fbee436c915a6e8f08bc887",
+        "contentDigest": "9e5b6f522d6a18aad77f8fe58e551b9f",
         "owner": "internal-data-bridge"
       }
     },
@@ -575,7 +575,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1522402846708,
+      "updatedAt": 1522665026986,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/page-2.js",
@@ -584,7 +584,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "59da48469b95a8729b866232ac6392d2",
+        "contentDigest": "0d7cffcfc3b7a71f5c3b5de9bf4c5f2f",
         "owner": "internal-data-bridge"
       }
     },
@@ -596,7 +596,7 @@
       "component": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1522402846723,
+      "updatedAt": 1522665026996,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/Jimmy/Documents/jciclitira.com/portfolio-site/src/pages/404.js",
@@ -605,7 +605,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4dec77bf67f1b35ea35de6db17be12a8",
+        "contentDigest": "5a0d791e5ca4d45d7459b9dba0a017a4",
         "owner": "internal-data-bridge"
       }
     }
