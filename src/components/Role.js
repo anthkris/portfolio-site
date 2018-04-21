@@ -15,7 +15,7 @@ class Role extends React.Component {
         src={this.props.img} alt='Company logo'/>
         </div>
         <div className="dtc ph3 v-top">
-        <p className="lh-title mv0">{this.props.jobTitle}</p>
+        <p className="lh-title f5 mv0">{this.props.jobTitle}</p>
         <p className="mt1 mb0 f6 secondary-text">{this.props.employer}</p>
         </div>
       </a>
