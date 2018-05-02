@@ -33,24 +33,6 @@ input {
   opacity: 0;
 }
 
-.TextInput .magic-label {
-  transition: all 0.3s ease-in-out;
-  pointer-events: none;
-  position: absolute;
-  opacity: 0;
-  padding: 0 2px;
-  top: 0px;
-  font-size: 10px;
-}
-
-.TextInput .magic-label.focused {
-  opacity: 1;
-  top: -10px;
-}
-
-p {
-  line-height: 1.5
-}
 
 a {
   text-decoration: none
@@ -61,10 +43,11 @@ a {
 }
 
 .neon {
-  background-color: #07D3C3
+  background-color: #03D4BF
 }
+
 .accent {
-  color: #07D3C3
+  color: #03D4BF
 }
 
 
@@ -97,12 +80,11 @@ body {
   padding: 0;
   overflow-x: hidden;
   margin: 0;
-  /**/
 }
 
 a,
 body {
-  color: #1e2022
+   color: rgba(0, 0, 0, .88)
 }
 
 input,
@@ -120,7 +102,7 @@ textarea {
 
 
 .secondary-text {
-  color: #81909a
+  color: rgba(0, 0, 0, .60)
 }
 
 .hint-text {
@@ -324,20 +306,21 @@ progress {
   src: url(EuclidFlex-Regular.otf) format('opentype');
 }
 
+.font-2 {
+  font-feature-settings: "ss03";
+}
+
+
 html {
   font-family: EuclidFlex;
   font-variation-settings: "XHGT" 0.7;
   line-height: 1.15;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  font-feature-settings: "ss04";
   background-color: #FCFCFC;
 }
 
 
-.font-1 {
-    font-feature-settings: "ss00";
-}
 
 article,
 aside,

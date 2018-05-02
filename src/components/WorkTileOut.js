@@ -9,8 +9,8 @@ class WorkTileOut extends React.Component {
    <img className='hoverable br4'src={this.props.img} alt='UX/UI'/>
    </a>
     <div className='pv2'>
-      <h2 className='mt2 f4 mt2 mb1'>{this.props.title}</h2>
-      <p className='hint-text fw4 dib f7 pa0 ma0'>{this.props.info}</p>
+      <h3 className='mt3 mb0'>{this.props.title}</h3>
+      <p className='dib f7 secondary-text'>{this.props.info}</p>
       <p style={{lineHeight: '24px'}} className='secondary-text pb3 mt2 fw4 f6'>{this.props.summary}</p>
     </div>
 </div>
