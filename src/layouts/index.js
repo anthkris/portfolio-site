@@ -9,9 +9,11 @@ const Header = () =>
 
    <nav className='mw8 db center' >
         <div className="dt-l w-100 border-box pa3 pt4 ttu f6">
-          <Link className="db dtc-l v-mid link hover-neon tc tl-l mb0-l mb2 " to="/" title="Home">James Ciclitira</Link>
+          <Link className="db dtc-l v-mid link hover-neon tc tl-l mb0-l mb2 " to="/" title="Home">K. Anthony</Link>
           <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
-            <a className="link dib mr3-l mr0 hover-black" target='blank' href="https://jimmmy.design/">Digital Résumé</a>
+            <a className="link dib mr3 hover-black" target='blank' href="https://jimmmy.design/">Portfolio</a>
+            <a className="link dib mr3 hover-black" target='blank' href="https://jimmmy.design/">Blog</a>
+            <a className="link dib mr3 hover-black" target='blank' href="https://jimmmy.design/">How I work</a>
           </div>
         </div>
       </nav>
@@ -37,20 +39,20 @@ const TemplateWrapper = ({ children }) =>
       { rel: 'manifest', href: 'favicon/manifest.json'}
         ]}
       meta={[
-        { name: 'description', content: 'Digital Product Designer based in Berlin. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web design' },
-        { name: 'keywords', content: 'Digital Product Design, James Ciclitira, UI/UX, User Interface Design, User Experiences Design, London, Europe, HTML, CSS, React, iOS, Andriod, Mobile, Web, Sketch, Prototyping, Web development, Responsive Design, User Testing, Mobile Apps, Interaction Design, Front-end Development, Digital Product Design, Jimmy, Jimi, Tech' },
+        { name: 'description', content: 'Learning Experience Designer. Helping people do their work better through tech, transparency, and thoughtfulness.' },
+        { name: 'keywords', content: 'Learning Experience Design, Kristin Anthony, UI/UX, LX, eLearning, training, courses, HTML, CSS, React, iOS, Android, Mobile, Web, Prototyping, Web development, Responsive Design, User Testing, Mobile Apps, Front-end Development, Open Source, K. Anthony, Tech' },
         { name: 'og:type', content: 'profile' },
-        { name: 'og:title', content: 'James Ciclitira - Product Designer' },
-        { name: 'og:description', content: 'Digital Product Designer based in Berlin. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web design' },
+        { name: 'og:title', content: 'K. Anthony - LX Designer' },
+        { name: 'og:description', content: 'Learning Experience Designer. Helping people do their work better through tech, transparency, and thoughtfulness.' },
         { name: 'og:url', content: 'https://jciclitira.com/' },
         { name: 'og:image', content: 'https://jciclitira.com/images/preview.png' },
         { name: 'profile:first_name', content: 'James' },
         { name: 'profile:last_name', content: 'Ciclitira' },
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:creator', content: '@jjiiimmmy' },
-        { name: 'twitter:site', content: '@jjiiimmmy' },
-        { name: 'twitter:title', content: 'James Ciclitira - Freelancer Product Designer' },
-        { name: 'twitter:description', content: 'Digital Product Designer based in London. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web design' },
+        { name: 'twitter:creator', content: '@anthkris' },
+        { name: 'twitter:site', content: '@anthkris' },
+        { name: 'twitter:title', content: 'K. Anthony - Consulting Learning Experience Designer' },
+        { name: 'twitter:description', content: 'Learning Experience Designer. Helping people do their work better through tech, transparency, and thoughtfulness.' },
         { name: 'twitter:image', content: 'https://jciclitira.com/images/preview.png' },
       ]}
     />
