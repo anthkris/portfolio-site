@@ -21,7 +21,7 @@ const Header = () =>
 const TemplateWrapper = ({ children }) =>
   <div>
     <Helmet
-      title="James Ciclitira - Digital Product Designer"
+      title="K. Anthony - Learning Experience Designer"
       link={[
       { rel: 'apple-touch-icon', sizes: '57x57', href: 'favicon/apple-icon-57x57.png' },
       { rel: 'apple-touch-icon', sizes: '60x60', href: 'favicon/apple-icon-60x60.png' },
@@ -44,7 +44,7 @@ const TemplateWrapper = ({ children }) =>
         { name: 'og:type', content: 'profile' },
         { name: 'og:title', content: 'K. Anthony - LX Designer' },
         { name: 'og:description', content: 'Learning Experience Designer. Helping people do their work better through tech, transparency, and thoughtfulness.' },
-        { name: 'og:url', content: 'https://jciclitira.com/' },
+        { name: 'og:url', content: 'https://knanthony.com.com/' },
         { name: 'og:image', content: 'https://jciclitira.com/images/preview.png' },
         { name: 'profile:first_name', content: 'James' },
         { name: 'profile:last_name', content: 'Ciclitira' },

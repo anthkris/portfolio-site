@@ -6,7 +6,7 @@ class Footer extends React.Component {
     return (
 <section className='mt6'>
 <footer className="pv4 ph3 ph5-ns tc">
-  <small className="f6 db hint-text pv3 tc">© 2018 JAMES CICLITIRA, ALL RIGHTS RESERVED</small>
+  <small className="f6 db hint-text pv3 tc">© 2018 K. ANTHONY, ALL RIGHTS RESERVED</small>
 </footer>
 </section>
 
@@ -14,4 +14,3 @@ class Footer extends React.Component {
   }
 }
 export default Footer
-
