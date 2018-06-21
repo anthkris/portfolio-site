@@ -8,25 +8,17 @@ class Experience extends React.Component {
 <div className="db-ns dn center mt4">
     <h1 className='fw3'>Past experience</h1>
     <div className='pt3 '>
-    <div className='dib w-25-ns w-100'>
-    <Role jobTitle='Product designer' employer='CrowdScores' img='images/companies/crowdscores-icon.svg' link='https://crowdscores.com/'/>
-    <Role jobTitle='Design intern' employer='Samlabs' img='images/companies/sam-icon.svg' link='https://samlabs.com/'/>
-</div>
-    <div className='dib w-25-ns w-100'>
-    <Role jobTitle='Product designer' employer='Numilli' img='images/companies/numilli-icon.svg' link='https://numilli.surge.sh/'/>
-    <Role jobTitle='Product designer' employer='Suggestv' img='images/companies/suggestv-icon.svg' link='https://suggestv.io/'/>
-
-    </div>
-
     <div className='dib w-25-ns w-100 v-top'>
-    <Role jobTitle='Product designer' employer='YunoJuno' img='images/companies/yunoJuno-icon.svg' link='https://www.yunojuno.com/'/>
-    <Role jobTitle='Mobile designer' employer='Quidco' img='images/companies/quidco-icon.svg' link='https://quidco.com/'/>
-
+      <Role jobTitle='LX Designer and Front End Developer' employer='University of Texas' img='images/companies/UTsm.png' link='https://utakeit.stemcenter.utexas.edu/'/>
+      <Role jobTitle='LX Designer and Front End Developer' employer='Little Bird Games' img='images/companies/littlebirdgames.png' link='http://littlebirdgames.com/'/>
     </div>
-
-    <div className='dib w-25-ns w-100 v-top'>
-    <Role jobTitle='Product designer' employer='Vivy' img='images/companies/vivy_icon.svg' link='https://www.vivy.com/'/>
-
+    <div className='dib w-25-ns w-100'>
+      <Role jobTitle='Instructional Designer' employer='Planview' img='images/companies/planview.png' link='https://www.planview.com/'/>
+      <Role jobTitle='Instructional Designer' employer='University of Texas' img='images/companies/UTsm.png' link='https://facultyinnovate.utexas.edu/'/>
+    </div>
+    <div className='dib w-25-ns w-100'>
+      <Role jobTitle='Instructional Designer' employer='TEEX' img='images/companies/TEEXsm.png' link='https://teex.org/Pages/law-enforcement-and-security.aspx'/>
+      <Role jobTitle='Technical Assistant, Inst Tech' employer='ESC Region 13' img='images/companies/esc13.png' link='http://www4.esc13.net/'/>
     </div>
 </div>
     </div>
