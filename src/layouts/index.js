@@ -12,7 +12,7 @@ const Header = () =>
           <Link className="db dtc-l v-mid link hover-neon tc tl-l mb0-l mb2 " to="/" title="Home">K. Anthony</Link>
           <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
             <a className="link dib mr3 hover-black" target='blank' href="https://jimmmy.design/">Portfolio</a>
-            <a className="link dib mr3 hover-black" target='blank' href="https://jimmmy.design/">Blog</a>
+            <a className="link dib mr3 hover-black" href="/blog">Blog</a>
             <a className="link dib mr3 hover-black" target='blank' href="https://jimmmy.design/">How I work</a>
           </div>
         </div>
@@ -46,8 +46,8 @@ const TemplateWrapper = ({ children }) =>
         { name: 'og:description', content: 'Learning Experience Designer. Helping people do their work better through tech, transparency, and thoughtfulness.' },
         { name: 'og:url', content: 'https://knanthony.com.com/' },
         { name: 'og:image', content: 'https://jciclitira.com/images/preview.png' },
-        { name: 'profile:first_name', content: 'James' },
-        { name: 'profile:last_name', content: 'Ciclitira' },
+        { name: 'profile:first_name', content: 'Kristin' },
+        { name: 'profile:last_name', content: 'Anthony' },
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:creator', content: '@anthkris' },
         { name: 'twitter:site', content: '@anthkris' },

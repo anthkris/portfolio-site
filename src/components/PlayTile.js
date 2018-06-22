@@ -6,7 +6,7 @@ class PlayTile extends React.Component {
   render() {
     return (
       <div className='w-third-l w-50-ns w-100 dib pa2'>
-        <a className='no-underline ' href={this.props.link} >
+        <a className='no-underline ' target='blank' href={this.props.link} >
           <div className='center tile'>
             <div className='w-100 pt3 pb2'>
               <img alt='Design-tool' className='h1' src={this.props.type}/>
