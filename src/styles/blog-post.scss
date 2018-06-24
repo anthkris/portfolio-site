@@ -1,0 +1,48 @@
+.blog-post-container {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.blog-post {
+  font-size: 20px;
+  line-height: 1.69;
+
+  a {
+    color: #ea3257;
+  }
+
+  blockquote {
+    font-size: 1.5em;
+    font-style: italic;
+    margin: 1.2em 10px;
+    padding: 0.5em 10px;
+  }
+
+  figcaption {
+    font-size: 0.7em;
+    margin: 0 auto;
+    padding: 3px;
+    text-align: center;
+    width: 90%;
+  }
+
+  .taglist {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 0.8em;
+    justify-content: left;
+    list-style: none;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 1.2rem;
+    margin-top: 1.5rem;
+
+    li {
+      margin-bottom: 1.5rem;
+      margin-top: 0;
+      padding: 0 1.4rem 1rem 0;
+    }
+  }
+
+}

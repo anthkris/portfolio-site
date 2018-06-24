@@ -361,7 +361,8 @@ a {
 
 a:active,
 a:hover {
-  outline-width: 0
+  outline-width: 0;
+  text-decoration: underline;
 }
 
 abbr[title] {
@@ -2188,7 +2189,7 @@ code {
 
 .hover-neon:focus,
 .hover-neon:hover {
-  color: #05C6B6;
+  color: #ea3257;
 }
 
 
@@ -3451,9 +3452,9 @@ code {
 
 .nested-links a:focus,
 .nested-links a:hover {
-  color: #96ccff;
+  color: #ea3257;
   -webkit-transition: color .15s ease-in;
-  transition: color .15s ease-in
+  transition: color .15s ease-in;
 }
 
 .debug * {

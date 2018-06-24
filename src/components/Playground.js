@@ -1,6 +1,5 @@
-import React from 'react'
-import PlayTile from './PlayTile'
-import PlayTileIn from './PlayTileIn'
+import React from 'react';
+import PlayTile from './PlayTile';
 
 class Playground extends React.Component {
   render() {
