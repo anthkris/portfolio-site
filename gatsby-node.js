@@ -1,6 +1,5 @@
 const path = require('path');
 const _ = require('lodash');
-const createPaginatedPages = require("gatsby-paginate");
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
@@ -33,18 +32,6 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }`)
     .then(result => {
       const posts = result.data.allMarkdownRemark.edges;
-      // createPaginatedPages({
-      //   edges: posts,
-      //   createPage: createPage,
-      //   pageTemplate: "src/templates/Blog.js",
-      //   pageLength: 12, // This is optional and defaults to 10 if not used
-      //   pathPrefix: "blog", // This is optional and defaults to an empty string if not used
-      //   context:
-      //     {
-      //       pageSize: pageSize,
-      //     },
-      //   buildPath: (index, pathPrefix) => index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}` // This is optional and this is the default
-      // });
 
       if (result.errors) {
         return Promise.reject(result.errors);
