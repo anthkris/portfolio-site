@@ -9,27 +9,28 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   const tagTemplate = path.resolve(`src/templates/tags.js`);
   const categoryTemplate = path.resolve(`src/templates/categories.js`);
 
-  return graphql(`{
-      allMarkdownRemark(
-        sort: { order: DESC, fields: [frontmatter___date] }
-        limit: 1000
-      ) {
-        edges {
-          node {
-            excerpt(pruneLength: 100)
-            html
-            id
-            frontmatter {
-              date
-              path
-              title
-              tags
-              categories
+  return new Promise((resolve, reject) => {
+    graphql(`{
+        allMarkdownRemark(
+          sort: { order: DESC, fields: [frontmatter___date] }
+          limit: 1000
+        ) {
+          edges {
+            node {
+              excerpt(pruneLength: 100)
+              html
+              id
+              frontmatter {
+                date
+                path
+                title
+                tags
+                categories
+              }
             }
           }
         }
-      }
-    }`)
+      }`)
     .then(result => {
       const posts = result.data.allMarkdownRemark.edges;
 
@@ -108,6 +109,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
           },
         });
       });
-
-    });
+      resolve();
+    })
+  })
 }
