@@ -1,6 +1,6 @@
 ---
 title: "Information Design and Digital Magazines"
-path: /"blog/information-design-and-digital-magazines"
+path: "/blog/information-design-and-digital-magazines"
 date: '2014-11-10'
 featured: "../../../../public/images/post-images/ediblesscreenshot2.png"
 categories: ["Design", "Elearning Heroes Challenge"]
