@@ -25,11 +25,11 @@ export default function Blog({ data, pathContext }) {
     if (currentPage > 2) {
       path = "/blog/" + (currentPage - 1);
     }
-    prevPage = <Link to={path}>« Previous page</Link>;
+    prevPage = <Link to={path}>« Newer Posts</Link>;
   }
 
   if (currentPage < pagesTotal) {
-    nextPage = <Link to={"/blog/" + (currentPage + 1)}>Next page »</Link>;
+    nextPage = <Link to={"/blog/" + (currentPage + 1)}>Older Posts »</Link>;
   }
   let pagesLinks = [];
   for (var i = 1; i <= pagesTotal; i++) {

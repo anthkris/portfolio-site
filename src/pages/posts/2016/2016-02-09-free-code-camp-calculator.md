@@ -35,22 +35,22 @@ The basics of the functions worked out, I started to do some styling. I added a 
 
 Things were going well and I wanted to add some space between the text in each display box and the edge. So I redefined my display functions to concatenate the number strings with opening and closing paragraph tags.   That was simple enough, but then I found that I couldn't grab the text out of the paragraph tags to turn into numbers to use. This seems like it should have been a simple task, but even when I created a variable to store the div and paragraph:
 
-```
+```javascript
 $displayP = $(".display p");
 ```
 
 trying to set the html for that would not work:
 
-```
+```javascript
 $displayP.html()
 ```
 
 In hindsight, maybe this didn't work because I was dynamically add paragraph tags? At any rate, I reworked it to use:
 
-```
+```javascript
 $display = $(".display")
 ```
-```
+```javascript
 $display.children().html();
 ```
 
@@ -69,7 +69,7 @@ my code would skip out on the addition function (because it wouldn't run without
 *   Firstly, I moved the operations functions outside of the equal function and made them each separate (as I wrote earlier).
 *   The second thing is that I refactored the functions so that they wouldn't call equal at all; instead, equal would call them. That meant that I wasn't clearing my array before I could use what was in it.
 
-```
+```javascript
 //Equal calls the last operation performed
 function equal() {
  console.log(operation);
@@ -93,7 +93,7 @@ function equal() {
 
 My last big issue (that I know of!) was that, if you clicked on an operator before having put any text it, my code returned NaN. This happened because I grab my numbers from the text on the screen and, I begin the clear state with an empty array and no text on the screen. I did it this way because, my script is set up to check how long the number array is and perform the operation only if there is more than 1 number in the array (so that reduce works appropriately). I tried several times to work around this by adding in another check for whether or not my numArray was empty, but because the equal function clears the numArray, that wouldn't work. Adding a 0 to the initial numArray initialization didn't work for the same reason. I toyed with the idea of adding an initial 0 to the display div, but I couldn't quite get that to work either. In the end, I had to check instead whether or not the text I was grabbing from (remember $display.children.htmL()?) was undefined and, if so, adding a 0 to the numArray.
 
-```
+```javascript
 if ($display.children().html() !== undefined) {
  var bigNum = new BigNumber($display.children().html());
  numArray.push(bigNum.toNumber());
@@ -116,7 +116,7 @@ Not an issue exactly, but I found that I HATED the visual design of my second it
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2016-02-02-at-4.41.12-PM-e1454476381603.png" alt="My final calculator UI" />
+  <img src="../../../../public/images/post-images/Screen-Shot-2016-02-02-at-4.41.12-PM.png" alt="My final calculator UI" />
   <figcaption>My Attempt</figcaption>
 </figure>
 

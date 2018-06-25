@@ -13,9 +13,14 @@ I'm not gonna lie, I had a hell of a time with No Repeats Please and I'm not alo
 
 First and foremost, forget the link to the permutations article in the exercise. It will be of no help at all. I spend about 3 days trying to understand how "aab" was 2 and "aabb" was 8 using your normal permutations with no repeats functions. It doesn't work. It won't work. It can't work. I then thought I might be on the right path with this helpful post at [Math.stackexchange](http://math.stackexchange.com/questions/223229/what-is-the-number-of-rearrangements-of-the-string-aaabbbccc-that-do-not-contain/223278#223278). However, though I understood the example they showed, I still couldn't apply it to the numbers FCC was testing against. Consider: AAABBBCCC
 
+$$
+\dfrac{9!}{3!\times 3!\times 3!}-( \,3\times\dfrac{7!}{3!\times 3!}) \,+( \,3\times\dfrac{5!}{3!}) \,-3!= 1314
+$$
+
+So aabb should be:
 
 $$
-\dfrac{9!}{3!\times 3!\times 3!}-( \,3\times\dfrac{7!}{3!\times 3!}) \,+( \,3\times\dfrac{5!}{3!}) \,-3!= 1314[/latex] So aabb should be: [latex display="true"]\dfrac{4!}{2!\times 2!}-( \,2\times\dfrac{3!}{2!}) \,+( \,2\times2!) \,-2!= 2
+ \dfrac{4!}{2!\times 2!}-( \,2\times\dfrac{3!}{2!}) \,+( \,2\times2!) \,-2!= 2
 $$
 
 The permutations in which no letter is repeated consecutively being abab and baba. So just drop that. It won't do you any good.
@@ -28,7 +33,7 @@ Instead, the route to take seems to be to generate ALL of the possible combinati
 
 Once you've got an array holding all of the possible permutations of the input string, then the next step is to filter out the array elements that have repeated consecutive characters. To do this, test each element against a regex string. You can use the Array.filter method to perform this test and then save the resulting array to a variable. Here's how mine looked:
 
-```
+```javascript
 //If there are repeated characters, strip out of the array
  var filtered = permutations.filter(function(string) {
  return !string.match(regex);

@@ -27,7 +27,7 @@ And I thought, "Yeah, how do you do that?" So, during Hurricane Harvey, when I t
 
 I did a little looking up of a couple of frameworks I had previously heard about that would allow me to create mobile apps using the programming language I know (namely, Javascript). I decided to use [Ionic 3](http://ionicframework.com/). Content-wise, I took from the outline that Ellen Hayes and I had made as well as some of the resources she had gathered. Design-wise, I was inspired by card-based microlearning apps like [Google's Primer](https://itunes.apple.com/us/app/google-primer-learn-marketing-fast/id918628107?mt=8) and [Startup Patterns.](https://itunes.apple.com/us/app/startup-patterns-bite-sized-startup-lessons/id1142253405?mt=8) I knew I wanted a user to be able to choose from a series of lessons and then swipe through cards to go through the lesson. A card might contain text, a video, or a question. I also wanted a person to be able to see their progress inside of a lesson, as well as from the home page, and be able to get back to where they were easily. As I kept building, I tried to keep things small, but also made sure to add features that I felt would help the experience be better.
 <figure>
-    <img src="../../../../public/images/post-images/app_sketch-e1505172762559.jpg" alt="app sketches" />
+    <img src="../../../../public/images/post-images/app_sketch.jpg" alt="app sketches" />
     <figcaption>My initial sketches</figcaption>
 </figure>
 

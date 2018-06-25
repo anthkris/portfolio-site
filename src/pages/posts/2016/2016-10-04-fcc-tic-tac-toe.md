@@ -13,7 +13,7 @@ So, I had the opportunity to attend a Girl Develop It workshop on NodeJS and, wh
 
 Though this is a simple game, I'm proud of it because I went all vanilla JavaScript for this project. No jQuery, no other frameworks. So besides a concern that some bits of my code aren't exactly DRY (don't repeat yourself), the code is otherwise probably a little more verbose than normal. I actually took an idea from my last Phaser game, [Paleo](http://www.knanthony.com/blog/paleo-another-tiny-game-using-phaserjs/), and hit on the idea of using a grid to keep track of whether or not a cell had actually been filled.
 
-```
+```javascript
 //Create grid of 9 squares
 var grid = [
  {x1:0, y1:0, x2:98, y2:98, filled:false, value: 0},
@@ -34,7 +34,7 @@ And I used a the canvas element to draw the grid. From there, there I iterated o
 
 The computer's AI was probably my biggest issue. You think you know tic tac toe, right? But in trying to program the computer's response to player moves, I had to do more than just have the computer fill in a random cell (which, by the way, was my first iteration). I needed the computer to respond intelligently, and never lose. So I ended up looking up tic tac toe strategy to think more strategically about how to make the appropriate moves. I started with a search and came up with this great Quora answer: [https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe](https://www.quora.com/Is-there-a-way-to-never-lose-at-Tic-Tac-Toe) That post helped a ton in helping me to flesh out my initial tries. But things, weren't quite right. The computer would still lose occasionally, making a stupid move. So I kept searching for advice and hit upon this [everything2 post from m_turner](http://everything2.com/title/Tic-Tac-Toe) (5 post down) that does an amazing job of visualizing strategy. And that helped a ton! I highly recommend reading it if you're stuck for ideas on how to make a smart computer player. Creating an end game, terminal state was probably my second biggest problem. The aforementioned everything2 post helped with this as well, by assigning values to each cell, based on whose play it was, I could calculate when there were 3 in a row in any direction as well as who won.
 
-```
+```javascript
 //Check for win/lose conditions
 function checkBoard() {
  getScores();

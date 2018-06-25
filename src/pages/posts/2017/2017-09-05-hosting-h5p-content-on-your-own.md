@@ -32,7 +32,7 @@ The H5P Standalone project comes to the rescue! This project ([which you can dow
 After downloading the project from Github, you'll want to unzip the .h5p files that you download from H5P.org into the workspace folder. H5P files are really just archive files. You can change the file extension (the .h5p part) to .zip and then extract the contents. I made sure to change the folder names to something simpler (remember, no spaces!). Then, inside of the demo folder, go to **index.html** and you need to change the url in the **h5pContent** property to point it to the correct folder inside of the **workspace** folder.
 
 <figure>
-  <img src="../../../../public/images/post-images/EditH5PStandaloneIndex-1024x607.jpg" alt="Workspace folder location" />
+  <img src="../../../../public/images/post-images/EditH5PStandaloneIndex.jpg" alt="Workspace folder location" />
 </figure>
 
 If you've got more interactives, like I do, you can actually duplicate index.html, rename it, and point to another file in that workspace folder. That way, when you upload it to your server, you can point to different pages to get different content. Then, of course, you can use an iframe to embed this content anywhere you like! Take a look at the video below for a walkthrough of this process.

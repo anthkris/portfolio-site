@@ -20,12 +20,12 @@ The basic structure of EdX is:
 That in an of itself isn't odd, but what is a bit strange is that you can only put in real content at the unit level.
 
 <figure>
-  <img src="../../../../public/images/Screen-Shot-2016-01-20-at-8.39.06-PM-1024x191.png" alt="Edge Add a new component" />
+  <img src="../../../../public/images/Screen-Shot-2016-01-20-at-8.39.06-PM.png" alt="Edge Add a new component" />
   <figcaption>Units themselves are also strange in that each unit is made up of one or more components (which can be text, video, iframes, and more).</figcaption>
 </figure>
 
 <figure>
-  <img src="../../../../public/images/Screen-Shot-2016-01-20-at-8.40.30-PM-1024x119.png" alt="Edge section menu" />
+  <img src="../../../../public/images/Screen-Shot-2016-01-20-at-8.40.30-PM.png" alt="Edge section menu" />
   <figcaption>You put as many units as you like into a subsection and they are presented as pages horizontally to students.</figcaption>
 </figure>
 

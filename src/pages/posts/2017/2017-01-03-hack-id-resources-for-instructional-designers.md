@@ -2,12 +2,12 @@
 title: 'Hack ID: Resources for Instructional Designers'
 path: "/blog/hack-id-resources-for-instructional-designers"
 date: '2017-01-03'
-featured: "../../../../public/images/post-images/Introducing-Hack-ID-e1483172041420.png"
+featured: "../../../../public/images/post-images/Introducing-Hack-ID.png"
 categories: ["Coding", "Design", "elearning", "Inspiration", "Showing my Work"]
 tags: ["education", "hack id", "instructional design learning", "open source", "portfolio work", "project"]
 ---
 
-[Last Dear ID episode, I listed out my 2016 projects](http://www.knanthony.com/blog/dearid-season-2-wrap-up/). Then, in a flurry of season-end inspiration, I fired off two more. The (final?) revamp of GoDesignSomething.co [I talked about last post](http://www.knanthony.com/blog/go-design-something-the-final-incarnation/). This post, I'm talking about my first project release of 2017: Hack ID. Some time ago, on the instructional design sub-reddit, I mused with my fellow redditors on what a free (or paid), online, self-paced instructional design education might look like. I've been enamored with the idea of a Free Code Camp for IDs; someplace where other ID newbies like me, who just fell into instructional design and can't ever seem to get to a conference or community event can come together to learn and practice. But, while I still love that idea, I've realize that that's not something I can do alone... So, I started thinking about what I could do, in a small way. I remembered this really amazing website, [DevFreeBooks](https://devfreebooks.github.io/), that curated free coding ebooks, and thought, "Why can't I do that, but for ID's?" And so I did!
+[Last Dear ID episode, I listed out my 2016 projects](/blog/dearid-season-2-wrap-up/). Then, in a flurry of season-end inspiration, I fired off two more. The (final?) revamp of GoDesignSomething.co [I talked about last post](/blog/go-design-something-the-final-incarnation/). This post, I'm talking about my first project release of 2017: Hack ID. Some time ago, on the instructional design sub-reddit, I mused with my fellow redditors on what a free (or paid), online, self-paced instructional design education might look like. I've been enamored with the idea of a Free Code Camp for IDs; someplace where other ID newbies like me, who just fell into instructional design and can't ever seem to get to a conference or community event can come together to learn and practice. But, while I still love that idea, I've realize that that's not something I can do alone... So, I started thinking about what I could do, in a small way. I remembered this really amazing website, [DevFreeBooks](https://devfreebooks.github.io/), that curated free coding ebooks, and thought, "Why can't I do that, but for ID's?" And so I did!
 
 ## Planning the Site
 

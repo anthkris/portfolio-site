@@ -13,7 +13,7 @@ Last month, in seeking to practice what I preach, I found a great horror-focused
 
 Using the game jam and this amazing game from another indie game dev called McFunkyPants, who incidentally, is also one of my inspirations with his OneGameAMonth site and practice (Greeble: http://mcfunkypants.com/LD22/) as inspiration , I focused on building a tiny horror game, with no combat, no baddies. Just you trying to escape. I also hit upon the idea/mechanic of the player being constantly pulled backwards, towards the void and towards danger, pretty early. Here's my Trello card for the game:
 
-![Trello Board card](../../../../public/images/post-images/Screen-Shot-2016-09-05-at-5.49.58-PM-1024x985.png)
+![Trello Board card](../../../../public/images/post-images/Screen-Shot-2016-09-05-at-5.49.58-PM.png)
 
 For assets, I turned to several free sites I know, including:
 
