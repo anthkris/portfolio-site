@@ -108,5 +108,6 @@ module.exports = {
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-react-next`,
     `gatsby-plugin-offline`,
+    `gatsby-plugin-netlify`
   ],
 };
