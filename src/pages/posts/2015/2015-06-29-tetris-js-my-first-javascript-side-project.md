@@ -2,7 +2,7 @@
 title: 'Tetris JS: My first JavaScript Side Project'
 path: "/blog/tetris-js-my-first-javascript-side-project"
 date: '2015-06-29'
-featured: "../../../../public/images/post-images/Tetris-JS.png"
+featured: "../../static/post-images/Tetris-JS.png"
 categories: ["Coding", "Weekend Project"]
 tags: ["coding", "game design", "JavaScript", "Jquery", "tetris"]
 ---

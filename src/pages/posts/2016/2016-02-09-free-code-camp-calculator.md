@@ -2,7 +2,7 @@
 title: "Free Code Camp Calculator"
 path: "/blog/free-code-camp-calculator"
 date: '2016-02-09'
-featured: "../../../../public/images/post-images/JS-Calculator.png"
+featured: "../../static/post-images/JS-Calculator.png"
 categories: ["Coding", "Design", "GDS Challenge", "Showing my Work"]
 tags: ["calculator", "free code camp", "JavaScript"]
 ---
@@ -18,7 +18,7 @@ I tried so hard to be conscientious during this process of showing my work, so I
 ### Saving the Total
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2016-02-02-at-4.54.25-PM.png" alt="calculator prototype" />
+  <img src="../../static/post-images/Screen-Shot-2016-02-02-at-4.54.25-PM.png" alt="calculator prototype" />
   <figcaption>A reasonable facsimile of my original prototype. Ugly, huh?</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ This project took shape WAAAAAY more quickly than I thought it would. By the tim
 The basics of the functions worked out, I started to do some styling. I added a history feature so that a user could keep tabs on what operations were happening.
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2016-01-31-at-9.31.28-PM.png" alt="calculator prototype" />
+  <img src="../../static/post-images/Screen-Shot-2016-01-31-at-9.31.28-PM.png" alt="calculator prototype" />
   <figcaption>Second iteration</figcaption>
 </figure>
 
@@ -104,19 +104,19 @@ if ($display.children().html() !== undefined) {
 
 ### BigNumber JS
 
-What's with the BigNumber? Well, as I wrote at the beginning, I implemented the [BigNumber library](https://github.com/MikeMcl/bignumber.js/) in this code. I've never forgotten, [from previous experimentations](http://www.knanthony.com/blog/look-ma-im-learnin-freecodecamp-exact-change-bonfire/), the trouble you can get into with floating point numbers in JavaScript. So going in, I knew I wanted some way to try and control any issues that might arise with performing calculation with decimal numbers. I've used BigNumber to round off decimal points and to shorten extremely long numbers with exponent notation.
+What's with the BigNumber? Well, as I wrote at the beginning, I implemented the [BigNumber library](https://github.com/MikeMcl/bignumber.js/) in this code. I've never forgotten, [from previous experimentations](/blog/look-ma-im-learnin-freecodecamp-exact-change-bonfire/), the trouble you can get into with floating point numbers in JavaScript. So going in, I knew I wanted some way to try and control any issues that might arise with performing calculation with decimal numbers. I've used BigNumber to round off decimal points and to shorten extremely long numbers with exponent notation.
 
 ## New Design
 
 Not an issue exactly, but I found that I HATED the visual design of my second iteration. So I looked through Dribbble and the calculators that had been designed for the 100-day Daily UI Challenge and took my inspiration from this:
 
 <figure>
-  <img src="../../../../public/images/post-images/4-daily-ui.png" alt="Original Dribbble Shot" />
+  <img src="../../static/post-images/4-daily-ui.png" alt="Original Dribbble Shot" />
   <figcaption>[Dribbble shot by Shabbir Manpurwala](https://dribbble.com/shots/2496666--4-Daily-UI-Calculator)</figcaption>
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2016-02-02-at-4.41.12-PM.png" alt="My final calculator UI" />
+  <img src="../../static/post-images/Screen-Shot-2016-02-02-at-4.41.12-PM.png" alt="My final calculator UI" />
   <figcaption>My Attempt</figcaption>
 </figure>
 
@@ -130,7 +130,7 @@ With all that out of the way, feel free to give it a test drive and let me know 
 
 <figure>
   <a href="http://codepen.io/anthkris/full/vLdgev/" target="blank">
-    <img src="../../../../public/images/post-images/Screen-Shot-2016-02-01-at-7.07.33-PM.png" alt="Try out the calculators" />
+    <img src="../../static/post-images/Screen-Shot-2016-02-01-at-7.07.33-PM.png" alt="Try out the calculators" />
   </a>
   <figcaption>FCC Calculator in CodePen</figcaption>
 </figure>

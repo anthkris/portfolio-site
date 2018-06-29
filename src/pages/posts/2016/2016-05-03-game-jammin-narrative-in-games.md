@@ -2,7 +2,7 @@
 title: 'Game Jammin'': Narrative in Games'
 path: "/blog/game-jammin-narrative-in-games"
 date: '2016-05-03'
-featured: "../../../../public/images/post-images/Game-Jammin.png"
+featured: "../../static/post-images/Game-Jammin.png"
 categories: ["Design", "GameDev", "Showing my Work"]
 tags: ["game design", "game development", "game jam", "game narrative"]
 ---
@@ -25,4 +25,4 @@ Well, I'm not sure I know, exactly but it should be one part of informing the 
 
 ## Give it a Try
 
-This was made for a LGBTQA-positive game jam. If that's not your thing, don't play. No big deal. Also, the game is probably pretty awful, all told, but I'm really glad I was able to actually finish it and include all of the features I planned. I used Construct 2 for the game development. Total game dev time is probably about 2 weeks, with lots of interruptions in between. Try it here: [https://anthkris.itch.io/sweets-for-sweeting](https://anthkris.itch.io/sweets-for-sweeting) You can also check out the other entries for the Jam here: [https://itch.io/jam/sugar-sweets-jam/entries](https://itch.io/jam/sugar-sweets-jam/entries) ![SweetsScreenshot](http://www.knanthony.com/blog/wp-content/uploads/2016/04/SweetsScreenshot-1.png)
+This was made for a LGBTQA-positive game jam. If that's not your thing, don't play. No big deal. Also, the game is probably pretty awful, all told, but I'm really glad I was able to actually finish it and include all of the features I planned. I used Construct 2 for the game development. Total game dev time is probably about 2 weeks, with lots of interruptions in between. Try it here: [https://anthkris.itch.io/sweets-for-sweeting](https://anthkris.itch.io/sweets-for-sweeting) You can also check out the other entries for the Jam here: [https://itch.io/jam/sugar-sweets-jam/entries](https://itch.io/jam/sugar-sweets-jam/entries) ![SweetsScreenshot](/blog/wp-content/uploads/2016/04/SweetsScreenshot-1.png)

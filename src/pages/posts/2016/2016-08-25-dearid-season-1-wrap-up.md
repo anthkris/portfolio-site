@@ -2,7 +2,7 @@
 title: '#DearID Season 1 Wrap Up'
 path: "/blog/dearid-season-1-wrap-up"
 date: '2016-08-25'
-featured: "../../../../public/images/post-images/Season-1-Wrap-Up.png"
+featured: "../../static/post-images/Season-1-Wrap-Up.png"
 categories: ["Dear ID Show", "Showing my Work"]
 tags: ["dear id", "interviews", "lessons learned", "season 1", "showing my work"]
 ---

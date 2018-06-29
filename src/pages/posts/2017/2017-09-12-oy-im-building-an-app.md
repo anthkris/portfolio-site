@@ -2,7 +2,7 @@
 title: "Oy! I'm building an App!"
 path: "/blog/oy-im-building-an-app"
 date: '2017-09-12'
-featured: "../../../../public/images/post-images/Im-building-an-app.png"
+featured: "../../static/post-images/Im-building-an-app.png"
 categories: ["Design"]
 tags: ["app development", "Ionic", "xAPI"]
 ---
@@ -13,7 +13,7 @@ With the xAPI Cohort going on now (it's not too late to join up) and me being sw
 
 ## Context
 
-So this app came out an idea I had originally Ellen Hayes, an ID I interviewed on the [Dear Instructional Designer](https://dearinstructionaldesigner.simplecast.fm/episodes/be5256ab/episode-42-online-course-for-a-student-maker-space-with-ellen-hayes) show. As you all know, I've been interested in how I and we can facilitate a more hands-on learning, practice, and development experience for ID newbies. I've written about using [open source and civic tech projects](http://www.knanthony.com/blog/civic-learning-an-idea-generated-from-torrance-learnings-download-un-conference/) as a way to gain elearning design and development experience. And I've [developed a whole course](https://kristinanthony.withcoach.com/go-design-something-building-your-job-winning-portfolio) (soon to be released for free) that includes various methods for finding good portfolio projects. But I've also been interested in the aspect of building community and mentorship that can happen when IDs work together on a project. So Ellen and I hatched a plan to create a tiny web thing and we wanted it to be at the intersection of our interests, UX and web development.
+So this app came out an idea I had originally Ellen Hayes, an ID I interviewed on the [Dear Instructional Designer](https://dearinstructionaldesigner.simplecast.fm/episodes/be5256ab/episode-42-online-course-for-a-student-maker-space-with-ellen-hayes) show. As you all know, I've been interested in how I and we can facilitate a more hands-on learning, practice, and development experience for ID newbies. I've written about using [open source and civic tech projects](/blog/civic-learning-an-idea-generated-from-torrance-learnings-download-un-conference/) as a way to gain elearning design and development experience. And I've [developed a whole course](https://kristinanthony.withcoach.com/go-design-something-building-your-job-winning-portfolio) (soon to be released for free) that includes various methods for finding good portfolio projects. But I've also been interested in the aspect of building community and mentorship that can happen when IDs work together on a project. So Ellen and I hatched a plan to create a tiny web thing and we wanted it to be at the intersection of our interests, UX and web development.
 
 ### Then...
 
@@ -27,7 +27,7 @@ And I thought, "Yeah, how do you do that?" So, during Hurricane Harvey, when I t
 
 I did a little looking up of a couple of frameworks I had previously heard about that would allow me to create mobile apps using the programming language I know (namely, Javascript). I decided to use [Ionic 3](http://ionicframework.com/). Content-wise, I took from the outline that Ellen Hayes and I had made as well as some of the resources she had gathered. Design-wise, I was inspired by card-based microlearning apps like [Google's Primer](https://itunes.apple.com/us/app/google-primer-learn-marketing-fast/id918628107?mt=8) and [Startup Patterns.](https://itunes.apple.com/us/app/startup-patterns-bite-sized-startup-lessons/id1142253405?mt=8) I knew I wanted a user to be able to choose from a series of lessons and then swipe through cards to go through the lesson. A card might contain text, a video, or a question. I also wanted a person to be able to see their progress inside of a lesson, as well as from the home page, and be able to get back to where they were easily. As I kept building, I tried to keep things small, but also made sure to add features that I felt would help the experience be better.
 <figure>
-    <img src="../../../../public/images/post-images/app_sketch.jpg" alt="app sketches" />
+    <img src="../../static/post-images/app_sketch.jpg" alt="app sketches" />
     <figcaption>My initial sketches</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Getting the app started was actually really easy! Ionic has great documentation 
 As others have said, the hard part with xAPI isn't the sending of statements, it's really the planning out of the data and I'm still really new to the spec and trying to make sure that I'm doing things right (which is where having a community in the cohort helps!). Last cohort meeting, Sean Putnam also offered up one great way to look at thinking about your data plan, tracking participation vs tracking performance. For this app, definitely participation-based metrics are what I'm after!
 
 <figure>
-    <img src="../../../../public/images/post-images/Screen-Shot-2017-09-11-at-6.31.04-PM.png" alt="Trello board card" />
+    <img src="../../static/post-images/Screen-Shot-2017-09-11-at-6.31.04-PM.png" alt="Trello board card" />
     <figcaption>My expanding trello card for initial development</figcaption>
 </figure>
 

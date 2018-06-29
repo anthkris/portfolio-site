@@ -2,7 +2,7 @@
 title: "Engaging on Twitter"
 path: "/blog/engaging-on-twitter"
 date: '2015-11-19'
-featured: "../../../../public/images/post-images/logoColor.png"
+featured: "../../static/post-images/logoColor.png"
 categories: ["Showing my Work"]
 tags: ["engagement", "twitter"]
 ---

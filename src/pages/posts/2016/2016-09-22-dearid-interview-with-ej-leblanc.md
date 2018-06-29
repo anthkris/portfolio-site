@@ -2,7 +2,7 @@
 title: '#DearID: Interview with EJ LeBlanc'
 path: "/blog/dearid-interview-with-ej-leblanc"
 date: '2016-09-22'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show", "GameDev"]
 tags: ["dear id", "game development", "game engine", "Unity 3D"]
 ---

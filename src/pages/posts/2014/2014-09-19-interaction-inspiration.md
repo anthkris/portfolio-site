@@ -2,7 +2,7 @@
 title: 'Interaction Inspiration: Enlightened Happy Hour'
 path: "/blog/interaction-inspiration/"
 date: "2014-09-19"
-featured: "../../../../public/images/post-images/TheEnlightenedHappyHour.jpg"
+featured: "../../static/post-images/TheEnlightenedHappyHour.jpg"
 categories: ["elearning"]
 tags: ["infographic", "inspiration", "interactions"]
 ---

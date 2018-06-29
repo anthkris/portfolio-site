@@ -2,7 +2,7 @@
 title: '#DearID: The Open Source Way'
 path: "/blog/dearid-the-open-source-way"
 date: '2016-11-10'
-featured: "../../../../public/images/post-images/The-Open-Source-Way.png"
+featured: "../../static/post-images/The-Open-Source-Way.png"
 categories: ["Coding", "Dear ID Show"]
 tags: ["dear id", "methodology", "open source", "technology", "transparency"]
 ---

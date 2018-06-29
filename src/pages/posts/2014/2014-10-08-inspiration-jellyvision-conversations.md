@@ -2,7 +2,7 @@
 title: 'Inspiration: JellyVision Conversations'
 path: "/blog/inspiration-jellyvision-conversations"
 date: '2014-10-08'
-featured: "../../../../public/images/post-images/logoColor.png"
+featured: "../../static/post-images/logoColor.png"
 categories: ["elearning"]
 tags: ["audio", "content", "inspiration", "narration"]
 ---
@@ -11,7 +11,7 @@ Though I haven't done audio for elearning in a while, and though I'd agree with 
 
 <figure>
   <a href="http://www.jellyvision.com/work/duel/" target="blank">
-    <img src="../../../../public/images/post-images/Jellyvision.png" alt="Jellyvision Just In Time Education" />
+    <img src="../../static/post-images/Jellyvision.png" alt="Jellyvision Just In Time Education" />
   </a>
   <figcaption>Could you Survive and Old-Timey Duel?</figcaption>
 </figure>

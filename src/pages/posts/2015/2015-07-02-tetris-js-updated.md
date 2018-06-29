@@ -2,7 +2,7 @@
 title: "Tetris JS Updated!"
 path: "/blog/tetris-js-updated"
 date: '2015-07-02'
-featured: "../../../../public/images/post-images/Tetris-JS-Update.png"
+featured: "../../static/post-images/Tetris-JS-Update.png"
 categories: ["Coding", "Showing my Work"]
 tags: ["coding", "game", "game design", "JavaScript", "tetris"]
 ---
@@ -15,7 +15,7 @@ You can see the code in my [Tetris-JS github repo](https://github.com/anthkris/T
 
 <figure>
   <a href="http://knanthony.com/showcase/TetrisJS/old/index.html" target="blank">
-    <img src="../../../../public/images/post-images/tetris_old.png" alt="older version of tetris UI" />
+    <img src="../../static/post-images/tetris_old.png" alt="older version of tetris UI" />
   </a>
   <figcaption>Check out the original version</figcaption>
 </figure>
@@ -23,7 +23,7 @@ You can see the code in my [Tetris-JS github repo](https://github.com/anthkris/T
 
 <figure>
   <a href="http://www.knanthony.com/showcase/TetrisJS/updated/index.html" target="blank">
-    <img src="../../../../public/images/post-images/tetris_new1.png" alt="newer version of tetris UI" />
+    <img src="../../static/post-images/tetris_new1.png" alt="newer version of tetris UI" />
   </a>
   <figcaption>Check out the updated version</figcaption>
 </figure>
@@ -33,7 +33,7 @@ You can see the code in my [Tetris-JS github repo](https://github.com/anthkris/T
 If you look at most of the versions of Tetris, each piece has a unique color and I wanted to replicate this.
 
 <figure>
-  <img src="../../../../public/images/post-images/Tetris-Blocks.png" alt="tetrominos" />
+  <img src="../../static/post-images/Tetris-Blocks.png" alt="tetrominos" />
   <figcaption>Tetrominos each have a specific color</figcaption>
 </figure>
 

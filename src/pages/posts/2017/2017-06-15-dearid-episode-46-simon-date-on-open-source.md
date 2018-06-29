@@ -2,12 +2,12 @@
 title: '#DearID Episode 46: Simon Date on Open Source'
 path: "/blog/dearid-episode-46-simon-date-on-open-source"
 date: '2017-06-15'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show", "Inspiration", "Tips"]
 tags: ["dear id", "maker challenge", "making", "open source"]
 ---
 
-If you are a ID newbie, or someone who wants to learn a new skill, your number one question is, how can I get experience? I will always recommend that you [start making stuff.](http://www.knanthony.com/blog/seriously-though-the-answer-is-make-stuff/) But where do you get ideas? I have a lot of thoughts on this, [my latest one is about civic learning](http://www.knanthony.com/blog/civic-learning-an-idea-generated-from-torrance-learnings-download-un-conference/), but our last episode with Simon Date, we talk about open source, the philosophy behind it, and why IDs might want to jump in.
+If you are a ID newbie, or someone who wants to learn a new skill, your number one question is, how can I get experience? I will always recommend that you [start making stuff.](/blog/seriously-though-the-answer-is-make-stuff/) But where do you get ideas? I have a lot of thoughts on this, [my latest one is about civic learning](/blog/civic-learning-an-idea-generated-from-torrance-learnings-download-un-conference/), but our last episode with Simon Date, we talk about open source, the philosophy behind it, and why IDs might want to jump in.
 
 <iframe src="https://simplecast.com/e/72554?style=medium-light" width="100%" height="94px" frameborder="0" scrolling="no" seamless=""></iframe>
 

@@ -2,7 +2,7 @@
 title: "3 Benefits of Ignorance for Instructional Designers"
 path: "/blog/3-benefits-of-ignorance-for-instructional-designers"
 date: '2015-07-16'
-featured: "../../../../public/images/post-images/benefits-of-ignorance.png"
+featured: "../../static/post-images/benefits-of-ignorance.png"
 categories: ["Design", "Inspiration"]
 tags: ["creativity", "design", "ignorance"]
 ---

@@ -2,7 +2,7 @@
 title: "Preventing Workplace Violence"
 path: "/blog/preventing-workplace-violence"
 date: '2014-11-03'
-featured: "../../../../public/images/post-images/wpviolencescreenshot2.png"
+featured: "../../static/post-images/wpviolencescreenshot2.png"
 categories: ["elearning", "Elearning Heroes Challenge"]
 tags: ["CCAF", "demo", "mini-course", "scenario"]
 ---
@@ -31,7 +31,7 @@ When I first looked at this challenge, my mind went immediately to the office wo
 
 <figure>
   <a href="http://knanthony.com/showcase/WorkplaceViolence/story.html" target="blank">
-    <img src="../../../../public/images/post-images/wpviolencescreenshot2.png" alt="Workplace Violence MiniCourse Screenshot" />
+    <img src="../../static/post-images/wpviolencescreenshot2.png" alt="Workplace Violence MiniCourse Screenshot" />
   </a>
   <figcaption>Take a look at the demo.</figcaption>
 </figure>

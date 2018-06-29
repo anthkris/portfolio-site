@@ -2,7 +2,7 @@
 title: 'Steal this Idea: Personalized Job Aids'
 path: "/blog/steal-this-idea-personalized-job-aids"
 date: '2015-10-19'
-featured: "../../../../public/images/post-images/Steal-This-Idea.png"
+featured: "../../static/post-images/Steal-This-Idea.png"
 categories: ["Design", "Inspiration"]
 tags: ["job aid", "microlearning", "personalization", "video"]
 ---
@@ -14,7 +14,7 @@ When I moved for my new job, I decided to cut the cord and only purchase an inte
 Set up was a bit of a pain because, you know, I'm at work and they need someone at home on the day of the installation. But I got through that with a visit from my mum (hi, mum!) and things have been going smoothly. Then I got an email from them with information about my first month's bill. This wasn't just a "pay up" sort of notification. AT&T had actually created a personalized video that walked me through the charges on my first month's bill.
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2015-10-15-at-9.15.20-PM.png" alt="ATT video for understanding my bill" />
+  <img src="../../static/post-images/Screen-Shot-2015-10-15-at-9.15.20-PM.png" alt="ATT video for understanding my bill" />
 </figure>
 
 When you first get services set up, things can often be a bit confusing because there are all of these surcharges and one-time fees. My previous ISP, Suddenlink, sent bills with no charge explanations at all (which is why I ended up cutting them back to just internet, as well). But this video from AT&T anticipated the sticker shock and sent a short, well-made video that explained all of  my individual charges. Now this wasn't the same as a more general bill walkthrough (like the one Jellyvision used to have on their work page). This one had _my charges_ on it. It was about me. Undoubtedly, this has been templatized, but as a developer, I appreciate the fact that they went that extra step to explain my particular bill situation.

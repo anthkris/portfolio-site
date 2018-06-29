@@ -2,7 +2,7 @@
 title: '#DearID: On Learning to Program'
 path: "/blog/dearid-on-learning-to-program"
 date: '2016-11-03'
-featured: "../../../../public/images/post-images/On-Learning-to-Program.png"
+featured: "../../static/post-images/On-Learning-to-Program.png"
 categories: ["Coding", "Dear ID Show"]
 tags: ["coding", "learning experience design", "learning to code", "programming", "web development"]
 ---

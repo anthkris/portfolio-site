@@ -2,7 +2,7 @@
 title: '#DearID: Episode 42: Online Course for a Student Maker Space with Ellen Hayes'
 path: "/blog/dearid-episode-42-online-course-for-a-student-maker-space-with-ellen-hayes"
 date: '2017-04-20'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show", "Design"]
 tags: ["dear id", "elearning", "makerspace", "newbie", "video"]
 ---

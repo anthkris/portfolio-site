@@ -2,7 +2,7 @@
 title: "Dear Instructional Designer Podcast"
 path: "/blog/dear-instructional-designer-podcast"
 date: '2016-05-13'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Design", "Inspiration", "Tips"]
 tags: ["instructional design", "podcast"]
 ---
@@ -11,7 +11,7 @@ Betcha thought I forgot to post this week! Actually, I just wanted to make space
 
 # Why?
 
-That's a great question! I've been thinking about podcasting for a good, long while now and it's been something that's scared me. But, in listening to a lot of other podcasts this year, in particular maker podcasts (I've mentioned [MegaMaker](http://megamaker.co/) previously), I was inspired to make 2016 another [Year of the Project](http://www.knanthony.com/blog/consistency-key-to-creativity/) and to try out some things that I've been putting off, including creating a show. I also took some advice from all of those business podcasts and floated my idea out there to as many different people as I could on Twitter and Reddit and email to validate it. People seemed to be into it, so I figured I would give it a go!
+That's a great question! I've been thinking about podcasting for a good, long while now and it's been something that's scared me. But, in listening to a lot of other podcasts this year, in particular maker podcasts (I've mentioned [MegaMaker](http://megamaker.co/) previously), I was inspired to make 2016 another [Year of the Project](/blog/consistency-key-to-creativity/) and to try out some things that I've been putting off, including creating a show. I also took some advice from all of those business podcasts and floated my idea out there to as many different people as I could on Twitter and Reddit and email to validate it. People seemed to be into it, so I figured I would give it a go!
 
 # What's it All About?
 

@@ -2,7 +2,7 @@
 title: 'Showing My Work: A New Kind of Kickoff'
 path: "/blog/showing-my-work-a-new-kind-of-kickoff"
 date: '2014-11-18'
-featured: "../../../../public/images/post-images/A-New-Kind-of.png"
+featured: "../../static/post-images/A-New-Kind-of.png"
 categories: ["Design", "Showing my Work"]
 tags: ["action mapping", "instructional design", "kickoff meetings", "process", "prototyping", "rapid prototyping", "SAM"]
 ---
@@ -12,7 +12,7 @@ So this week, I am starting a new elearning project at work and with the help of
 ## Stuff that's awesome:
 
 <figure>
-  <img src="../../../../public/images/post-images/action-mapping-withstickies.jpg" alt="action mapping" />
+  <img src="../../static/post-images/action-mapping-withstickies.jpg" alt="action mapping" />
   <figcaption>Action mapping with post-it notes!</figcaption>
 </figure>
 

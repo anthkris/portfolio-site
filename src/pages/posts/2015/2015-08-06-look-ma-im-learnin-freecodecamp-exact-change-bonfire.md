@@ -2,7 +2,7 @@
 title: 'Look Ma I''m Learnin'': FreeCodeCamp Exact Change Bonfire'
 path: "/blog/look-ma-im-learnin-freecodecamp-exact-change-bonfire"
 date: '2015-08-06'
-featured: "../../../../public/images/post-images/Exact-Change-Bonfire.png"
+featured: "../../static/post-images/Exact-Change-Bonfire.png"
 categories: ["Coding", "Showing my Work"]
 tags: ["coding", "FreeCodeCamp", "functional programming", "JavaScript", "recursion"]
 ---

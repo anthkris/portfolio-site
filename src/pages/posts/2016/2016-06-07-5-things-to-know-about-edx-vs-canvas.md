@@ -2,7 +2,7 @@
 title: "5 Things To Know About EdX vs Canvas"
 path: "/blog/5-things-to-know-about-edx-vs-canvas"
 date: '2016-06-07'
-featured: "../../../../public/images/post-images/5-things-to-know-about-EdX-Edge-vs-Canvas-LMS.png"
+featured: "../../static/post-images/5-things-to-know-about-EdX-Edge-vs-Canvas-LMS.png"
 categories: ["Design", "elearning", "Showing my Work"]
 tags: ["canvas", "EdX", "learning management system", "learning platform", "LMS", "review"]
 ---
@@ -47,13 +47,13 @@ I don't have enough experience using Canvas here to make a judgement
 
 I've said it before, uniqueness is not a goal. However, we also know that aesthetic design can impact learning and how people feel a course works. Canvas, for all the trouble I've had working in it, I've seen some really neat and interesting ideas of customizing the experience inside the course using home pages and unit pages. See some pics below from a design created by my colleague, Ryan.
 
-![Canvas Home Page Mockup](../../../../public/images/post-images/Screen-Shot-2016-05-23-at-4.31.15-PM.png)
+![Canvas Home Page Mockup](../../static/post-images/Screen-Shot-2016-05-23-at-4.31.15-PM.png)
 
-![Unit page mockup](../../../../public/images/post-images/Screen-Shot-2016-05-23-at-4.31.52-PM.png)
+![Unit page mockup](../../static/post-images/Screen-Shot-2016-05-23-at-4.31.52-PM.png)
 
-![Unit page mockup showing pretest link and key terms](../../../../public/images/post-images/Screen-Shot-2016-05-23-at-4.31.59-PM.png)
+![Unit page mockup showing pretest link and key terms](../../static/post-images/Screen-Shot-2016-05-23-at-4.31.59-PM.png)
 
-![Activities and readings mockup](../../../../public/images/post-images/Screen-Shot-2016-05-23-at-4.32.09-PM.png)
+![Activities and readings mockup](../../static/post-images/Screen-Shot-2016-05-23-at-4.32.09-PM.png)
 
 So you can try a lot of things within the Canvas structure to create a custom experience through your course content. And make it look pretty good, as well. Of course, the downfall is that you need to know HTML and CSS, at a minimum. There is at least one really awesome looking toolset that seeks to make even this kind of customization into a WYSIWYG experience to further empower faculty, but I never got a chance to play with it: [CIDI Labs Design Tools (formerly known as Kennethware)](http://www.cidilabs.com/#!design-tools/lfqt7) EdX Edge is much less able in this regard, I think. They use a specific look, you don't have as much control over creating a custom experience throughout the course content. Their section, subsection, unit path seems to be the only way. It may be entirely possible to push this further, I just haven't seen it done.
 

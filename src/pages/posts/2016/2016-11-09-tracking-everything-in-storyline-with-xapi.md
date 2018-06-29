@@ -2,7 +2,7 @@
 title: "Tracking Everything in Storyline with xAPI"
 path: "/blog/tracking-everything-in-storyline-with-xapi"
 date: '2016-11-09'
-featured: "../../../../public/images/post-images/Tracking-Everything-in-Storyline.png"
+featured: "../../static/post-images/Tracking-Everything-in-Storyline.png"
 categories: ["Coding", "Showing my Work"]
 tags: ["Moodle", "Storyline", "tin can", "tracking", "xAPI"]
 ---
@@ -13,7 +13,7 @@ Special Wednesday post since yesterday was election day here in the U.S. and I f
 
 I've launched this course about a bajillion times. But here are the statements from my latest successful experiment:
 
-![exemplar xAPI statements](../../../../public/images/post-images/Screen-Shot-2016-11-07-at-10.57.40-PM.png)
+![exemplar xAPI statements](../../static/post-images/Screen-Shot-2016-11-07-at-10.57.40-PM.png)
 
 One thing you might notice is that, on some of these statements, my name is in lowercase and in others, it's in uppercase. Storyline is already pulling my name from the currently logged-in Moodle user. So far, I've been gathering this information from the launch URL. I'm figuring that I need to figure out how to steal the current user from Storyline, instead of parsing it out myself. However, one subtle success is that I was able to extend my current code for tracking video to include Start, Paused, and Watched. I looked closely at the [current ADL video recipe](https://registry.tincanapi.com/#profile/19/recipes) (a recipe specifies which verbs to use in a certain context so that we all speak the same language around similar activities) and created separate functions to track those three states of watching a video. I'll be sure to update my Moodle/Storyline code snippets as I continue. Keep an eye on them here: [https://github.com/anthkris/xAPI-video](https://github.com/anthkris/xAPI-video) I need to add the complete state.
 

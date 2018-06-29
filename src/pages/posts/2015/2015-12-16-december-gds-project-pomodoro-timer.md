@@ -2,7 +2,7 @@
 title: 'December GDS Project: Pomodoro Timer'
 path: "/blog/december-gds-project-pomodoro-timer"
 date: '2015-12-16'
-featured: "../../../../public/images/post-images/December-GDS-Project-Pomodoro-Timer.png"
+featured: "../../static/post-images/December-GDS-Project-Pomodoro-Timer.png"
 categories: ["Coding", "GDS Challenge", "Showing my Work"]
 tags: ["app", "free code camp", "pomodoro", "programming", "timer"]
 ---
@@ -18,7 +18,7 @@ So the project was to reverse-engineer this [pen by Geoff Stoerbeck](http://code
 I took my inspiration both from the pen and from pomodoro apps in the iOS App Store, [particularly this offering by Nasa Trained Monkeys](https://itunes.apple.com/us/app/pomodoro-timer-focus-on-your/id703145045?mt=8). Essential functionality was to allow users to set both the session and break time and start the timer. They should also be able to pause the timer and restart it. On the aesthetic side, I really liked the idea of filling up the circle as time passed in the reference pen, but I wanted to add on to that idea by creating little progress bars for each session. I also really liked the idea of the progress bar shaped like a tomato. With those two things in the back of my mind, I resolved on beginning at the beginning and just get something working.
 
 <figure>
-  <img src="../../../../public/images/post-images/pomodoro-timer-app.jpeg" alt="Inspriration Pomodoro App" />
+  <img src="../../static/post-images/pomodoro-timer-app.jpeg" alt="Inspriration Pomodoro App" />
 </figure>
 
 ### Finding Plugins
@@ -45,7 +45,7 @@ Enough of my rambling. Have a look at the final version and let me know what you
 
 <figure>
   <a href="http://codepen.io/anthkris/full/MaNZWQ/" target="blank">
-    <img src="../../../../public/images/post-images/Screen-Shot-2015-12-16-at-9.02.05-AM.png" alt="Final timer UI" />
+    <img src="../../static/post-images/Screen-Shot-2015-12-16-at-9.02.05-AM.png" alt="Final timer UI" />
   </a>
   <figcaption>Click to see the timer!</figcaption>
 </figure>

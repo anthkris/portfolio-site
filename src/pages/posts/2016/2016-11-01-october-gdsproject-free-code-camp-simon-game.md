@@ -2,7 +2,7 @@
 title: 'October #GDSProject: Free Code Camp Simon Game'
 path: "/blog/october-gdsproject-free-code-camp-simon-game"
 date: '2016-11-01'
-featured: "../../../../public/images/post-images/Screen-Shot-2016-10-30-at-12.40.22-PM.png"
+featured: "../../static/post-images/Screen-Shot-2016-10-30-at-12.40.22-PM.png"
 categories: ["Coding", "GameDev", "Showing my Work"]
 tags: ["free code camp", "game dev", "JavaScript"]
 ---

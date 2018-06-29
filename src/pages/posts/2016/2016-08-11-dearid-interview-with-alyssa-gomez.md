@@ -2,7 +2,7 @@
 title: '#DearID: Interview with Alyssa Gomez'
 path: "/blog/dearid-interview-with-alyssa-gomez"
 date: '2016-08-11'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["dear id", "instructional designer", "interview", "K-12", "teacher"]
 ---

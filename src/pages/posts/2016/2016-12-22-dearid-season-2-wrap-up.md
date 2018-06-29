@@ -2,7 +2,7 @@
 title: '#DearID: Season 2 Wrap Up'
 path: "/blog/dearid-season-2-wrap-up"
 date: '2016-12-22'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["dear id", "showing my work", "wol", "year in projects", "year in review"]
 ---
@@ -16,14 +16,14 @@ Season 2 of Dear ID is finally over! In this episode, I share some stats about m
 We've grown tremendously this season in listens!
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2016-12-21-at-11.54.46-AM.png" alt="screenshot of season 2 stats" />
+  <img src="../../static/post-images/Screen-Shot-2016-12-21-at-11.54.46-AM.png" alt="screenshot of season 2 stats" />
   <figcaption>Season 2 started in September</figcaption>
 </figure>
 
 There's also been a little movement in the most-listened-to episodes, though Jane Bozarth is holding the number 1 spot.
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2016-12-21-at-11.55.01-AM.png" alt="top episodes after season 2" />
+  <img src="../../static/post-images/Screen-Shot-2016-12-21-at-11.55.01-AM.png" alt="top episodes after season 2" />
 </figure>
 
 ## 2016 Year of Projects
@@ -47,11 +47,11 @@ It's been a great year and a great season for learning and making. Here's what I
 
 ## Tiny Projects I've Shipped This Year
 
-*   [This Podcast!](http://www.knanthony.com/blog/dear-instructional-designer-a-sneak-peek-at-the-new-show/)
-*   [Adapt Sample Course](http://www.knanthony.com/blog/trying-out-kineo-adapt-open-source-elearning-authoring-framework/)
+*   [This Podcast!](/blog/dear-instructional-designer-a-sneak-peek-at-the-new-show/)
+*   [Adapt Sample Course](/blog/trying-out-kineo-adapt-open-source-elearning-authoring-framework/)
 *   [Adapt plugin for HTML5 Games](https://www.adaptlearning.org/index.php/plugin-browser/)
-*   [Google Forms Branching Scenario](http://www.knanthony.com/blog/unconventional-using-google-forms-for-text-based-branching/)
-*   [xAPI Experimental Project](http://www.knanthony.com/blog/tracking-everything-in-storyline-with-xapi/)
+*   [Google Forms Branching Scenario](/blog/unconventional-using-google-forms-for-text-based-branching/)
+*   [xAPI Experimental Project](/blog/tracking-everything-in-storyline-with-xapi/)
 *   [Last 7 projects for the Front-End Development Cert in Free Code Camp](https://www.freecodecamp.com/anthkris)
 
 ## Tiny Games I've Shipped This Year

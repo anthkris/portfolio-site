@@ -2,7 +2,7 @@
 title: 'Seriously Though, The Answer is "Make Stuff"'
 path: "/blog/seriously-though-the-answer-is-make-stuff"
 date: '2015-08-31'
-featured: "../../../../public/images/post-images/the-answer-is.png"
+featured: "../../static/post-images/the-answer-is.png"
 categories: ["Inspiration", "Showing my Work", "What If Ideas"]
 tags: ["experience", "making", "portfolio", "portfolio project"]
 ---

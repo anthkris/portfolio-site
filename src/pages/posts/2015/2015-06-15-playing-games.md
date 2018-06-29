@@ -2,7 +2,7 @@
 title: 'Playing Games: Experimenting with Game Makers'
 path: "/blog/playing-games"
 date: '2015-06-15'
-featured: "../../../../public/images/post-images/playing-games.png"
+featured: "../../static/post-images/playing-games.png"
 categories: ["Design", "Showing my Work"]
 tags: ["construct 2", "game design", "phaser io", "stencyl"]
 ---
@@ -15,7 +15,7 @@ The Phaser tutorial was really nice and I liked that they not only game you tuto
 
 <figure>
   <a href="http://www.knanthony.com/showcase/gamedev/phaser/index.html" target="blank">
-    <img src="../../../../public/images/post-images/PhaserIOtutorial.png" alt="Phaser tutorial game" />
+    <img src="../../static/post-images/PhaserIOtutorial.png" alt="Phaser tutorial game" />
   </a>
   <figcaption>Phaser IO Tutorial file. Click to play</figcaption>
 </figure>
@@ -26,7 +26,7 @@ Stencyl development was a little more difficult but I really like the layout of 
 
 <figure>
   <a href="http://www.knanthony.com/showcase/gamedev/stencyl/CrashCourseGame.swf" target="blank">
-    <img src="../../../../public/images/post-images/Stencyltutorial.png" alt="Stencyl tutorial game" />
+    <img src="../../static/post-images/Stencyltutorial.png" alt="Stencyl tutorial game" />
   </a>
   <figcaption>Stencyl Tutorial file. Click to play</figcaption>
 </figure>
@@ -37,7 +37,7 @@ Construct 2 probably gave me the most trouble development-wise and I'm not a hug
 
 <figure>
   <a href="http://knanthony.com/showcase/gamedev/construct2/index.html" target="blank">
-    <img src="../../../../public/images/post-images/construct2tutorial.png" alt="Construct 2 tutorial game" />
+    <img src="../../static/post-images/construct2tutorial.png" alt="Construct 2 tutorial game" />
   </a>
   <figcaption>Made using Construct 2 tutorial. Click to play</figcaption>
 </figure>

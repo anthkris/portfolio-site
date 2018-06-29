@@ -2,7 +2,7 @@
 title: 'Inspiration: Interactive Video'
 path: "/blog/inspiration-interactive-video"
 date: '2015-07-09'
-featured: "../../../../public/images/post-images/Elearning-inspiration1.png"
+featured: "../../static/post-images/Elearning-inspiration1.png"
 categories: ["Design", "Inspiration"]
 tags: ["inspiration", "interaction", "scrolling", "video"]
 ---

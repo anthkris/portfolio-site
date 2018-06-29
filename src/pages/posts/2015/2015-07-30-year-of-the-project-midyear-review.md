@@ -2,7 +2,7 @@
 title: 'Slowing Down to Go Faster: Year of the Project Mid-Year Review'
 path: "/blog/year-of-the-project-midyear-review"
 date: '2015-07-30'
-featured: "../../../../public/images/post-images/Year-of-the-ProjectMid-Year-Review.png"
+featured: "../../static/post-images/Year-of-the-ProjectMid-Year-Review.png"
 categories: ["Showing my Work"]
 tags: ["discovery", "focus", "learning", "professional development", "year of the project"]
 ---
@@ -11,7 +11,7 @@ I've been on hiatus for the last couple of weeks, spending my evenings and weeke
 
 ## Sorting Out My Priorities
 
-That said, there's so much more I want to do. So many tools and technologies I'd like to explore. But I know from experience that, without the opportunity for consistent practice, anything I try to learn will fall by the wayside, forgotten in a couple of months. That's why [consistent making](http://www.knanthony.com/blog/5-reasons-why-instructional-designers-should-make-stuff/) has been such a big thing for me. But making takes time, right? Time I could be using to sleep, reboot, walk my dogs, cook, clean. All the stuff I put off so I can make stuff. I'm starting to really feel the opportunity costs and I'm thinking that a re-prioritization is in order. So here are my top three things that I want to keep learning about and practicing:
+That said, there's so much more I want to do. So many tools and technologies I'd like to explore. But I know from experience that, without the opportunity for consistent practice, anything I try to learn will fall by the wayside, forgotten in a couple of months. That's why [consistent making](/blog/5-reasons-why-instructional-designers-should-make-stuff/) has been such a big thing for me. But making takes time, right? Time I could be using to sleep, reboot, walk my dogs, cook, clean. All the stuff I put off so I can make stuff. I'm starting to really feel the opportunity costs and I'm thinking that a re-prioritization is in order. So here are my top three things that I want to keep learning about and practicing:
 
 *   JavaScript Development
 *   Game Design (particularly with Construct 2 and Twine)

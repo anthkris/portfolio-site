@@ -2,7 +2,7 @@
 title: 'Free Code Camp: No Repeats Please'
 path: "/blog/free-code-camp-no-repeats-please"
 date: '2016-02-18'
-featured: "../../../../public/images/post-images/No-Repeats-Please.png"
+featured: "../../static/post-images/No-Repeats-Please.png"
 categories: ["Coding", "Showing my Work"]
 tags: ["algorithms", "coding", "free code camp", "FreeCodeCamp", "permutation"]
 ---

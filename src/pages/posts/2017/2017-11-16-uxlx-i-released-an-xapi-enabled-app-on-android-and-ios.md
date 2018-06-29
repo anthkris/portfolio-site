@@ -2,12 +2,12 @@
 title: 'UXLX: I released an xAPI-enabled app on Android and iOS'
 path: "/blog/uxlx-i-released-an-xapi-enabled-app-on-android-and-ios"
 date: '2017-11-16'
-featured: "../../../../public/images/post-images/UXLX-App.png"
+featured: "../../static/post-images/UXLX-App.png"
 categories: ["Coding", "Showing my Work"]
 tags: ["Android", "app development", "Ionic", "iOS", "LX", "UX", "UXLX", "web development", "xAPI"]
 ---
 
-[Back in September](http://www.knanthony.com/blog/oy-im-building-an-app/), I talked about an xAPI-enabled app I was building around the intersection between UX (user experience) and LX (learning experience). Well. It's out... Right now. (!!!)
+[Back in September](/blog/oy-im-building-an-app/), I talked about an xAPI-enabled app I was building around the intersection between UX (user experience) and LX (learning experience). Well. It's out... Right now. (!!!)
 
 ## Go Download the App
 
@@ -37,7 +37,7 @@ Submitting to the Android app store is a piece of cake. You have to pay a fee to
 
 ## Getting xAPI to Work
 
-Getting xAPI to work inside of Ionic was a lot like getting it to work inside of other web things. First, I had to include the Tin Can JS library. With Ionic, I was able to do that by installing a node package (See here: [https://www.npmjs.com/search?q=tin%20can&page=1&ranking=optimal](https://www.npmjs.com/search?q=tin%20can&page=1&ranking=optimal)). Then, I had to create files that would help me to send xAPI statements based on what was happening in the app. In my case, I created two files: one to help me track what was happening with video and audio, and the other to help me track what was happening with the basic cards and links. One of the surprisingly difficult things was trying to get the statements from the embedded YouTube videos. YouTube has an API that allows you to know when certain things happen to the player, such as playing and pausing. I had to come up with my own way to figure out when a user had scrubbed forward and backward. But the main issue at the beginning was that, if I had multiple videos in a lesson, the xAPI statements weren't being generated. What I eventually discovered is that, if you are using multiple YouTube videos, you need to give each of them a unique player ID. That's the only way that the YouTube API knows to create and launch a new player for each of them. I haven't tested it yet, but I think this may be the fix that I was looking for [when I was trying to track everything inside of Storyline, last xAPI cohort](http://www.knanthony.com/blog/tracking-everything-in-storyline-with-xapi/).
+Getting xAPI to work inside of Ionic was a lot like getting it to work inside of other web things. First, I had to include the Tin Can JS library. With Ionic, I was able to do that by installing a node package (See here: [https://www.npmjs.com/search?q=tin%20can&page=1&ranking=optimal](https://www.npmjs.com/search?q=tin%20can&page=1&ranking=optimal)). Then, I had to create files that would help me to send xAPI statements based on what was happening in the app. In my case, I created two files: one to help me track what was happening with video and audio, and the other to help me track what was happening with the basic cards and links. One of the surprisingly difficult things was trying to get the statements from the embedded YouTube videos. YouTube has an API that allows you to know when certain things happen to the player, such as playing and pausing. I had to come up with my own way to figure out when a user had scrubbed forward and backward. But the main issue at the beginning was that, if I had multiple videos in a lesson, the xAPI statements weren't being generated. What I eventually discovered is that, if you are using multiple YouTube videos, you need to give each of them a unique player ID. That's the only way that the YouTube API knows to create and launch a new player for each of them. I haven't tested it yet, but I think this may be the fix that I was looking for [when I was trying to track everything inside of Storyline, last xAPI cohort](/blog/tracking-everything-in-storyline-with-xapi/).
 
 ### What Does the App Track?
 

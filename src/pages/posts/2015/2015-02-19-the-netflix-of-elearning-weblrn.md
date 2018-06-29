@@ -2,7 +2,7 @@
 title: 'The Netflix of eLearning: WebLRN'
 path: "/blog/the-netflix-of-elearning-weblrn"
 date: '2015-02-19'
-featured: "../../../../public/images/post-images/logoColor.png"
+featured: "../../static/post-images/logoColor.png"
 categories: ["AWSM Prompts", "Coding"]
 tags: ["curation", "elearning", "netflix"]
 ---
@@ -15,7 +15,7 @@ Take a look at the prototype, built using Bootstrap and some awesome other resou
 
 <figure>
   <a href="http://knanthony.com/showcase/WEBLRN/index.html" target="blank">
-    <img src="../../../../public/images/post-images/screenshot.png" alt="WebLRN Screenshot" />
+    <img src="../../static/post-images/screenshot.png" alt="WebLRN Screenshot" />
   </a>
   <figcaption>Click the image to look at the WebLRN prototype.</figcaption>
 </figure>

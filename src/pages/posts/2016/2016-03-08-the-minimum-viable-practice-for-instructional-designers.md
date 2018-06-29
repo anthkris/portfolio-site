@@ -2,7 +2,7 @@
 title: "The Minimum Viable Practice for Instructional Designers"
 path: "/blog/the-minimum-viable-practice-for-instructional-designers"
 date: '2016-03-08'
-featured: "../../../../public/images/post-images/MinimumViablePractice.png"
+featured: "../../static/post-images/MinimumViablePractice.png"
 categories: ["Design", "Showing my Work", "Tips", "What If Ideas"]
 tags: ["minimum viable product", "practice", "prototyping", "rapid prototyping"]
 ---
@@ -11,7 +11,7 @@ You know what's really cool? A couple of people at my job set up a neat experien
 
 ## Practice made Even Easier
 
-I've written more than once about why I think practice is so important (see my posts [here](http://www.knanthony.com/blog/less-talk-more-practice-instructional-design-communities-of-practice/) and [here](http://www.knanthony.com/blog/5-reasons-why-instructional-designers-should-make-stuff/)) but I know that a lot of the reason why people don't do this is because it takes time that they'd rather be spending doing other stuff. I've run into this myself A LOT, but I can afford to and choose to prioritize my practice. And it got me thinking, how could I make it even easier to practice? What's the minimum thing that an instructional designer could do?
+I've written more than once about why I think practice is so important (see my posts [here](/blog/less-talk-more-practice-instructional-design-communities-of-practice/) and [here](/blog/5-reasons-why-instructional-designers-should-make-stuff/)) but I know that a lot of the reason why people don't do this is because it takes time that they'd rather be spending doing other stuff. I've run into this myself A LOT, but I can afford to and choose to prioritize my practice. And it got me thinking, how could I make it even easier to practice? What's the minimum thing that an instructional designer could do?
 
 ## Minimum Viable Product
 
@@ -27,7 +27,7 @@ Obviously, you'd want to do some further research on their website to gain more 
 
 *   Audience is end users, home healthcare business owners and employees
 *   Training is likely on getting the most from the software, using software effectively
-*   Need to emphasize making users awesome, not the tool (See [Kathy Sierra's Badass](http://www.knanthony.com/blog/instructional-design-from-professional-development-to-academia/))
+*   Need to emphasize making users awesome, not the tool (See [Kathy Sierra's Badass](/blog/instructional-design-from-professional-development-to-academia/))
 
 From there, get drawing! What might the UI look like for an online training for this? What type of interaction might you design to help people learn to use important software functions? You can even include other notes, such as: what other insights would you like to have? Who would you interview to get those insights? Who would you want to put this prototype in front of to give you feedback?
 

@@ -2,7 +2,7 @@
 title: 'Dear Instructional Designer: A Sneak Peek at the new Show!'
 path: "/blog/dear-instructional-designer-a-sneak-peek-at-the-new-show"
 date: '2016-04-12'
-featured: "../../../../public/images/post-images/Grab-a-sneak-peek-of-the-new-instructional-design-newbie-podcast.png"
+featured: "../../static/post-images/Grab-a-sneak-peek-of-the-new-instructional-design-newbie-podcast.png"
 categories: ["Design", "elearning", "Showing my Work"]
 tags: ["podcast", "show"]
 ---

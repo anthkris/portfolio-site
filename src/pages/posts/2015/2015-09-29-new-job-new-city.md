@@ -2,7 +2,7 @@
 title: 'New Job, New City'
 path: "/blog/new-job-new-city"
 date: '2015-09-29'
-featured: "../../../../public/images/post-images/IMG_0426-0.png"
+featured: "../../static/post-images/IMG_0426-0.png"
 categories: ["GDS Challenge", "Showing my Work"]
 tags: ["JavaScript", "job", "show your work", "University of Texas", "UT", "work"]
 ---

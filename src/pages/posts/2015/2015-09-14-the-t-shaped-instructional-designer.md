@@ -2,7 +2,7 @@
 title: "The T-Shaped Instructional Designer"
 path: "/blog/the-t-shaped-instructional-designer"
 date: '2015-09-14'
-featured: "../../../../public/images/post-images/T-Shaped-Instructional-Design.png"
+featured: "../../static/post-images/T-Shaped-Instructional-Design.png"
 categories: ["Showing my Work"]
 tags: ["creativity", "experience", "expertise", "influence", "innovation", "t-shape"]
 ---

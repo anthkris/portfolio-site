@@ -2,7 +2,7 @@
 title: "Apple Watch as a Game Changer? Nah."
 path: "/blog/apple-watch-as-a-game-changer"
 date: '2015-03-12'
-featured: "../../../../public/images/post-images/Wearables-for-learning-.png"
+featured: "../../static/post-images/Wearables-for-learning-.png"
 categories: ["Design"]
 tags: ["edtech", "education", "instructional technology", "learning", "technology"]
 ---
@@ -16,7 +16,7 @@ I'm sure there will be a ton of such articles out over the next week or so but I
 Texts? Check. Read and reply to email? Check. Track your steps, calories, and other health info? Check. Help you check the weather? Check. Help you check where you are and how far to your destination? Check. Guess what? This is all stuff your smartphone or tablet can do now. Oh, and the Apple Watch, too. Like I said, buyers gonna buy. But it does call into question whether the watch will really catch on with people who are more discerning than folks who just like to have the latest gadget and, in turn, whether we should spend our time trying to build websites or learning experiences for this particular device and screen size. I don't see it. Unless we're trying to take down Dr. Claw. In that situation... yeah, it totally solves a problem.
 
 <figure>
-  <img src="../../../../public/images/post-images/InspectorGadgetAppleWatch.jpg" alt="Watch from Inspector Gadget" />
+  <img src="../../static/post-images/InspectorGadgetAppleWatch.jpg" alt="Watch from Inspector Gadget" />
   <figcaption>Image and Inspector Gadget reference from BlackNerd</figcaption>
 </figure>
 

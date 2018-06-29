@@ -2,12 +2,12 @@
 title: 'Supply Run: My #1GAM entry for January'
 path: "/blog/supply-run-my-1gam-entry-for-january"
 date: '2017-01-31'
-featured: "../../../../public/images/post-images/Screen-Shot-2017-01-30-at-11.12.20-PM.png"
+featured: "../../static/post-images/Screen-Shot-2017-01-30-at-11.12.20-PM.png"
 categories: ["Coding", "GameDev"]
 tags: ["endless runner", "game development", "phaser JS", "procedural", "programming"]
 ---
 
-I've been in a terrible rush these past couple of weeks, splitting my time between more [Oppia projects](http://www.knanthony.com/blog/what-im-learning-from-my-open-source-contributing-experience/), some side work in instructional design, some algorithm practice, and my January entry to One Game a Month, Supply Run! As I mentioned at the end of season 2 of Dear ID, I wanted to get back on my game development learning track ASAP. I was able to complete another module, this one on creating an endless runner, and, as I try to do regularly, I decided it was a good time to take a break and make my own game, to put what I was learning into practice. This happened to coincide beautifully with the #100DaysOfCode challenge, which I have been enthusiastically following ([you can check my log on Github](https://github.com/anthkris/100-days-of-code/blob/master/log.md))! So it was a good time! I have several game projects in my great big board of ideas, and since I had just completed a module on creating an endless runner, that was the type of game I chose to make. You might have thought that creating a procedurally generated endless runner right after following a tutorial would have been easy work, but .... you'd be wrong. Things started off well but I soon found some glaring problems with my code.
+I've been in a terrible rush these past couple of weeks, splitting my time between more [Oppia projects](/blog/what-im-learning-from-my-open-source-contributing-experience/), some side work in instructional design, some algorithm practice, and my January entry to One Game a Month, Supply Run! As I mentioned at the end of season 2 of Dear ID, I wanted to get back on my game development learning track ASAP. I was able to complete another module, this one on creating an endless runner, and, as I try to do regularly, I decided it was a good time to take a break and make my own game, to put what I was learning into practice. This happened to coincide beautifully with the #100DaysOfCode challenge, which I have been enthusiastically following ([you can check my log on Github](https://github.com/anthkris/100-days-of-code/blob/master/log.md))! So it was a good time! I have several game projects in my great big board of ideas, and since I had just completed a module on creating an endless runner, that was the type of game I chose to make. You might have thought that creating a procedurally generated endless runner right after following a tutorial would have been easy work, but .... you'd be wrong. Things started off well but I soon found some glaring problems with my code.
 
 ## Problems and Solutions
 
@@ -24,7 +24,7 @@ Probably the other big thing I had an issue with was trying to make my game spee
 I built this game (as I have my other Phaser games) using the Cloud9 IDE and pushing my code regularly to Github. I mention this because I think this is the first time I've used this workflow well(ish). When I was getting overwhelmed with the number of problems I was trying to fix and features I was trying to add, I started submitting issues to my Github repository and creating branches to fix and to add. This really did a lot in the way of helping me to focus on one problem at a time and get it fixed.
 
 <figure>
-    <img src="../../../../public/images/post-images/Screen-Shot-2017-01-31-at-12.01.14-AM.png" alt="github issues" />
+    <img src="../../static/post-images/Screen-Shot-2017-01-31-at-12.01.14-AM.png" alt="github issues" />
     <figcaption>Using issues, branches, and pull requests helped me focus on fixing one problem at a time.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ There are still a few minor ticks with bits of the game, but overall, I was able
 
 <figure>
   <a href="https://anthkris.itch.io/supply-run" target="blank">
-    <img src="../../../../public/images/post-images/Screen-Shot-2017-01-30-at-11.12.20-PM.png" alt="Supply Run on Itch.io" />
+    <img src="../../static/post-images/Screen-Shot-2017-01-30-at-11.12.20-PM.png" alt="Supply Run on Itch.io" />
     <figcaption>Play the Game!</figcaption>
   </a>
 </figure>

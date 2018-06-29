@@ -2,7 +2,7 @@
 title: "The Storyteller"
 path: "/blog/the-storyteller"
 date: '2015-09-07'
-featured: "../../../../public/images/post-images/the-storyteller.png"
+featured: "../../static/post-images/the-storyteller.png"
 categories: ["Showing my Work", "Tips"]
 tags: ["engagement", "face-to-face", "manual", "story", "storytelling", "writing"]
 ---

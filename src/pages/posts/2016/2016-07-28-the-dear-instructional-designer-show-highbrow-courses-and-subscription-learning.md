@@ -2,7 +2,7 @@
 title: "The Dear Instructional Designer Show: Highbrow Courses and Subscription Learning"
 path: "/blog/the-dear-instructional-designer-show-highbrow-courses-and-subscription-learning"
 date: '2016-07-28'
-featured: "../../../../public/images/post-images/Highbrow-Courses.png"
+featured: "../../static/post-images/Highbrow-Courses.png"
 categories: ["Dear ID Show", "Inspiration"]
 tags: ["email courses", "Highbrow", "marketing", "microlearning", "subscription learning"]
 ---

@@ -2,7 +2,7 @@
 title: 'May GDS Challege: Call Center Training for Travelly'
 path: "/blog/may-gds-challenge"
 date: '2015-05-25'
-featured: "../../../../public/images/post-images/Travelly-Shipped.png"
+featured: "../../static/post-images/Travelly-Shipped.png"
 categories: ["Design", "elearning", "GDS Challenge"]
 tags: ["call center", "training"]
 ---
@@ -35,7 +35,7 @@ So, after a month's work of development, here's my entry into the first GDS Chal
 
 <figure>
   <a href="http://knanthony.com/showcase/travelly/story.html" target="blank">
-    <img src="../../../../public/images/post-images/travellyscreenshot21.png" alt="Travelly learning game" />
+    <img src="../../static/post-images/travellyscreenshot21.png" alt="Travelly learning game" />
   </a>
   <figcaption>Click on the image to view the demo</figcaption>
 </figure>

@@ -2,7 +2,7 @@
 title: 'August/September GDS Challenge: Mell Hammer Detective Agency'
 path: "/blog/augustseptember-gds-challenge-mell-hammer-detective-agency"
 date: '2015-09-17'
-featured: "../../../../public/images/post-images/Mell-Hammer-Detective-Agency.png"
+featured: "../../static/post-images/Mell-Hammer-Detective-Agency.png"
 categories: ["GDS Challenge", "Showing my Work"]
 tags: ["carmen sandiego", "game development", "Storyline"]
 ---
@@ -33,7 +33,7 @@ I'm definitely interested to see how and whether I can treat some of these issue
 
 <figure>
   <a href="http://knanthony.com/showcase/MellHammer/story.html" target="blank">
-    <img src="../../../../public/images/post-images/Screenshot.png" alt="Mell Hammer game" />
+    <img src="../../static/post-images/Screenshot.png" alt="Mell Hammer game" />
   </a>
   <figcaption>Click the image to view the demo!</figcaption>
 </figure>

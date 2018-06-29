@@ -2,7 +2,7 @@
 title: "Embedding Fonts in Lectora"
 path: "/blog/embedding-fonts-in-lectora"
 date: '2014-10-11'
-featured: "../../../../public/images/post-images/logoColor.png"
+featured: "../../static/post-images/logoColor.png"
 categories: ["elearning", "Tips", "Weekend Project"]
 tags: ["css", "embed", "fonts", "Lectora", "tutorial", "typography"]
 ---
@@ -14,6 +14,6 @@ I'm a big design fan and using the right font at the right time can make a huge
 If you're like me, you may have to test courses with your LMS on a secure server before being able to test on a production (or public) server. In those cases, you may find that the fonts don't show up! To remedy this, simply change the font link to remove "http:"
 
 <figure>
-  <img src="../../../../public/images/post-images/Lectora-font-embed.png" alt="Embedding fonts in Lectora" />
+  <img src="../../static/post-images/Lectora-font-embed.png" alt="Embedding fonts in Lectora" />
   <figcaption>Remove the http to ensure fonts are served in secure environments</figcaption>
 </figure>

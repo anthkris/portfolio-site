@@ -2,7 +2,7 @@
 title: 'Giving Critical Feedback: We Need More of It'
 path: "/blog/giving-critical-feedback-we-need-more-of-it"
 date: '2015-09-03'
-featured: "../../../../public/images/post-images/Giving-feedback.png"
+featured: "../../static/post-images/Giving-feedback.png"
 categories: ["Showing my Work", "Tips"]
 tags: ["critique", "feedback", "praise"]
 ---
@@ -21,7 +21,7 @@ Let me be the first to say that I'm guilty of it myself. Especially when you're 
 
 ## Our Communities Don't Have It
 
-So, we need to make things, and we need to critique them. I tend to do a lot of that myself, but I have been on the lookout for a community that would help, but... I've yet to find one. There are [precious few maker communities in instructional design/L&D anyway](http://www.knanthony.com/blog/5-reasons-why-instructional-designers-should-make-stuff/), and the one's that exist, while they nail being welcoming, completely fail on the critique aspect. Why? I think it goes back to what I wrote earlier. In the service of making people feel comfortable and safe sharing (which is a really important goal), no one has felt safe critiquing another person's work. It seems taboo. Connect that with the fact that the most popular maker community is connected to a particular authoring tool business and you can well imagine that there isn't much of an interest in pushing critique, which can make people feel uncomfortable.
+So, we need to make things, and we need to critique them. I tend to do a lot of that myself, but I have been on the lookout for a community that would help, but... I've yet to find one. There are [precious few maker communities in instructional design/L&D anyway](/blog/5-reasons-why-instructional-designers-should-make-stuff/), and the one's that exist, while they nail being welcoming, completely fail on the critique aspect. Why? I think it goes back to what I wrote earlier. In the service of making people feel comfortable and safe sharing (which is a really important goal), no one has felt safe critiquing another person's work. It seems taboo. Connect that with the fact that the most popular maker community is connected to a particular authoring tool business and you can well imagine that there isn't much of an interest in pushing critique, which can make people feel uncomfortable.
 
 ## How Do We Get It?
 

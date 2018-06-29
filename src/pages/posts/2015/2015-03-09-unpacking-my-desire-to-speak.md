@@ -2,7 +2,7 @@
 title: "Unpacking my Desire to Speak"
 path: "/blog/unpacking-my-desire-to-speak"
 date: '2015-03-09'
-featured: "../../../../public/images/post-images/unpacking-my-desire-to-speak.png"
+featured: "../../static/post-images/unpacking-my-desire-to-speak.png"
 categories: ["Tips"]
 tags: ["brand", "comparison", "industry", "sharing", "speaking"]
 ---

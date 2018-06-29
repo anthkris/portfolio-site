@@ -2,7 +2,7 @@
 title: '#DearID: Interview with Jennifer Maddrell'
 path: "/blog/dearid-interview-with-jennifer-maddrell"
 date: '2016-09-15'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["dear id", "portfolio work", "practice", "volunteering"]
 ---

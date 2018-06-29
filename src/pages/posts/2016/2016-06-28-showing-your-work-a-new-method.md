@@ -2,7 +2,7 @@
 title: 'Showing Your Work: Using a New Method'
 path: "/blog/showing-your-work-a-new-method"
 date: '2016-06-28'
-featured: "../../../../public/images/post-images/Showing-My-Work-with-Livestreaming.png"
+featured: "../../static/post-images/Showing-My-Work-with-Livestreaming.png"
 categories: ["Coding", "Design", "Showing my Work"]
 tags: ["Adapt", "front end development", "live streaming", "showing my work", "streaming", "theming", "Twitch"]
 ---

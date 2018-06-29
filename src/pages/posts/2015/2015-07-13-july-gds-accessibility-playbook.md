@@ -2,7 +2,7 @@
 title: 'July GDS Challenge: Accessibility Playbook'
 path: "/blog/july-gds-accessibility-playbook"
 date: '2015-07-13'
-featured: "../../../../public/images/post-images/Accessibility-Playbook.png"
+featured: "../../static/post-images/Accessibility-Playbook.png"
 categories: ["Coding", "GDS Challenge", "Showing my Work"]
 tags: ["accessibility", "JavaScript", "Jquery", "progressive enhancement"]
 ---
@@ -18,7 +18,7 @@ I settled on an accessibility playbook, based on the lessons I've learned so far
 I began by creating a mockup in Photoshop. As I've written before, I'm finding quite a lot of carryover in design methodologies between web development and elearning development. This was no exception. I love to look at [One Page Love](https://onepagelove.com/) for design inspiration and I loved the simplicity of this [portfolio site of Diogo Akio](http://diogoakio.com.br/index.html). So I decided to emulate that, while still making the site a one-pager.
 
 <figure>
-  <img src="../../../../public/images/post-images/Accessibility-Playbook-Desktop.png" alt="accessibility playbook" />
+  <img src="../../static/post-images/Accessibility-Playbook-Desktop.png" alt="accessibility playbook" />
   <figcaption>Initial Prototype</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ I also took the opportunity to work more with Github for this project and create
 
 <figure>
   <a href="http://anthkris.github.io/Accessible-Playbook/" target="blank">
-    <img src="../../../../public/images/post-images/accessiblity-playbooksite.png" alt="elearning accessibility playbook" />
+    <img src="../../static/post-images/accessiblity-playbooksite.png" alt="elearning accessibility playbook" />
   </a>
   <figcaption>View the Site on Github</figcaption>
 </figure>

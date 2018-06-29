@@ -2,7 +2,7 @@
 title: 'Evolution of a Data Viz: Showing User Journeys through Google Charts'
 path: "/blog/evolution-of-a-data-viz-showing-user-journeys-through-google-charts"
 date: '2015-10-22'
-featured: "../../../../public/images/post-images/Untitled-design1.png"
+featured: "../../static/post-images/Untitled-design1.png"
 categories: ["Coding", "Design", "Showing my Work"]
 tags: ["coding", "data", "data visualization", "data viz", "google charts"]
 ---
@@ -15,10 +15,10 @@ My first project at my new job has been to visualize student journeys through so
 
 ## Phase I: Get it to Work
 
-[When I first started the project](http://www.knanthony.com/blog/data-viz-experiments-with-google-charts/), I came in with the assumption that I should use D3 JS. But, still being a JavaScript newbie, I saw pretty quickly that I would need to be a lot more comfortable with the language before I could create something using that library. My boss threw out a couple of other possibilities: Google Charts, Processing JS, etc. I looked into Google Charts, which had a timeline chart as a part of the API. This was perfect as it was meant to handle dates and repeat labels. So I jumped in. As is the way with initial programming, I began by just wanting to get a native example in Google Charts to work. This was wonderfully easy. The documentation for the basic charts is excellent. I used the timeline with the native data table and got a working prototype in quick order. The only (sorta) advanced thing I did at this stage was to make the tooltips HTML so as to be able to display the xAPI-like actor-action-object triplet.
+[When I first started the project](/blog/data-viz-experiments-with-google-charts/), I came in with the assumption that I should use D3 JS. But, still being a JavaScript newbie, I saw pretty quickly that I would need to be a lot more comfortable with the language before I could create something using that library. My boss threw out a couple of other possibilities: Google Charts, Processing JS, etc. I looked into Google Charts, which had a timeline chart as a part of the API. This was perfect as it was meant to handle dates and repeat labels. So I jumped in. As is the way with initial programming, I began by just wanting to get a native example in Google Charts to work. This was wonderfully easy. The documentation for the basic charts is excellent. I used the timeline with the native data table and got a working prototype in quick order. The only (sorta) advanced thing I did at this stage was to make the tooltips HTML so as to be able to display the xAPI-like actor-action-object triplet.
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2015-10-06-at-5.10.32-PM.png" alt="time based data viz with colored blocks for activities" />
+  <img src="../../static/post-images/Screen-Shot-2015-10-06-at-5.10.32-PM.png" alt="time based data viz with colored blocks for activities" />
 </figure>
 
 ## Phase II: Create some Controls
@@ -120,7 +120,7 @@ dashboard.bind(studentFilter, chart);
 ```
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2015-10-20-at-12.30.25-PM.png" alt="chart UI for multiple students" />
+  <img src="../../static/post-images/Screen-Shot-2015-10-20-at-12.30.25-PM.png" alt="chart UI for multiple students" />
   <figcaption>Google timeline chart with dashboard</figcaption>
 </figure>
 
@@ -138,11 +138,11 @@ var data = response.getDataTable();
 So, after I got everything working, I decided to add a little flair. Taking my queue from the [beautiful Daily Routines of Famous Creative People site](https://podio.com/site/creative-routines), I used an initializer Bootstrap template to style my third iteration. It isn't perfect. There's too much white space between the timeline and the controls. But it is (clunkily) responsive. So that's a win!
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2015-10-20-at-12.44.49-PM.png" alt="Final UI for multi-student chart" />
+  <img src="../../static/post-images/Screen-Shot-2015-10-20-at-12.44.49-PM.png" alt="Final UI for multi-student chart" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2015-10-20-at-12.45.03-PM.png" alt="Daily Routines interactive chart" />
+  <img src="../../static/post-images/Screen-Shot-2015-10-20-at-12.45.03-PM.png" alt="Daily Routines interactive chart" />
 </figure>
 
 ## Thoughts and Next Steps

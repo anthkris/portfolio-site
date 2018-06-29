@@ -2,7 +2,7 @@
 title: "Data Viz Experiments with Google Charts"
 path: "/blog/data-viz-experiments-with-google-charts"
 date: '2015-10-07'
-featured: "../../../../public/images/post-images/Google-Charts-Data-Viz.png"
+featured: "../../static/post-images/Google-Charts-Data-Viz.png"
 categories: ["Design", "Showing my Work"]
 tags: ["data", "data visualization", "data viz", "user journey", "user path", "visualization"]
 ---
@@ -14,7 +14,7 @@ I'm currently working on a project seeking to transform click stream data taken 
 [D3](http://d3js.org/) is a JavaScript library specifically for creating data visualizations. While there are a ton of examples to pull from, and I did manage to hack together a stacked bar chart, I found that, with my current level of JavaScript understanding at least, D3 is too complex to try and learn and use quickly. It's definitely on the list but it's something that will take some time to understand. The other big issue that I ran into while trying to create the interactive versions is trying to find a viz that works when using a systematic tool like D3. I began the project by looking over various charts and graphs from D3, taking a good look at [Stephanie Evergreen's awesome site](http://stephanieevergreen.com/), and revisiting the amazing [Ann Emery's Chart Choosing Tool](http://annkemery.com/essentials/). I created a lookbook in PowerPoint and then, after a few good walks around my building, I then created some mockups. I settled on the stacked bar chart as the best choice. It makes it the data easy to interpret and allows anyone to see the difference between user journeys at a glance.
 
 <figure>
-  <img src="../../../../public/images/post-images/Slide02.png" alt="student journey prototype" />
+  <img src="../../static/post-images/Slide02.png" alt="student journey prototype" />
   <figcaption>My ugly prototype to visualize a student journey through the course. The legend is off screen.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ However, when trying to actually use a stacked bar chart, the problem is that ea
 I talked it over with my boss, and he suggested trying [Google Charts](https://developers.google.com/chart/?hl=en). Right off the bat, I found Google Charts much easier to use. The inline version of the timeline chart proved to be the best option. By default, the chart colors all data with the same title the same, making it easy to group event types by color. However, given the data I have, which includes start time for different course events, I could also plot those activities accurately; allowing for that scenario of viewed a page, watched a video, viewed a page. Included tooltip functionality made it easy to create tooltips on hover that showed the xAPI-like statement for each event.
 
 <figure>
-  <img src="../../../../public/images/post-images/Screen-Shot-2015-10-06-at-5.10.32-PM.png" alt="student journey prototype in google charts" />
+  <img src="../../static/post-images/Screen-Shot-2015-10-06-at-5.10.32-PM.png" alt="student journey prototype in google charts" />
 </figure>
 
 ## Future Functionality

@@ -2,7 +2,7 @@
 title: "Other Thoughts on Small Wins"
 path: "/blog/sometimes-you-need-a-small-win"
 date: '2016-06-14'
-featured: "../../../../public/images/post-images/wikipediaViewer1.png"
+featured: "../../static/post-images/wikipediaViewer1.png"
 categories: ["Coding", "Showing my Work", "Tips"]
 tags: ["angular js", "coding", "free code camp", "small win", "wikipedia"]
 ---

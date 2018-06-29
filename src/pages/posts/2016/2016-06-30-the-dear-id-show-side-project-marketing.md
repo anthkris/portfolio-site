@@ -2,7 +2,7 @@
 title: 'The Dear ID Show: Side Project Marketing'
 path: "/blog/the-dear-id-show-side-project-marketing"
 date: '2016-06-30'
-featured: "../../../../public/images/post-images/side-project-marketing.png"
+featured: "../../static/post-images/side-project-marketing.png"
 categories: ["Dear ID Show", "What If Ideas"]
 tags: ["business", "elearning business", "instructional design business", "marketing", "side projects"]
 ---

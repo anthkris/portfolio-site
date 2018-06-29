@@ -2,7 +2,7 @@
 title: '#Dear ID: Interview with Craig Wiggins'
 path: "/blog/dear-id-interview-with-craig-wiggins"
 date: '2016-09-08'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["ADL", "dear id", "instructional design", "xAPI"]
 ---

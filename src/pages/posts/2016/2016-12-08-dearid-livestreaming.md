@@ -2,7 +2,7 @@
 title: '#DearID: Livestreaming'
 path: "/blog/dearid-livestreaming"
 date: '2016-12-08'
-featured: "../../../../public/images/post-images/LiveStreaming.png"
+featured: "../../static/post-images/LiveStreaming.png"
 categories: ["Dear ID Show"]
 tags: ["deep work", "livestreaming", "show your work", "Twitch"]
 ---

@@ -2,7 +2,7 @@
 title: 'Good Reads: You''re my Favorite Client and Advice on Portfolios'
 path: "/blog/good-reads-youre-my-favorite-client-and-advice-on-portfolios"
 date: '2016-09-13'
-featured: "../../../../public/images/post-images/Good-Reads.png"
+featured: "../../static/post-images/Good-Reads.png"
 categories: ["Design", "Good Reads"]
 tags: ["design", "mike monteiro", "personal project", "portfolio design", "portfolio project"]
 ---
@@ -38,7 +38,7 @@ It's not all doom and gloom. He also points out several good signs that should e
 
 ### Is the Work an Eclectic Mix?
 
-One of the things Monteiro states explicitly (which I think is also a problem we have in the ID space) is that a client should not shy away from designers who haven't worked in their industry. In fact, people who don't know "[how it's always been done](http://www.knanthony.com/blog/3-benefits-of-ignorance-for-instructional-designers/)" can be a breath of fresh air for a design problem, able to synthesize their experience from other industries into how they work in this new space. We still have a long way to go in convincing employers and clients of this (that's who this book is for!), and Monteiro writes that a designer who can show the work they've done in a variety of industries and contexts is someone who shows that they have curiosity and the ability to apply their skills to problems across domains. This is a good thing.
+One of the things Monteiro states explicitly (which I think is also a problem we have in the ID space) is that a client should not shy away from designers who haven't worked in their industry. In fact, people who don't know "[how it's always been done](/blog/3-benefits-of-ignorance-for-instructional-designers/)" can be a breath of fresh air for a design problem, able to synthesize their experience from other industries into how they work in this new space. We still have a long way to go in convincing employers and clients of this (that's who this book is for!), and Monteiro writes that a designer who can show the work they've done in a variety of industries and contexts is someone who shows that they have curiosity and the ability to apply their skills to problems across domains. This is a good thing.
 
 ### Does Every Piece Have a Story?
 

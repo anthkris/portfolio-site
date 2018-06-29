@@ -2,7 +2,7 @@
 title: "Travel.ly In Progress"
 path: "/blog/travel-ly-in-progress"
 date: '2015-05-11'
-featured: "../../../../public/images/post-images/Travelly_featured.png"
+featured: "../../static/post-images/Travelly_featured.png"
 categories: ["Design", "elearning", "GDS Challenge"]
 tags: ["map", "subway", "travel", "tube", "underground"]
 ---
@@ -10,7 +10,7 @@ tags: ["map", "subway", "travel", "tube", "underground"]
 I didn't spend nearly as long as I should have liked to on my GDS Challenge this week, between my volunteer project and other things. But I think I have a good feel for where it's going.
 
 <figure>
-  <img src="../../../../public/images/post-images/travellydemo.gif" alt="Travelly course demo functionality" />
+  <img src="../../static/post-images/travellydemo.gif" alt="Travelly course demo functionality" />
 </figure>
 
 ## Look and Feel

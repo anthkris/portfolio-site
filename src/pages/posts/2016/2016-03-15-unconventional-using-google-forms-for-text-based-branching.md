@@ -2,7 +2,7 @@
 title: 'Unconventional Tool: Using Google Forms for Text-Based Branching Scenarios'
 path: "/blog/unconventional-using-google-forms-for-text-based-branching"
 date: '2016-03-15'
-featured: "../../../../public/images/post-images/Google-Forms.png"
+featured: "../../static/post-images/Google-Forms.png"
 categories: ["Design", "Showing my Work", "What If Ideas"]
 tags: ["branching", "branching scenario", "google forms", "scenario", "tools"]
 ---
@@ -11,7 +11,7 @@ Recently in work land, I've been helping to explore accessible alternative solut
 
 ## A Free Tool for Your Practice
 
-Of course one of the main reasons I liked the idea so much was the relatively low barrier to entry. I've written before about the [importance of practice as designers](http://www.knanthony.com/blog/less-talk-more-practice-instructional-design-communities-of-practice/) and I realize that the lack of free, easy-to-use tools can be an issue. Using your Google account to create a branching scenario is one thing that just about anyone can do, no money down. As an added benefit, you could discuss your work in the context of accessibility, mentioning that you chose to use Google forms over a branching tool like Twine because it would be accessible to screen readers. An easy win to add to your portfolio.
+Of course one of the main reasons I liked the idea so much was the relatively low barrier to entry. I've written before about the [importance of practice as designers](/blog/less-talk-more-practice-instructional-design-communities-of-practice/) and I realize that the lack of free, easy-to-use tools can be an issue. Using your Google account to create a branching scenario is one thing that just about anyone can do, no money down. As an added benefit, you could discuss your work in the context of accessibility, mentioning that you chose to use Google forms over a branching tool like Twine because it would be accessible to screen readers. An easy win to add to your portfolio.
 
 ## A Demo
 

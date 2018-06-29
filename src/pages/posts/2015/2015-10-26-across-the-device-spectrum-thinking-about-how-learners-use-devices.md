@@ -2,7 +2,7 @@
 title: 'Across the Device Spectrum: Thinking about How Learners use Devices'
 path: "/blog/across-the-device-spectrum-thinking-about-how-learners-use-devices"
 date: '2015-10-26'
-featured: "../../../../public/images/post-images/Across-the-device-spectrum.png"
+featured: "../../static/post-images/Across-the-device-spectrum.png"
 categories: ["Design", "What If Ideas"]
 tags: ["devices", "elearning", "m-learning", "multi-device spectrum"]
 ---

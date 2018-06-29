@@ -2,7 +2,7 @@
 title: 'DearID: PowerPoint for Video'
 path: "/blog/dearid-powerpoint-for-video"
 date: '2016-11-24'
-featured: "../../../../public/images/post-images/PowerPoint-as-a-Video-Tool.png"
+featured: "../../static/post-images/PowerPoint-as-a-Video-Tool.png"
 categories: ["Dear ID Show"]
 tags: ["animation", "maker challenge", "PowerPoint", "tools", "video"]
 ---

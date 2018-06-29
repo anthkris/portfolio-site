@@ -2,7 +2,7 @@
 title: "Information Design and Digital Magazines"
 path: "/blog/information-design-and-digital-magazines"
 date: '2014-11-10'
-featured: "../../../../public/images/post-images/ediblesscreenshot2.png"
+featured: "../../static/post-images/ediblesscreenshot2.png"
 categories: ["Design", "Elearning Heroes Challenge"]
 tags: ["digital magazine", "information design", "magazine", "online magazine"]
 ---
@@ -14,27 +14,27 @@ This week's Elearning Heroes Challenge was to create a digital magazine mockup. 
 I spent about a two days procrastinating on this particular challenge, until I settled to doing something with food and looked to Google for inspiration.
 
 <figure>
-  <img src="../../../../public/images/post-images/cooking-magazine-1.jpg" alt="Stay Delicious Magazine" />
+  <img src="../../static/post-images/cooking-magazine-1.jpg" alt="Stay Delicious Magazine" />
 </figure>
 
 My first stop was [Inspiration Hut](http://inspirationhut.net/inspiration/51-beautiful-and-interactive-examples-of-digital-magazine-design/ "51 Interactive Examples of Digital Magazine Design"). This article shows iPad mockups of several different digital magazines. I focused on the food one, which was nice and bright and image heavy. After that, I dug into the newsstand offerings of the iPad. I was drawn mostly to Giada and Food and Wine. Giada had a great layout and I liked the way the text for the articles was designed. I also liked the way the Contents screen was photo-centric.
 
 <figure>
-  <img src="../../../../public/images/post-images/screen480x480.jpeg" alt="Giada Contents Screen" />
+  <img src="../../static/post-images/screen480x480.jpeg" alt="Giada Contents Screen" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Giadascreen480x480.jpeg" alt="Giada article view" />
+  <img src="../../static/post-images/Giadascreen480x480.jpeg" alt="Giada article view" />
 </figure>
 
 Food and Wine had some great UI elements to allow users to easily get straight to the recipes or to different articles.
 
 <figure>
-  <img src="../../../../public/images/post-images/Foodandwinescreen480x480.jpeg" alt="Food and Wine article" />
+  <img src="../../static/post-images/Foodandwinescreen480x480.jpeg" alt="Food and Wine article" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Foodandwine2screen480x480.jpeg" alt="Food and Wine Recipes button" />
+  <img src="../../static/post-images/Foodandwine2screen480x480.jpeg" alt="Food and Wine Recipes button" />
 </figure>
 
 ## Resources
@@ -53,5 +53,5 @@ I also wanted to really explore all of the different interactions that could be 
 I'm really proud of how it turned out. [Take a look at the demo](http://knanthony.com/showcase/digimag/story.html "Edibles").
 
 <figure>
-  <img src="../../../../public/images/post-images/ediblesscreenshot.png" alt="Edibles Demo" />
+  <img src="../../static/post-images/ediblesscreenshot.png" alt="Edibles Demo" />
 </figure>

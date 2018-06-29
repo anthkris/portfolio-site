@@ -2,7 +2,7 @@
 title: 'The DearID Show: Interview with Ido Abramovich'
 path: "/blog/the-dearid-show-interview-with-ido-abramovich"
 date: '2016-08-04'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["business", "dear id", "entrepreneurship", "TAAS", "technical training", "training as a service"]
 ---

@@ -2,7 +2,7 @@
 title: '#DearID Episode 43: A Tale of Two Projects with Zsolt Olah'
 path: "/blog/dearid-episode-43-a-tale-of-two-projects-with-zsolt-olah"
 date: '2017-05-04'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show", "Design"]
 tags: ["dear id", "instructional design", "newbie"]
 ---

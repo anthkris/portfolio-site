@@ -2,7 +2,7 @@
 title: '#DearID Episode 45: Simon Date on Adapt'
 path: "/blog/dearid-episode-45-simon-date-on-adapt"
 date: '2017-06-01'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show", "elearning"]
 tags: ["Adapt", "authoring tools", "DearID", "elearning", "Simon Date"]
 ---

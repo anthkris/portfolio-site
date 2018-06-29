@@ -1,19 +1,27 @@
 var plugins = [{
-      plugin: require('/Users/Jimmy/Documents/jciclitira.com/portfolio-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
+      plugin: require('/Users/anthkris/knanthony.com/knanthony.com/portfolio-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
-//   require('/path/to/plugin1/gatsby-ssr.js'),
-//   require('/path/to/plugin2/gatsby-ssr.js'),
+//   {
+//     plugin: require("/path/to/plugin1/gatsby-ssr.js"),
+//     options: { ... },
+//   },
+//   {
+//     plugin: require("/path/to/plugin2/gatsby-ssr.js"),
+//     options: { ... },
+//   },
 // ]
 
 const apis = require(`./api-ssr-docs`)
 
+// Run the specified API in any plugins that have implemented it
 module.exports = (api, args, defaultReturn) => {
   if (!apis[api]) {
     console.log(`This API doesn't exist`, api)
   }
+
   // Run each plugin in series.
   let results = plugins.map(plugin => {
     if (plugin.plugin[api]) {

@@ -2,7 +2,7 @@
 title: "FCC Tic-Tac-Toe"
 path: "/blog/fcc-tic-tac-toe"
 date: '2016-10-04'
-featured: "../../../../public/images/post-images/tic-tac-toe.png"
+featured: "../../static/post-images/tic-tac-toe.png"
 categories: ["Coding", "GameDev"]
 tags: ["game development", "JavaScript", "tic tac toe"]
 ---
@@ -11,7 +11,7 @@ So, I had the opportunity to attend a Girl Develop It workshop on NodeJS and, wh
 
 ## Starting Game Development
 
-Though this is a simple game, I'm proud of it because I went all vanilla JavaScript for this project. No jQuery, no other frameworks. So besides a concern that some bits of my code aren't exactly DRY (don't repeat yourself), the code is otherwise probably a little more verbose than normal. I actually took an idea from my last Phaser game, [Paleo](http://www.knanthony.com/blog/paleo-another-tiny-game-using-phaserjs/), and hit on the idea of using a grid to keep track of whether or not a cell had actually been filled.
+Though this is a simple game, I'm proud of it because I went all vanilla JavaScript for this project. No jQuery, no other frameworks. So besides a concern that some bits of my code aren't exactly DRY (don't repeat yourself), the code is otherwise probably a little more verbose than normal. I actually took an idea from my last Phaser game, [Paleo](/blog/paleo-another-tiny-game-using-phaserjs/), and hit on the idea of using a grid to keep track of whether or not a cell had actually been filled.
 
 ```javascript
 //Create grid of 9 squares
@@ -91,7 +91,7 @@ Test out the game and let me know if you find any bugs!
 
 <figure>
   <a href="http://codepen.io/anthkris/details/mAAVjq" target="blank">
-    <img src="../../../../public/images/post-images/Screen-Shot-2016-09-27-at-10.43.01-PM.png" alt="game screenshot" />
+    <img src="../../static/post-images/Screen-Shot-2016-09-27-at-10.43.01-PM.png" alt="game screenshot" />
     <figcaption>Play Tic Tac Toe</figcaption>
   </a>
 </figure>

@@ -2,12 +2,12 @@
 title: 'Showing My Work: Digital Magazine'
 path: "/blog/showing-my-work-digital-magazine"
 date: '2014-11-12'
-featured: "../../../../public/images/post-images/logoColor.png"
+featured: "../../static/post-images/logoColor.png"
 categories: ["Design", "Elearning Heroes Challenge", "Showing my Work"]
 tags: ["process", "transparency", "video", "work"]
 ---
 
-Several things have been converging recently. I ordered Jane Bozarth's beautiful book: Show Your Work. I also started following Nancy Duarte. And, most important of all, I had a request from a coworker and SME to sort of pick my brain over video creation after she saw my course trailer (which I hope to be able to share soon! -- Waiting for official course announcements.) All of that made me really think: I should be doing more to show my work —illustrate my process —not only personally but also as a team player at work. Many of the side projects that I do, like creating course trailers or other marketing materials, are currently unique to the team, but I could add value if I showed the process to my teammates. It might not answer all of their questions, they might still need to come to me for clarification, but it would provide a place to start a conversation. Anywhoodle, I decided to take a step in that direction with [Elearning Heroes Challenge Digital Magazines and Interactive E-Learning](http://www.knanthony.com/blog/information-design-and-digital-magazines/ "Information Design and Digital Magazines").
+Several things have been converging recently. I ordered Jane Bozarth's beautiful book: Show Your Work. I also started following Nancy Duarte. And, most important of all, I had a request from a coworker and SME to sort of pick my brain over video creation after she saw my course trailer (which I hope to be able to share soon! -- Waiting for official course announcements.) All of that made me really think: I should be doing more to show my work —illustrate my process —not only personally but also as a team player at work. Many of the side projects that I do, like creating course trailers or other marketing materials, are currently unique to the team, but I could add value if I showed the process to my teammates. It might not answer all of their questions, they might still need to come to me for clarification, but it would provide a place to start a conversation. Anywhoodle, I decided to take a step in that direction with [Elearning Heroes Challenge Digital Magazines and Interactive E-Learning](/blog/information-design-and-digital-magazines/ "Information Design and Digital Magazines").
 
 ## Getting over the Weirdness
 

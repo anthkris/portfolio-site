@@ -2,7 +2,7 @@
 title: "I'm Kristin and This is How I Get Stuff Done"
 path: "/blog/im-kristin-and-this-is-how-i-get-stuff-done"
 date: '2015-01-25'
-featured: "../../../../public/images/post-images/logoColor.png"
+featured: "../../static/post-images/logoColor.png"
 categories: ["Design", "Elearning Heroes Challenge"]
 tags: ["emulate", "how I work", "lifehacker", "reflection", "video"]
 ---
@@ -35,7 +35,7 @@ I decided up front that I would record modularly. That's something I learned a w
 In keeping with my whole professional interview vision, I knew I wanted to have a sort intro video. I dug into some free After Effects templates I found and chose an intro one that I liked ([you can view those on my Pinterest board](http://www.pinterest.com/instbydesign/free-resources/ "My Free Resources Pinterest Board")). Other than that, everything else was done using Camtasia. I remember watching a webinar on making good video a couple of months ago and one of the things I'll always remember about it was the admonition to do simple cuts. I've taken that to heart and it's proved really effective. A few fades, here and there, but mostly the scene is composed of cuts. I uploaded the video to Vimeo. However, since, even after turning the music all the way down and the video audio all the way up in Camtasia, there are still some really low parts, I decided that it was essential to provide captions. My script would have been next to useless so I simply typed what I heard using [Amara](http://amara.org/ "Amara") and uploaded that file to video for the captioning process. I wanted make a separate caption file instead of using Camtasia's internal tool so that I could host the video on Vimeo and not have to host it myself.
 
 <figure>
-  <img src="../../../../public/images/post-images/InterviewCamtasiaEditor.png" alt="Camtasia" />
+  <img src="../../static/post-images/InterviewCamtasiaEditor.png" alt="Camtasia" />
   <figcaption>Camtasia editing screen for my interview vid</figcaption>
 </figure>
 

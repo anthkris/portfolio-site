@@ -2,7 +2,7 @@
 title: "12 Things You Can Do with Lectora and Code"
 path: "/blog/12-things-you-can-do-with-lectora-and-code"
 date: '2015-04-30'
-featured: "../../../../public/images/post-images/Lectora-Code.png"
+featured: "../../static/post-images/Lectora-Code.png"
 categories: ["Coding", "elearning", "Showing my Work"]
 tags: ["code", "coding", "css", "html", "JavaScript", "Lectora Inspire"]
 ---
@@ -23,7 +23,7 @@ Best viewed in the latest Firefox or Chrome browsers on a desktop or laptop. Cli
 
 <figure>
   <a href="http://knanthony.com/showcase/LectoraPreso/index.html" target="blank">
-    <img src="../../../../public/images/post-images/LectoraPreso.png" alt="Presentation slide" />
+    <img src="../../static/post-images/LectoraPreso.png" alt="Presentation slide" />
   </a>
   <figcaption>Click to view the presentation!</figcaption>
 </figure>

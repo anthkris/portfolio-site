@@ -2,7 +2,7 @@
 title: 'Stuff I Like: Will You Fit into Deloitte'
 path: "/blog/stuff-i-like-will-you-fit-into-deloitte"
 date: '2015-01-22'
-featured: "../../../../public/images/post-images/logoColor.png"
+featured: "../../static/post-images/logoColor.png"
 categories: ["Design"]
 tags: ["choose your own adventure", "interaction", "onboarding", "video"]
 ---
@@ -10,7 +10,7 @@ tags: ["choose your own adventure", "interaction", "onboarding", "video"]
 [Have you seen this video?](http://www.raptmedia.com/project/deloitte "Will you fit into Deloitte by Rapt Media") If not, stop what your doing and go watch it. I'll wait...
 
 <figure>
-  <img src="../../../../public/images/post-images/Willyoufitintodeloitte.png" alt="Will You Fit into Deloitte?" />
+  <img src="../../static/post-images/Willyoufitintodeloitte.png" alt="Will You Fit into Deloitte?" />
 </figure>
 
 Awesome, right!  Now, you've probably seen video interactions before but I am madly in love with this one for a few reasons.

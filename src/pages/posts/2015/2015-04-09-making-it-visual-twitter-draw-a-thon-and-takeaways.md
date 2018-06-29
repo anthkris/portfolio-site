@@ -2,7 +2,7 @@
 title: 'Making it Visual: Twitter Draw-a-Thon and Takeaways'
 path: "/blog/making-it-visual-twitter-draw-a-thon-and-takeaways"
 date: '2015-04-09'
-featured: "../../../../public/images/post-images/Make-it-Visual-Lessons-for-a-Draw-a-Thon.png"
+featured: "../../static/post-images/Make-it-Visual-Lessons-for-a-Draw-a-Thon.png"
 categories: ["Design", "Showing my Work"]
 tags: ["drawing", "growth mindset", "practice", "sketchnoting", "visual language"]
 ---
@@ -28,74 +28,74 @@ I'm sure you've seen other posts and articles about it, but I really believe tha
 In cased you missed them, take a look at all 15 days of drawing madness!
 
 <figure>
-  <img src="../../../../public/images/post-images/Day1Boy.png" alt="Day 1: Boy" />
+  <img src="../../static/post-images/Day1Boy.png" alt="Day 1: Boy" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day2BucketofWater.png" alt="Day 2: Bucket of water" />
+  <img src="../../static/post-images/Day2BucketofWater.png" alt="Day 2: Bucket of water" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day2BucketofWater.png" alt="Day 2: Bucket of water" />
+  <img src="../../static/post-images/Day2BucketofWater.png" alt="Day 2: Bucket of water" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day3Money.png" alt="Day 3: Money" />
+  <img src="../../static/post-images/Day3Money.png" alt="Day 3: Money" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day4Dog.png" alt="Day 4: Dog" />
+  <img src="../../static/post-images/Day4Dog.png" alt="Day 4: Dog" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day4Dog.png" alt="Day 4: Dog" />
+  <img src="../../static/post-images/Day4Dog.png" alt="Day 4: Dog" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day5OldManwithBeard.png" alt="Day 5: Old man with a beard" />
+  <img src="../../static/post-images/Day5OldManwithBeard.png" alt="Day 5: Old man with a beard" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day6Poster.jpg" alt="Day 6: Poster" />
+  <img src="../../static/post-images/Day6Poster.jpg" alt="Day 6: Poster" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day7Princess.png" alt="Day 7: Princess" />
+  <img src="../../static/post-images/Day7Princess.png" alt="Day 7: Princess" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day8Watergun.png" alt="Day 8: Water Gun" />
+  <img src="../../static/post-images/Day8Watergun.png" alt="Day 8: Water Gun" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day8Watergun.png" alt="Day 8: Water Gun" />
+  <img src="../../static/post-images/Day8Watergun.png" alt="Day 8: Water Gun" />
 </figure>
 
 
 <figure>
-  <img src="../../../../public/images/post-images/Day9Hamburger.png" alt="Day 9: Hamburger" />
+  <img src="../../static/post-images/Day9Hamburger.png" alt="Day 9: Hamburger" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day10Chef.png" alt="Day 10: Chef" />
+  <img src="../../static/post-images/Day10Chef.png" alt="Day 10: Chef" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day11Cowboy.png" alt="Day 11: Cowboy" />
+  <img src="../../static/post-images/Day11Cowboy.png" alt="Day 11: Cowboy" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day12Bear.png" alt="Day 12: Bear" />
+  <img src="../../static/post-images/Day12Bear.png" alt="Day 12: Bear" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day13Minivan.png" alt="Day 13: Minivan" />
+  <img src="../../static/post-images/Day13Minivan.png" alt="Day 13: Minivan" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day14Tower.png" alt="Day 14: Tower" />
+  <img src="../../static/post-images/Day14Tower.png" alt="Day 14: Tower" />
 </figure>
 
 <figure>
-  <img src="../../../../public/images/post-images/Day15Sheep.png" alt="Day 15: Sheep" />
+  <img src="../../static/post-images/Day15Sheep.png" alt="Day 15: Sheep" />
 </figure>

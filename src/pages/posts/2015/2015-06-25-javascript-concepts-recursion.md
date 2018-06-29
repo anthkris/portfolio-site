@@ -2,7 +2,7 @@
 title: 'JavaScript Concepts: Recursion'
 path: "/blog/javascript-concepts-recursion"
 date: '2015-06-25'
-featured: "../../../../public/images/post-images/JavaScript-Concepts.png"
+featured: "../../static/post-images/JavaScript-Concepts.png"
 categories: ["Coding", "Showing my Work"]
 tags: ["code", "FreeCodeCamp", "JavaScript", "recursion", "showing my work"]
 ---

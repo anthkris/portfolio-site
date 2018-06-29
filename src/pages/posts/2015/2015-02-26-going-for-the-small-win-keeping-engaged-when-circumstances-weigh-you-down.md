@@ -2,7 +2,7 @@
 title: 'Going for the Small Win: Keeping Engaged when Circumstances Weigh you Down'
 path: "/blog/going-for-the-small-win-keeping-engaged-when-circumstances-weigh-you-down"
 date: '2015-02-26'
-featured: "../../../../public/images/post-images/Embracing-the-Near-Win.png"
+featured: "../../static/post-images/Embracing-the-Near-Win.png"
 categories: ["Design", "Tips"]
 tags: ["business", "engagement", "work"]
 ---

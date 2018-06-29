@@ -2,7 +2,7 @@
 title: Credit Where it's Due or Don't Be Aftraid to Use CC
 path: /blog/ credit-where-its-due
 date: "2014-09-24"
-featured: "../../../../public/images/post-images/Dont-be-afraid-to-use-creativeeCommons.png"
+featured: "../../static/post-images/Dont-be-afraid-to-use-creativeeCommons.png"
 categories: ["Design", "elearning"]
 tags: ["attribution", "creative commons", "resources"]
 ---
@@ -12,21 +12,21 @@ In a previous position, when I was designing marketing (flyers, mostly) I really
 1.  **Use the Help**: If you have, or are required to have, any sort of help section for your course or module, this is a perfect place to put credits. You don't have to put them right on screen. A nicely placed button with a pop-up does the trick.
 
 <figure>
-  <img src="../../../../public/images/post-images/FSA114-References.png" alt="References in death investigation course" />
+  <img src="../../static/post-images/FSA114-References.png" alt="References in death investigation course" />
   <figcaption>References and credits can go in a separate help or information section of a course</figcaption>
 </figure>
 
 2.  **Put credits where credits usually go**: If you've been fortunate enough to be able to split up your course and concentrate on interactions, the end of an interaction is a perfect place to put put credits. Again, if space is limited or on-screen credits just don't fit with the design, put in a button and link to another page or a pop-up. Even if you're using a video or creating an infographic, you could use this method.
 
 <figure>
-  <img src="../../../../public/images/post-images/FIVS123-Credits.png" alt="Credtis in BAC game" />
+  <img src="../../static/post-images/FIVS123-Credits.png" alt="Credtis in BAC game" />
   <figcaption>Credits can go very well at the end of an interaction</figcaption>
 </figure>
 
 3.  **Inline (If you can get away with it)**: If it fits with your design, you could also put credits right on the page. Since they aren't main content, feel free to make them small, but still legible.
 
 <figure>
-  <img src="../../../../public/images/post-images/FIVS123-Inline-Credits.png" alt="Credits in types of glass interaction" />
+  <img src="../../static/post-images/FIVS123-Inline-Credits.png" alt="Credits in types of glass interaction" />
   <figcaption>If you can, you might be able to work credits into your on-screen design</figcaption>
 </figure>
 

@@ -22,14 +22,14 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `img`,
-        path: `${__dirname}/public/images`
+        path: `${__dirname}/src/images`
       }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `post-images`,
-        path: `${__dirname}/public/images/post-images`
+        name: `featured`,
+        path: `${__dirname}/src/pages/static/post-images`
       }
     },
     {
@@ -40,7 +40,7 @@ module.exports = {
               resolve: 'gatsby-remark-images',
               options: {
                 maxWidth: 810,
-                quality: 90,
+                quality: 60,
                 linkImagesToOriginal: false,
               },
             },

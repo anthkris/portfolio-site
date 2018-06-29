@@ -2,7 +2,7 @@
 title: 'Paleo: Another Tiny Game using PhaserJS'
 path: "/blog/paleo-another-tiny-game-using-phaserjs"
 date: '2016-09-20'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Design", "GameDev"]
 tags: ["clean eating", "collection", "diet", "game dev", "Paleo", "Phaser"]
 ---
@@ -31,7 +31,7 @@ I had three big problems in this game:
 
 ### Dialog Boxes
 
-The major issue I was having with my dialog boxes was that they weren't firing their complete signal. I spent several days on this (probably 3 or 4 out of my entire development time). I'd used the [dialog function I'd found previously in my Espiritus game](http://www.knanthony.com/blog/espiritus-a-teeny-tiny-game-made-using-phaser-js/) and it worked perfectly, so it was really, really hard to figure out what was going wrong. After more testing, I finally realized that the problem was that, in the previous game, I only had one timer. However, in this game, I had 3 loops and then this timer. So, the dialog box timer never completed because of the loop timers. Having discovered that, though, I was unable to do anything with the normal Phaser methods to stop the specific timer I was after. My attempts either stopped all timers in the game, or none. After being super frustrated and trying everything I could think of, including fiddling around with some JavaScript (non-Phaser) solutions, I finally stumbled upon the Phaser signal that I needed to fire and was able to force it to dispatch, like so:
+The major issue I was having with my dialog boxes was that they weren't firing their complete signal. I spent several days on this (probably 3 or 4 out of my entire development time). I'd used the [dialog function I'd found previously in my Espiritus game](/blog/espiritus-a-teeny-tiny-game-made-using-phaser-js/) and it worked perfectly, so it was really, really hard to figure out what was going wrong. After more testing, I finally realized that the problem was that, in the previous game, I only had one timer. However, in this game, I had 3 loops and then this timer. So, the dialog box timer never completed because of the loop timers. Having discovered that, though, I was unable to do anything with the normal Phaser methods to stop the specific timer I was after. My attempts either stopped all timers in the game, or none. After being super frustrated and trying everything I could think of, including fiddling around with some JavaScript (non-Phaser) solutions, I finally stumbled upon the Phaser signal that I needed to fire and was able to force it to dispatch, like so:
 
 ```javascript
 Paleo.Thorg.prototype.displayNextLetter = function(textObject, message, counter) {
@@ -134,7 +134,7 @@ With all that accomplished and a little polish, I feel good enough about the gam
 
 <figure>
   <a href="https://anthkris.itch.io/paleo" target="blank">
-    <img src="../../../../public/images/post-images/Screen-Shot-2016-09-18-at-12.50.54-PM.png" alt="game screenshot" />
+    <img src="../../static/post-images/Screen-Shot-2016-09-18-at-12.50.54-PM.png" alt="game screenshot" />
     <figcaption>Play the Game!</figcaption>
   </a>
 </figure>

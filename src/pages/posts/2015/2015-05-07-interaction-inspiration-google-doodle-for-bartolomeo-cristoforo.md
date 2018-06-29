@@ -2,7 +2,7 @@
 title: 'Interaction Inspiration: Google Doodle for Bartolomeo Cristoforo'
 path: "/blog/interaction-inspiration-google-doodle-for-bartolomeo-cristoforo"
 date: '2015-05-07'
-featured: "../../../../public/images/post-images/bartolomewgoogledoodle.png"
+featured: "../../static/post-images/bartolomewgoogledoodle.png"
 categories: ["Design"]
 tags: ["doodle", "google", "google doodle", "inspiration", "music", "slider"]
 ---
@@ -20,13 +20,13 @@ But don't be fooled by the simple interface. The animation that it controls is s
 We are also treated to a top-down view of the keyboard that shows which keys he plays, and an inside view of the piano, showing the hammer (relatively) softly hitting the wire.
 
 <figure>
-  <img src="../../../../public/images/post-images/bartsoft.gif" alt="playing the piano softly" />
+  <img src="../../static/post-images/bartsoft.gif" alt="playing the piano softly" />
 </figure>
 
 As we move towards forte, Bartolomeo gets more active in his playing (did you notice the subtle gradations between the two extremes?) and we can see that the hammer hits the keys harder.
 
 <figure>
-  <img src="../../../../public/images/post-images/bartloud.gif" alt="playing the piano loudly" />
+  <img src="../../static/post-images/bartloud.gif" alt="playing the piano loudly" />
 </figure>
 
 How do we know? The size and shape of the sound lines emanating from the hammer and wire. I loved the subtlety there. We can hear the notes getting louder, but we're also given fantastic visual cues that Bartolomeo is hitting the keys harder (at forte he is actually bouncing up and down in the seat in a whole body movement, as opposed to piano where his eyebrows move to the beat) and that the hammer is hitting the wire harder. All of this without a single line of text or a voice over. It makes me thing about how often we justify instruction text and voice over with the idea that our users just won't get it otherwise. Here's a doodle with truly international reach that illustrated a concept without either of those things. If nothing else, we should file it as inspiration that it can be done!

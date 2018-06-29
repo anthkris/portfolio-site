@@ -2,7 +2,7 @@
 title: "Discussion Forums in the Online Space"
 path: "/blog/discussion-forums-in-the-online-space"
 date: '2016-03-22'
-featured: "../../../../public/images/post-images/Discussion-forums-in-the-online-space.png"
+featured: "../../static/post-images/Discussion-forums-in-the-online-space.png"
 categories: ["Design"]
 tags: ["discussion", "discussion forums", "online discussion"]
 ---

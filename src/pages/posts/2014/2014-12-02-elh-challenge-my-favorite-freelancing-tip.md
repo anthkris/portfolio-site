@@ -2,7 +2,7 @@
 title: 'ELH Challenge: My Favorite Freelancing Tip'
 path: "/blog/elh-challenge-my-favorite-freelancing-tip"
 date: '2014-12-02'
-featured: "../../../../public/images/post-images/logoColor.png"
+featured: "../../static/post-images/logoColor.png"
 categories: ["Elearning Heroes Challenge", "Tips"]
 tags: ["design", "mockup", "photoshop", "poster", "tips"]
 ---
@@ -14,5 +14,5 @@ I am not a freelancer. But I've thought about it a lot; what it would mean and h
 Though I may never be the best at anything, that never stops me from trying. I really like to be able to know, whenever I go into an interview situation, that I'm not just some mediocre instructional designer. I'm damn good and I'm working to get better. So for this week's Elearning Heroes Challenge, I posterized this great tip using a free Photoshop poster mockup. 'Cause, hey, I don't do boring.
 
 <figure>
-  <img src="../../../../public/images/post-images/favoritefreelancertip.png" alt="Favorite Free Lancing Tip" />
+  <img src="../../static/post-images/favoritefreelancertip.png" alt="Favorite Free Lancing Tip" />
 </figure>

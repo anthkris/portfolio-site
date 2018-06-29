@@ -2,7 +2,7 @@
 title: 'Adding Value: An Opportunity'
 path: "/blog/adding-value-an-opportunity"
 date: '2016-02-02'
-featured: "../../../../public/images/post-images/Adding-Value.png"
+featured: "../../static/post-images/Adding-Value.png"
 categories: ["Design", "Showing my Work"]
 tags: ["documentation", "resources", "structure", "wikis"]
 ---

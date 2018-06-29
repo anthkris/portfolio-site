@@ -2,7 +2,7 @@
 title: "4 Things You Should Consider before a Volunteer E-Learning Project"
 path: "/blog/4-things-you-should-consider-before-a-volunteer-e-learning-project"
 date: '2015-06-04'
-featured: "../../../../public/images/post-images/4-things-to-consider-before-volunteer-projects.png"
+featured: "../../static/post-images/4-things-to-consider-before-volunteer-projects.png"
 categories: ["Showing my Work", "Tips"]
 tags: ["problems", "project management", "volunteering"]
 ---

@@ -2,7 +2,7 @@
 title: '#DearID Season 3 Sneak Peek'
 path: "/blog/dearid-season-3-sneak-peek"
 date: '2017-01-24'
-featured: "../../../../public/images/post-images/Season3SneakPeek.png"
+featured: "../../static/post-images/Season3SneakPeek.png"
 categories: ["Dear ID Show", "elearning", "Showing my Work"]
 tags: ["analysis", "dear id", "instructional design", "podcast", "steal this idea", "teardown"]
 ---

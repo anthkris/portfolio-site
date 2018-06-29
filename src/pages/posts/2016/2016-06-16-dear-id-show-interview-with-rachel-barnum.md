@@ -2,7 +2,7 @@
 title: "Dear ID Show! Interview with Rachel Barnum"
 path: "/blog/dear-id-show-interview-with-rachel-barnum"
 date: '2016-06-16'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show", "elearning"]
 tags: ["dear id", "face-to-face", "interview", "podcast"]
 ---

@@ -2,7 +2,7 @@
 title: 'DearID: Interview with Ant Pugh'
 path: "/blog/dearid-interview-with-ant-pugh"
 date: '2016-08-18'
-featured: "../../../../public/images/post-images/twitter.jpg"
+featured: "../../static/post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["business", "dear id", "elearning", "email courses", "interview", "subscription learning"]
 ---

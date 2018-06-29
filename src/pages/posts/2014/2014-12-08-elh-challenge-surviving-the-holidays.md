@@ -2,7 +2,7 @@
 title: 'ELH Challenge: Surviving the Holidays'
 path: "/blog/elh-challenge-surviving-the-holidays"
 date: '2014-12-08'
-featured: "../../../../public/images/post-images/logoColor.png"
+featured: "../../static/post-images/logoColor.png"
 categories: ["Elearning Heroes Challenge", "Tips"]
 tags: ["humor", "powtoon", "video"]
 ---

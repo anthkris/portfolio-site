@@ -2,7 +2,7 @@
 title: 'Weeknotes: Learning Dev Camp Day 2 to 3'
 path: "/blog/weeknotes-learning-dev-camp-day-2-to-3"
 date: '2018-06-15'
-featured: "../../../../public/images/post-images/Learning-Dev-Camp-Day-2-and-3.png"
+featured: "../../static/post-images/Learning-Dev-Camp-Day-2-and-3.png"
 categories: ["Commonplace Book", "Weeknotes"]
 tags: ["conferences", "elearning", "learning dev camp"]
 ---
@@ -34,7 +34,7 @@ My first session of the afternoon was on reflecting on the way comic books use v
 *   **Infinite Canvas:** The thing that most captured my imagination was the idea about putting some things off screen and considering an infinite canvas as opposed to being limited to the screen size. I'm not quite sure what I would do with that during design, but I'm intrigued about what that might mean.
 
 <figure>
-    <img src="../../../../public/images/post-images/img_2235.jpg" alt="slide about history of comic book communcation" />
+    <img src="../../static/post-images/img_2235.jpg" alt="slide about history of comic book communcation" />
     <figcaption>Comic book visual communication</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ So often when I hear about engagement, it's in terms of gamification or prettier
 Today was a half day. I spent the morning in Jason Bickle's session around pragmatic instructional design. In his DECLARE method, I saw a lot of what I've done previously with clients by asking them to help me plan out, in spreadsheet form, the content for the course and the correct medium, and the necessary assets. This was really more of a form of project and asset management for efficiency, and it was interesting to hear about how Jason has used his method to make development work work better.
 
 <figure>
-    <img src="../../../../public/images/post-images/img_2241.jpg" alt="stages of conflict journey" />
+    <img src="../../static/post-images/img_2241.jpg" alt="stages of conflict journey" />
     <figcaption>8 stages of the conflict journey</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Then in Katie Stroud's session, she overlayed the hero's journey to thinking abo
 My last presenter session was from Joseph Suarez (!!!) where he told stories about his experience as an instructional designer and extrapolated some important lessons learned. I've read quite a lot around UX (user experience) and Joe shared a really impactful story around how observing his learners with training he designed really blew a whole in his thinking about how he advocated for design. While companies will often prioritize UX in other areas, I think they don't expect it from us, but those tools and methodologies are essential for the work that we do, as well. As I've said before, I think there's a TON we can learn from that discipline.
 
 <figure>
-    <img src="../../../../public/images/post-images/img_2244.jpg" alt="gap between web development and elearning development" />
+    <img src="../../static/post-images/img_2244.jpg" alt="gap between web development and elearning development" />
     <figcaption>The strangeness of elearning courses comes from not bridging the gap.</figcaption>
 </figure>
 
