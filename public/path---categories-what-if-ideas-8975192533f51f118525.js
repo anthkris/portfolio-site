@@ -1,0 +1,2 @@
+webpackJsonp([0xbb6897896d05],{498:function(e,n){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Towards a Model for Professional Development",path:"/blog/towards-a-model-for-professional-development"}}},{node:{frontmatter:{title:"Civic Learning: An Idea Generated from Torrance Learning's Download Un-Conference",path:"/blog/civic-learning-an-idea-generated-from-torrance-learnings-download-un-conference"}}}]}},pathContext:{category:"What If Ideas"}}}});
+//# sourceMappingURL=path---categories-what-if-ideas-8975192533f51f118525.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xa95f227e9a09],{1714:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#DearID: Interview with Alyssa Gomez",path:"/blog/dearid-interview-with-alyssa-gomez"}}}]}},pathContext:{tag:"teacher"}}}});
-//# sourceMappingURL=path---tags-teacher-3e79ffe70b13b0ffe494.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x773b68995170],{1664:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Back to the Storyboard: Throwing it All Out",path:"/blog/back-to-the-storyboard-throwing-it-all-out"}}},{node:{frontmatter:{title:"Modularity in Elearning Design",path:"/blog/modularity-in-elearning-design"}}}]}},pathContext:{tag:"revision"}}}});
-//# sourceMappingURL=path---tags-revision-08542e9bfa6e5d13b5c0.js.map

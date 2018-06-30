@@ -1,2 +1,0 @@
-webpackJsonp([0xb3046b4ef3b9],{1731:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#xAPI Statements Everywhere!",path:"/blog/xapi-statements-everywhere"}}}]}},pathContext:{tag:"Tin Can JS"}}}});
-//# sourceMappingURL=path---tags-tin-can-js-c3ee24cb067bccb0ae18.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xb82aa187f9ed],{1770:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Steal this Idea: Create a Visual Language for your Team",path:"/blog/steal-this-idea-create-a-visual-language-for-your-team"}}},{node:{frontmatter:{title:"Data Viz Experiments with Google Charts",path:"/blog/data-viz-experiments-with-google-charts"}}}]}},pathContext:{tag:"visualization"}}}});
-//# sourceMappingURL=path---tags-visualization-7d43bc3399762b31413c.js.map

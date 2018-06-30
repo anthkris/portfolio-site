@@ -1,2 +1,0 @@
-webpackJsonp([0x5dfae440eaf1],{1738:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Tracking Everything in Storyline with xAPI",path:"/blog/tracking-everything-in-storyline-with-xapi"}}}]}},pathContext:{tag:"tracking"}}}});
-//# sourceMappingURL=path---tags-tracking-4ca0dffb7f90f5b634b2.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([92705126985027],{1732:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Tracking Everything in Storyline with xAPI",path:"/blog/tracking-everything-in-storyline-with-xapi"}}}]}},pathContext:{tag:"tin can"}}}});
-//# sourceMappingURL=path---tags-tin-can-729a1d578a62858ccb1a.js.map

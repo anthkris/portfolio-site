@@ -1,2 +1,0 @@
-webpackJsonp([0x654737252d38],{1791:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"9 Pieces of Advice to My Younger Self",path:"/blog/9-pieces-of-advice-to-my-younger-self"}}}]}},pathContext:{tag:"younger self"}}}});
-//# sourceMappingURL=path---tags-younger-self-84bbc70c46242ce43fab.js.map

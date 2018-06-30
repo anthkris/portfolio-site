@@ -1,2 +1,0 @@
-webpackJsonp([32765110312016],{1345:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#xAPI Cohort Update",path:"/blog/xapi-cohort-update"}}}]}},pathContext:{tag:"AWS"}}}});
-//# sourceMappingURL=path---tags-aws-b066dec8d96a949831d5.js.map

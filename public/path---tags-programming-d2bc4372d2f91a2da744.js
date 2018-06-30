@@ -1,2 +1,0 @@
-webpackJsonp([20956934260092],{1636:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Supply Run: My #1GAM entry for January",path:"/blog/supply-run-my-1gam-entry-for-january"}}},{node:{frontmatter:{title:"#DearID: On Learning to Program",path:"/blog/dearid-on-learning-to-program"}}},{node:{frontmatter:{title:"December GDS Project: Pomodoro Timer",path:"/blog/december-gds-project-pomodoro-timer"}}}]}},pathContext:{tag:"programming"}}}});
-//# sourceMappingURL=path---tags-programming-d2bc4372d2f91a2da744.js.map

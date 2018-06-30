@@ -1,2 +1,0 @@
-webpackJsonp([23764712287137],{1728:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"9 Pieces of Advice to My Younger Self",path:"/blog/9-pieces-of-advice-to-my-younger-self"}}}]}},pathContext:{tag:"time travel"}}}});
-//# sourceMappingURL=path---tags-time-travel-e809f6f6a7443c40ef2b.js.map

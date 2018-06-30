@@ -1,2 +1,0 @@
-webpackJsonp([67571874871416],{1605:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Good Reads: You're my Favorite Client and Advice on Portfolios",path:"/blog/good-reads-youre-my-favorite-client-and-advice-on-portfolios"}}}]}},pathContext:{tag:"personal project"}}}});
-//# sourceMappingURL=path---tags-personal-project-00b1f275e093b4ad7241.js.map

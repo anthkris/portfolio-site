@@ -1,2 +1,0 @@
-webpackJsonp([56545424558033],{1393:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Credit Where it's Due or Don't Be Aftraid to Use CC",path:"/blog/ credit-where-its-due"}}}]}},pathContext:{tag:"creative commons"}}}});
-//# sourceMappingURL=path---tags-creative-commons-35d5747d60bb13653ed9.js.map

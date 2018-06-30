@@ -1,2 +1,0 @@
-webpackJsonp([20589549218],{1343:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"All Work and Then Rest",path:"/blog/all-work-and-then-rest"}}}]}},pathContext:{tag:"Austin Kleon"}}}});
-//# sourceMappingURL=path---tags-austin-kleon-6aa804f9f9a26ec62933.js.map

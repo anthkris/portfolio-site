@@ -1,2 +1,0 @@
-webpackJsonp([0xdb94639ca37c],{1652:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"The Minimum Viable Practice for Instructional Designers",path:"/blog/the-minimum-viable-practice-for-instructional-designers"}}},{node:{frontmatter:{title:"Showing My Work: A New Kind of Kickoff",path:"/blog/showing-my-work-a-new-kind-of-kickoff"}}}]}},pathContext:{tag:"rapid prototyping"}}}});
-//# sourceMappingURL=path---tags-rapid-prototyping-c28b1ff59fdeb9119aeb.js.map

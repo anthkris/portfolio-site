@@ -1,2 +1,2 @@
-webpackJsonp([0xbdf901919e54],{1631:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Supply Run: My #1GAM entry for January",path:"/blog/supply-run-my-1gam-entry-for-january"}}}]}},pathContext:{tag:"procedural"}}}});
+webpackJsonp([0xbdf901919e54],{566:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Supply Run: My #1GAM entry for January",path:"/blog/supply-run-my-1gam-entry-for-january"}}}]}},pathContext:{tag:"procedural"}}}});
 //# sourceMappingURL=path---tags-procedural-950eae155ce82cb3fd79.js.map

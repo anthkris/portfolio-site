@@ -1,2 +1,0 @@
-webpackJsonp([43136683314934],{1762:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Job, New City",path:"/blog/new-job-new-city"}}}]}},pathContext:{tag:"UT"}}}});
-//# sourceMappingURL=path---tags-ut-2fd8eebafdc7abdc0dbb.js.map

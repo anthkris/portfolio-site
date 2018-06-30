@@ -1,2 +1,0 @@
-webpackJsonp([0xc04b6358533b],{1789:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Slowing Down to Go Faster: Year of the Project Mid-Year Review",path:"/blog/year-of-the-project-midyear-review"}}}]}},pathContext:{tag:"year of the project"}}}});
-//# sourceMappingURL=path---tags-year-of-the-project-1b2f1544ac1997825a07.js.map

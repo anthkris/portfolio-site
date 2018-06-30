@@ -1,2 +1,0 @@
-webpackJsonp([0xd772bd3082fd],{1780:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"#DearID: Season 2 Wrap Up",path:"/blog/dearid-season-2-wrap-up"}}},{node:{frontmatter:{title:"Blunt Force Learning",path:"/blog/blunt-force-learning"}}}]}},pathContext:{tag:"wol"}}}});
-//# sourceMappingURL=path---tags-wol-576e11564277e92982b1.js.map

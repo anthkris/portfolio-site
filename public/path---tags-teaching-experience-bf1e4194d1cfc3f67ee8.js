@@ -1,2 +1,0 @@
-webpackJsonp([87713098839531],{1715:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Higher Ed Online Learning May Have a Design Problem",path:"/blog/higher-ed-online-learning-may-have-a-design-problem"}}}]}},pathContext:{tag:"teaching experience"}}}});
-//# sourceMappingURL=path---tags-teaching-experience-bf1e4194d1cfc3f67ee8.js.map

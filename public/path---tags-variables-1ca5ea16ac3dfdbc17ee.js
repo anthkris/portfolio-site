@@ -1,2 +1,0 @@
-webpackJsonp([0xfc2e7fa918ff],{1765:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Articulate vs. Lectora: Insight into Variables",path:"/blog/articulate-vs-lectora-insight-into-variables"}}}]}},pathContext:{tag:"variables"}}}});
-//# sourceMappingURL=path---tags-variables-1ca5ea16ac3dfdbc17ee.js.map

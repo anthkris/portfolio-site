@@ -1,2 +1,0 @@
-webpackJsonp([52976579082846],{1363:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Trying something new",path:"/blog/trying-something-new"}}}]}},pathContext:{tag:"change"}}}});
-//# sourceMappingURL=path---tags-change-f2e85ed38c6077045263.js.map

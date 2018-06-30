@@ -1,2 +1,0 @@
-webpackJsonp([0xb9b7ce8c9492],{1776:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"What I did This Weekend",path:"/blog/what-i-did-this-weekend"}}}]}},pathContext:{tag:"weekend"}}}});
-//# sourceMappingURL=path---tags-weekend-3c33f83f577d0f7d10fc.js.map

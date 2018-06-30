@@ -1,2 +1,0 @@
-webpackJsonp([0xa26194d3c0d7],{1589:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"What if the First Year of College was more like Job Onboarding?",path:"/blog/what-if-the-first-year-of-college-was-more-like-job-onboarding"}}},{node:{frontmatter:{title:"Stuff I Like: Will You Fit into Deloitte",path:"/blog/stuff-i-like-will-you-fit-into-deloitte"}}}]}},pathContext:{tag:"onboarding"}}}});
-//# sourceMappingURL=path---tags-onboarding-e29862cc897c85b84a22.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xef20a3dcdb9e],{1550:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Showing Your Work: Using a New Method",path:"/blog/showing-your-work-a-new-method"}}}]}},pathContext:{tag:"live streaming"}}}});
-//# sourceMappingURL=path---tags-live-streaming-eec2b74669abf4e64af7.js.map

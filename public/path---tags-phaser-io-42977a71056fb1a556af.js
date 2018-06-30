@@ -1,2 +1,0 @@
-webpackJsonp([0x7cecb7720ada],{1607:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Playing Games: Experimenting with Game Makers",path:"/blog/playing-games"}}}]}},pathContext:{tag:"phaser io"}}}});
-//# sourceMappingURL=path---tags-phaser-io-42977a71056fb1a556af.js.map

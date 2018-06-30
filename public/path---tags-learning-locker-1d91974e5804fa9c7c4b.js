@@ -1,2 +1,0 @@
-webpackJsonp([0x61275c6dff13],{1538:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#xAPI Cohort Update",path:"/blog/xapi-cohort-update"}}}]}},pathContext:{tag:"learning locker"}}}});
-//# sourceMappingURL=path---tags-learning-locker-1d91974e5804fa9c7c4b.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([143052364458],{1387:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Copywork: A Forgotten Writing Practice",path:"/blog/copywork-a-forgotten-writing-practice"}}}]}},pathContext:{tag:"copywork"}}}});
-//# sourceMappingURL=path---tags-copywork-f13f5a163d435cd24282.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([62564072417661],{1423:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Making it Visual: Twitter Draw-a-Thon and Takeaways",path:"/blog/making-it-visual-twitter-draw-a-thon-and-takeaways"}}}]}},pathContext:{tag:"drawing"}}}});
-//# sourceMappingURL=path---tags-drawing-2ee7a07325dcb0f7cf36.js.map

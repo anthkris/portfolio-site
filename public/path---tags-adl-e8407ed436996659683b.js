@@ -1,2 +1,0 @@
-webpackJsonp([0xdccf92405616],{1321:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#Dear ID: Interview with Craig Wiggins",path:"/blog/dear-id-interview-with-craig-wiggins"}}}]}},pathContext:{tag:"ADL"}}}});
-//# sourceMappingURL=path---tags-adl-e8407ed436996659683b.js.map

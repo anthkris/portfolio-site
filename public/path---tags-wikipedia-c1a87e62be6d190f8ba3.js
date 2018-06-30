@@ -1,2 +1,0 @@
-webpackJsonp([0x6d27a323f7c3],{1778:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Other Thoughts on Small Wins",path:"/blog/sometimes-you-need-a-small-win"}}}]}},pathContext:{tag:"wikipedia"}}}});
-//# sourceMappingURL=path---tags-wikipedia-c1a87e62be6d190f8ba3.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xd9e117386d9f],{1792:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Zombpocalyse? I don't think so.",path:"/blog/zombpocalyse-i-dont-think-so"}}}]}},pathContext:{tag:"zombies"}}}});
-//# sourceMappingURL=path---tags-zombies-f33e84cc3a014033d2c8.js.map

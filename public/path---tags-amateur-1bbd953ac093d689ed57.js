@@ -1,2 +1,0 @@
-webpackJsonp([7812282964188],{1325:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"How Not to Be an Instructional Design Professional",path:"/blog/how-not-to-be-an-instructional-design-professional"}}}]}},pathContext:{tag:"amateur"}}}});
-//# sourceMappingURL=path---tags-amateur-1bbd953ac093d689ed57.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xfca555abd15e],{1409:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Preventing Workplace Violence",path:"/blog/preventing-workplace-violence"}}}]}},pathContext:{tag:"demo"}}}});
-//# sourceMappingURL=path---tags-demo-41fdc9e66c6e126b3d0b.js.map

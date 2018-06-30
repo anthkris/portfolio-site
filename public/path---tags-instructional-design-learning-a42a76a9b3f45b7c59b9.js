@@ -1,2 +1,2 @@
-webpackJsonp([0x86ad36bc3f6a],{1506:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Hack ID: Resources for Instructional Designers",path:"/blog/hack-id-resources-for-instructional-designers"}}}]}},pathContext:{tag:"instructional design learning"}}}});
+webpackJsonp([0x86ad36bc3f6a],{544:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Hack ID: Resources for Instructional Designers",path:"/blog/hack-id-resources-for-instructional-designers"}}}]}},pathContext:{tag:"instructional design learning"}}}});
 //# sourceMappingURL=path---tags-instructional-design-learning-a42a76a9b3f45b7c59b9.js.map

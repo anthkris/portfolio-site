@@ -1,2 +1,0 @@
-webpackJsonp([62235368007472],{1641:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"4 Things You Should Consider before a Volunteer E-Learning Project",path:"/blog/4-things-you-should-consider-before-a-volunteer-e-learning-project"}}}]}},pathContext:{tag:"project management"}}}});
-//# sourceMappingURL=path---tags-project-management-7e51e9d6c8c408b4f85a.js.map

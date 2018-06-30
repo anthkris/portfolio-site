@@ -1,2 +1,0 @@
-webpackJsonp([0xdc9dc403b5aa],{1758:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Accessible eLearning: Lessons Learned Part 1",path:"/blog/accessible-elearning-lessons-learned-part-1"}}}]}},pathContext:{tag:"usability"}}}});
-//# sourceMappingURL=path---tags-usability-74bfaa4c878044dc745b.js.map

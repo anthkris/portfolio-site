@@ -1,2 +1,0 @@
-webpackJsonp([0x64605ff2c1bc],{1406:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Zombpocalyse? I don't think so.",path:"/blog/zombpocalyse-i-dont-think-so"}}}]}},pathContext:{tag:"decomposition."}}}});
-//# sourceMappingURL=path---tags-decomposition-83ad0d95fa3d79dea5be.js.map

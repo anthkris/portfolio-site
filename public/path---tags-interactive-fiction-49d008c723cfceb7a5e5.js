@@ -1,2 +1,0 @@
-webpackJsonp([0xea7db4613ba7],{1514:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"#DearID: Creating with Twine",path:"/blog/dearid-creating-with-twine"}}},{node:{frontmatter:{title:"My First Twine Story!",path:"/blog/my-first-twine-story"}}}]}},pathContext:{tag:"interactive fiction"}}}});
-//# sourceMappingURL=path---tags-interactive-fiction-49d008c723cfceb7a5e5.js.map

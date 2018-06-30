@@ -1,2 +1,0 @@
-webpackJsonp([51955953901923],{1386:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Go Design Something Challenges",path:"/blog/go-design-something-challenges"}}}]}},pathContext:{tag:"copyright"}}}});
-//# sourceMappingURL=path---tags-copyright-83917b0c09371ee788f0.js.map

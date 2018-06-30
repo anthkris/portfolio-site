@@ -1,2 +1,0 @@
-webpackJsonp([0xd0bde8bafe8a],{1597:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Uniqueness is Not a Goal",path:"/blog/uniqueness-is-not-a-goal"}}}]}},pathContext:{tag:"original"}}}});
-//# sourceMappingURL=path---tags-original-90dcbe1529112bfb7bd4.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xc6413c621166],{1711:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Steal this Idea: Push and Pull Systems",path:"/blog/steal-this-idea-push-and-pull-systems"}}}]}},pathContext:{tag:"systems"}}}});
-//# sourceMappingURL=path---tags-systems-7e653e165392d128882e.js.map

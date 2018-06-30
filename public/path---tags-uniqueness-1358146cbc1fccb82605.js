@@ -1,2 +1,0 @@
-webpackJsonp([76098620676541],{1754:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Pushing the Button: Are stock designs and templates killing Instructional Design?",path:"/blog/pushing-the-button"}}},{node:{frontmatter:{title:"Uniqueness is Not a Goal",path:"/blog/uniqueness-is-not-a-goal"}}}]}},pathContext:{tag:"uniqueness"}}}});
-//# sourceMappingURL=path---tags-uniqueness-1358146cbc1fccb82605.js.map

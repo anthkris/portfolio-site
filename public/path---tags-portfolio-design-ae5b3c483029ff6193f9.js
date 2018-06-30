@@ -1,2 +1,0 @@
-webpackJsonp([0x8e9a0dbae264],{1617:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Good Reads: You're my Favorite Client and Advice on Portfolios",path:"/blog/good-reads-youre-my-favorite-client-and-advice-on-portfolios"}}}]}},pathContext:{tag:"portfolio design"}}}});
-//# sourceMappingURL=path---tags-portfolio-design-ae5b3c483029ff6193f9.js.map

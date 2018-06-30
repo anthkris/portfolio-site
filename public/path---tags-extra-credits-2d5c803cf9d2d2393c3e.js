@@ -1,2 +1,0 @@
-webpackJsonp([0x7073ea1be9b2],{1446:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Inspiration: Extra Credits",path:"/blog/inspiration-extra-credits"}}}]}},pathContext:{tag:"Extra Credits"}}}});
-//# sourceMappingURL=path---tags-extra-credits-2d5c803cf9d2d2393c3e.js.map

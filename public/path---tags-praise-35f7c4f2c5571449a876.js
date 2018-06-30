@@ -1,2 +1,0 @@
-webpackJsonp([0x933d38c264c4],{1626:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Giving Critical Feedback: We Need More of It",path:"/blog/giving-critical-feedback-we-need-more-of-it"}}}]}},pathContext:{tag:"praise"}}}});
-//# sourceMappingURL=path---tags-praise-35f7c4f2c5571449a876.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xc0241133995a],{1678:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Inspiration: Storytelling with Photos and Audio",path:"/blog/inspiration-storytelling-with-photos-and-audio"}}}]}},pathContext:{tag:"simple"}}}});
-//# sourceMappingURL=path---tags-simple-ec9b01255292d5c4f958.js.map

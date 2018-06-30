@@ -1,2 +1,0 @@
-webpackJsonp([0xb11b3405623b],{1337:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Steal this Idea: Create a Visual Language for your Team",path:"/blog/steal-this-idea-create-a-visual-language-for-your-team"}}}]}},pathContext:{tag:"assets"}}}});
-//# sourceMappingURL=path---tags-assets-4ecfdc48896505c0f3f8.js.map

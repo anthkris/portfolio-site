@@ -1,2 +1,0 @@
-webpackJsonp([0x843a76b9428e],{1721:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"A More Nuanced Discussion of Templates",path:"/blog/a-more-nuanced-discussion-of-templates"}}},{node:{frontmatter:{title:"Weekend Project: Interactive Timeline",path:"/blog/weekend-project-interactive-timeline"}}}]}},pathContext:{tag:"template"}}}});
-//# sourceMappingURL=path---tags-template-a26fd4ca2974950548f0.js.map

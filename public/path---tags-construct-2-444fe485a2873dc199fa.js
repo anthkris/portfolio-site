@@ -1,2 +1,0 @@
-webpackJsonp([18396937897999],{1382:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"GDS Challenge No. 2: Zombie Acme U",path:"/blog/gds-challenge-no-2-zombie-acme-u"}}},{node:{frontmatter:{title:"Playing Games: Experimenting with Game Makers",path:"/blog/playing-games"}}},{node:{frontmatter:{title:"Acme U In Progress",path:"/blog/acme-u-in-progress"}}}]}},pathContext:{tag:"construct 2"}}}});
-//# sourceMappingURL=path---tags-construct-2-444fe485a2873dc199fa.js.map

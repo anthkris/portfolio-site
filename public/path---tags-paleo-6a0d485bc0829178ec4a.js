@@ -1,2 +1,0 @@
-webpackJsonp([66446577793308],{1599:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Paleo: Another Tiny Game using PhaserJS",path:"/blog/paleo-another-tiny-game-using-phaserjs"}}}]}},pathContext:{tag:"Paleo"}}}});
-//# sourceMappingURL=path---tags-paleo-6a0d485bc0829178ec4a.js.map

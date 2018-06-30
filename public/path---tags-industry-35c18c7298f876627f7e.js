@@ -1,2 +1,0 @@
-webpackJsonp([69691999706006],{1497:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Unpacking my Desire to Speak",path:"/blog/unpacking-my-desire-to-speak"}}}]}},pathContext:{tag:"industry"}}}});
-//# sourceMappingURL=path---tags-industry-35c18c7298f876627f7e.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xe8a612e7b5fb],{1370:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"JavaScript Concepts: Recursion",path:"/blog/javascript-concepts-recursion"}}},{node:{frontmatter:{title:"12 Things You Can Do with Lectora and Code",path:"/blog/12-things-you-can-do-with-lectora-and-code"}}}]}},pathContext:{tag:"code"}}}});
-//# sourceMappingURL=path---tags-code-4dcd7d8016d997eef1f0.js.map

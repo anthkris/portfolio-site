@@ -1,2 +1,0 @@
-webpackJsonp([53140917324400],{1508:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"#DearID: Interview with Alyssa Gomez",path:"/blog/dearid-interview-with-alyssa-gomez"}}},{node:{frontmatter:{title:"5 Reasons Why Instructional Designers Should Make Stuff",path:"/blog/5-reasons-why-instructional-designers-should-make-stuff"}}}]}},pathContext:{tag:"instructional designer"}}}});
-//# sourceMappingURL=path---tags-instructional-designer-c5c34bd58eb65639c0f9.js.map

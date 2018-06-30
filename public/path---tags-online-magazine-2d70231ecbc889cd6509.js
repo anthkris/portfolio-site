@@ -1,2 +1,0 @@
-webpackJsonp([0xdb79f1331d66],{1593:function(a,n){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Information Design and Digital Magazines",path:"/blog/information-design-and-digital-magazines"}}}]}},pathContext:{tag:"online magazine"}}}});
-//# sourceMappingURL=path---tags-online-magazine-2d70231ecbc889cd6509.js.map

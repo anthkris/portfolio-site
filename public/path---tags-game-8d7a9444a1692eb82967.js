@@ -1,0 +1,2 @@
+webpackJsonp([0x781adf617d83],{537:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#DearID Episode 40: Deep Dive into Sponge UK's PFRA Adapt Course",path:"/blog/dearid-episode-40-deep-dive-into-sponge-uks-pfra-adapt-course"}}}]}},pathContext:{tag:"game"}}}});
+//# sourceMappingURL=path---tags-game-8d7a9444a1692eb82967.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xbd6ac06df0c6],{1745:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Embedding Fonts in Lectora",path:"/blog/embedding-fonts-in-lectora"}}}]}},pathContext:{tag:"tutorial"}}}});
-//# sourceMappingURL=path---tags-tutorial-427d67e6129c3ad0c841.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([20956934260092],{568:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Supply Run: My #1GAM entry for January",path:"/blog/supply-run-my-1gam-entry-for-january"}}}]}},pathContext:{tag:"programming"}}}});
+//# sourceMappingURL=path---tags-programming-4b62fa89949b1db27ab0.js.map

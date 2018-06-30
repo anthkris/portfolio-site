@@ -1,2 +1,0 @@
-webpackJsonp([0xcb96ca4aa79b],{1781:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Go Design Something Challenges",path:"/blog/go-design-something-challenges"}}}]}},pathContext:{tag:"wordpress theming"}}}});
-//# sourceMappingURL=path---tags-wordpress-theming-5d9be517f758e2889271.js.map

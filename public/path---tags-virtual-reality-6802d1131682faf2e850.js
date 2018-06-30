@@ -1,2 +1,2 @@
-webpackJsonp([0x76fc7d80b96c],{1768:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weeknotes: eLBX My day in Review",path:"/blog/weeknotes-elbx-my-day-in-review"}}}]}},pathContext:{tag:"virtual reality"}}}});
+webpackJsonp([0x76fc7d80b96c],{585:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weeknotes: eLBX My day in Review",path:"/blog/weeknotes-elbx-my-day-in-review"}}}]}},pathContext:{tag:"virtual reality"}}}});
 //# sourceMappingURL=path---tags-virtual-reality-6802d1131682faf2e850.js.map

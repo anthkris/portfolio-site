@@ -1,2 +1,0 @@
-webpackJsonp([0x96b50025720c],{1483:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Dear Instructional Designer Show: Highbrow Courses and Subscription Learning",path:"/blog/the-dear-instructional-designer-show-highbrow-courses-and-subscription-learning"}}}]}},pathContext:{tag:"Highbrow"}}}});
-//# sourceMappingURL=path---tags-highbrow-81fb00140041c1cca4b1.js.map

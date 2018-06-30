@@ -1,2 +1,0 @@
-webpackJsonp([0xe13d1638a09a],{1487:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"I'm Kristin and This is How I Get Stuff Done",path:"/blog/im-kristin-and-this-is-how-i-get-stuff-done"}}}]}},pathContext:{tag:"how I work"}}}});
-//# sourceMappingURL=path---tags-how-i-work-f8db13f561b42709091e.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x5d3afd24a4c8],{1290:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Articulate vs. Lectora: Insight into Variables",path:"/blog/articulate-vs-lectora-insight-into-variables"}}},{node:{frontmatter:{title:"AWSM Prompt 2: In Progress",path:"/blog/awsm-prompt-2-in-progress"}}},{node:{frontmatter:{title:"The Netflix of eLearning: WebLRN",path:"/blog/the-netflix-of-elearning-weblrn"}}}]}},pathContext:{category:"AWSM Prompts"}}}});
-//# sourceMappingURL=path---categories-awsm-prompts-99e09b505a37f5c72f60.js.map

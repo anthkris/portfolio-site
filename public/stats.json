@@ -1,72 +1,24 @@
 {
   "assetsByChunkName": {
-    "path---tags-austin-kleon": [
-      "path---tags-austin-kleon-6aa804f9f9a26ec62933.js",
-      "path---tags-austin-kleon-6aa804f9f9a26ec62933.js.map"
-    ],
-    "path---tags-copywork": [
-      "path---tags-copywork-f13f5a163d435cd24282.js",
-      "path---tags-copywork-f13f5a163d435cd24282.js.map"
-    ],
-    "path---tags-scenario": [
-      "path---tags-scenario-cfbb61e3e9ba736a3efc.js",
-      "path---tags-scenario-cfbb61e3e9ba736a3efc.js.map"
-    ],
     "path---blog-dearid-episode-39-supporting-faculty-with-online-teaching-with-leslie-sandoval": [
       "path---blog-dearid-episode-39-supporting-faculty-with-online-teaching-with-leslie-sandoval-675399ae13885f105305.js",
       "path---blog-dearid-episode-39-supporting-faculty-with-online-teaching-with-leslie-sandoval-675399ae13885f105305.js.map"
     ],
     "path---tags-project": [
-      "path---tags-project-c3891943efdf5bffab8e.js",
-      "path---tags-project-c3891943efdf5bffab8e.js.map"
+      "path---tags-project-b5043e3ec9d756145803.js",
+      "path---tags-project-b5043e3ec9d756145803.js.map"
     ],
     "path---tags-podcast": [
-      "path---tags-podcast-8b3869940f334c9d07a8.js",
-      "path---tags-podcast-8b3869940f334c9d07a8.js.map"
-    ],
-    "path---blog-stuff-i-like-will-you-fit-into-deloitte": [
-      "path---blog-stuff-i-like-will-you-fit-into-deloitte-35742add881581c9ef32.js",
-      "path---blog-stuff-i-like-will-you-fit-into-deloitte-35742add881581c9ef32.js.map"
-    ],
-    "path---blog-dont-sit-on-your-darlings": [
-      "path---blog-dont-sit-on-your-darlings-c12d3f9f4b60385edddc.js",
-      "path---blog-dont-sit-on-your-darlings-c12d3f9f4b60385edddc.js.map"
+      "path---tags-podcast-e07c351bef001af46a58.js",
+      "path---tags-podcast-e07c351bef001af46a58.js.map"
     ],
     "path---tags-interaction-design": [
       "path---tags-interaction-design-a7d36a44967acae576d0.js",
       "path---tags-interaction-design-a7d36a44967acae576d0.js.map"
     ],
-    "path---tags-ed-x": [
-      "path---tags-ed-x-5dec3c09c02da396cc16.js",
-      "path---tags-ed-x-5dec3c09c02da396cc16.js.map"
-    ],
-    "path---blog-showing-your-work-a-new-method": [
-      "path---blog-showing-your-work-a-new-method-2f832afca2ff64d55d0f.js",
-      "path---blog-showing-your-work-a-new-method-2f832afca2ff64d55d0f.js.map"
-    ],
-    "path---blog-xapi-statements-everywhere": [
-      "path---blog-xapi-statements-everywhere-ad483e8ae2ae06669662.js",
-      "path---blog-xapi-statements-everywhere-ad483e8ae2ae06669662.js.map"
-    ],
-    "path---tags-mashup": [
-      "path---tags-mashup-bbedade942bde3cc078f.js",
-      "path---tags-mashup-bbedade942bde3cc078f.js.map"
-    ],
-    "path---blog-dearid-game-makers": [
-      "path---blog-dearid-game-makers-b194ef181554aef799dd.js",
-      "path---blog-dearid-game-makers-b194ef181554aef799dd.js.map"
-    ],
     "path---categories-tips": [
-      "path---categories-tips-b429f5602721eba42107.js",
-      "path---categories-tips-b429f5602721eba42107.js.map"
-    ],
-    "path---blog-lessons-learned-in-canvas-lms": [
-      "path---blog-lessons-learned-in-canvas-lms-840d1a9f2fa28eb86268.js",
-      "path---blog-lessons-learned-in-canvas-lms-840d1a9f2fa28eb86268.js.map"
-    ],
-    "path---tags-microlearning": [
-      "path---tags-microlearning-ebc1463007e2f0338f83.js",
-      "path---tags-microlearning-ebc1463007e2f0338f83.js.map"
+      "path---categories-tips-28f38e9eed5f5c20586c.js",
+      "path---categories-tips-28f38e9eed5f5c20586c.js.map"
     ],
     "path---tags-i-os": [
       "path---tags-i-os-a8fa635d6b22d35355c7.js",
@@ -80,297 +32,49 @@
       "path---tags-learning-dev-camp-0c478a0545631e82ef21.js",
       "path---tags-learning-dev-camp-0c478a0545631e82ef21.js.map"
     ],
-    "path---tags-free-support": [
-      "path---tags-free-support-6663e268c022326aa5ab.js",
-      "path---tags-free-support-6663e268c022326aa5ab.js.map"
-    ],
-    "path---blog-instructional-designer-as-product-designer": [
-      "path---blog-instructional-designer-as-product-designer-34efedbba21428915f73.js",
-      "path---blog-instructional-designer-as-product-designer-34efedbba21428915f73.js.map"
-    ],
-    "path---tags-projects": [
-      "path---tags-projects-de9d34a19b6321ecfd0f.js",
-      "path---tags-projects-de9d34a19b6321ecfd0f.js.map"
-    ],
-    "path---blog-interaction-inspiration-google-doodle-for-bartolomeo-cristoforo": [
-      "path---blog-interaction-inspiration-google-doodle-for-bartolomeo-cristoforo-8178d925ee26b0a00b3c.js",
-      "path---blog-interaction-inspiration-google-doodle-for-bartolomeo-cristoforo-8178d925ee26b0a00b3c.js.map"
-    ],
-    "path---blog-keeping-it-simple-in-the-name-of-clarity": [
-      "path---blog-keeping-it-simple-in-the-name-of-clarity-c9258d96decb39387e72.js",
-      "path---blog-keeping-it-simple-in-the-name-of-clarity-c9258d96decb39387e72.js.map"
-    ],
-    "path---blog-copywork-a-forgotten-writing-practice": [
-      "path---blog-copywork-a-forgotten-writing-practice-32578632f1ffdc94f67a.js",
-      "path---blog-copywork-a-forgotten-writing-practice-32578632f1ffdc94f67a.js.map"
-    ],
-    "path---blog-diving-into-oppia": [
-      "path---blog-diving-into-oppia-02be868a6c1db3c02b44.js",
-      "path---blog-diving-into-oppia-02be868a6c1db3c02b44.js.map"
-    ],
-    "path---tags-twitch": [
-      "path---tags-twitch-6e254be6fe216b2a2968.js",
-      "path---tags-twitch-6e254be6fe216b2a2968.js.map"
-    ],
-    "path---tags-title-sequence": [
-      "path---tags-title-sequence-d0738da94b0d041addfc.js",
-      "path---tags-title-sequence-d0738da94b0d041addfc.js.map"
-    ],
-    "path---tags-amateur": [
-      "path---tags-amateur-1bbd953ac093d689ed57.js",
-      "path---tags-amateur-1bbd953ac093d689ed57.js.map"
-    ],
     "path---yunojuno": [
       "path---yunojuno-a0e39f21c11f6a62c5ab.js",
       "path---yunojuno-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---tags-subway": [
-      "path---tags-subway-bb5fa843b75099c1f895.js",
-      "path---tags-subway-bb5fa843b75099c1f895.js.map"
-    ],
-    "path---tags-reflection": [
-      "path---tags-reflection-59bf03b6e197df53db85.js",
-      "path---tags-reflection-59bf03b6e197df53db85.js.map"
-    ],
-    "path---tags-documentation": [
-      "path---tags-documentation-7c591b11daf8329ca67f.js",
-      "path---tags-documentation-7c591b11daf8329ca67f.js.map"
-    ],
-    "path---tags-chain-smoking": [
-      "path---tags-chain-smoking-f76de2df04a6433f22e1.js",
-      "path---tags-chain-smoking-f76de2df04a6433f22e1.js.map"
-    ],
-    "path---tags-originality": [
-      "path---tags-originality-6d00b75bca491ffb322c.js",
-      "path---tags-originality-6d00b75bca491ffb322c.js.map"
-    ],
-    "path---tags-influence": [
-      "path---tags-influence-a4b4e03ccb498ffe62c9.js",
-      "path---tags-influence-a4b4e03ccb498ffe62c9.js.map"
-    ],
-    "path---blog-accessible-elearning-lessons-learned-part-1": [
-      "path---blog-accessible-elearning-lessons-learned-part-1-9f6740b843701211e1a5.js",
-      "path---blog-accessible-elearning-lessons-learned-part-1-9f6740b843701211e1a5.js.map"
-    ],
-    "path---blog-making-it-visual-twitter-draw-a-thon-and-takeaways": [
-      "path---blog-making-it-visual-twitter-draw-a-thon-and-takeaways-c64fceb7c9e01522790c.js",
-      "path---blog-making-it-visual-twitter-draw-a-thon-and-takeaways-c64fceb7c9e01522790c.js.map"
-    ],
-    "path---tags-data": [
-      "path---tags-data-360e8bf79095dd4a39b1.js",
-      "path---tags-data-360e8bf79095dd4a39b1.js.map"
     ],
     "path---tags-learner-journeys": [
       "path---tags-learner-journeys-d5e9c17eed53d5b3e96e.js",
       "path---tags-learner-journeys-d5e9c17eed53d5b3e96e.js.map"
     ],
-    "path---blog-5-reasons-why-instructional-designers-should-make-stuff": [
-      "path---blog-5-reasons-why-instructional-designers-should-make-stuff-44ec63d3c36dc0e521ad.js",
-      "path---blog-5-reasons-why-instructional-designers-should-make-stuff-44ec63d3c36dc0e521ad.js.map"
-    ],
-    "path---tags-graphic-design": [
-      "path---tags-graphic-design-cf3b236ac30f7136ec1b.js",
-      "path---tags-graphic-design-cf3b236ac30f7136ec1b.js.map"
-    ],
-    "path---tags-serious-game": [
-      "path---tags-serious-game-e6fcd63e8713675592ef.js",
-      "path---tags-serious-game-e6fcd63e8713675592ef.js.map"
-    ],
-    "path---tags-learning-experience": [
-      "path---tags-learning-experience-669496363830381e40e7.js",
-      "path---tags-learning-experience-669496363830381e40e7.js.map"
-    ],
-    "path---blog-steal-this-idea-push-and-pull-systems": [
-      "path---blog-steal-this-idea-push-and-pull-systems-2bcccd14250758b05173.js",
-      "path---blog-steal-this-idea-push-and-pull-systems-2bcccd14250758b05173.js.map"
-    ],
-    "path---tags-disability": [
-      "path---tags-disability-4a4b008e6e9983b7ce29.js",
-      "path---tags-disability-4a4b008e6e9983b7ce29.js.map"
-    ],
-    "path---tags-installation": [
-      "path---tags-installation-2c4e4b51370076756ef2.js",
-      "path---tags-installation-2c4e4b51370076756ef2.js.map"
-    ],
-    "path---tags-sliders": [
-      "path---tags-sliders-db6c898834957ca0d8e7.js",
-      "path---tags-sliders-db6c898834957ca0d8e7.js.map"
-    ],
-    "path---tags-show-your-work": [
-      "path---tags-show-your-work-6305d72c095b4fbb34ce.js",
-      "path---tags-show-your-work-6305d72c095b4fbb34ce.js.map"
-    ],
-    "path---blog-august-go-design-something-challenge-carmen-sandiego-like": [
-      "path---blog-august-go-design-something-challenge-carmen-sandiego-like-c9729b360b65b522f768.js",
-      "path---blog-august-go-design-something-challenge-carmen-sandiego-like-c9729b360b65b522f768.js.map"
-    ],
-    "path---tags-powtoon": [
-      "path---tags-powtoon-a20b3d86f396f8ffe150.js",
-      "path---tags-powtoon-a20b3d86f396f8ffe150.js.map"
-    ],
-    "path---tags-construct-2": [
-      "path---tags-construct-2-444fe485a2873dc199fa.js",
-      "path---tags-construct-2-444fe485a2873dc199fa.js.map"
-    ],
-    "path---tags-humor": [
-      "path---tags-humor-2bd7f4b4600fd655e3c9.js",
-      "path---tags-humor-2bd7f4b4600fd655e3c9.js.map"
-    ],
-    "path---tags-instructional-technology": [
-      "path---tags-instructional-technology-dbf8ed11271625c01cbb.js",
-      "path---tags-instructional-technology-dbf8ed11271625c01cbb.js.map"
-    ],
     "path---blog-new-game-prototype-a-clicker-game": [
       "path---blog-new-game-prototype-a-clicker-game-62eec7f1937a2fa81ad4.js",
       "path---blog-new-game-prototype-a-clicker-game-62eec7f1937a2fa81ad4.js.map"
     ],
-    "path---blog-weekend-project-interactive-timeline": [
-      "path---blog-weekend-project-interactive-timeline-e046c1a7601424a96084.js",
-      "path---blog-weekend-project-interactive-timeline-e046c1a7601424a96084.js.map"
-    ],
-    "path---blog-weekend-project-opening-titles": [
-      "path---blog-weekend-project-opening-titles-517abffb26a079bd1a1e.js",
-      "path---blog-weekend-project-opening-titles-517abffb26a079bd1a1e.js.map"
-    ],
     "path---tags-programming": [
-      "path---tags-programming-d2bc4372d2f91a2da744.js",
-      "path---tags-programming-d2bc4372d2f91a2da744.js.map"
-    ],
-    "path---tags-tetris": [
-      "path---tags-tetris-deed3c91af3b15bd0b1e.js",
-      "path---tags-tetris-deed3c91af3b15bd0b1e.js.map"
-    ],
-    "path---blog-dearid-interview-with-jennifer-maddrell": [
-      "path---blog-dearid-interview-with-jennifer-maddrell-caf01fe5f5ecd3606d15.js",
-      "path---blog-dearid-interview-with-jennifer-maddrell-caf01fe5f5ecd3606d15.js.map"
-    ],
-    "path---tags-showing-my-work": [
-      "path---tags-showing-my-work-f84406533586254e7279.js",
-      "path---tags-showing-my-work-f84406533586254e7279.js.map"
-    ],
-    "path---blog-october-gdsproject-free-code-camp-simon-game": [
-      "path---blog-october-gdsproject-free-code-camp-simon-game-4d8a29786bf0b4876196.js",
-      "path---blog-october-gdsproject-free-code-camp-simon-game-4d8a29786bf0b4876196.js.map"
-    ],
-    "path---blog-3-instructional-design-lessons-from-awesome-childrens-television": [
-      "path---blog-3-instructional-design-lessons-from-awesome-childrens-television-8a3e4e405b2092ef7a05.js",
-      "path---blog-3-instructional-design-lessons-from-awesome-childrens-television-8a3e4e405b2092ef7a05.js.map"
-    ],
-    "path---tags-stock": [
-      "path---tags-stock-b6a7b3c709fee97686c0.js",
-      "path---tags-stock-b6a7b3c709fee97686c0.js.map"
-    ],
-    "path---tags-if": [
-      "path---tags-if-0223eba37c1cd1ea234f.js",
-      "path---tags-if-0223eba37c1cd1ea234f.js.map"
+      "path---tags-programming-4b62fa89949b1db27ab0.js",
+      "path---tags-programming-4b62fa89949b1db27ab0.js.map"
     ],
     "path---blog-hosting-h-5-p-content-on-your-own": [
       "path---blog-hosting-h-5-p-content-on-your-own-31ec99218cb99ced49a1.js",
       "path---blog-hosting-h-5-p-content-on-your-own-31ec99218cb99ced49a1.js.map"
     ],
-    "path---tags-time-travel": [
-      "path---tags-time-travel-e809f6f6a7443c40ef2b.js",
-      "path---tags-time-travel-e809f6f6a7443c40ef2b.js.map"
-    ],
-    "path---blog-may-gds-challenge": [
-      "path---blog-may-gds-challenge-5c781bceb31c8e6eed7e.js",
-      "path---blog-may-gds-challenge-5c781bceb31c8e6eed7e.js.map"
-    ],
-    "path---tags-show": [
-      "path---tags-show-acaea742f28e1f57bdc5.js",
-      "path---tags-show-acaea742f28e1f57bdc5.js.map"
-    ],
-    "path---blog-unpacking-my-desire-to-speak": [
-      "path---blog-unpacking-my-desire-to-speak-5e0103e88b39b6c0f1b4.js",
-      "path---blog-unpacking-my-desire-to-speak-5e0103e88b39b6c0f1b4.js.map"
-    ],
-    "path---tags-ebook": [
-      "path---tags-ebook-00efd0bbadf1ebae34d8.js",
-      "path---tags-ebook-00efd0bbadf1ebae34d8.js.map"
-    ],
-    "path---tags-information-design": [
-      "path---tags-information-design-fde11d2db9252e18aa78.js",
-      "path---tags-information-design-fde11d2db9252e18aa78.js.map"
-    ],
     "component---src-templates-categories-js": [
       "component---src-templates-categories-js-8ab68c687598e7349148.js",
       "component---src-templates-categories-js-8ab68c687598e7349148.js.map"
-    ],
-    "path---tags-subscription-learning": [
-      "path---tags-subscription-learning-3570c0961a54f0215357.js",
-      "path---tags-subscription-learning-3570c0961a54f0215357.js.map"
-    ],
-    "path---tags-online-courses": [
-      "path---tags-online-courses-e4680eaa0d4bc7f7fe91.js",
-      "path---tags-online-courses-e4680eaa0d4bc7f7fe91.js.map"
-    ],
-    "path---tags-timer": [
-      "path---tags-timer-7cca950a532acf107edd.js",
-      "path---tags-timer-7cca950a532acf107edd.js.map"
-    ],
-    "path---tags-learning-management-system": [
-      "path---tags-learning-management-system-f2be8d3422045ce6447f.js",
-      "path---tags-learning-management-system-f2be8d3422045ce6447f.js.map"
     ],
     "path---blog-dearid-season-3-sneak-peek": [
       "path---blog-dearid-season-3-sneak-peek-c5fae24f38ea9d479c19.js",
       "path---blog-dearid-season-3-sneak-peek-c5fae24f38ea9d479c19.js.map"
     ],
-    "path---tags-game-engine": [
-      "path---tags-game-engine-8176fcad68b13bb700cd.js",
-      "path---tags-game-engine-8176fcad68b13bb700cd.js.map"
-    ],
     "path---tags-amazon-alexa": [
       "path---tags-amazon-alexa-865767f345eedabf41df.js",
       "path---tags-amazon-alexa-865767f345eedabf41df.js.map"
     ],
-    "path---tags-animation": [
-      "path---tags-animation-e7a7e83d5d7404e865a7.js",
-      "path---tags-animation-e7a7e83d5d7404e865a7.js.map"
-    ],
-    "path---tags-templates": [
-      "path---tags-templates-985a4b8b4872f72f016c.js",
-      "path---tags-templates-985a4b8b4872f72f016c.js.map"
-    ],
     "path---categories": [
-      "path---categories-68743f5b5088427c4b7d.js",
-      "path---categories-68743f5b5088427c4b7d.js.map"
-    ],
-    "path---tags-instructional-design-business": [
-      "path---tags-instructional-design-business-358415d5b0160d9e8c02.js",
-      "path---tags-instructional-design-business-358415d5b0160d9e8c02.js.map"
+      "path---categories-d786e48085257ef73ebb.js",
+      "path---categories-d786e48085257ef73ebb.js.map"
     ],
     "path---gradient": [
       "path---gradient-a0e39f21c11f6a62c5ab.js",
       "path---gradient-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---tags-private-sector": [
-      "path---tags-private-sector-b4e7d96041fd822f31c6.js",
-      "path---tags-private-sector-b4e7d96041fd822f31c6.js.map"
-    ],
-    "path---tags-aws": [
-      "path---tags-aws-b066dec8d96a949831d5.js",
-      "path---tags-aws-b066dec8d96a949831d5.js.map"
-    ],
-    "path---tags-new-job": [
-      "path---tags-new-job-19f1eb061bcc1394f363.js",
-      "path---tags-new-job-19f1eb061bcc1394f363.js.map"
-    ],
-    "path---blog-elh-pictogram": [
-      "path---blog-elh-pictogram-9c3fb1a68f3a17388dde.js",
-      "path---blog-elh-pictogram-9c3fb1a68f3a17388dde.js.map"
-    ],
-    "path---tags-modularity": [
-      "path---tags-modularity-6d2238298b6c68c9b2e8.js",
-      "path---tags-modularity-6d2238298b6c68c9b2e8.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-869dc17fd64b2b4cbe31.js",
       "component---src-pages-index-js-869dc17fd64b2b4cbe31.js.map"
-    ],
-    "path---blog-spheres-of-influence": [
-      "path---blog-spheres-of-influence-63af1a0d3505ad23aa81.js",
-      "path---blog-spheres-of-influence-63af1a0d3505ad23aa81.js.map"
     ],
     "path---suggestv": [
       "path---suggestv-a0e39f21c11f6a62c5ab.js",
@@ -384,153 +88,33 @@
       "path---tags-lx-9959ec9068a7244b07c6.js",
       "path---tags-lx-9959ec9068a7244b07c6.js.map"
     ],
-    "path---tags-breadth": [
-      "path---tags-breadth-306f83b634972fb44635.js",
-      "path---tags-breadth-306f83b634972fb44635.js.map"
-    ],
     "path---tags-coding": [
-      "path---tags-coding-dedd998d5edc6a939a63.js",
-      "path---tags-coding-dedd998d5edc6a939a63.js.map"
-    ],
-    "path---tags-lectora-12": [
-      "path---tags-lectora-12-bb57847b4d2b60a1b53c.js",
-      "path---tags-lectora-12-bb57847b4d2b60a1b53c.js.map"
-    ],
-    "path---blog-weekend-project-mini-branching-scenario": [
-      "path---blog-weekend-project-mini-branching-scenario-0b4fef70db37577b3136.js",
-      "path---blog-weekend-project-mini-branching-scenario-0b4fef70db37577b3136.js.map"
+      "path---tags-coding-294e490e0523718611b2.js",
+      "path---tags-coding-294e490e0523718611b2.js.map"
     ],
     "path---tags-elearning": [
-      "path---tags-elearning-b435ecf1ff610064f4ba.js",
-      "path---tags-elearning-b435ecf1ff610064f4ba.js.map"
-    ],
-    "path---tags-pathways": [
-      "path---tags-pathways-7c07fc42fe7879840c6f.js",
-      "path---tags-pathways-7c07fc42fe7879840c6f.js.map"
+      "path---tags-elearning-614d1f9239681e994f7c.js",
+      "path---tags-elearning-614d1f9239681e994f7c.js.map"
     ],
     "path---tags-standalone": [
       "path---tags-standalone-c81804bb8aa411a9000a.js",
       "path---tags-standalone-c81804bb8aa411a9000a.js.map"
     ],
-    "path---tags-designer-roles": [
-      "path---tags-designer-roles-3ee970b856596281566a.js",
-      "path---tags-designer-roles-3ee970b856596281566a.js.map"
-    ],
-    "path---tags-learning-platform": [
-      "path---tags-learning-platform-e873791c4eacbc7a7b77.js",
-      "path---tags-learning-platform-e873791c4eacbc7a7b77.js.map"
-    ],
-    "path---tags-learning": [
-      "path---tags-learning-ee546ba9d9dad3538c6c.js",
-      "path---tags-learning-ee546ba9d9dad3538c6c.js.map"
-    ],
-    "path---blog-articulate-vs-lectora-insight-into-variables": [
-      "path---blog-articulate-vs-lectora-insight-into-variables-39dc5c82a9da90e66f5a.js",
-      "path---blog-articulate-vs-lectora-insight-into-variables-39dc5c82a9da90e66f5a.js.map"
-    ],
-    "path---tags-videos": [
-      "path---tags-videos-deb79e8abb4417981583.js",
-      "path---tags-videos-deb79e8abb4417981583.js.map"
-    ],
-    "path---tags-future": [
-      "path---tags-future-b7d9d2cc7d53476a0bca.js",
-      "path---tags-future-b7d9d2cc7d53476a0bca.js.map"
-    ],
-    "path---blog-fcc-tic-tac-toe": [
-      "path---blog-fcc-tic-tac-toe-bb2849a312b614eb9748.js",
-      "path---blog-fcc-tic-tac-toe-bb2849a312b614eb9748.js.map"
-    ],
     "path---crowd-scores": [
       "path---crowd-scores-a0e39f21c11f6a62c5ab.js",
       "path---crowd-scores-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---tags-graphs": [
-      "path---tags-graphs-003772df50b5cbc7ea5a.js",
-      "path---tags-graphs-003772df50b5cbc7ea5a.js.map"
-    ],
-    "path---tags-canvas": [
-      "path---tags-canvas-f5a7e1730499f4d27592.js",
-      "path---tags-canvas-f5a7e1730499f4d27592.js.map"
-    ],
-    "path---tags-ut": [
-      "path---tags-ut-2fd8eebafdc7abdc0dbb.js",
-      "path---tags-ut-2fd8eebafdc7abdc0dbb.js.map"
-    ],
-    "path---tags-typography": [
-      "path---tags-typography-55ae6982ad028b067e52.js",
-      "path---tags-typography-55ae6982ad028b067e52.js.map"
     ],
     "path---blog-oy-im-building-an-app": [
       "path---blog-oy-im-building-an-app-98d2faca37c922b5f907.js",
       "path---blog-oy-im-building-an-app-98d2faca37c922b5f907.js.map"
     ],
-    "path---tags-work": [
-      "path---tags-work-e9e03cb5124ea6d902c9.js",
-      "path---tags-work-e9e03cb5124ea6d902c9.js.map"
-    ],
-    "path---tags-cease-and-desist": [
-      "path---tags-cease-and-desist-d3cfd4f20424fa3dbf58.js",
-      "path---tags-cease-and-desist-d3cfd4f20424fa3dbf58.js.map"
-    ],
-    "path---tags-innovation": [
-      "path---tags-innovation-a35368722df50afd4eeb.js",
-      "path---tags-innovation-a35368722df50afd4eeb.js.map"
-    ],
-    "path---tags-emoji": [
-      "path---tags-emoji-59df1eabec108928fdfb.js",
-      "path---tags-emoji-59df1eabec108928fdfb.js.map"
-    ],
-    "path---blog-travel-ly-in-progress": [
-      "path---blog-travel-ly-in-progress-5d69fd5f8bf64c23112b.js",
-      "path---blog-travel-ly-in-progress-5d69fd5f8bf64c23112b.js.map"
-    ],
-    "path---tags-google": [
-      "path---tags-google-8676b300b42c393c4dea.js",
-      "path---tags-google-8676b300b42c393c4dea.js.map"
-    ],
-    "path---tags-broken-coworker": [
-      "path---tags-broken-coworker-d938cf30af41963bb200.js",
-      "path---tags-broken-coworker-d938cf30af41963bb200.js.map"
-    ],
-    "path---tags-constraints": [
-      "path---tags-constraints-4a0457bd6d60565b5705.js",
-      "path---tags-constraints-4a0457bd6d60565b5705.js.map"
-    ],
-    "path---tags-user-path": [
-      "path---tags-user-path-40ef0e5a943153448bd6.js",
-      "path---tags-user-path-40ef0e5a943153448bd6.js.map"
-    ],
     "path---tags-ionic": [
       "path---tags-ionic-b9c75c40c128c6d2d6b6.js",
       "path---tags-ionic-b9c75c40c128c6d2d6b6.js.map"
     ],
-    "path---tags-instructure": [
-      "path---tags-instructure-8a400b7ec554a10f9ca5.js",
-      "path---tags-instructure-8a400b7ec554a10f9ca5.js.map"
-    ],
-    "path---tags-game-narrative": [
-      "path---tags-game-narrative-91f58cef2daa3c4e9cdc.js",
-      "path---tags-game-narrative-91f58cef2daa3c4e9cdc.js.map"
-    ],
-    "path---blog-xapi-cohort-update": [
-      "path---blog-xapi-cohort-update-630dba6118d036b4130d.js",
-      "path---blog-xapi-cohort-update-630dba6118d036b4130d.js.map"
-    ],
-    "path---tags-free-code-camp": [
-      "path---tags-free-code-camp-f2593adc1fb269bd072b.js",
-      "path---tags-free-code-camp-f2593adc1fb269bd072b.js.map"
-    ],
-    "path---blog-tetris-js-updated": [
-      "path---blog-tetris-js-updated-bde1aabb46db0ff70733.js",
-      "path---blog-tetris-js-updated-bde1aabb46db0ff70733.js.map"
-    ],
     "path---blog": [
-      "path---blog-7f01442988c66d4001ad.js",
-      "path---blog-7f01442988c66d4001ad.js.map"
-    ],
-    "path---blog-rocket-animicon": [
-      "path---blog-rocket-animicon-52f7b0c5bcae484c414e.js",
-      "path---blog-rocket-animicon-52f7b0c5bcae484c414e.js.map"
+      "path---blog-2ac2e36f24e18c1d7deb.js",
+      "path---blog-2ac2e36f24e18c1d7deb.js.map"
     ],
     "component---src-pages-suggestv-js": [
       "component---src-pages-suggestv-js-086790a10f57ab4809fc.js",
@@ -544,261 +128,45 @@
       "component---src-templates-tags-js-5a33cc1c242464672fa8.js",
       "component---src-templates-tags-js-5a33cc1c242464672fa8.js.map"
     ],
-    "path---tags-k-12": [
-      "path---tags-k-12-ee31d7f620eab3a346d9.js",
-      "path---tags-k-12-ee31d7f620eab3a346d9.js.map"
-    ],
-    "path---blog-augustseptember-gds-challenge-mell-hammer-detective-agency": [
-      "path---blog-augustseptember-gds-challenge-mell-hammer-detective-agency-1acc6141401216a63dc7.js",
-      "path---blog-augustseptember-gds-challenge-mell-hammer-detective-agency-1acc6141401216a63dc7.js.map"
-    ],
-    "path---tags-copyright": [
-      "path---tags-copyright-83917b0c09371ee788f0.js",
-      "path---tags-copyright-83917b0c09371ee788f0.js.map"
-    ],
-    "path---tags-tv": [
-      "path---tags-tv-d7802f8d750162e65583.js",
-      "path---tags-tv-d7802f8d750162e65583.js.map"
-    ],
-    "path---tags-change": [
-      "path---tags-change-f2e85ed38c6077045263.js",
-      "path---tags-change-f2e85ed38c6077045263.js.map"
-    ],
     "path---tags-open-source": [
-      "path---tags-open-source-602df6ec5be513f22305.js",
-      "path---tags-open-source-602df6ec5be513f22305.js.map"
-    ],
-    "path---tags-instructional-designer": [
-      "path---tags-instructional-designer-c5c34bd58eb65639c0f9.js",
-      "path---tags-instructional-designer-c5c34bd58eb65639c0f9.js.map"
+      "path---tags-open-source-682e6625078b8edb0de7.js",
+      "path---tags-open-source-682e6625078b8edb0de7.js.map"
     ],
     "path---tags-game-based-learning": [
-      "path---tags-game-based-learning-98b1de6026d9e7718925.js",
-      "path---tags-game-based-learning-98b1de6026d9e7718925.js.map"
-    ],
-    "path---blog-showing-my-work-digital-magazine": [
-      "path---blog-showing-my-work-digital-magazine-b2432dd5a0d3fd44f1f9.js",
-      "path---blog-showing-my-work-digital-magazine-b2432dd5a0d3fd44f1f9.js.map"
-    ],
-    "path---tags-photoshop": [
-      "path---tags-photoshop-4d5ca98e9341cec65397.js",
-      "path---tags-photoshop-4d5ca98e9341cec65397.js.map"
-    ],
-    "path---tags-phaser": [
-      "path---tags-phaser-a2f4475f9633b3d35504.js",
-      "path---tags-phaser-a2f4475f9633b3d35504.js.map"
-    ],
-    "path---blog-data-viz-experiments-with-google-charts": [
-      "path---blog-data-viz-experiments-with-google-charts-f43b3797a78935758343.js",
-      "path---blog-data-viz-experiments-with-google-charts-f43b3797a78935758343.js.map"
-    ],
-    "path---tags-buzzwords": [
-      "path---tags-buzzwords-5c8bf7d05f769ece20b4.js",
-      "path---tags-buzzwords-5c8bf7d05f769ece20b4.js.map"
+      "path---tags-game-based-learning-ac24d89ac75c5291e5cf.js",
+      "path---tags-game-based-learning-ac24d89ac75c5291e5cf.js.map"
     ],
     "path---tags-development": [
-      "path---tags-development-b0c8442ce47f01ac2bb8.js",
-      "path---tags-development-b0c8442ce47f01ac2bb8.js.map"
-    ],
-    "path---tags-recursion": [
-      "path---tags-recursion-b0f74a5810e933cf1d76.js",
-      "path---tags-recursion-b0f74a5810e933cf1d76.js.map"
-    ],
-    "path---blog-dearid-season-2-wrap-up": [
-      "path---blog-dearid-season-2-wrap-up-ea04fd16d09b7027763e.js",
-      "path---blog-dearid-season-2-wrap-up-ea04fd16d09b7027763e.js.map"
+      "path---tags-development-6a78b34555fa5c45fc5b.js",
+      "path---tags-development-6a78b34555fa5c45fc5b.js.map"
     ],
     "path---tags": [
-      "path---tags-fa599a448dd22a19e0c6.js",
-      "path---tags-fa599a448dd22a19e0c6.js.map"
-    ],
-    "path---blog-elh-challenge-76-educational-animations": [
-      "path---blog-elh-challenge-76-educational-animations-7a85e9196023e9b52938.js",
-      "path---blog-elh-challenge-76-educational-animations-7a85e9196023e9b52938.js.map"
-    ],
-    "path---blog-why-i-dont-need-a-conference-to-learn-though-id-still-like-to-go": [
-      "path---blog-why-i-dont-need-a-conference-to-learn-though-id-still-like-to-go-05dfef4a00ee14ca6a8b.js",
-      "path---blog-why-i-dont-need-a-conference-to-learn-though-id-still-like-to-go-05dfef4a00ee14ca6a8b.js.map"
-    ],
-    "path---tags-creative-commons": [
-      "path---tags-creative-commons-35d5747d60bb13653ed9.js",
-      "path---tags-creative-commons-35d5747d60bb13653ed9.js.map"
+      "path---tags-b6219b22092e29802ee3.js",
+      "path---tags-b6219b22092e29802ee3.js.map"
     ],
     "path---quidco": [
       "path---quidco-a0e39f21c11f6a62c5ab.js",
       "path---quidco-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---tags-email-courses": [
-      "path---tags-email-courses-39db2f009c52851529da.js",
-      "path---tags-email-courses-39db2f009c52851529da.js.map"
-    ],
-    "path---tags-twine": [
-      "path---tags-twine-2f04e6f46f1905f138cd.js",
-      "path---tags-twine-2f04e6f46f1905f138cd.js.map"
-    ],
-    "path---tags-moodle": [
-      "path---tags-moodle-aa215b093e2963f997b2.js",
-      "path---tags-moodle-aa215b093e2963f997b2.js.map"
-    ],
-    "path---tags-accessibility": [
-      "path---tags-accessibility-177212674e6238010c7d.js",
-      "path---tags-accessibility-177212674e6238010c7d.js.map"
-    ],
-    "path---tags-learning-curve": [
-      "path---tags-learning-curve-f5528afbda75ac0a08ba.js",
-      "path---tags-learning-curve-f5528afbda75ac0a08ba.js.map"
-    ],
-    "path---tags-portfolio": [
-      "path---tags-portfolio-16945b6480ab6c8c417b.js",
-      "path---tags-portfolio-16945b6480ab6c8c417b.js.map"
-    ],
-    "path---tags-expertise": [
-      "path---tags-expertise-7272ec4870cb2feb68b3.js",
-      "path---tags-expertise-7272ec4870cb2feb68b3.js.map"
-    ],
-    "path---tags-elearning-development": [
-      "path---tags-elearning-development-7a6837920185acd73491.js",
-      "path---tags-elearning-development-7a6837920185acd73491.js.map"
-    ],
     "path---categories-elearning": [
-      "path---categories-elearning-ba98e3c7d04a8f59d818.js",
-      "path---categories-elearning-ba98e3c7d04a8f59d818.js.map"
+      "path---categories-elearning-a720fe6b03fbdd642058.js",
+      "path---categories-elearning-a720fe6b03fbdd642058.js.map"
     ],
     "path---categories-game-dev": [
-      "path---categories-game-dev-516559dd325b7d1f2e48.js",
-      "path---categories-game-dev-516559dd325b7d1f2e48.js.map"
-    ],
-    "path---blog-playing-games": [
-      "path---blog-playing-games-d6750b395ba75a65974f.js",
-      "path---blog-playing-games-d6750b395ba75a65974f.js.map"
+      "path---categories-game-dev-58dbf4ee113cc46a4901.js",
+      "path---categories-game-dev-58dbf4ee113cc46a4901.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---tags-project-management": [
-      "path---tags-project-management-7e51e9d6c8c408b4f85a.js",
-      "path---tags-project-management-7e51e9d6c8c408b4f85a.js.map"
-    ],
-    "path---tags-drawing": [
-      "path---tags-drawing-2ee7a07325dcb0f7cf36.js",
-      "path---tags-drawing-2ee7a07325dcb0f7cf36.js.map"
-    ],
-    "path---blog-instructional-designers-are-solutions-architects": [
-      "path---blog-instructional-designers-are-solutions-architects-39d9ff5740ce28536eba.js",
-      "path---blog-instructional-designers-are-solutions-architects-39d9ff5740ce28536eba.js.map"
-    ],
-    "path---tags-nuance": [
-      "path---tags-nuance-3800c2ac766b4c4b2845.js",
-      "path---tags-nuance-3800c2ac766b4c4b2845.js.map"
-    ],
-    "path---blog-conversations-at-the-office-free-vs-paid-support": [
-      "path---blog-conversations-at-the-office-free-vs-paid-support-7b18be893e9d07ac00fd.js",
-      "path---blog-conversations-at-the-office-free-vs-paid-support-7b18be893e9d07ac00fd.js.map"
-    ],
-    "path---tags-student-engagement": [
-      "path---tags-student-engagement-3c6fec4a0d05ff54ace8.js",
-      "path---tags-student-engagement-3c6fec4a0d05ff54ace8.js.map"
-    ],
-    "path---tags-design": [
-      "path---tags-design-e29ad4390b8c92458e92.js",
-      "path---tags-design-e29ad4390b8c92458e92.js.map"
-    ],
-    "path---tags-paleo": [
-      "path---tags-paleo-6a0d485bc0829178ec4a.js",
-      "path---tags-paleo-6a0d485bc0829178ec4a.js.map"
-    ],
-    "path---blog-new-dearid-my-experience-creating-with-the-adapt-learning-framework": [
-      "path---blog-new-dearid-my-experience-creating-with-the-adapt-learning-framework-b3e7a920d2287b36c792.js",
-      "path---blog-new-dearid-my-experience-creating-with-the-adapt-learning-framework-b3e7a920d2287b36c792.js.map"
-    ],
-    "path---blog-sometimes-you-need-a-small-win": [
-      "path---blog-sometimes-you-need-a-small-win-494c9bfa0f9816adfbb3.js",
-      "path---blog-sometimes-you-need-a-small-win-494c9bfa0f9816adfbb3.js.map"
-    ],
-    "path---tags-amazon-web-services": [
-      "path---tags-amazon-web-services-1f933163cd9f1f73b910.js",
-      "path---tags-amazon-web-services-1f933163cd9f1f73b910.js.map"
-    ],
-    "path---tags-inspiration": [
-      "path---tags-inspiration-52b95201f8213cd59383.js",
-      "path---tags-inspiration-52b95201f8213cd59383.js.map"
-    ],
-    "path---tags-personal-project": [
-      "path---tags-personal-project-00b1f275e093b4ad7241.js",
-      "path---tags-personal-project-00b1f275e093b4ad7241.js.map"
-    ],
-    "path---blog-16": [
-      "path---blog-16-734d330c4a537f828ec0.js",
-      "path---blog-16-734d330c4a537f828ec0.js.map"
-    ],
-    "path---blog-tracking-everything-in-storyline-with-xapi": [
-      "path---blog-tracking-everything-in-storyline-with-xapi-b6f2f6bdc4350dca153f.js",
-      "path---blog-tracking-everything-in-storyline-with-xapi-b6f2f6bdc4350dca153f.js.map"
-    ],
-    "path---blog-inspiration-storytelling-with-photos-and-audio": [
-      "path---blog-inspiration-storytelling-with-photos-and-audio-4d4d0371864cb628ec56.js",
-      "path---blog-inspiration-storytelling-with-photos-and-audio-4d4d0371864cb628ec56.js.map"
-    ],
-    "path---tags-netflix": [
-      "path---tags-netflix-a95c2cd5907fc8a9d63d.js",
-      "path---tags-netflix-a95c2cd5907fc8a9d63d.js.map"
-    ],
-    "path---tags-industry": [
-      "path---tags-industry-35c18c7298f876627f7e.js",
-      "path---tags-industry-35c18c7298f876627f7e.js.map"
-    ],
-    "path---tags-ui": [
-      "path---tags-ui-1c71f9c7e7d9fd8d5d35.js",
-      "path---tags-ui-1c71f9c7e7d9fd8d5d35.js.map"
-    ],
-    "path---blog-dearid-on-learning-to-program": [
-      "path---blog-dearid-on-learning-to-program-552ecf4acb13b19d5c1a.js",
-      "path---blog-dearid-on-learning-to-program-552ecf4acb13b19d5c1a.js.map"
-    ],
     "path---weather": [
       "path---weather-a0e39f21c11f6a62c5ab.js",
       "path---weather-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---categories-weekend-project": [
-      "path---categories-weekend-project-648fe46f8fcc3b3023d5.js",
-      "path---categories-weekend-project-648fe46f8fcc3b3023d5.js.map"
-    ],
-    "path---blog-credit-where-its-due": [
-      "path---blog-credit-where-its-due-143f8ffad85beebcf3e9.js",
-      "path---blog-credit-where-its-due-143f8ffad85beebcf3e9.js.map"
-    ],
-    "path---tags-crisis": [
-      "path---tags-crisis-85fc0e448846acc7a3ba.js",
-      "path---tags-crisis-85fc0e448846acc7a3ba.js.map"
-    ],
-    "path---tags-magazine": [
-      "path---tags-magazine-5aa2d53c4b3bfa7002ec.js",
-      "path---tags-magazine-5aa2d53c4b3bfa7002ec.js.map"
-    ],
-    "path---tags-entrepreneurship": [
-      "path---tags-entrepreneurship-d2a971d157bf5e233c65.js",
-      "path---tags-entrepreneurship-d2a971d157bf5e233c65.js.map"
-    ],
     "path---blog-dearid-episode-40-deep-dive-into-sponge-uks-pfra-adapt-course": [
       "path---blog-dearid-episode-40-deep-dive-into-sponge-uks-pfra-adapt-course-04ed89803b73398f84e5.js",
       "path---blog-dearid-episode-40-deep-dive-into-sponge-uks-pfra-adapt-course-04ed89803b73398f84e5.js.map"
-    ],
-    "path---blog-5-things-you-should-do-when-you-leave-a-job": [
-      "path---blog-5-things-you-should-do-when-you-leave-a-job-ad36775734de8f5c489f.js",
-      "path---blog-5-things-you-should-do-when-you-leave-a-job-ad36775734de8f5c489f.js.map"
-    ],
-    "path---blog-12-things-you-can-do-with-lectora-and-code": [
-      "path---blog-12-things-you-can-do-with-lectora-and-code-6c3e473e03b8ad29317f.js",
-      "path---blog-12-things-you-can-do-with-lectora-and-code-6c3e473e03b8ad29317f.js.map"
-    ],
-    "path---blog-consistency-key-to-creativity": [
-      "path---blog-consistency-key-to-creativity-667ff0a9d1af9a107589.js",
-      "path---blog-consistency-key-to-creativity-667ff0a9d1af9a107589.js.map"
-    ],
-    "path---tags-kickoff-meetings": [
-      "path---tags-kickoff-meetings-800178aaad6b370a22a8.js",
-      "path---tags-kickoff-meetings-800178aaad6b370a22a8.js.map"
     ],
     "path---tags-authoring-tools": [
       "path---tags-authoring-tools-70ac35b10114aa6f9e32.js",
@@ -808,129 +176,37 @@
       "path---tags-node-js-f766f93ed72f4243b61d.js",
       "path---tags-node-js-f766f93ed72f4243b61d.js.map"
     ],
-    "path---tags-uniqueness": [
-      "path---tags-uniqueness-1358146cbc1fccb82605.js",
-      "path---tags-uniqueness-1358146cbc1fccb82605.js.map"
-    ],
     "path---tags-conferences": [
-      "path---tags-conferences-ada5e7e5856a243b57be.js",
-      "path---tags-conferences-ada5e7e5856a243b57be.js.map"
-    ],
-    "path---tags-doodle": [
-      "path---tags-doodle-89bb52524f3df3f1be85.js",
-      "path---tags-doodle-89bb52524f3df3f1be85.js.map"
-    ],
-    "path---tags-tube": [
-      "path---tags-tube-b4feeb5b05b79c247591.js",
-      "path---tags-tube-b4feeb5b05b79c247591.js.map"
-    ],
-    "path---tags-course-trailer": [
-      "path---tags-course-trailer-bf964ac749715ee08d73.js",
-      "path---tags-course-trailer-bf964ac749715ee08d73.js.map"
-    ],
-    "path---blog-what-im-learning-from-my-open-source-contributing-experience": [
-      "path---blog-what-im-learning-from-my-open-source-contributing-experience-190b849c85e2fce3fb7e.js",
-      "path---blog-what-im-learning-from-my-open-source-contributing-experience-190b849c85e2fce3fb7e.js.map"
+      "path---tags-conferences-0750c5137f84d544617b.js",
+      "path---tags-conferences-0750c5137f84d544617b.js.map"
     ],
     "path---blog-on-being-an-un-opinionated-developer": [
       "path---blog-on-being-an-un-opinionated-developer-6af2680ea878db65e37f.js",
       "path---blog-on-being-an-un-opinionated-developer-6af2680ea878db65e37f.js.map"
     ],
     "path---tags-adapt": [
-      "path---tags-adapt-cb710b9ee50eaee08fef.js",
-      "path---tags-adapt-cb710b9ee50eaee08fef.js.map"
-    ],
-    "path---tags-pomodoro": [
-      "path---tags-pomodoro-44749eb58e80432f1507.js",
-      "path---tags-pomodoro-44749eb58e80432f1507.js.map"
-    ],
-    "path---tags-ideas": [
-      "path---tags-ideas-0e28a04a5ee95b40df7c.js",
-      "path---tags-ideas-0e28a04a5ee95b40df7c.js.map"
-    ],
-    "path---blog-the-t-shaped-instructional-designer": [
-      "path---blog-the-t-shaped-instructional-designer-b66d63d904210dc49e59.js",
-      "path---blog-the-t-shaped-instructional-designer-b66d63d904210dc49e59.js.map"
+      "path---tags-adapt-8cd4c61b515fe792b82b.js",
+      "path---tags-adapt-8cd4c61b515fe792b82b.js.map"
     ],
     "path---tags-steal-this-idea": [
       "path---tags-steal-this-idea-08bc2cca296a6fb1684a.js",
       "path---tags-steal-this-idea-08bc2cca296a6fb1684a.js.map"
     ],
-    "path---tags-knowledge": [
-      "path---tags-knowledge-4931d916c1ef8c78950d.js",
-      "path---tags-knowledge-4931d916c1ef8c78950d.js.map"
-    ],
     "path---tags-phaser-js": [
-      "path---tags-phaser-js-dc1d6cd2605cbae7ce11.js",
-      "path---tags-phaser-js-dc1d6cd2605cbae7ce11.js.map"
-    ],
-    "path---blog-the-dearid-show-interview-with-ido-abramovich": [
-      "path---blog-the-dearid-show-interview-with-ido-abramovich-2edef204ce49fc3e7585.js",
-      "path---blog-the-dearid-show-interview-with-ido-abramovich-2edef204ce49fc3e7585.js.map"
-    ],
-    "path---blog-apple-watch-as-a-game-changer": [
-      "path---blog-apple-watch-as-a-game-changer-f41b42551fb951de89e6.js",
-      "path---blog-apple-watch-as-a-game-changer-f41b42551fb951de89e6.js.map"
-    ],
-    "path---tags-rapid-response": [
-      "path---tags-rapid-response-59061ec95fe334847b1e.js",
-      "path---tags-rapid-response-59061ec95fe334847b1e.js.map"
-    ],
-    "path---blog-lxdesign-to-game-design": [
-      "path---blog-lxdesign-to-game-design-5c41a2dceed222957918.js",
-      "path---blog-lxdesign-to-game-design-5c41a2dceed222957918.js.map"
-    ],
-    "path---blog-dear-instructional-designer-a-sneak-peek-at-the-new-show": [
-      "path---blog-dear-instructional-designer-a-sneak-peek-at-the-new-show-b630f02aba463106b5aa.js",
-      "path---blog-dear-instructional-designer-a-sneak-peek-at-the-new-show-b630f02aba463106b5aa.js.map"
-    ],
-    "path---tags-programs": [
-      "path---tags-programs-596ac855cf657d2c1e84.js",
-      "path---tags-programs-596ac855cf657d2c1e84.js.map"
-    ],
-    "path---tags-visuals": [
-      "path---tags-visuals-4962ff04d91447bf7e7e.js",
-      "path---tags-visuals-4962ff04d91447bf7e7e.js.map"
+      "path---tags-phaser-js-3c9820b3de589113c35b.js",
+      "path---tags-phaser-js-3c9820b3de589113c35b.js.map"
     ],
     "path---blog-dear-id-episode-47-svein-tore-on-h-5-p": [
       "path---blog-dear-id-episode-47-svein-tore-on-h-5-p-fdd2fc1e4c6c56bf65fc.js",
       "path---blog-dear-id-episode-47-svein-tore-on-h-5-p-fdd2fc1e4c6c56bf65fc.js.map"
     ],
     "path---tags-communities-of-practice": [
-      "path---tags-communities-of-practice-d36eea919006de15f222.js",
-      "path---tags-communities-of-practice-d36eea919006de15f222.js.map"
-    ],
-    "path---tags-lessons": [
-      "path---tags-lessons-3d03be3c771f4f560a26.js",
-      "path---tags-lessons-3d03be3c771f4f560a26.js.map"
-    ],
-    "path---tags-challenge": [
-      "path---tags-challenge-f014697777ddefcf4c4a.js",
-      "path---tags-challenge-f014697777ddefcf4c4a.js.map"
+      "path---tags-communities-of-practice-76c6d76586e52828d643.js",
+      "path---tags-communities-of-practice-76c6d76586e52828d643.js.map"
     ],
     "path---tags-sm-es": [
-      "path---tags-sm-es-7665ffcc72f007c63928.js",
-      "path---tags-sm-es-7665ffcc72f007c63928.js.map"
-    ],
-    "path---tags-personal-learning": [
-      "path---tags-personal-learning-1486908efb3f54ad3f17.js",
-      "path---tags-personal-learning-1486908efb3f54ad3f17.js.map"
-    ],
-    "path---tags-teaching-experience": [
-      "path---tags-teaching-experience-bf1e4194d1cfc3f67ee8.js",
-      "path---tags-teaching-experience-bf1e4194d1cfc3f67ee8.js.map"
-    ],
-    "path---tags-post-mortem": [
-      "path---tags-post-mortem-e1967853d2b90eea9a21.js",
-      "path---tags-post-mortem-e1967853d2b90eea9a21.js.map"
-    ],
-    "path---tags-learning-management-systems": [
-      "path---tags-learning-management-systems-d491566119d66621072e.js",
-      "path---tags-learning-management-systems-d491566119d66621072e.js.map"
-    ],
-    "path---tags-content": [
-      "path---tags-content-d240c8771d27fdc916ee.js",
-      "path---tags-content-d240c8771d27fdc916ee.js.map"
+      "path---tags-sm-es-87046af64f1facdcc0aa.js",
+      "path---tags-sm-es-87046af64f1facdcc0aa.js.map"
     ],
     "path---numilli": [
       "path---numilli-a0e39f21c11f6a62c5ab.js",
@@ -940,193 +216,45 @@
       "path---tags-analysis-08b99394ad6c2330bfaf.js",
       "path---tags-analysis-08b99394ad6c2330bfaf.js.map"
     ],
-    "path---tags-puppet-pins": [
-      "path---tags-puppet-pins-3f470612590f69268d78.js",
-      "path---tags-puppet-pins-3f470612590f69268d78.js.map"
-    ],
-    "path---tags-redesign": [
-      "path---tags-redesign-a3332f9cc342a8b303ae.js",
-      "path---tags-redesign-a3332f9cc342a8b303ae.js.map"
-    ],
-    "path---blog-lessons-learned-in-canvas-lms-part-the-second": [
-      "path---blog-lessons-learned-in-canvas-lms-part-the-second-7445d42b81efa69ff2c5.js",
-      "path---blog-lessons-learned-in-canvas-lms-part-the-second-7445d42b81efa69ff2c5.js.map"
-    ],
-    "path---tags-tin-can": [
-      "path---tags-tin-can-729a1d578a62858ccb1a.js",
-      "path---tags-tin-can-729a1d578a62858ccb1a.js.map"
-    ],
-    "path---blog-inspiration-jellyvision-conversations": [
-      "path---blog-inspiration-jellyvision-conversations-9c051c91ff6bead28159.js",
-      "path---blog-inspiration-jellyvision-conversations-9c051c91ff6bead28159.js.map"
-    ],
     "path---tags-instructional-design": [
-      "path---tags-instructional-design-2efca9f1a7be5ccbaf74.js",
-      "path---tags-instructional-design-2efca9f1a7be5ccbaf74.js.map"
-    ],
-    "path---tags-you-tube": [
-      "path---tags-you-tube-5aaea199f4b5eac4b5ac.js",
-      "path---tags-you-tube-5aaea199f4b5eac4b5ac.js.map"
-    ],
-    "path---tags-resources": [
-      "path---tags-resources-a95f5c84cafe9eb4d0e3.js",
-      "path---tags-resources-a95f5c84cafe9eb4d0e3.js.map"
-    ],
-    "path---blog-what-are-the-stress-cases-in-lx-design": [
-      "path---blog-what-are-the-stress-cases-in-lx-design-cd1e9bdaa0453c16f2c8.js",
-      "path---blog-what-are-the-stress-cases-in-lx-design-cd1e9bdaa0453c16f2c8.js.map"
-    ],
-    "path---tags-lifehacker": [
-      "path---tags-lifehacker-f951a64d669448984e76.js",
-      "path---tags-lifehacker-f951a64d669448984e76.js.map"
-    ],
-    "path---tags-sabbatical": [
-      "path---tags-sabbatical-df9b25a321e3c4b938cf.js",
-      "path---tags-sabbatical-df9b25a321e3c4b938cf.js.map"
-    ],
-    "path---tags-university-of-texas": [
-      "path---tags-university-of-texas-8dbfdee45f3f825d9ba0.js",
-      "path---tags-university-of-texas-8dbfdee45f3f825d9ba0.js.map"
+      "path---tags-instructional-design-a3e583b05a03e89e78b2.js",
+      "path---tags-instructional-design-a3e583b05a03e89e78b2.js.map"
     ],
     "path---tags-tool-choice": [
       "path---tags-tool-choice-a7efae637bf70256e683.js",
       "path---tags-tool-choice-a7efae637bf70256e683.js.map"
     ],
-    "path---blog-engaging-on-twitter": [
-      "path---blog-engaging-on-twitter-243b367c4c036eac9904.js",
-      "path---blog-engaging-on-twitter-243b367c4c036eac9904.js.map"
-    ],
-    "path---tags-framework": [
-      "path---tags-framework-2bef22afcdff6340f6ac.js",
-      "path---tags-framework-2bef22afcdff6340f6ac.js.map"
-    ],
     "path---blog-dearid-episode-44-simon-date-on-moocs": [
       "path---blog-dearid-episode-44-simon-date-on-moocs-39bca5483301e213fd48.js",
       "path---blog-dearid-episode-44-simon-date-on-moocs-39bca5483301e213fd48.js.map"
-    ],
-    "path---tags-data-visualization": [
-      "path---tags-data-visualization-fd097f747c4f94363dd3.js",
-      "path---tags-data-visualization-fd097f747c4f94363dd3.js.map"
-    ],
-    "path---blog-5-things-to-know-about-edx-vs-canvas": [
-      "path---blog-5-things-to-know-about-edx-vs-canvas-d99c88cd1cf182139c4b.js",
-      "path---blog-5-things-to-know-about-edx-vs-canvas-d99c88cd1cf182139c4b.js.map"
-    ],
-    "path---tags-angular-js": [
-      "path---tags-angular-js-caeaa5f54ca1b1a65967.js",
-      "path---tags-angular-js-caeaa5f54ca1b1a65967.js.map"
-    ],
-    "path---blog-dearid-livestreaming": [
-      "path---blog-dearid-livestreaming-f0ffc155a7a0edae904f.js",
-      "path---blog-dearid-livestreaming-f0ffc155a7a0edae904f.js.map"
-    ],
-    "path---blog-elh-challenge-surviving-the-holidays": [
-      "path---blog-elh-challenge-surviving-the-holidays-4d5ef01411897b3b8532.js",
-      "path---blog-elh-challenge-surviving-the-holidays-4d5ef01411897b3b8532.js.map"
-    ],
-    "path---tags-graphics": [
-      "path---tags-graphics-be034246fa5ad1b827a5.js",
-      "path---tags-graphics-be034246fa5ad1b827a5.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
-    "path---tags-slider": [
-      "path---tags-slider-f5c246ac83f8474c0a13.js",
-      "path---tags-slider-f5c246ac83f8474c0a13.js.map"
-    ],
     "component---src-pages-numilli-js": [
       "component---src-pages-numilli-js-b420a4464112afbb7b74.js",
       "component---src-pages-numilli-js-b420a4464112afbb7b74.js.map"
-    ],
-    "path---tags-side-projects": [
-      "path---tags-side-projects-576fb99f9d267b1c5d48.js",
-      "path---tags-side-projects-576fb99f9d267b1c5d48.js.map"
     ],
     "component---src-pages-gradient-js": [
       "component---src-pages-gradient-js-84b35a86fce930eb6795.js",
       "component---src-pages-gradient-js-84b35a86fce930eb6795.js.map"
     ],
-    "path---tags-future-proof": [
-      "path---tags-future-proof-24e7e397330e2a6b166c.js",
-      "path---tags-future-proof-24e7e397330e2a6b166c.js.map"
-    ],
     "path---tags-practice": [
-      "path---tags-practice-fd61a73d60aaebf0027e.js",
-      "path---tags-practice-fd61a73d60aaebf0027e.js.map"
-    ],
-    "path---tags-learning-to-code": [
-      "path---tags-learning-to-code-8d51b83be09d33e082e0.js",
-      "path---tags-learning-to-code-8d51b83be09d33e082e0.js.map"
-    ],
-    "path---blog-the-commonplace-book": [
-      "path---blog-the-commonplace-book-651cc9e4885ca9c8d84a.js",
-      "path---blog-the-commonplace-book-651cc9e4885ca9c8d84a.js.map"
+      "path---tags-practice-38531fdfd375b43c349c.js",
+      "path---tags-practice-38531fdfd375b43c349c.js.map"
     ],
     "path---tags-twitter-bot": [
       "path---tags-twitter-bot-d29663b5f956079439dc.js",
       "path---tags-twitter-bot-d29663b5f956079439dc.js.map"
     ],
-    "path---categories-awsm-prompts": [
-      "path---categories-awsm-prompts-99e09b505a37f5c72f60.js",
-      "path---categories-awsm-prompts-99e09b505a37f5c72f60.js.map"
-    ],
-    "path---blog-essia-tourism-board": [
-      "path---blog-essia-tourism-board-23a221397571f25db53f.js",
-      "path---blog-essia-tourism-board-23a221397571f25db53f.js.map"
-    ],
     "path---tags-education": [
-      "path---tags-education-ba33ab43004b26fd629e.js",
-      "path---tags-education-ba33ab43004b26fd629e.js.map"
-    ],
-    "path---blog-dearid-interview-with-joseph-suarez": [
-      "path---blog-dearid-interview-with-joseph-suarez-5e44e3d1f8f78a742c91.js",
-      "path---blog-dearid-interview-with-joseph-suarez-5e44e3d1f8f78a742c91.js.map"
-    ],
-    "path---tags-gaming": [
-      "path---tags-gaming-addd0614bc5af36bd02a.js",
-      "path---tags-gaming-addd0614bc5af36bd02a.js.map"
-    ],
-    "path---tags-tracking": [
-      "path---tags-tracking-4ca0dffb7f90f5b634b2.js",
-      "path---tags-tracking-4ca0dffb7f90f5b634b2.js.map"
-    ],
-    "path---tags-after-effects": [
-      "path---tags-after-effects-bd1e35dd443420dbbe1d.js",
-      "path---tags-after-effects-bd1e35dd443420dbbe1d.js.map"
-    ],
-    "path---tags-professional": [
-      "path---tags-professional-0a21aaa637267466ec94.js",
-      "path---tags-professional-0a21aaa637267466ec94.js.map"
-    ],
-    "path---tags-simulations": [
-      "path---tags-simulations-24412a59f3ae212c8cd7.js",
-      "path---tags-simulations-24412a59f3ae212c8cd7.js.map"
-    ],
-    "path---blog-dear-instructional-designer-podcast": [
-      "path---blog-dear-instructional-designer-podcast-6d395c740394d7c79b53.js",
-      "path---blog-dear-instructional-designer-podcast-6d395c740394d7c79b53.js.map"
+      "path---tags-education-c57618ae9eff1ab30702.js",
+      "path---tags-education-c57618ae9eff1ab30702.js.map"
     ],
     "path---tags-civic-learning": [
       "path---tags-civic-learning-924ef251b854c95136a0.js",
       "path---tags-civic-learning-924ef251b854c95136a0.js.map"
-    ],
-    "path---blog-higher-ed-online-learning-may-have-a-design-problem": [
-      "path---blog-higher-ed-online-learning-may-have-a-design-problem-a49cae365673495fd9c9.js",
-      "path---blog-higher-ed-online-learning-may-have-a-design-problem-a49cae365673495fd9c9.js.map"
-    ],
-    "path---tags-mobile": [
-      "path---tags-mobile-5aa4e493d075eebb6ead.js",
-      "path---tags-mobile-5aa4e493d075eebb6ead.js.map"
-    ],
-    "path---tags-learning-locker": [
-      "path---tags-learning-locker-1d91974e5804fa9c7c4b.js",
-      "path---tags-learning-locker-1d91974e5804fa9c7c4b.js.map"
-    ],
-    "path---tags-storyline-2": [
-      "path---tags-storyline-2-4dd1472f3923983e1ed4.js",
-      "path---tags-storyline-2-4dd1472f3923983e1ed4.js.map"
     ],
     "path---tags-sponge-uk": [
       "path---tags-sponge-uk-b4cc035655f3b7028ce7.js",
@@ -1136,141 +264,29 @@
       "component---src-templates-blog-post-js-042f4c5f3dcd04a74271.js",
       "component---src-templates-blog-post-js-042f4c5f3dcd04a74271.js.map"
     ],
-    "path---tags-year-in-projects": [
-      "path---tags-year-in-projects-d15005811d799d923516.js",
-      "path---tags-year-in-projects-d15005811d799d923516.js.map"
-    ],
-    "path---blog-14": [
-      "path---blog-14-3b7a6df071cde3f8213d.js",
-      "path---blog-14-3b7a6df071cde3f8213d.js.map"
-    ],
-    "path---blog-zombpocalyse-i-dont-think-so": [
-      "path---blog-zombpocalyse-i-dont-think-so-0574585ca90ea4447ace.js",
-      "path---blog-zombpocalyse-i-dont-think-so-0574585ca90ea4447ace.js.map"
-    ],
-    "path---blog-15": [
-      "path---blog-15-c1cdf72aff4a1c35193d.js",
-      "path---blog-15-c1cdf72aff4a1c35193d.js.map"
-    ],
-    "path---blog-a-medical-demo-and-a-bit-of-coding-too": [
-      "path---blog-a-medical-demo-and-a-bit-of-coding-too-59a57f1dc36ef6bf20b0.js",
-      "path---blog-a-medical-demo-and-a-bit-of-coding-too-59a57f1dc36ef6bf20b0.js.map"
-    ],
-    "path---tags-twitter": [
-      "path---tags-twitter-b2db96f8585e3eabb756.js",
-      "path---tags-twitter-b2db96f8585e3eabb756.js.map"
-    ],
-    "path---tags-streaming": [
-      "path---tags-streaming-fb75a485d47a9ba5c509.js",
-      "path---tags-streaming-fb75a485d47a9ba5c509.js.map"
-    ],
-    "path---tags-learning-design": [
-      "path---tags-learning-design-02774c75b3584c3dfc7f.js",
-      "path---tags-learning-design-02774c75b3584c3dfc7f.js.map"
-    ],
-    "path---tags-decomposition": [
-      "path---tags-decomposition-83ad0d95fa3d79dea5be.js",
-      "path---tags-decomposition-83ad0d95fa3d79dea5be.js.map"
-    ],
-    "path---blog-dearid-season-1-wrap-up": [
-      "path---blog-dearid-season-1-wrap-up-ca5297b1bcf5458fd505.js",
-      "path---blog-dearid-season-1-wrap-up-ca5297b1bcf5458fd505.js.map"
-    ],
-    "path---tags-storytelling": [
-      "path---tags-storytelling-cbd6fe4305ff7293a2ac.js",
-      "path---tags-storytelling-cbd6fe4305ff7293a2ac.js.map"
-    ],
-    "path---blog-weeknotes-109": [
-      "path---blog-weeknotes-109-319faf6ec1f88d3b186f.js",
-      "path---blog-weeknotes-109-319faf6ec1f88d3b186f.js.map"
-    ],
-    "path---blog-things-your-instructional-designer-never-wants-to-hear": [
-      "path---blog-things-your-instructional-designer-never-wants-to-hear-9f4410888d7b8be93f03.js",
-      "path---blog-things-your-instructional-designer-never-wants-to-hear-9f4410888d7b8be93f03.js.map"
-    ],
-    "path---tags-younger-self": [
-      "path---tags-younger-self-84bbc70c46242ce43fab.js",
-      "path---tags-younger-self-84bbc70c46242ce43fab.js.map"
-    ],
     "path---tags-hack-id": [
       "path---tags-hack-id-75ff4c0646bfe8949950.js",
       "path---tags-hack-id-75ff4c0646bfe8949950.js.map"
-    ],
-    "path---tags-responsive": [
-      "path---tags-responsive-ed9ab0559ca9331e2037.js",
-      "path---tags-responsive-ed9ab0559ca9331e2037.js.map"
-    ],
-    "path---blog-cant-install-fonts-theres-a-fix-for-that": [
-      "path---blog-cant-install-fonts-theres-a-fix-for-that-0d44123b85685a2f89d1.js",
-      "path---blog-cant-install-fonts-theres-a-fix-for-that-0d44123b85685a2f89d1.js.map"
-    ],
-    "path---tags-interview": [
-      "path---tags-interview-88710f5ebf85c6fd6d33.js",
-      "path---tags-interview-88710f5ebf85c6fd6d33.js.map"
-    ],
-    "path---tags-patterns": [
-      "path---tags-patterns-ab13801d1569010afe9c.js",
-      "path---tags-patterns-ab13801d1569010afe9c.js.map"
-    ],
-    "path---tags-quality-control": [
-      "path---tags-quality-control-a1d9c92cf111d5e76a1a.js",
-      "path---tags-quality-control-a1d9c92cf111d5e76a1a.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-bb3ed65eb42f99cfce3f.js",
       "component---src-layouts-index-js-bb3ed65eb42f99cfce3f.js.map"
     ],
-    "path---tags-struggles": [
-      "path---tags-struggles-eddd0744050fa5943fca.js",
-      "path---tags-struggles-eddd0744050fa5943fca.js.map"
-    ],
     "path---blog-dearid-episode-38-building-a-quiz-with-amazon-alexa-and-dr-dave-fusco": [
       "path---blog-dearid-episode-38-building-a-quiz-with-amazon-alexa-and-dr-dave-fusco-d034817c2aadce7c273c.js",
       "path---blog-dearid-episode-38-building-a-quiz-with-amazon-alexa-and-dr-dave-fusco-d034817c2aadce7c273c.js.map"
     ],
-    "path---tags-context": [
-      "path---tags-context-1e9570fb0a5fdc33ff16.js",
-      "path---tags-context-1e9570fb0a5fdc33ff16.js.map"
-    ],
-    "path---blog-dearid-creating-with-twine": [
-      "path---blog-dearid-creating-with-twine-f74b89d0d3ecc5b8912c.js",
-      "path---blog-dearid-creating-with-twine-f74b89d0d3ecc5b8912c.js.map"
-    ],
     "path---tags-portfolio-work": [
-      "path---tags-portfolio-work-374d1076611576eb552d.js",
-      "path---tags-portfolio-work-374d1076611576eb552d.js.map"
+      "path---tags-portfolio-work-e07efe3808ed362d2ce9.js",
+      "path---tags-portfolio-work-e07efe3808ed362d2ce9.js.map"
     ],
     "path---blog-my-first-twitter-bot": [
       "path---blog-my-first-twitter-bot-8f5ec4bd4269476f1cd6.js",
       "path---blog-my-first-twitter-bot-8f5ec4bd4269476f1cd6.js.map"
     ],
-    "path---tags-music": [
-      "path---tags-music-4d15b8f0dab31c81674c.js",
-      "path---tags-music-4d15b8f0dab31c81674c.js.map"
-    ],
     "path---tags-h-5-p": [
       "path---tags-h-5-p-0bbf46d5e52d2844a69d.js",
       "path---tags-h-5-p-0bbf46d5e52d2844a69d.js.map"
-    ],
-    "path---tags-quality-assurance": [
-      "path---tags-quality-assurance-801e4b9d337e19c589d5.js",
-      "path---tags-quality-assurance-801e4b9d337e19c589d5.js.map"
-    ],
-    "path---tags-review": [
-      "path---tags-review-22bf1a2033632266b942.js",
-      "path---tags-review-22bf1a2033632266b942.js.map"
-    ],
-    "path---tags-motivation": [
-      "path---tags-motivation-8b6aba5a96867abaa89f.js",
-      "path---tags-motivation-8b6aba5a96867abaa89f.js.map"
-    ],
-    "path---tags-wikipedia": [
-      "path---tags-wikipedia-c1a87e62be6d190f8ba3.js",
-      "path---tags-wikipedia-c1a87e62be6d190f8ba3.js.map"
-    ],
-    "path---tags-muppets": [
-      "path---tags-muppets-ee6e8782d8d9420c1c47.js",
-      "path---tags-muppets-ee6e8782d8d9420c1c47.js.map"
     ],
     "path---tags-collaboration": [
       "path---tags-collaboration-19ae3d3cc4b3a537aecd.js",
@@ -1280,125 +296,17 @@
       "path---tags-ux-1028d19743933ed89c1f.js",
       "path---tags-ux-1028d19743933ed89c1f.js.map"
     ],
-    "path---tags-training": [
-      "path---tags-training-39312c2b451757da7528.js",
-      "path---tags-training-39312c2b451757da7528.js.map"
-    ],
-    "path---tags-opening": [
-      "path---tags-opening-3d061923d4651245f07b.js",
-      "path---tags-opening-3d061923d4651245f07b.js.map"
-    ],
-    "path---tags-carmen-sandiego": [
-      "path---tags-carmen-sandiego-5b4257819322af839da9.js",
-      "path---tags-carmen-sandiego-5b4257819322af839da9.js.map"
-    ],
-    "path---tags-unity-3-d": [
-      "path---tags-unity-3-d-2b3ed3569c1ca6d5bc4f.js",
-      "path---tags-unity-3-d-2b3ed3569c1ca6d5bc4f.js.map"
-    ],
-    "path---tags-sound-design": [
-      "path---tags-sound-design-653c7a56f58b496d10e6.js",
-      "path---tags-sound-design-653c7a56f58b496d10e6.js.map"
-    ],
-    "path---tags-online-discussion": [
-      "path---tags-online-discussion-309c9847e2ea629f274f.js",
-      "path---tags-online-discussion-309c9847e2ea629f274f.js.map"
-    ],
-    "path---tags-html": [
-      "path---tags-html-6b567e6ac5ba124955e2.js",
-      "path---tags-html-6b567e6ac5ba124955e2.js.map"
-    ],
     "path---tags-endless-runner": [
       "path---tags-endless-runner-e742b4e57d2f21ea1464.js",
       "path---tags-endless-runner-e742b4e57d2f21ea1464.js.map"
     ],
-    "path---blog-javascript-concepts-recursion": [
-      "path---blog-javascript-concepts-recursion-1b261bcbc2802253fef1.js",
-      "path---blog-javascript-concepts-recursion-1b261bcbc2802253fef1.js.map"
-    ],
-    "path---tags-extra-credits": [
-      "path---tags-extra-credits-2d5c803cf9d2d2393c3e.js",
-      "path---tags-extra-credits-2d5c803cf9d2d2393c3e.js.map"
-    ],
-    "path---blog-9": [
-      "path---blog-9-a2ba371309bea749c192.js",
-      "path---blog-9-a2ba371309bea749c192.js.map"
-    ],
-    "path---tags-taas": [
-      "path---tags-taas-ed2bfe8d8c0655576912.js",
-      "path---tags-taas-ed2bfe8d8c0655576912.js.map"
-    ],
-    "path---tags-mini-course": [
-      "path---tags-mini-course-f874254ce13d7b8c89a2.js",
-      "path---tags-mini-course-f874254ce13d7b8c89a2.js.map"
-    ],
-    "path---tags-edtech": [
-      "path---tags-edtech-a2290b4b94474e03d25b.js",
-      "path---tags-edtech-a2290b4b94474e03d25b.js.map"
-    ],
     "path---tags-higher-ed": [
-      "path---tags-higher-ed-34825b1daf8237777e68.js",
-      "path---tags-higher-ed-34825b1daf8237777e68.js.map"
-    ],
-    "path---tags-deep-work": [
-      "path---tags-deep-work-199f04056cefb89ed434.js",
-      "path---tags-deep-work-199f04056cefb89ed434.js.map"
-    ],
-    "path---tags-stop-motion": [
-      "path---tags-stop-motion-263b6ce14a139ef6632b.js",
-      "path---tags-stop-motion-263b6ce14a139ef6632b.js.map"
-    ],
-    "path---blog-the-dear-instructional-designer-show-interview-with-brian-washburn": [
-      "path---blog-the-dear-instructional-designer-show-interview-with-brian-washburn-f30d6597e714b4c47f74.js",
-      "path---blog-the-dear-instructional-designer-show-interview-with-brian-washburn-f30d6597e714b4c47f74.js.map"
-    ],
-    "path---tags-face-to-face": [
-      "path---tags-face-to-face-381c9abbb27d4082e0f7.js",
-      "path---tags-face-to-face-381c9abbb27d4082e0f7.js.map"
-    ],
-    "path---blog-you-dont-know-what-youve-got-till-its-gone": [
-      "path---blog-you-dont-know-what-youve-got-till-its-gone-dd615e16806d0c6dd57f.js",
-      "path---blog-you-dont-know-what-youve-got-till-its-gone-dd615e16806d0c6dd57f.js.map"
-    ],
-    "path---tags-daily-ui": [
-      "path---tags-daily-ui-a8bba17285b59294501d.js",
-      "path---tags-daily-ui-a8bba17285b59294501d.js.map"
+      "path---tags-higher-ed-2948967fa5e1f1471e53.js",
+      "path---tags-higher-ed-2948967fa5e1f1471e53.js.map"
     ],
     "path---tags-conference": [
-      "path---tags-conference-ea27dd11df267f07f375.js",
-      "path---tags-conference-ea27dd11df267f07f375.js.map"
-    ],
-    "path---tags-discovery": [
-      "path---tags-discovery-9941857d226ace26fdca.js",
-      "path---tags-discovery-9941857d226ace26fdca.js.map"
-    ],
-    "path---tags-mockup": [
-      "path---tags-mockup-e4ee5b8d068213f2b134.js",
-      "path---tags-mockup-e4ee5b8d068213f2b134.js.map"
-    ],
-    "path---tags-storyboard": [
-      "path---tags-storyboard-0e3b075d2421e238e40d.js",
-      "path---tags-storyboard-0e3b075d2421e238e40d.js.map"
-    ],
-    "path---blog-ideas-on-effective-simulations": [
-      "path---blog-ideas-on-effective-simulations-6e9bfb434556677a6054.js",
-      "path---blog-ideas-on-effective-simulations-6e9bfb434556677a6054.js.map"
-    ],
-    "path---tags-lessons-learned": [
-      "path---tags-lessons-learned-e8544198e196e39d9488.js",
-      "path---tags-lessons-learned-e8544198e196e39d9488.js.map"
-    ],
-    "path---tags-branching": [
-      "path---tags-branching-d20914d60788c3de5a52.js",
-      "path---tags-branching-d20914d60788c3de5a52.js.map"
-    ],
-    "path---tags-elh-challenge": [
-      "path---tags-elh-challenge-79dd7b5f530673b8b0bd.js",
-      "path---tags-elh-challenge-79dd7b5f530673b8b0bd.js.map"
-    ],
-    "path---blog-information-design-and-digital-magazines": [
-      "path---blog-information-design-and-digital-magazines-4c4abd299eea045d72c3.js",
-      "path---blog-information-design-and-digital-magazines-4c4abd299eea045d72c3.js.map"
+      "path---tags-conference-07a0b352658defc7f987.js",
+      "path---tags-conference-07a0b352658defc7f987.js.map"
     ],
     "path---tags-dear-id": [
       "path---tags-dear-id-8adb55e744cde05665a4.js",
@@ -1408,193 +316,25 @@
       "path---tags-virtual-reality-6802d1131682faf2e850.js",
       "path---tags-virtual-reality-6802d1131682faf2e850.js.map"
     ],
-    "path---tags-revision": [
-      "path---tags-revision-08542e9bfa6e5d13b5c0.js",
-      "path---tags-revision-08542e9bfa6e5d13b5c0.js.map"
-    ],
-    "path---tags-wikis": [
-      "path---tags-wikis-2484eb65e1557ac6cbe4.js",
-      "path---tags-wikis-2484eb65e1557ac6cbe4.js.map"
-    ],
-    "path---tags-m-learning": [
-      "path---tags-m-learning-602dacfa856e75b5bb45.js",
-      "path---tags-m-learning-602dacfa856e75b5bb45.js.map"
-    ],
     "path---tags-game": [
-      "path---tags-game-63ec521cfc6286246b1e.js",
-      "path---tags-game-63ec521cfc6286246b1e.js.map"
-    ],
-    "path---blog-dear-instructional-designer-show-interview-with-james-finder": [
-      "path---blog-dear-instructional-designer-show-interview-with-james-finder-89be3335c9cebc20b165.js",
-      "path---blog-dear-instructional-designer-show-interview-with-james-finder-89be3335c9cebc20b165.js.map"
-    ],
-    "path---tags-stress": [
-      "path---tags-stress-b0ad2d9a9083512d1303.js",
-      "path---tags-stress-b0ad2d9a9083512d1303.js.map"
-    ],
-    "path---blog-july-gds-accessibility-playbook": [
-      "path---blog-july-gds-accessibility-playbook-593d61045cb5429c688b.js",
-      "path---blog-july-gds-accessibility-playbook-593d61045cb5429c688b.js.map"
+      "path---tags-game-8d7a9444a1692eb82967.js",
+      "path---tags-game-8d7a9444a1692eb82967.js.map"
     ],
     "path---tags-deep-dive": [
       "path---tags-deep-dive-4623fa688b201eb799a0.js",
       "path---tags-deep-dive-4623fa688b201eb799a0.js.map"
     ],
-    "path---blog-dearid-interview-with-alyssa-gomez": [
-      "path---blog-dearid-interview-with-alyssa-gomez-ebfab412f9b7510322be.js",
-      "path---blog-dearid-interview-with-alyssa-gomez-ebfab412f9b7510322be.js.map"
-    ],
-    "path---blog-dearid-interview-with-cara-north": [
-      "path---blog-dearid-interview-with-cara-north-242462522aa2fc812203.js",
-      "path---blog-dearid-interview-with-cara-north-242462522aa2fc812203.js.map"
-    ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---tags-transparency": [
-      "path---tags-transparency-b4e30d5963e3a7040715.js",
-      "path---tags-transparency-b4e30d5963e3a7040715.js.map"
-    ],
-    "path---blog-5": [
-      "path---blog-5-ea78b3868d1b8297d01a.js",
-      "path---blog-5-ea78b3868d1b8297d01a.js.map"
-    ],
-    "path---tags-phaser-io": [
-      "path---tags-phaser-io-42977a71056fb1a556af.js",
-      "path---tags-phaser-io-42977a71056fb1a556af.js.map"
-    ],
-    "path---blog-going-for-the-small-win-keeping-engaged-when-circumstances-weigh-you-down": [
-      "path---blog-going-for-the-small-win-keeping-engaged-when-circumstances-weigh-you-down-a0fd843a8b2a3f08a71e.js",
-      "path---blog-going-for-the-small-win-keeping-engaged-when-circumstances-weigh-you-down-a0fd843a8b2a3f08a71e.js.map"
-    ],
-    "path---tags-planning": [
-      "path---tags-planning-f9624abe590aa99c219b.js",
-      "path---tags-planning-f9624abe590aa99c219b.js.map"
-    ],
-    "path---blog-weeknotes-1016": [
-      "path---blog-weeknotes-1016-3332a4216745973b2933.js",
-      "path---blog-weeknotes-1016-3332a4216745973b2933.js.map"
-    ],
-    "path---tags-data-viz": [
-      "path---tags-data-viz-92e7c8a5879797e4b46f.js",
-      "path---tags-data-viz-92e7c8a5879797e4b46f.js.map"
     ],
     "component---src-pages-weather-js": [
       "component---src-pages-weather-js-e66a4b781179121994a2.js",
       "component---src-pages-weather-js-e66a4b781179121994a2.js.map"
     ],
-    "path---tags-thinking-big": [
-      "path---tags-thinking-big-c48c51fbc389c7c0e0e8.js",
-      "path---tags-thinking-big-c48c51fbc389c7c0e0e8.js.map"
-    ],
-    "path---tags-university": [
-      "path---tags-university-3565f67d9fa1a0c6e990.js",
-      "path---tags-university-3565f67d9fa1a0c6e990.js.map"
-    ],
-    "path---tags-reading": [
-      "path---tags-reading-4f288642851d6ac6cea0.js",
-      "path---tags-reading-4f288642851d6ac6cea0.js.map"
-    ],
-    "path---blog-inspiration-interactive-video": [
-      "path---blog-inspiration-interactive-video-217dea4a3caf98528ada.js",
-      "path---blog-inspiration-interactive-video-217dea4a3caf98528ada.js.map"
-    ],
-    "path---tags-comparison": [
-      "path---tags-comparison-95934d7781f84beb580b.js",
-      "path---tags-comparison-95934d7781f84beb580b.js.map"
-    ],
-    "path---blog-11": [
-      "path---blog-11-2ea52d1a8dfc52d898ab.js",
-      "path---blog-11-2ea52d1a8dfc52d898ab.js.map"
-    ],
-    "path---tags-web-design": [
-      "path---tags-web-design-f31a283d5bdec6f05488.js",
-      "path---tags-web-design-f31a283d5bdec6f05488.js.map"
-    ],
-    "path---blog-giving-critical-feedback-we-need-more-of-it": [
-      "path---blog-giving-critical-feedback-we-need-more-of-it-ba4f932a4a85cfa392c3.js",
-      "path---blog-giving-critical-feedback-we-need-more-of-it-ba4f932a4a85cfa392c3.js.map"
-    ],
-    "path---tags-learning-experience-design": [
-      "path---tags-learning-experience-design-69ca75a925db0bea1330.js",
-      "path---tags-learning-experience-design-69ca75a925db0bea1330.js.map"
-    ],
-    "path---tags-assumption": [
-      "path---tags-assumption-7b83cf01b0ed81603fff.js",
-      "path---tags-assumption-7b83cf01b0ed81603fff.js.map"
-    ],
-    "path---tags-fiction": [
-      "path---tags-fiction-963394e5bf517e0f01cf.js",
-      "path---tags-fiction-963394e5bf517e0f01cf.js.map"
-    ],
-    "path---blog-engaging-animated-video-in-powerpoint": [
-      "path---blog-engaging-animated-video-in-powerpoint-7693be91c532a45c9585.js",
-      "path---blog-engaging-animated-video-in-powerpoint-7693be91c532a45c9585.js.map"
-    ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---tags-modular-design": [
-      "path---tags-modular-design-eb9b7d8e2c65f42c1a9f.js",
-      "path---tags-modular-design-eb9b7d8e2c65f42c1a9f.js.map"
-    ],
-    "path---tags-presentation-design": [
-      "path---tags-presentation-design-e427ea794ad08c64b909.js",
-      "path---tags-presentation-design-e427ea794ad08c64b909.js.map"
-    ],
-    "path---blog-trying-out-kineo-adapt-open-source-elearning-authoring-framework": [
-      "path---blog-trying-out-kineo-adapt-open-source-elearning-authoring-framework-637bdb69132c00249e2d.js",
-      "path---blog-trying-out-kineo-adapt-open-source-elearning-authoring-framework-637bdb69132c00249e2d.js.map"
-    ],
-    "path---tags-critical-thinking": [
-      "path---tags-critical-thinking-246c05b05f77905d97db.js",
-      "path---tags-critical-thinking-246c05b05f77905d97db.js.map"
-    ],
-    "path---tags-rest": [
-      "path---tags-rest-9812f0aecdadb953201e.js",
-      "path---tags-rest-9812f0aecdadb953201e.js.map"
-    ],
-    "path---tags-mel-milloway": [
-      "path---tags-mel-milloway-dbb39fab4baa59ae4e82.js",
-      "path---tags-mel-milloway-dbb39fab4baa59ae4e82.js.map"
-    ],
-    "path---tags-college": [
-      "path---tags-college-44f46d8749481b69a4b0.js",
-      "path---tags-college-44f46d8749481b69a4b0.js.map"
-    ],
-    "path---tags-template": [
-      "path---tags-template-a26fd4ca2974950548f0.js",
-      "path---tags-template-a26fd4ca2974950548f0.js.map"
-    ],
-    "path---tags-season-1": [
-      "path---tags-season-1-92d5dd3ca0fba7d0e00a.js",
-      "path---tags-season-1-92d5dd3ca0fba7d0e00a.js.map"
-    ],
-    "path---blog-blunt-force-learning": [
-      "path---blog-blunt-force-learning-17349a707aeb35a95cb8.js",
-      "path---blog-blunt-force-learning-17349a707aeb35a95cb8.js.map"
-    ],
-    "path---blog-daily-ui-day-1": [
-      "path---blog-daily-ui-day-1-f7c6dbc0c68929e449b0.js",
-      "path---blog-daily-ui-day-1-f7c6dbc0c68929e449b0.js.map"
-    ],
-    "path---blog-mid-lab-review-creating-an-ebook-with-the-small-product-lab": [
-      "path---blog-mid-lab-review-creating-an-ebook-with-the-small-product-lab-4d8f95d1fd22f6084958.js",
-      "path---blog-mid-lab-review-creating-an-ebook-with-the-small-product-lab-4d8f95d1fd22f6084958.js.map"
-    ],
-    "path---blog-weeknotes-1023": [
-      "path---blog-weeknotes-1023-dc929d60803607936241.js",
-      "path---blog-weeknotes-1023-dc929d60803607936241.js.map"
-    ],
-    "path---tags-customer-facing": [
-      "path---tags-customer-facing-464db3a622d3b9d0662a.js",
-      "path---tags-customer-facing-464db3a622d3b9d0662a.js.map"
-    ],
-    "path---blog-free-code-camp-calculator": [
-      "path---blog-free-code-camp-calculator-a9250169cf41199ea079.js",
-      "path---blog-free-code-camp-calculator-a9250169cf41199ea079.js.map"
     ],
     "path---tags-instructional-design-learning": [
       "path---tags-instructional-design-learning-a42a76a9b3f45b7c59b9.js",
@@ -1604,245 +344,49 @@
       "path---blog-towards-a-model-for-professional-development-9ae3a2cc3c183afceab1.js",
       "path---blog-towards-a-model-for-professional-development-9ae3a2cc3c183afceab1.js.map"
     ],
-    "path---tags-mike-monteiro": [
-      "path---tags-mike-monteiro-6af3f838c1b8c75d915c.js",
-      "path---tags-mike-monteiro-6af3f838c1b8c75d915c.js.map"
-    ],
     "path---tags-moo-cs": [
       "path---tags-moo-cs-107692e671d0aea7f587.js",
       "path---tags-moo-cs-107692e671d0aea7f587.js.map"
     ],
     "path---tags-game-dev": [
-      "path---tags-game-dev-9c8c2227462280eba36a.js",
-      "path---tags-game-dev-9c8c2227462280eba36a.js.map"
-    ],
-    "path---blog-13": [
-      "path---blog-13-d54ac6fc10928eaac587.js",
-      "path---blog-13-d54ac6fc10928eaac587.js.map"
-    ],
-    "path---tags-calculator": [
-      "path---tags-calculator-62cc4334566c2c2b73eb.js",
-      "path---tags-calculator-62cc4334566c2c2b73eb.js.map"
+      "path---tags-game-dev-3789fec019183829a43a.js",
+      "path---tags-game-dev-3789fec019183829a43a.js.map"
     ],
     "path---categories-dear-id-show": [
-      "path---categories-dear-id-show-40f518a37f00051ef4bd.js",
-      "path---categories-dear-id-show-40f518a37f00051ef4bd.js.map"
-    ],
-    "path---tags-jquery": [
-      "path---tags-jquery-bf72083c3b65333a4b42.js",
-      "path---tags-jquery-bf72083c3b65333a4b42.js.map"
+      "path---categories-dear-id-show-ccde2b92476430b80f23.js",
+      "path---categories-dear-id-show-ccde2b92476430b80f23.js.map"
     ],
     "component---src-pages-yunojuno-js": [
       "component---src-pages-yunojuno-js-47cf693b544a5e05d5bd.js",
       "component---src-pages-yunojuno-js-47cf693b544a5e05d5bd.js.map"
     ],
-    "path---tags-creativity": [
-      "path---tags-creativity-c2160017cf0a650c94ff.js",
-      "path---tags-creativity-c2160017cf0a650c94ff.js.map"
-    ],
-    "path---tags-feedback": [
-      "path---tags-feedback-cfafc01083fd9ece6123.js",
-      "path---tags-feedback-cfafc01083fd9ece6123.js.map"
-    ],
-    "path---blog-steal-this-idea-personalized-job-aids": [
-      "path---blog-steal-this-idea-personalized-job-aids-e5cedbfe60ca3f756cf7.js",
-      "path---blog-steal-this-idea-personalized-job-aids-e5cedbfe60ca3f756cf7.js.map"
-    ],
     "path---tags-app-development": [
       "path---tags-app-development-bf5557cab0418160c6da.js",
       "path---tags-app-development-bf5557cab0418160c6da.js.map"
     ],
-    "path---tags-call-center": [
-      "path---tags-call-center-074b3add088a3ef0d6fb.js",
-      "path---tags-call-center-074b3add088a3ef0d6fb.js.map"
-    ],
     "path---categories-good-reads": [
-      "path---categories-good-reads-03e79227b6e401057823.js",
-      "path---categories-good-reads-03e79227b6e401057823.js.map"
-    ],
-    "path---tags-learning-and-development": [
-      "path---tags-learning-and-development-3f7ea2ec0b2971f7d0fb.js",
-      "path---tags-learning-and-development-3f7ea2ec0b2971f7d0fb.js.map"
-    ],
-    "path---tags-project-based-learning": [
-      "path---tags-project-based-learning-150e48edfb2f2df0ec40.js",
-      "path---tags-project-based-learning-150e48edfb2f2df0ec40.js.map"
-    ],
-    "path---tags-audio": [
-      "path---tags-audio-7d1355cdf95569b4449b.js",
-      "path---tags-audio-7d1355cdf95569b4449b.js.map"
-    ],
-    "path---blog-3-benefits-of-ignorance-for-instructional-designers": [
-      "path---blog-3-benefits-of-ignorance-for-instructional-designers-6c15e8d6e9dd746085d2.js",
-      "path---blog-3-benefits-of-ignorance-for-instructional-designers-6c15e8d6e9dd746085d2.js.map"
+      "path---categories-good-reads-102995e11b5ca29babab.js",
+      "path---categories-good-reads-102995e11b5ca29babab.js.map"
     ],
     "path---tags-professional-development": [
-      "path---tags-professional-development-ae20cbfc37cc28fcd425.js",
-      "path---tags-professional-development-ae20cbfc37cc28fcd425.js.map"
-    ],
-    "path---tags-writing": [
-      "path---tags-writing-ed6de340b85e7a80221b.js",
-      "path---tags-writing-ed6de340b85e7a80221b.js.map"
-    ],
-    "path---blog-espiritus-a-teeny-tiny-game-made-using-phaser-js": [
-      "path---blog-espiritus-a-teeny-tiny-game-made-using-phaser-js-49eb3de622e10064fb7f.js",
-      "path---blog-espiritus-a-teeny-tiny-game-made-using-phaser-js-49eb3de622e10064fb7f.js.map"
-    ],
-    "path---blog-go-design-something-challenges": [
-      "path---blog-go-design-something-challenges-5efdd6f7a63c52160753.js",
-      "path---blog-go-design-something-challenges-5efdd6f7a63c52160753.js.map"
-    ],
-    "path---blog-adding-value-an-opportunity": [
-      "path---blog-adding-value-an-opportunity-b65b3b81eae7cbb5cf8b.js",
-      "path---blog-adding-value-an-opportunity-b65b3b81eae7cbb5cf8b.js.map"
-    ],
-    "path---tags-focus": [
-      "path---tags-focus-e34ec31855d1f56702c9.js",
-      "path---tags-focus-e34ec31855d1f56702c9.js.map"
-    ],
-    "path---tags-portfolio-design": [
-      "path---tags-portfolio-design-ae5b3c483029ff6193f9.js",
-      "path---tags-portfolio-design-ae5b3c483029ff6193f9.js.map"
-    ],
-    "path---blog-4-things-you-should-consider-before-a-volunteer-e-learning-project": [
-      "path---blog-4-things-you-should-consider-before-a-volunteer-e-learning-project-b38605d7a9b554437aec.js",
-      "path---blog-4-things-you-should-consider-before-a-volunteer-e-learning-project-b38605d7a9b554437aec.js.map"
-    ],
-    "path---blog-the-dear-id-show-interview-with-ashley-chiasson": [
-      "path---blog-the-dear-id-show-interview-with-ashley-chiasson-953b2da1cb998035e367.js",
-      "path---blog-the-dear-id-show-interview-with-ashley-chiasson-953b2da1cb998035e367.js.map"
-    ],
-    "path---tags-experience": [
-      "path---tags-experience-6e38b6a453a8ce97821f.js",
-      "path---tags-experience-6e38b6a453a8ce97821f.js.map"
-    ],
-    "path---tags-clean-eating": [
-      "path---tags-clean-eating-55c5ae54919a2875d292.js",
-      "path---tags-clean-eating-55c5ae54919a2875d292.js.map"
-    ],
-    "path---tags-job-aid": [
-      "path---tags-job-aid-83d292b95d9449df8774.js",
-      "path---tags-job-aid-83d292b95d9449df8774.js.map"
-    ],
-    "path---tags-508-compliance": [
-      "path---tags-508-compliance-6b7110871268af5c29f5.js",
-      "path---tags-508-compliance-6b7110871268af5c29f5.js.map"
-    ],
-    "path---blog-dearid-prototyping-tools": [
-      "path---blog-dearid-prototyping-tools-48fc6096050990b3a3e6.js",
-      "path---blog-dearid-prototyping-tools-48fc6096050990b3a3e6.js.map"
-    ],
-    "path---tags-ccaf": [
-      "path---tags-ccaf-9d7b89ad8c412bac0b1e.js",
-      "path---tags-ccaf-9d7b89ad8c412bac0b1e.js.map"
-    ],
-    "path---tags-academia": [
-      "path---tags-academia-ee4f661d95641848443c.js",
-      "path---tags-academia-ee4f661d95641848443c.js.map"
+      "path---tags-professional-development-5605b74688ee27982e91.js",
+      "path---tags-professional-development-5605b74688ee27982e91.js.map"
     ],
     "path---tags-game-design": [
-      "path---tags-game-design-8ee8833612778781f7e0.js",
-      "path---tags-game-design-8ee8833612778781f7e0.js.map"
-    ],
-    "path---tags-progressive-enhancement": [
-      "path---tags-progressive-enhancement-19fdb028c3892ab539b8.js",
-      "path---tags-progressive-enhancement-19fdb028c3892ab539b8.js.map"
-    ],
-    "path---tags-technology": [
-      "path---tags-technology-69cffbb67e887960deb7.js",
-      "path---tags-technology-69cffbb67e887960deb7.js.map"
-    ],
-    "path---tags-volunteering": [
-      "path---tags-volunteering-f347b85033944b73dba0.js",
-      "path---tags-volunteering-f347b85033944b73dba0.js.map"
-    ],
-    "path---tags-television": [
-      "path---tags-television-ba8624d54f50b09cf569.js",
-      "path---tags-television-ba8624d54f50b09cf569.js.map"
-    ],
-    "path---tags-branching-scenario": [
-      "path---tags-branching-scenario-080db357c73cd95872cc.js",
-      "path---tags-branching-scenario-080db357c73cd95872cc.js.map"
-    ],
-    "path---tags-praise": [
-      "path---tags-praise-35f7c4f2c5571449a876.js",
-      "path---tags-praise-35f7c4f2c5571449a876.js.map"
-    ],
-    "path---tags-solutions": [
-      "path---tags-solutions-1d781bc90eeb9332cc82.js",
-      "path---tags-solutions-1d781bc90eeb9332cc82.js.map"
+      "path---tags-game-design-775008103c359076584b.js",
+      "path---tags-game-design-775008103c359076584b.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-d8c7bb5f40f03c6c8fb4.js",
       "component---src-pages-404-js-d8c7bb5f40f03c6c8fb4.js.map"
     ],
     "path---tags-game-development": [
-      "path---tags-game-development-b771c287fa97cc82cb2f.js",
-      "path---tags-game-development-b771c287fa97cc82cb2f.js.map"
-    ],
-    "path---blog-dearid-interview-with-ant-pugh": [
-      "path---blog-dearid-interview-with-ant-pugh-84664494d451c24c0f3f.js",
-      "path---blog-dearid-interview-with-ant-pugh-84664494d451c24c0f3f.js.map"
-    ],
-    "path---tags-interaction": [
-      "path---tags-interaction-a6a9b059860fdde9a801.js",
-      "path---tags-interaction-a6a9b059860fdde9a801.js.map"
-    ],
-    "path---blog-throwback-thursday-3-design-lessons-learned-from-where-in-the-world-is-carmen-sandiego": [
-      "path---blog-throwback-thursday-3-design-lessons-learned-from-where-in-the-world-is-carmen-sandiego-f7824af424469e0d5719.js",
-      "path---blog-throwback-thursday-3-design-lessons-learned-from-where-in-the-world-is-carmen-sandiego-f7824af424469e0d5719.js.map"
-    ],
-    "path---blog-dear-id-show-interview-with-jed-esposito": [
-      "path---blog-dear-id-show-interview-with-jed-esposito-7a141668cdb520cea46c.js",
-      "path---blog-dear-id-show-interview-with-jed-esposito-7a141668cdb520cea46c.js.map"
-    ],
-    "path---tags-fonts": [
-      "path---tags-fonts-969fbad5ec2d952a0f74.js",
-      "path---tags-fonts-969fbad5ec2d952a0f74.js.map"
-    ],
-    "path---blog-embedding-fonts-in-lectora": [
-      "path---blog-embedding-fonts-in-lectora-4510d355dd15a6d5fbda.js",
-      "path---blog-embedding-fonts-in-lectora-4510d355dd15a6d5fbda.js.map"
-    ],
-    "path---tags-highbrow": [
-      "path---tags-highbrow-81fb00140041c1cca4b1.js",
-      "path---tags-highbrow-81fb00140041c1cca4b1.js.map"
+      "path---tags-game-development-048e57dc479566e995de.js",
+      "path---tags-game-development-048e57dc479566e995de.js.map"
     ],
     "path---tags-video": [
-      "path---tags-video-0d8a3f52b6d6af2d9d09.js",
-      "path---tags-video-0d8a3f52b6d6af2d9d09.js.map"
-    ],
-    "path---blog-another-look-at-atomic-learning-experience-design": [
-      "path---blog-another-look-at-atomic-learning-experience-design-cbc57e8e660120e10e1a.js",
-      "path---blog-another-look-at-atomic-learning-experience-design-cbc57e8e660120e10e1a.js.map"
-    ],
-    "path---tags-travel": [
-      "path---tags-travel-e3769d3026234c3954d1.js",
-      "path---tags-travel-e3769d3026234c3954d1.js.map"
-    ],
-    "path---tags-map": [
-      "path---tags-map-26fb124972976aea31f5.js",
-      "path---tags-map-26fb124972976aea31f5.js.map"
-    ],
-    "path---tags-craft": [
-      "path---tags-craft-6f67341a41a52eadb2e5.js",
-      "path---tags-craft-6f67341a41a52eadb2e5.js.map"
-    ],
-    "path---tags-transition": [
-      "path---tags-transition-af3cf9e8e4524540d4d0.js",
-      "path---tags-transition-af3cf9e8e4524540d4d0.js.map"
-    ],
-    "path---blog-im-kristin-and-this-is-how-i-get-stuff-done": [
-      "path---blog-im-kristin-and-this-is-how-i-get-stuff-done-179e53e8ec7cc63cef03.js",
-      "path---blog-im-kristin-and-this-is-how-i-get-stuff-done-179e53e8ec7cc63cef03.js.map"
-    ],
-    "path---tags-course-build": [
-      "path---tags-course-build-09fa820edc57ad75ae05.js",
-      "path---tags-course-build-09fa820edc57ad75ae05.js.map"
-    ],
-    "path---tags-creation": [
-      "path---tags-creation-c15085ea6db735f7740c.js",
-      "path---tags-creation-c15085ea6db735f7740c.js.map"
+      "path---tags-video-88e1a9af31281e4957c0.js",
+      "path---tags-video-88e1a9af31281e4957c0.js.map"
     ],
     "commons": [
       "commons-86005ad13607e60880c7.js",
@@ -1850,17 +394,9 @@
       "commons-86005ad13607e60880c7.js.map",
       "build-js-styles.css.map"
     ],
-    "path---blog-dearid-interview-with-hadiya-nuriddin": [
-      "path---blog-dearid-interview-with-hadiya-nuriddin-651a61e9c3117028077c.js",
-      "path---blog-dearid-interview-with-hadiya-nuriddin-651a61e9c3117028077c.js.map"
-    ],
     "path---tags-business": [
-      "path---tags-business-cf75e42c1fd5a09b98c5.js",
-      "path---tags-business-cf75e42c1fd5a09b98c5.js.map"
-    ],
-    "path---blog-weekend-project-and-elh-challenge-parallax-effect-and-subtle-motion": [
-      "path---blog-weekend-project-and-elh-challenge-parallax-effect-and-subtle-motion-21e523bf3ccc974babec.js",
-      "path---blog-weekend-project-and-elh-challenge-parallax-effect-and-subtle-motion-21e523bf3ccc974babec.js.map"
+      "path---tags-business-b443518784ce7bc7103a.js",
+      "path---tags-business-b443518784ce7bc7103a.js.map"
     ],
     "path---blog-dearid-episode-42-online-course-for-a-student-maker-space-with-ellen-hayes": [
       "path---blog-dearid-episode-42-online-course-for-a-student-maker-space-with-ellen-hayes-aab39231645d870105ac.js",
@@ -1871,104 +407,20 @@
       "path---tags-voice-interface-1a94c42162a037cb95e3.js.map"
     ],
     "path---tags-project-ideas": [
-      "path---tags-project-ideas-d7b4188db154817d5dd4.js",
-      "path---tags-project-ideas-d7b4188db154817d5dd4.js.map"
-    ],
-    "path---tags-ignorance": [
-      "path---tags-ignorance-1c832f37058c732d1d61.js",
-      "path---tags-ignorance-1c832f37058c732d1d61.js.map"
-    ],
-    "path---tags-permutation": [
-      "path---tags-permutation-b209b76d89bdbd0419ca.js",
-      "path---tags-permutation-b209b76d89bdbd0419ca.js.map"
-    ],
-    "path---tags-canvas-lms": [
-      "path---tags-canvas-lms-ddde658eb81fe487eacd.js",
-      "path---tags-canvas-lms-ddde658eb81fe487eacd.js.map"
+      "path---tags-project-ideas-9b206b7596325da21695.js",
+      "path---tags-project-ideas-9b206b7596325da21695.js.map"
     ],
     "path---blog-3": [
-      "path---blog-3-ce37b537616234af18bc.js",
-      "path---blog-3-ce37b537616234af18bc.js.map"
-    ],
-    "path---tags-speaking": [
-      "path---tags-speaking-a04ce54effab1fdde56f.js",
-      "path---tags-speaking-a04ce54effab1fdde56f.js.map"
-    ],
-    "path---tags-popplet": [
-      "path---tags-popplet-e73fcf4f06744d6a364c.js",
-      "path---tags-popplet-e73fcf4f06744d6a364c.js.map"
-    ],
-    "path---tags-digital-magazine": [
-      "path---tags-digital-magazine-90289ddd93762a4f6887.js",
-      "path---tags-digital-magazine-90289ddd93762a4f6887.js.map"
-    ],
-    "path---blog-respect-the-text": [
-      "path---blog-respect-the-text-a86a63310028e1ff62b6.js",
-      "path---blog-respect-the-text-a86a63310028e1ff62b6.js.map"
-    ],
-    "path---tags-tic-tac-toe": [
-      "path---tags-tic-tac-toe-db01129c536777534595.js",
-      "path---tags-tic-tac-toe-db01129c536777534595.js.map"
+      "path---blog-3-e27522206f689fa28734.js",
+      "path---blog-3-e27522206f689fa28734.js.map"
     ],
     "path---categories-weeknotes": [
-      "path---categories-weeknotes-d8115ae2578d94f54301.js",
-      "path---categories-weeknotes-d8115ae2578d94f54301.js.map"
-    ],
-    "path---categories-gds-challenge": [
-      "path---categories-gds-challenge-e2fec1f8c5e79571eed1.js",
-      "path---categories-gds-challenge-e2fec1f8c5e79571eed1.js.map"
-    ],
-    "path---tags-iframe": [
-      "path---tags-iframe-2192f18a4bf48be0af77.js",
-      "path---tags-iframe-2192f18a4bf48be0af77.js.map"
-    ],
-    "path---blog-10": [
-      "path---blog-10-79e4e67bdfaa52073797.js",
-      "path---blog-10-79e4e67bdfaa52073797.js.map"
-    ],
-    "path---tags-theming": [
-      "path---tags-theming-9c4c8d42640a4f3cfd0c.js",
-      "path---tags-theming-9c4c8d42640a4f3cfd0c.js.map"
-    ],
-    "path---tags-onboarding": [
-      "path---tags-onboarding-e29862cc897c85b84a22.js",
-      "path---tags-onboarding-e29862cc897c85b84a22.js.map"
-    ],
-    "path---blog-trying-something-new": [
-      "path---blog-trying-something-new-2bea8562f4ab56a6f932.js",
-      "path---blog-trying-something-new-2bea8562f4ab56a6f932.js.map"
-    ],
-    "path---tags-user-journey": [
-      "path---tags-user-journey-ffb01e0b5ed632b85ba2.js",
-      "path---tags-user-journey-ffb01e0b5ed632b85ba2.js.map"
+      "path---categories-weeknotes-2e535e119ed2ae9669dc.js",
+      "path---categories-weeknotes-2e535e119ed2ae9669dc.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "path---tags-consistency": [
-      "path---tags-consistency-c81011443b5de4e05934.js",
-      "path---tags-consistency-c81011443b5de4e05934.js.map"
-    ],
-    "path---tags-growth-mindset": [
-      "path---tags-growth-mindset-c70d7d4e3c5a7788c10a.js",
-      "path---tags-growth-mindset-c70d7d4e3c5a7788c10a.js.map"
-    ],
-    "path---blog-interaction-inspiration": [
-      "path---blog-interaction-inspiration-82cf2f76bc8e4242d57c.js",
-      "path---blog-interaction-inspiration-82cf2f76bc8e4242d57c.js.map"
-    ],
-    "path---tags-tools": [
-      "path---tags-tools-d06d9719a988585a5f32.js",
-      "path---tags-tools-d06d9719a988585a5f32.js.map"
-    ],
-    "path---blog-the-dear-instructional-designer-show-interview-with-melissa-milloway": [
-      "path---blog-the-dear-instructional-designer-show-interview-with-melissa-milloway-9f0ea410553ea40222fa.js",
-      "path---blog-the-dear-instructional-designer-show-interview-with-melissa-milloway-9f0ea410553ea40222fa.js.map"
-    ],
-    "path---tags-storyboarding": [
-      "path---tags-storyboarding-954a7ee609a6c10b0359.js",
-      "path---tags-storyboarding-954a7ee609a6c10b0359.js.map"
     ],
     "path---tags-augmented-reality": [
       "path---tags-augmented-reality-85c9b223c6bbd9c0e292.js",
@@ -1978,173 +430,29 @@
       "path---tags-uxlx-08b44576bfe43613a9f6.js",
       "path---tags-uxlx-08b44576bfe43613a9f6.js.map"
     ],
-    "path---tags-lectora": [
-      "path---tags-lectora-b1a691c40c5cb8772e31.js",
-      "path---tags-lectora-b1a691c40c5cb8772e31.js.map"
-    ],
-    "path---tags-emulate": [
-      "path---tags-emulate-27f1f18c46b41b6f7da9.js",
-      "path---tags-emulate-27f1f18c46b41b6f7da9.js.map"
-    ],
     "path---tags-mooc": [
       "path---tags-mooc-3428958c64a5bd77ac69.js",
       "path---tags-mooc-3428958c64a5bd77ac69.js.map"
     ],
-    "path---blog-the-netflix-of-elearning-weblrn": [
-      "path---blog-the-netflix-of-elearning-weblrn-c61df3b911f87bfe846a.js",
-      "path---blog-the-netflix-of-elearning-weblrn-c61df3b911f87bfe846a.js.map"
-    ],
-    "path---blog-this-coding-life-or-how-i-learned-to-love-the-stuggle": [
-      "path---blog-this-coding-life-or-how-i-learned-to-love-the-stuggle-a223dff2cba6a72dbf41.js",
-      "path---blog-this-coding-life-or-how-i-learned-to-love-the-stuggle-a223dff2cba6a72dbf41.js.map"
-    ],
-    "path---tags-timeline": [
-      "path---tags-timeline-99623cf5c6c39906d8de.js",
-      "path---tags-timeline-99623cf5c6c39906d8de.js.map"
-    ],
-    "path---tags-hamburger-icon": [
-      "path---tags-hamburger-icon-b5032bc23b543142b272.js",
-      "path---tags-hamburger-icon-b5032bc23b543142b272.js.map"
-    ],
-    "path---tags-experimentation": [
-      "path---tags-experimentation-6d4e37f0a218cc20bd1a.js",
-      "path---tags-experimentation-6d4e37f0a218cc20bd1a.js.map"
-    ],
-    "path---blog-7": [
-      "path---blog-7-f2e68c08c19b41b3b795.js",
-      "path---blog-7-f2e68c08c19b41b3b795.js.map"
-    ],
-    "path---tags-frustration": [
-      "path---tags-frustration-6062fd829308f4439414.js",
-      "path---tags-frustration-6062fd829308f4439414.js.map"
-    ],
     "path---categories-commonplace-book": [
-      "path---categories-commonplace-book-24b576dc48763dc1c8e1.js",
-      "path---categories-commonplace-book-24b576dc48763dc1c8e1.js.map"
-    ],
-    "path---blog-seriously-though-the-answer-is-make-stuff": [
-      "path---blog-seriously-though-the-answer-is-make-stuff-81d39f0333c63b70618d.js",
-      "path---blog-seriously-though-the-answer-is-make-stuff-81d39f0333c63b70618d.js.map"
-    ],
-    "path---tags-teacher": [
-      "path---tags-teacher-3e79ffe70b13b0ffe494.js",
-      "path---tags-teacher-3e79ffe70b13b0ffe494.js.map"
-    ],
-    "path---tags-start-small": [
-      "path---tags-start-small-f409732504c554248ad0.js",
-      "path---tags-start-small-f409732504c554248ad0.js.map"
-    ],
-    "path---blog-17": [
-      "path---blog-17-03376d33fadf51a9ba7c.js",
-      "path---blog-17-03376d33fadf51a9ba7c.js.map"
-    ],
-    "path---tags-app": [
-      "path---tags-app-1874dab7293de6996086.js",
-      "path---tags-app-1874dab7293de6996086.js.map"
-    ],
-    "path---blog-go-design-something-the-final-incarnation": [
-      "path---blog-go-design-something-the-final-incarnation-3e96faa11865404f79d9.js",
-      "path---blog-go-design-something-the-final-incarnation-3e96faa11865404f79d9.js.map"
-    ],
-    "path---blog-the-storyteller": [
-      "path---blog-the-storyteller-98a42897f8b31982f3b1.js",
-      "path---blog-the-storyteller-98a42897f8b31982f3b1.js.map"
-    ],
-    "path---tags-curation": [
-      "path---tags-curation-a004c4b318424671dbee.js",
-      "path---tags-curation-a004c4b318424671dbee.js.map"
-    ],
-    "path---blog-design-decisions-on-my-free-code-camp-portfolio": [
-      "path---blog-design-decisions-on-my-free-code-camp-portfolio-5bc8d655cc7423ab160f.js",
-      "path---blog-design-decisions-on-my-free-code-camp-portfolio-5bc8d655cc7423ab160f.js.map"
-    ],
-    "path---tags-game-jam": [
-      "path---tags-game-jam-3d8e0e77f697e94531b1.js",
-      "path---tags-game-jam-3d8e0e77f697e94531b1.js.map"
-    ],
-    "path---blog-elh-challenge-77-emoji-for-the-win": [
-      "path---blog-elh-challenge-77-emoji-for-the-win-86749be12492ebcefb84.js",
-      "path---blog-elh-challenge-77-emoji-for-the-win-86749be12492ebcefb84.js.map"
-    ],
-    "path---blog-december-gds-project-pomodoro-timer": [
-      "path---blog-december-gds-project-pomodoro-timer-64d04f3ecfe68c26e515.js",
-      "path---blog-december-gds-project-pomodoro-timer-64d04f3ecfe68c26e515.js.map"
-    ],
-    "path---blog-new-challenges-and-worklife-balance": [
-      "path---blog-new-challenges-and-worklife-balance-555c0804a1e186dd99fa.js",
-      "path---blog-new-challenges-and-worklife-balance-555c0804a1e186dd99fa.js.map"
-    ],
-    "path---blog-evolution-of-a-data-viz-showing-user-journeys-through-google-charts": [
-      "path---blog-evolution-of-a-data-viz-showing-user-journeys-through-google-charts-c0bafa54d1255c158eff.js",
-      "path---blog-evolution-of-a-data-viz-showing-user-journeys-through-google-charts-c0bafa54d1255c158eff.js.map"
-    ],
-    "path---blog-the-netflix-of-elearning-revisited-xapi-and-creating-discovery-pathways": [
-      "path---blog-the-netflix-of-elearning-revisited-xapi-and-creating-discovery-pathways-fac813d81d7e17244c0b.js",
-      "path---blog-the-netflix-of-elearning-revisited-xapi-and-creating-discovery-pathways-fac813d81d7e17244c0b.js.map"
-    ],
-    "path---tags-devices": [
-      "path---tags-devices-35339271b691464c639b.js",
-      "path---tags-devices-35339271b691464c639b.js.map"
+      "path---categories-commonplace-book-f39493ee892e56406335.js",
+      "path---categories-commonplace-book-f39493ee892e56406335.js.map"
     ],
     "path---categories-design": [
-      "path---categories-design-b5c2a517499cae1a8b7f.js",
-      "path---categories-design-b5c2a517499cae1a8b7f.js.map"
+      "path---categories-design-30bf4cc1305c04678a10.js",
+      "path---categories-design-30bf4cc1305c04678a10.js.map"
     ],
     "path---tags-model": [
       "path---tags-model-6ab98229518e1e9e8145.js",
       "path---tags-model-6ab98229518e1e9e8145.js.map"
     ],
-    "path---blog-preventing-workplace-violence": [
-      "path---blog-preventing-workplace-violence-c033fc3bcb1af63139aa.js",
-      "path---blog-preventing-workplace-violence-c033fc3bcb1af63139aa.js.map"
-    ],
-    "path---blog-12": [
-      "path---blog-12-db998fa5772c48587f3c.js",
-      "path---blog-12-db998fa5772c48587f3c.js.map"
-    ],
     "path---blog-supply-run-my-1-gam-entry-for-january": [
       "path---blog-supply-run-my-1-gam-entry-for-january-9b80d0d5436c761b9e44.js",
       "path---blog-supply-run-my-1-gam-entry-for-january-9b80d0d5436c761b9e44.js.map"
     ],
-    "path---tags-assets": [
-      "path---tags-assets-4ecfdc48896505c0f3f8.js",
-      "path---tags-assets-4ecfdc48896505c0f3f8.js.map"
-    ],
-    "path---tags-personalization": [
-      "path---tags-personalization-90360a36185d11ffaabb.js",
-      "path---tags-personalization-90360a36185d11ffaabb.js.map"
-    ],
-    "path---blog-lxrepeat-trying-out-zcast-with-a-personal-learning-journal": [
-      "path---blog-lxrepeat-trying-out-zcast-with-a-personal-learning-journal-588c4e12fb1f9871b397.js",
-      "path---blog-lxrepeat-trying-out-zcast-with-a-personal-learning-journal-588c4e12fb1f9871b397.js.map"
-    ],
     "component---src-pages-tags-js": [
       "component---src-pages-tags-js-581be72e7743014a6122.js",
       "component---src-pages-tags-js-581be72e7743014a6122.js.map"
-    ],
-    "path---tags-google-forms": [
-      "path---tags-google-forms-25b079d526d5391603f6.js",
-      "path---tags-google-forms-25b079d526d5391603f6.js.map"
-    ],
-    "path---tags-minimum-viable-product": [
-      "path---tags-minimum-viable-product-e7290569ec502f64d857.js",
-      "path---tags-minimum-viable-product-e7290569ec502f64d857.js.map"
-    ],
-    "path---blog-dear-id-show-interview-with-jane-bozarth": [
-      "path---blog-dear-id-show-interview-with-jane-bozarth-90799d2c09ac24d0696b.js",
-      "path---blog-dear-id-show-interview-with-jane-bozarth-90799d2c09ac24d0696b.js.map"
-    ],
-    "path---blog-accessible-elearning-part-2": [
-      "path---blog-accessible-elearning-part-2-18d96730f1ec3fca9a42.js",
-      "path---blog-accessible-elearning-part-2-18d96730f1ec3fca9a42.js.map"
-    ],
-    "path---tags-tin-can-js": [
-      "path---tags-tin-can-js-c3ee24cb067bccb0ae18.js",
-      "path---tags-tin-can-js-c3ee24cb067bccb0ae18.js.map"
-    ],
-    "path---tags-discussion-forums": [
-      "path---tags-discussion-forums-f0ab595b77d3ae1bd7dd.js",
-      "path---tags-discussion-forums-f0ab595b77d3ae1bd7dd.js.map"
     ],
     "path---blog-civic-learning-an-idea-generated-from-torrance-learnings-download-un-conference": [
       "path---blog-civic-learning-an-idea-generated-from-torrance-learnings-download-un-conference-d26b4f940a9cbff6ad6b.js",
@@ -2154,177 +462,37 @@
       "path---blog-weeknotes-418-in-which-i-finally-finish-my-game-810ba90f9531651fc510.js",
       "path---blog-weeknotes-418-in-which-i-finally-finish-my-game-810ba90f9531651fc510.js.map"
     ],
-    "path---tags-oppia": [
-      "path---tags-oppia-8fc4557fd01546a11475.js",
-      "path---tags-oppia-8fc4557fd01546a11475.js.map"
-    ],
-    "path---blog-all-work-and-then-rest": [
-      "path---blog-all-work-and-then-rest-4afc90fda7d4fc8b23a7.js",
-      "path---blog-all-work-and-then-rest-4afc90fda7d4fc8b23a7.js.map"
-    ],
-    "path---tags-sketchnoting": [
-      "path---tags-sketchnoting-8cbe8f21edc9a4a10de6.js",
-      "path---tags-sketchnoting-8cbe8f21edc9a4a10de6.js.map"
-    ],
-    "path---tags-refresh": [
-      "path---tags-refresh-9d074a1561e8c3479bc3.js",
-      "path---tags-refresh-9d074a1561e8c3479bc3.js.map"
-    ],
-    "path---tags-algorithms": [
-      "path---tags-algorithms-88f883065f0cb0dd472e.js",
-      "path---tags-algorithms-88f883065f0cb0dd472e.js.map"
-    ],
     "path---tags-idle-clicker": [
       "path---tags-idle-clicker-973d365702ba9e72595f.js",
       "path---tags-idle-clicker-973d365702ba9e72595f.js.map"
     ],
-    "path---blog-18": [
-      "path---blog-18-2e66ff81c4235b5b9329.js",
-      "path---blog-18-2e66ff81c4235b5b9329.js.map"
-    ],
-    "path---tags-course-design": [
-      "path---tags-course-design-ef9faa00507460665c48.js",
-      "path---tags-course-design-ef9faa00507460665c48.js.map"
-    ],
-    "path---tags-visualization": [
-      "path---tags-visualization-7d43bc3399762b31413c.js",
-      "path---tags-visualization-7d43bc3399762b31413c.js.map"
-    ],
-    "path---tags-stress-case": [
-      "path---tags-stress-case-72e5689ea9b1f1743829.js",
-      "path---tags-stress-case-72e5689ea9b1f1743829.js.map"
-    ],
-    "path---tags-technical-training": [
-      "path---tags-technical-training-87fb5fa526cd4126e67b.js",
-      "path---tags-technical-training-87fb5fa526cd4126e67b.js.map"
-    ],
-    "path---tags-weekend": [
-      "path---tags-weekend-3c33f83f577d0f7d10fc.js",
-      "path---tags-weekend-3c33f83f577d0f7d10fc.js.map"
-    ],
-    "path---tags-developer-tea": [
-      "path---tags-developer-tea-ae7b4364a06a53300100.js",
-      "path---tags-developer-tea-ae7b4364a06a53300100.js.map"
-    ],
-    "path---tags-children": [
-      "path---tags-children-65a47e9b2cd7c8a59c4e.js",
-      "path---tags-children-65a47e9b2cd7c8a59c4e.js.map"
-    ],
-    "path---blog-free-code-camp-no-repeats-please": [
-      "path---blog-free-code-camp-no-repeats-please-f4711864083e3ac6d4e5.js",
-      "path---blog-free-code-camp-no-repeats-please-f4711864083e3ac6d4e5.js.map"
-    ],
     "path---categories-what-if-ideas": [
-      "path---categories-what-if-ideas-09c075e3c8de38ebbac6.js",
-      "path---categories-what-if-ideas-09c075e3c8de38ebbac6.js.map"
-    ],
-    "path---tags-visual-language": [
-      "path---tags-visual-language-b3e16a5941f8a2b52b93.js",
-      "path---tags-visual-language-b3e16a5941f8a2b52b93.js.map"
-    ],
-    "path---blog-instructional-design-from-professional-development-to-academia": [
-      "path---blog-instructional-design-from-professional-development-to-academia-932da08a30a6d13d3e24.js",
-      "path---blog-instructional-design-from-professional-development-to-academia-932da08a30a6d13d3e24.js.map"
-    ],
-    "path---blog-patterns-in-learning-experience-design": [
-      "path---blog-patterns-in-learning-experience-design-f5bd1adbe4744be8a9bf.js",
-      "path---blog-patterns-in-learning-experience-design-f5bd1adbe4744be8a9bf.js.map"
+      "path---categories-what-if-ideas-8975192533f51f118525.js",
+      "path---categories-what-if-ideas-8975192533f51f118525.js.map"
     ],
     "path---tags-teamwork": [
       "path---tags-teamwork-345c87bd8d9eb993ba19.js",
       "path---tags-teamwork-345c87bd8d9eb993ba19.js.map"
     ],
-    "path---tags-how-i-learn": [
-      "path---tags-how-i-learn-28a2a7570c4c10ebc445.js",
-      "path---tags-how-i-learn-28a2a7570c4c10ebc445.js.map"
-    ],
-    "path---tags-joseph-suarez": [
-      "path---tags-joseph-suarez-b8fe556bbcacb1a6cb3b.js",
-      "path---tags-joseph-suarez-b8fe556bbcacb1a6cb3b.js.map"
-    ],
-    "path---tags-marketing": [
-      "path---tags-marketing-d8b0eb940113e02ea42f.js",
-      "path---tags-marketing-d8b0eb940113e02ea42f.js.map"
-    ],
-    "path---tags-tutorial": [
-      "path---tags-tutorial-427d67e6129c3ad0c841.js",
-      "path---tags-tutorial-427d67e6129c3ad0c841.js.map"
-    ],
     "path---tags-procedural": [
       "path---tags-procedural-950eae155ce82cb3fd79.js",
       "path---tags-procedural-950eae155ce82cb3fd79.js.map"
     ],
-    "path---tags-css": [
-      "path---tags-css-8e3257131dd9cd519b8d.js",
-      "path---tags-css-8e3257131dd9cd519b8d.js.map"
-    ],
     "path---blog-weeknotes-learning-dev-camp-day-2-to-3": [
       "path---blog-weeknotes-learning-dev-camp-day-2-to-3-285500886710200e7a8c.js",
       "path---blog-weeknotes-learning-dev-camp-day-2-to-3-285500886710200e7a8c.js.map"
-    ],
-    "path---tags-animicon": [
-      "path---tags-animicon-abc718b5755855360156.js",
-      "path---tags-animicon-abc718b5755855360156.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tags-maker-challenge": [
-      "path---tags-maker-challenge-e47cd01131505ce66b24.js",
-      "path---tags-maker-challenge-e47cd01131505ce66b24.js.map"
-    ],
-    "path---tags-simple": [
-      "path---tags-simple-ec9b01255292d5c4f958.js",
-      "path---tags-simple-ec9b01255292d5c4f958.js.map"
-    ],
-    "path---tags-year-of-the-project": [
-      "path---tags-year-of-the-project-1b2f1544ac1997825a07.js",
-      "path---tags-year-of-the-project-1b2f1544ac1997825a07.js.map"
-    ],
-    "path---blog-9-pieces-of-advice-to-my-younger-self": [
-      "path---blog-9-pieces-of-advice-to-my-younger-self-28bba7241d4af2dbd329.js",
-      "path---blog-9-pieces-of-advice-to-my-younger-self-28bba7241d4af2dbd329.js.map"
-    ],
-    "path---blog-acme-u-in-progress": [
-      "path---blog-acme-u-in-progress-b8f532f658f6b11b24a4.js",
-      "path---blog-acme-u-in-progress-b8f532f658f6b11b24a4.js.map"
-    ],
-    "path---tags-excuses": [
-      "path---tags-excuses-66867b3871b313af3067.js",
-      "path---tags-excuses-66867b3871b313af3067.js.map"
+      "path---tags-maker-challenge-6ed551b5d0c640fe6246.js",
+      "path---tags-maker-challenge-6ed551b5d0c640fe6246.js.map"
     ],
     "path---tags-java-script": [
-      "path---tags-java-script-bd150b7dd78e1f9011bf.js",
-      "path---tags-java-script-bd150b7dd78e1f9011bf.js.map"
-    ],
-    "path---tags-social-studies": [
-      "path---tags-social-studies-e685b34014f8609dc4be.js",
-      "path---tags-social-studies-e685b34014f8609dc4be.js.map"
-    ],
-    "path---tags-comics": [
-      "path---tags-comics-537b614b5fdcac43adf8.js",
-      "path---tags-comics-537b614b5fdcac43adf8.js.map"
-    ],
-    "path---tags-l-amp-d": [
-      "path---tags-l-amp-d-f7759272296bc6fd4535.js",
-      "path---tags-l-amp-d-f7759272296bc6fd4535.js.map"
-    ],
-    "path---blog-my-first-twine-story": [
-      "path---blog-my-first-twine-story-3da837d8759194257172.js",
-      "path---blog-my-first-twine-story-3da837d8759194257172.js.map"
-    ],
-    "path---tags-knowledge-management": [
-      "path---tags-knowledge-management-a7c993809937656ceb34.js",
-      "path---tags-knowledge-management-a7c993809937656ceb34.js.map"
-    ],
-    "path---tags-training-as-a-service": [
-      "path---tags-training-as-a-service-53fff8dd4314d82f57d4.js",
-      "path---tags-training-as-a-service-53fff8dd4314d82f57d4.js.map"
-    ],
-    "path---tags-animations": [
-      "path---tags-animations-a2150713e917f799f880.js",
-      "path---tags-animations-a2150713e917f799f880.js.map"
+      "path---tags-java-script-d6d290ee2d6c7728f02f.js",
+      "path---tags-java-script-d6d290ee2d6c7728f02f.js.map"
     ],
     "path---blog-dearid-episode-45-simon-date-on-adapt": [
       "path---blog-dearid-episode-45-simon-date-on-adapt-2f3703a2d87eeb469365.js",
@@ -2334,371 +502,79 @@
       "path---tags-newbie-ef0963ea7783d49199b8.js",
       "path---tags-newbie-ef0963ea7783d49199b8.js.map"
     ],
-    "path---tags-google-charts": [
-      "path---tags-google-charts-5938eec1f3107aa95de6.js",
-      "path---tags-google-charts-5938eec1f3107aa95de6.js.map"
-    ],
     "path---tags-quiz": [
-      "path---tags-quiz-8f812250e37a3d3ed697.js",
-      "path---tags-quiz-8f812250e37a3d3ed697.js.map"
+      "path---tags-quiz-c977438644f736d3ef2e.js",
+      "path---tags-quiz-c977438644f736d3ef2e.js.map"
     ],
     "path---tags-teardown": [
       "path---tags-teardown-95bf81341a035cf42a47.js",
       "path---tags-teardown-95bf81341a035cf42a47.js.map"
     ],
-    "path---blog-less-talk-more-practice-instructional-design-communities-of-practice": [
-      "path---blog-less-talk-more-practice-instructional-design-communities-of-practice-60a9ed4d0675d113be98.js",
-      "path---blog-less-talk-more-practice-instructional-design-communities-of-practice-60a9ed4d0675d113be98.js.map"
-    ],
-    "path---tags-systems": [
-      "path---tags-systems-7e653e165392d128882e.js",
-      "path---tags-systems-7e653e165392d128882e.js.map"
-    ],
-    "path---tags-public-sector": [
-      "path---tags-public-sector-3043490fa1845a7c1a57.js",
-      "path---tags-public-sector-3043490fa1845a7c1a57.js.map"
-    ],
     "component---src-pages-page-2-js": [
       "component---src-pages-page-2-js-91c2b783199c2d0b6623.js",
       "component---src-pages-page-2-js-91c2b783199c2d0b6623.js.map"
     ],
-    "path---blog-instructional-design-battlefield-information-vs-instructional-design": [
-      "path---blog-instructional-design-battlefield-information-vs-instructional-design-ba20e35d9a131072902e.js",
-      "path---blog-instructional-design-battlefield-information-vs-instructional-design-ba20e35d9a131072902e.js.map"
-    ],
-    "path---blog-game-jammin-narrative-in-games": [
-      "path---blog-game-jammin-narrative-in-games-89f4dc8f2a5e3b69e98e.js",
-      "path---blog-game-jammin-narrative-in-games-89f4dc8f2a5e3b69e98e.js.map"
-    ],
-    "path---blog-ebola-rapid-response": [
-      "path---blog-ebola-rapid-response-87f49f940ed3e9d6fe1c.js",
-      "path---blog-ebola-rapid-response-87f49f940ed3e9d6fe1c.js.map"
-    ],
-    "path---blog-new-job-new-city": [
-      "path---blog-new-job-new-city-5718cc2cb2505300508d.js",
-      "path---blog-new-job-new-city-5718cc2cb2505300508d.js.map"
-    ],
-    "path---blog-steal-this-idea-create-a-visual-language-for-your-team": [
-      "path---blog-steal-this-idea-create-a-visual-language-for-your-team-1557d7bc5b76c4eb7838.js",
-      "path---blog-steal-this-idea-create-a-visual-language-for-your-team-1557d7bc5b76c4eb7838.js.map"
-    ],
     "path---tags-makerspace": [
-      "path---tags-makerspace-afd74996fc1d98001e8c.js",
-      "path---tags-makerspace-afd74996fc1d98001e8c.js.map"
-    ],
-    "path---blog-showing-my-work-a-new-kind-of-kickoff": [
-      "path---blog-showing-my-work-a-new-kind-of-kickoff-6e50a5b7d3dcd6f10f01.js",
-      "path---blog-showing-my-work-a-new-kind-of-kickoff-6e50a5b7d3dcd6f10f01.js.map"
-    ],
-    "path---tags-illustrations": [
-      "path---tags-illustrations-0cc2a3380a2baeb0fba4.js",
-      "path---tags-illustrations-0cc2a3380a2baeb0fba4.js.map"
-    ],
-    "path---tags-prototyping": [
-      "path---tags-prototyping-396278b96b7e0662dc2f.js",
-      "path---tags-prototyping-396278b96b7e0662dc2f.js.map"
-    ],
-    "path---tags-wordpress-theming": [
-      "path---tags-wordpress-theming-5d9be517f758e2889271.js",
-      "path---tags-wordpress-theming-5d9be517f758e2889271.js.map"
+      "path---tags-makerspace-95592d78260ecdeffcee.js",
+      "path---tags-makerspace-95592d78260ecdeffcee.js.map"
     ],
     "path---blog-uxlx-i-released-an-xapi-enabled-app-on-android-and-ios": [
       "path---blog-uxlx-i-released-an-xapi-enabled-app-on-android-and-ios-b83daddf18d95baf96a1.js",
       "path---blog-uxlx-i-released-an-xapi-enabled-app-on-android-and-ios-b83daddf18d95baf96a1.js.map"
     ],
     "path---blog-2": [
-      "path---blog-2-621cb07af34184cfe290.js",
-      "path---blog-2-621cb07af34184cfe290.js.map"
+      "path---blog-2-a69c6a56bd6a0ef89527.js",
+      "path---blog-2-a69c6a56bd6a0ef89527.js.map"
     ],
     "path---tags-x-api": [
-      "path---tags-x-api-7b98e49f408d4268272a.js",
-      "path---tags-x-api-7b98e49f408d4268272a.js.map"
-    ],
-    "path---blog-across-the-device-spectrum-thinking-about-how-learners-use-devices": [
-      "path---blog-across-the-device-spectrum-thinking-about-how-learners-use-devices-2acf3ec45fe7b2901a26.js",
-      "path---blog-across-the-device-spectrum-thinking-about-how-learners-use-devices-2acf3ec45fe7b2901a26.js.map"
+      "path---tags-x-api-e3ee455714d8f22e6387.js",
+      "path---tags-x-api-e3ee455714d8f22e6387.js.map"
     ],
     "path---tags-making": [
-      "path---tags-making-cc2cfb624a5408c8e329.js",
-      "path---tags-making-cc2cfb624a5408c8e329.js.map"
-    ],
-    "path---blog-dearid-powerpoint-for-video": [
-      "path---blog-dearid-powerpoint-for-video-84f1f7ade24425b0526c.js",
-      "path---blog-dearid-powerpoint-for-video-84f1f7ade24425b0526c.js.map"
-    ],
-    "path---tags-prototyping-tools": [
-      "path---tags-prototyping-tools-4f46eba932a4e41772d7.js",
-      "path---tags-prototyping-tools-4f46eba932a4e41772d7.js.map"
-    ],
-    "path---blog-id-inspiration-dash-by-general-assembly": [
-      "path---blog-id-inspiration-dash-by-general-assembly-e065ed7fb5c65ec43285.js",
-      "path---blog-id-inspiration-dash-by-general-assembly-e065ed7fb5c65ec43285.js.map"
-    ],
-    "path---blog-inspiration-microlearning-video": [
-      "path---blog-inspiration-microlearning-video-1d1fd6c4ba546bcb4db5.js",
-      "path---blog-inspiration-microlearning-video-1d1fd6c4ba546bcb4db5.js.map"
-    ],
-    "path---tags-storyline": [
-      "path---tags-storyline-a36019ae7ae365424653.js",
-      "path---tags-storyline-a36019ae7ae365424653.js.map"
+      "path---tags-making-9b4941c073620041ed60.js",
+      "path---tags-making-9b4941c073620041ed60.js.map"
     ],
     "path---thanks": [
       "path---thanks-a0e39f21c11f6a62c5ab.js",
       "path---thanks-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---tags-charts": [
-      "path---tags-charts-35c2aadef7a4fb3c4b12.js",
-      "path---tags-charts-35c2aadef7a4fb3c4b12.js.map"
-    ],
-    "path---tags-original": [
-      "path---tags-original-90dcbe1529112bfb7bd4.js",
-      "path---tags-original-90dcbe1529112bfb7bd4.js.map"
-    ],
-    "path---blog-dearid-interview-with-ej-leblanc": [
-      "path---blog-dearid-interview-with-ej-leblanc-c59bb340d81066e33de9.js",
-      "path---blog-dearid-interview-with-ej-leblanc-c59bb340d81066e33de9.js.map"
-    ],
-    "path---tags-stencyl": [
-      "path---tags-stencyl-72b8fca81c9c97d3cde7.js",
-      "path---tags-stencyl-72b8fca81c9c97d3cde7.js.map"
-    ],
     "app": [
-      "app-d734b4e2436b4107bd60.js",
+      "app-335fdbbff973f2f325cc.js",
       "build-js-styles.css",
-      "app-d734b4e2436b4107bd60.js.map",
+      "app-335fdbbff973f2f325cc.js.map",
       "build-js-styles.css.map"
     ],
     "path---blog-dearid-episode-41-deep-dive-into-a-trip-out-to-sea": [
       "path---blog-dearid-episode-41-deep-dive-into-a-trip-out-to-sea-087bcda245d545a0c2d6.js",
       "path---blog-dearid-episode-41-deep-dive-into-a-trip-out-to-sea-087bcda245d545a0c2d6.js.map"
     ],
-    "path---tags-engagement": [
-      "path---tags-engagement-822aaf8546bddd84334f.js",
-      "path---tags-engagement-822aaf8546bddd84334f.js.map"
-    ],
-    "path---tags-small-win": [
-      "path---tags-small-win-afc4c29a6a127b718438.js",
-      "path---tags-small-win-afc4c29a6a127b718438.js.map"
-    ],
-    "path---blog-making-it-work": [
-      "path---blog-making-it-work-ca8620530ea8e6fd1fc8.js",
-      "path---blog-making-it-work-ca8620530ea8e6fd1fc8.js.map"
-    ],
-    "path---blog-year-of-the-project-midyear-review": [
-      "path---blog-year-of-the-project-midyear-review-1677bc5c4639449d5bef.js",
-      "path---blog-year-of-the-project-midyear-review-1677bc5c4639449d5bef.js.map"
-    ],
-    "path---tags-google-doodle": [
-      "path---tags-google-doodle-e7b591ad8726bc3d4a54.js",
-      "path---tags-google-doodle-e7b591ad8726bc3d4a54.js.map"
-    ],
-    "path---blog-dear-instructional-designer-a-look-back-at-season-1": [
-      "path---blog-dear-instructional-designer-a-look-back-at-season-1-9ac0b6aa80de441f144c.js",
-      "path---blog-dear-instructional-designer-a-look-back-at-season-1-9ac0b6aa80de441f144c.js.map"
-    ],
-    "path---blog-the-dear-id-show-side-project-marketing": [
-      "path---blog-the-dear-id-show-side-project-marketing-9f9f405c08bce8c75401.js",
-      "path---blog-the-dear-id-show-side-project-marketing-9f9f405c08bce8c75401.js.map"
-    ],
-    "path---blog-edx-edge-big-moocs-little-bro": [
-      "path---blog-edx-edge-big-moocs-little-bro-5b6c0e53006eaf94eefe.js",
-      "path---blog-edx-edge-big-moocs-little-bro-5b6c0e53006eaf94eefe.js.map"
-    ],
-    "path---tags-problems": [
-      "path---tags-problems-13799fdf5cf84b9bbba0.js",
-      "path---tags-problems-13799fdf5cf84b9bbba0.js.map"
-    ],
-    "path---tags-diet": [
-      "path---tags-diet-d0f214f8536ee67a7def.js",
-      "path---tags-diet-d0f214f8536ee67a7def.js.map"
-    ],
     "path---blog-hack-id-resources-for-instructional-designers": [
       "path---blog-hack-id-resources-for-instructional-designers-c2ee85b4dde7a96bd6b6.js",
       "path---blog-hack-id-resources-for-instructional-designers-c2ee85b4dde7a96bd6b6.js.map"
-    ],
-    "path---tags-front-end-development": [
-      "path---tags-front-end-development-9a33538c8e521ee2a433.js",
-      "path---tags-front-end-development-9a33538c8e521ee2a433.js.map"
-    ],
-    "path---tags-multi-device-spectrum": [
-      "path---tags-multi-device-spectrum-9185529a2fde074c9683.js",
-      "path---tags-multi-device-spectrum-9185529a2fde074c9683.js.map"
-    ],
-    "path---tags-wol": [
-      "path---tags-wol-576e11564277e92982b1.js",
-      "path---tags-wol-576e11564277e92982b1.js.map"
     ],
     "path---tags-interactive-video": [
       "path---tags-interactive-video-5de96e4aaf73ed9202e4.js",
       "path---tags-interactive-video-5de96e4aaf73ed9202e4.js.map"
     ],
-    "path---tags-presentation": [
-      "path---tags-presentation-ec14043ce09baccdea74.js",
-      "path---tags-presentation-ec14043ce09baccdea74.js.map"
-    ],
-    "path---blog-how-not-to-be-an-instructional-design-professional": [
-      "path---blog-how-not-to-be-an-instructional-design-professional-25fac8c00e0dd7701e70.js",
-      "path---blog-how-not-to-be-an-instructional-design-professional-25fac8c00e0dd7701e70.js.map"
-    ],
     "component---src-pages-crowd-scores-js": [
       "component---src-pages-crowd-scores-js-a96dcdabe36dd23b946f.js",
       "component---src-pages-crowd-scores-js-a96dcdabe36dd23b946f.js.map"
-    ],
-    "path---tags-narration": [
-      "path---tags-narration-9b66c243a059d97534a4.js",
-      "path---tags-narration-9b66c243a059d97534a4.js.map"
-    ],
-    "path---blog-4": [
-      "path---blog-4-763ddd4b81be9474b365.js",
-      "path---blog-4-763ddd4b81be9474b365.js.map"
-    ],
-    "path---blog-useful-atrophy-breadth-vs-depth": [
-      "path---blog-useful-atrophy-breadth-vs-depth-34694f3cfd08603f00b7.js",
-      "path---blog-useful-atrophy-breadth-vs-depth-34694f3cfd08603f00b7.js.map"
-    ],
-    "path---blog-dear-id-show-interview-with-rachel-barnum": [
-      "path---blog-dear-id-show-interview-with-rachel-barnum-eaa0864bea789f51b23e.js",
-      "path---blog-dear-id-show-interview-with-rachel-barnum-eaa0864bea789f51b23e.js.map"
-    ],
-    "path---tags-zombies": [
-      "path---tags-zombies-f33e84cc3a014033d2c8.js",
-      "path---tags-zombies-f33e84cc3a014033d2c8.js.map"
-    ],
-    "path---tags-scrolling": [
-      "path---tags-scrolling-dba459e066c5743fabf1.js",
-      "path---tags-scrolling-dba459e066c5743fabf1.js.map"
-    ],
-    "path---tags-responsive-design": [
-      "path---tags-responsive-design-5d3206bf5b9ec89b8661.js",
-      "path---tags-responsive-design-5d3206bf5b9ec89b8661.js.map"
-    ],
-    "path---tags-online-magazine": [
-      "path---tags-online-magazine-2d70231ecbc889cd6509.js",
-      "path---tags-online-magazine-2d70231ecbc889cd6509.js.map"
-    ],
-    "path---tags-poster": [
-      "path---tags-poster-6248acc48f79fc8ebb7e.js",
-      "path---tags-poster-6248acc48f79fc8ebb7e.js.map"
-    ],
-    "path---tags-rapid-prototyping": [
-      "path---tags-rapid-prototyping-c28b1ff59fdeb9119aeb.js",
-      "path---tags-rapid-prototyping-c28b1ff59fdeb9119aeb.js.map"
-    ],
-    "path---tags-sam": [
-      "path---tags-sam-e30300ce709016a2397d.js",
-      "path---tags-sam-e30300ce709016a2397d.js.map"
-    ],
-    "path---tags-adjustment": [
-      "path---tags-adjustment-3dfd0b56599acdd073f2.js",
-      "path---tags-adjustment-3dfd0b56599acdd073f2.js.map"
-    ],
-    "path---tags-solopreneur": [
-      "path---tags-solopreneur-9b0f0fed976b7a76edab.js",
-      "path---tags-solopreneur-9b0f0fed976b7a76edab.js.map"
-    ],
-    "path---tags-structure": [
-      "path---tags-structure-0e5e4f69984257707936.js",
-      "path---tags-structure-0e5e4f69984257707936.js.map"
-    ],
-    "path---tags-learner": [
-      "path---tags-learner-88fcd40e0ce1bcd5a579.js",
-      "path---tags-learner-88fcd40e0ce1bcd5a579.js.map"
-    ],
-    "path---tags-usability": [
-      "path---tags-usability-74bfaa4c878044dc745b.js",
-      "path---tags-usability-74bfaa4c878044dc745b.js.map"
     ],
     "path---tags-faculty": [
       "path---tags-faculty-29d9d054e956656e389c.js",
       "path---tags-faculty-29d9d054e956656e389c.js.map"
     ],
-    "path---tags-adl": [
-      "path---tags-adl-e8407ed436996659683b.js",
-      "path---tags-adl-e8407ed436996659683b.js.map"
-    ],
-    "path---blog-6": [
-      "path---blog-6-8f06a92f20d5e5419482.js",
-      "path---blog-6-8f06a92f20d5e5419482.js.map"
-    ],
-    "path---tags-manual": [
-      "path---tags-manual-1883bf38af8f8418d3ce.js",
-      "path---tags-manual-1883bf38af8f8418d3ce.js.map"
-    ],
-    "path---tags-ebola": [
-      "path---tags-ebola-ebf61fdc462438257527.js",
-      "path---tags-ebola-ebf61fdc462438257527.js.map"
-    ],
-    "path---tags-online-learning": [
-      "path---tags-online-learning-1457a16c6d68311f3594.js",
-      "path---tags-online-learning-1457a16c6d68311f3594.js.map"
-    ],
-    "path---tags-pictograms": [
-      "path---tags-pictograms-40ce83b395873c4d26dd.js",
-      "path---tags-pictograms-40ce83b395873c4d26dd.js.map"
-    ],
-    "path---blog-what-i-did-this-weekend": [
-      "path---blog-what-i-did-this-weekend-dcbd093aa1c4a3763ebd.js",
-      "path---blog-what-i-did-this-weekend-dcbd093aa1c4a3763ebd.js.map"
-    ],
     "path---tags-web-development": [
-      "path---tags-web-development-06d1b3117dd4fd28cc46.js",
-      "path---tags-web-development-06d1b3117dd4fd28cc46.js.map"
-    ],
-    "path---tags-portfolio-project": [
-      "path---tags-portfolio-project-c251048e2e158a4329ef.js",
-      "path---tags-portfolio-project-c251048e2e158a4329ef.js.map"
-    ],
-    "path---tags-how-i-work": [
-      "path---tags-how-i-work-f8db13f561b42709091e.js",
-      "path---tags-how-i-work-f8db13f561b42709091e.js.map"
-    ],
-    "path---tags-collection": [
-      "path---tags-collection-33698c8f368f5a77e2f0.js",
-      "path---tags-collection-33698c8f368f5a77e2f0.js.map"
-    ],
-    "path---tags-interactions": [
-      "path---tags-interactions-b2b0af6e0086035c43fc.js",
-      "path---tags-interactions-b2b0af6e0086035c43fc.js.map"
+      "path---tags-web-development-6a8d4ad47727ef29783b.js",
+      "path---tags-web-development-6a8d4ad47727ef29783b.js.map"
     ],
     "path---tags-simon-date": [
       "path---tags-simon-date-214901aac7a3b3b2ffa4.js",
       "path---tags-simon-date-214901aac7a3b3b2ffa4.js.map"
     ],
-    "path---tags-performance-support": [
-      "path---tags-performance-support-418605b42f1760dc05c1.js",
-      "path---tags-performance-support-418605b42f1760dc05c1.js.map"
-    ],
-    "path---tags-infographic": [
-      "path---tags-infographic-b01ae8c97c3593727c09.js",
-      "path---tags-infographic-b01ae8c97c3593727c09.js.map"
-    ],
-    "path---blog-gds-challenge-no-2-zombie-acme-u": [
-      "path---blog-gds-challenge-no-2-zombie-acme-u-3fd1fb6399b1a1e07c4b.js",
-      "path---blog-gds-challenge-no-2-zombie-acme-u-3fd1fb6399b1a1e07c4b.js.map"
-    ],
-    "path---tags-lectora-inspire": [
-      "path---tags-lectora-inspire-21617351f8f223602fb6.js",
-      "path---tags-lectora-inspire-21617351f8f223602fb6.js.map"
-    ],
-    "path---blog-good-reads-youre-my-favorite-client-and-advice-on-portfolios": [
-      "path---blog-good-reads-youre-my-favorite-client-and-advice-on-portfolios-6b9b74b16a58b092517c.js",
-      "path---blog-good-reads-youre-my-favorite-client-and-advice-on-portfolios-6b9b74b16a58b092517c.js.map"
-    ],
-    "path---tags-power-point": [
-      "path---tags-power-point-2222ab4d6e164ac2d0f6.js",
-      "path---tags-power-point-2222ab4d6e164ac2d0f6.js.map"
-    ],
     "path---categories-showing-my-work": [
-      "path---categories-showing-my-work-77cf4934ca39752679fd.js",
-      "path---categories-showing-my-work-77cf4934ca39752679fd.js.map"
-    ],
-    "path---blog-dear-id-interview-with-craig-wiggins": [
-      "path---blog-dear-id-interview-with-craig-wiggins-f34f24118d8999bfcd2d.js",
-      "path---blog-dear-id-interview-with-craig-wiggins-f34f24118d8999bfcd2d.js.map"
-    ],
-    "path---blog-why-my-ideas-are-not-for-everybody": [
-      "path---blog-why-my-ideas-are-not-for-everybody-3d4c15437e84ebf7d10b.js",
-      "path---blog-why-my-ideas-are-not-for-everybody-3d4c15437e84ebf7d10b.js.map"
+      "path---categories-showing-my-work-40fa84bf6c95877cc455.js",
+      "path---categories-showing-my-work-40fa84bf6c95877cc455.js.map"
     ],
     "path---tags-free": [
       "path---tags-free-59ee04d52a2c4d32533f.js",
@@ -2712,18 +588,6 @@
       "path---blog-dearid-episode-37-the-first-teardown-episode-688833200c6080c7e0bd.js",
       "path---blog-dearid-episode-37-the-first-teardown-episode-688833200c6080c7e0bd.js.map"
     ],
-    "path---categories-elearning-heroes-challenge": [
-      "path---categories-elearning-heroes-challenge-9b7bfac3f022895ae0ab.js",
-      "path---categories-elearning-heroes-challenge-9b7bfac3f022895ae0ab.js.map"
-    ],
-    "path---blog-what-if-the-first-year-of-college-was-more-like-job-onboarding": [
-      "path---blog-what-if-the-first-year-of-college-was-more-like-job-onboarding-fbfb033cafb4936b0d4d.js",
-      "path---blog-what-if-the-first-year-of-college-was-more-like-job-onboarding-fbfb033cafb4936b0d4d.js.map"
-    ],
-    "path---blog-discussion-forums-in-the-online-space": [
-      "path---blog-discussion-forums-in-the-online-space-a13bfd426d800954250a.js",
-      "path---blog-discussion-forums-in-the-online-space-a13bfd426d800954250a.js.map"
-    ],
     "path---tags-freelancing": [
       "path---tags-freelancing-5d1cdf3cedbd9c97c561.js",
       "path---tags-freelancing-5d1cdf3cedbd9c97c561.js.map"
@@ -2732,321 +596,49 @@
       "component---src-pages-thanks-js-24d1539e0059f049afd5.js",
       "component---src-pages-thanks-js-24d1539e0059f049afd5.js.map"
     ],
-    "path---tags-tips": [
-      "path---tags-tips-ef7098b679e9fa3e3eda.js",
-      "path---tags-tips-ef7098b679e9fa3e3eda.js.map"
-    ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---tags-cara-north": [
-      "path---tags-cara-north-cbe720560aa269358fb1.js",
-      "path---tags-cara-north-cbe720560aa269358fb1.js.map"
-    ],
-    "path---tags-code": [
-      "path---tags-code-4dcd7d8016d997eef1f0.js",
-      "path---tags-code-4dcd7d8016d997eef1f0.js.map"
-    ],
-    "path---tags-lms": [
-      "path---tags-lms-93566bf587cffe570140.js",
-      "path---tags-lms-93566bf587cffe570140.js.map"
-    ],
-    "path---tags-functional-programming": [
-      "path---tags-functional-programming-4809dee59bca2c5ff0c6.js",
-      "path---tags-functional-programming-4809dee59bca2c5ff0c6.js.map"
-    ],
-    "path---tags-product-designer": [
-      "path---tags-product-designer-27974c0101edfa269b3c.js",
-      "path---tags-product-designer-27974c0101edfa269b3c.js.map"
-    ],
-    "path---tags-brand": [
-      "path---tags-brand-ad29910691f3294009ec.js",
-      "path---tags-brand-ad29910691f3294009ec.js.map"
-    ],
-    "path---blog-8": [
-      "path---blog-8-c89d74a29d2452c3edea.js",
-      "path---blog-8-c89d74a29d2452c3edea.js.map"
-    ],
-    "path---tags-interactive-fiction": [
-      "path---tags-interactive-fiction-49d008c723cfceb7a5e5.js",
-      "path---tags-interactive-fiction-49d008c723cfceb7a5e5.js.map"
-    ],
-    "path---tags-embed": [
-      "path---tags-embed-11fbe003c97e4bbcf3fd.js",
-      "path---tags-embed-11fbe003c97e4bbcf3fd.js.map"
-    ],
-    "path---tags-interviews": [
-      "path---tags-interviews-369f8fbab02f7de623a8.js",
-      "path---tags-interviews-369f8fbab02f7de623a8.js.map"
-    ],
-    "path---tags-choose-your-own-adventure": [
-      "path---tags-choose-your-own-adventure-f1889eb4d7b03d92c9a4.js",
-      "path---tags-choose-your-own-adventure-f1889eb4d7b03d92c9a4.js.map"
-    ],
-    "path---blog-the-dear-instructional-designer-show-highbrow-courses-and-subscription-learning": [
-      "path---blog-the-dear-instructional-designer-show-highbrow-courses-and-subscription-learning-3ad7bf4e59491bf4304e.js",
-      "path---blog-the-dear-instructional-designer-show-highbrow-courses-and-subscription-learning-3ad7bf4e59491bf4304e.js.map"
-    ],
-    "path---blog-a-more-nuanced-discussion-of-templates": [
-      "path---blog-a-more-nuanced-discussion-of-templates-38c601cddea0b8b01316.js",
-      "path---blog-a-more-nuanced-discussion-of-templates-38c601cddea0b8b01316.js.map"
-    ],
     "path---tags-action-mapping": [
-      "path---tags-action-mapping-71b37422d5687b86eca4.js",
-      "path---tags-action-mapping-71b37422d5687b86eca4.js.map"
+      "path---tags-action-mapping-cd7eb08a7dda325d06af.js",
+      "path---tags-action-mapping-cd7eb08a7dda325d06af.js.map"
     ],
     "path---tags-hosting": [
       "path---tags-hosting-ca6acb796f4ece74208c.js",
       "path---tags-hosting-ca6acb796f4ece74208c.js.map"
     ],
-    "path---tags-sharing": [
-      "path---tags-sharing-a8441f12aca540671fe4.js",
-      "path---tags-sharing-a8441f12aca540671fe4.js.map"
-    ],
     "path---tags-toolkit": [
       "path---tags-toolkit-a7b63368f13e69e59f01.js",
       "path---tags-toolkit-a7b63368f13e69e59f01.js.map"
     ],
-    "path---blog-paleo-another-tiny-game-using-phaserjs": [
-      "path---blog-paleo-another-tiny-game-using-phaserjs-e768fdc7bf82d13e9f7e.js",
-      "path---blog-paleo-another-tiny-game-using-phaserjs-e768fdc7bf82d13e9f7e.js.map"
-    ],
-    "path---tags-story": [
-      "path---tags-story-ed079b215cd56d48a728.js",
-      "path---tags-story-ed079b215cd56d48a728.js.map"
-    ],
-    "path---tags-atomic-design": [
-      "path---tags-atomic-design-0904f923e129eecf9308.js",
-      "path---tags-atomic-design-0904f923e129eecf9308.js.map"
-    ],
-    "path---tags-underground": [
-      "path---tags-underground-88e9aa9df4dd1276381a.js",
-      "path---tags-underground-88e9aa9df4dd1276381a.js.map"
-    ],
-    "path---tags-year-in-review": [
-      "path---tags-year-in-review-139b58cc7030d129bff4.js",
-      "path---tags-year-in-review-139b58cc7030d129bff4.js.map"
-    ],
     "component---src-pages-categories-js": [
       "component---src-pages-categories-js-a484036a08b84ca4c59d.js",
       "component---src-pages-categories-js-a484036a08b84ca4c59d.js.map"
-    ],
-    "path---tags-t-shape": [
-      "path---tags-t-shape-cef63cf4aeb43af700af.js",
-      "path---tags-t-shape-cef63cf4aeb43af700af.js.map"
-    ],
-    "path---tags-section-508": [
-      "path---tags-section-508-ae327d8767396cd8f2d2.js",
-      "path---tags-section-508-ae327d8767396cd8f2d2.js.map"
-    ],
-    "path---tags-public-speaking": [
-      "path---tags-public-speaking-a8ad950b949108956a95.js",
-      "path---tags-public-speaking-a8ad950b949108956a95.js.map"
-    ],
-    "path---tags-live-streaming": [
-      "path---tags-live-streaming-eec2b74669abf4e64af7.js",
-      "path---tags-live-streaming-eec2b74669abf4e64af7.js.map"
-    ],
-    "path---tags-process": [
-      "path---tags-process-22094ed23e28609c04c3.js",
-      "path---tags-process-22094ed23e28609c04c3.js.map"
-    ],
-    "path---blog-dear-instructional-designer-show-planning-and-tracking-personal-learning": [
-      "path---blog-dear-instructional-designer-show-planning-and-tracking-personal-learning-b506b4239ed831b13646.js",
-      "path---blog-dear-instructional-designer-show-planning-and-tracking-personal-learning-b506b4239ed831b13646.js.map"
-    ],
-    "path---tags-words": [
-      "path---tags-words-5b074faa052bdbca0914.js",
-      "path---tags-words-5b074faa052bdbca0914.js.map"
-    ],
-    "path---tags-infographics": [
-      "path---tags-infographics-2239b4c0767ac13c31c3.js",
-      "path---tags-infographics-2239b4c0767ac13c31c3.js.map"
-    ],
-    "path---tags-conversation": [
-      "path---tags-conversation-14ca4581c1eddb40350d.js",
-      "path---tags-conversation-14ca4581c1eddb40350d.js.map"
-    ],
-    "path---tags-text": [
-      "path---tags-text-1563254620ffe515e75d.js",
-      "path---tags-text-1563254620ffe515e75d.js.map"
-    ],
-    "path---tags-elearning-business": [
-      "path---tags-elearning-business-a4d155098c1f2c897e12.js",
-      "path---tags-elearning-business-a4d155098c1f2c897e12.js.map"
-    ],
-    "path---blog-2017-job-title-scorm-hacker": [
-      "path---blog-2017-job-title-scorm-hacker-465a2527eb300cc42f05.js",
-      "path---blog-2017-job-title-scorm-hacker-465a2527eb300cc42f05.js.map"
-    ],
-    "path---blog-the-minimum-viable-practice-for-instructional-designers": [
-      "path---blog-the-minimum-viable-practice-for-instructional-designers-16cfb02c0b6ac9a771a6.js",
-      "path---blog-the-minimum-viable-practice-for-instructional-designers-16cfb02c0b6ac9a771a6.js.map"
-    ],
-    "path---tags-discussion": [
-      "path---tags-discussion-672ff1baedbfb211b844.js",
-      "path---tags-discussion-672ff1baedbfb211b844.js.map"
-    ],
-    "path---tags-exiting": [
-      "path---tags-exiting-60a7144978e6d800ba4c.js",
-      "path---tags-exiting-60a7144978e6d800ba4c.js.map"
-    ],
-    "path---blog-back-to-the-storyboard-throwing-it-all-out": [
-      "path---blog-back-to-the-storyboard-throwing-it-all-out-03b4c3543a9646918bc4.js",
-      "path---blog-back-to-the-storyboard-throwing-it-all-out-03b4c3543a9646918bc4.js.map"
-    ],
-    "path---tags-methodology": [
-      "path---tags-methodology-0a53b66bc4dcf182eaec.js",
-      "path---tags-methodology-0a53b66bc4dcf182eaec.js.map"
     ],
     "path---tags-android": [
       "path---tags-android-17e04b9fe69e78f61f19.js",
       "path---tags-android-17e04b9fe69e78f61f19.js.map"
     ],
     "path---categories-coding": [
-      "path---categories-coding-0841bd275c8292eccbe9.js",
-      "path---categories-coding-0841bd275c8292eccbe9.js.map"
-    ],
-    "path---blog-smes-and-the-art-of-motivation-maintenance": [
-      "path---blog-smes-and-the-art-of-motivation-maintenance-a3ef6b0dd3116496ad76.js",
-      "path---blog-smes-and-the-art-of-motivation-maintenance-a3ef6b0dd3116496ad76.js.map"
-    ],
-    "path---blog-look-ma-im-learnin-freecodecamp-exact-change-bonfire": [
-      "path---blog-look-ma-im-learnin-freecodecamp-exact-change-bonfire-9fb78c2952d1cfc63599.js",
-      "path---blog-look-ma-im-learnin-freecodecamp-exact-change-bonfire-9fb78c2952d1cfc63599.js.map"
-    ],
-    "path---tags-livestreaming": [
-      "path---tags-livestreaming-21b089696e3b9d5c7c5d.js",
-      "path---tags-livestreaming-21b089696e3b9d5c7c5d.js.map"
-    ],
-    "path---tags-articulate": [
-      "path---tags-articulate-005d1aab914a08fc6384.js",
-      "path---tags-articulate-005d1aab914a08fc6384.js.map"
+      "path---categories-coding-b7c25b1a4cc1eb552863.js",
+      "path---categories-coding-b7c25b1a4cc1eb552863.js.map"
     ],
     "path---blog-weeknotes-elbx-my-day-in-review": [
       "path---blog-weeknotes-elbx-my-day-in-review-11ed91651fea93565b6f.js",
       "path---blog-weeknotes-elbx-my-day-in-review-11ed91651fea93565b6f.js.map"
     ],
-    "path---blog-uniqueness-is-not-a-goal": [
-      "path---blog-uniqueness-is-not-a-goal-9100aaf841334ec27a8e.js",
-      "path---blog-uniqueness-is-not-a-goal-9100aaf841334ec27a8e.js.map"
-    ],
-    "path---blog-unconventional-using-google-forms-for-text-based-branching": [
-      "path---blog-unconventional-using-google-forms-for-text-based-branching-7fa243b4861e9f56f8c4.js",
-      "path---blog-unconventional-using-google-forms-for-text-based-branching-7fa243b4861e9f56f8c4.js.map"
-    ],
-    "path---tags-user-interface": [
-      "path---tags-user-interface-eecd120afa9563cf3977.js",
-      "path---tags-user-interface-eecd120afa9563cf3977.js.map"
-    ],
-    "path---blog-modularity-in-elearning-design": [
-      "path---blog-modularity-in-elearning-design-2c01e60a90abcf1e3910.js",
-      "path---blog-modularity-in-elearning-design-2c01e60a90abcf1e3910.js.map"
-    ],
-    "path---tags-meaning": [
-      "path---tags-meaning-d20f5698befd60f1f394.js",
-      "path---tags-meaning-d20f5698befd60f1f394.js.map"
-    ],
-    "path---blog-inspiration-extra-credits": [
-      "path---blog-inspiration-extra-credits-5c9951ed32b6804ce6a3.js",
-      "path---blog-inspiration-extra-credits-5c9951ed32b6804ce6a3.js.map"
-    ],
-    "path---tags-job": [
-      "path---tags-job-143e3671949d6a623622.js",
-      "path---tags-job-143e3671949d6a623622.js.map"
-    ],
-    "path---blog-awsm-prompt-2-in-progress": [
-      "path---blog-awsm-prompt-2-in-progress-17e0256c8a611eb2911a.js",
-      "path---blog-awsm-prompt-2-in-progress-17e0256c8a611eb2911a.js.map"
-    ],
-    "path---tags-menu": [
-      "path---tags-menu-46456122aee0b718aa10.js",
-      "path---tags-menu-46456122aee0b718aa10.js.map"
-    ],
     "path---categories-inspiration": [
-      "path---categories-inspiration-3f09f3533c33e6fa8f92.js",
-      "path---categories-inspiration-3f09f3533c33e6fa8f92.js.map"
-    ],
-    "path---tags-weeknotes": [
-      "path---tags-weeknotes-a2bf35df9cc387ee8193.js",
-      "path---tags-weeknotes-a2bf35df9cc387ee8193.js.map"
-    ],
-    "path---blog-pushing-the-button": [
-      "path---blog-pushing-the-button-5116c7624fb05439bd52.js",
-      "path---blog-pushing-the-button-5116c7624fb05439bd52.js.map"
-    ],
-    "path---tags-work-life-balance": [
-      "path---tags-work-life-balance-fe3d532db50f6f956498.js",
-      "path---tags-work-life-balance-fe3d532db50f6f956498.js.map"
-    ],
-    "path---blog-dearid-the-open-source-way": [
-      "path---blog-dearid-the-open-source-way-4e2e4aa088f13924bb92.js",
-      "path---blog-dearid-the-open-source-way-4e2e4aa088f13924bb92.js.map"
+      "path---categories-inspiration-df8c313658a5f4a30c7f.js",
+      "path---categories-inspiration-df8c313658a5f4a30c7f.js.map"
     ],
     "path---blog-weeknotes-learning-dev-camp-day-1": [
       "path---blog-weeknotes-learning-dev-camp-day-1-c1a8964dfa6e2711b244.js",
       "path---blog-weeknotes-learning-dev-camp-day-1-c1a8964dfa6e2711b244.js.map"
     ],
-    "path---tags-advice": [
-      "path---tags-advice-bdd60dea8700e4abb4a4.js",
-      "path---tags-advice-bdd60dea8700e4abb4a4.js.map"
-    ],
-    "path---tags-editing": [
-      "path---tags-editing-6c71d5a494a7ef931b66.js",
-      "path---tags-editing-6c71d5a494a7ef931b66.js.map"
-    ],
-    "path---tags-jobs": [
-      "path---tags-jobs-d0cc34eaea7362cc1e25.js",
-      "path---tags-jobs-d0cc34eaea7362cc1e25.js.map"
-    ],
-    "path---blog-showing-my-work-my-upcoming-elh-challenge-mashup": [
-      "path---blog-showing-my-work-my-upcoming-elh-challenge-mashup-05c4126f9c27074145cc.js",
-      "path---blog-showing-my-work-my-upcoming-elh-challenge-mashup-05c4126f9c27074145cc.js.map"
-    ],
-    "path---tags-portable-apps": [
-      "path---tags-portable-apps-dd792da3a10bec710998.js",
-      "path---tags-portable-apps-dd792da3a10bec710998.js.map"
-    ],
-    "path---tags-variables": [
-      "path---tags-variables-1ca5ea16ac3dfdbc17ee.js",
-      "path---tags-variables-1ca5ea16ac3dfdbc17ee.js.map"
-    ],
-    "path---blog-dearid-whats-next": [
-      "path---blog-dearid-whats-next-cefbf56bfd99b3a2febd.js",
-      "path---blog-dearid-whats-next-cefbf56bfd99b3a2febd.js.map"
-    ],
-    "path---tags-demo": [
-      "path---tags-demo-41fdc9e66c6e126b3d0b.js",
-      "path---tags-demo-41fdc9e66c6e126b3d0b.js.map"
-    ],
     "path---blog-dearid-episode-46-simon-date-on-open-source": [
       "path---blog-dearid-episode-46-simon-date-on-open-source-7d485df265c5e28a8e7b.js",
       "path---blog-dearid-episode-46-simon-date-on-open-source-7d485df265c5e28a8e7b.js.map"
-    ],
-    "path---blog-elh-challenge-my-favorite-freelancing-tip": [
-      "path---blog-elh-challenge-my-favorite-freelancing-tip-3381da864fec80ffef26.js",
-      "path---blog-elh-challenge-my-favorite-freelancing-tip-3381da864fec80ffef26.js.map"
-    ],
-    "path---tags-attribution": [
-      "path---tags-attribution-83d04bc1a1a70ba69f1c.js",
-      "path---tags-attribution-83d04bc1a1a70ba69f1c.js.map"
-    ],
-    "path---tags-critique": [
-      "path---tags-critique-37ef2d7cab4e5e756954.js",
-      "path---tags-critique-37ef2d7cab4e5e756954.js.map"
-    ],
-    "path---blog-the-other-side-of-constraints": [
-      "path---blog-the-other-side-of-constraints-66b574d53c03153bf074.js",
-      "path---blog-the-other-side-of-constraints-66b574d53c03153bf074.js.map"
-    ],
-    "path---blog-kingdom-hearts-and-game-design-that-works-for-me": [
-      "path---blog-kingdom-hearts-and-game-design-that-works-for-me-19aff13eb434f839bea5.js",
-      "path---blog-kingdom-hearts-and-game-design-that-works-for-me-19aff13eb434f839bea5.js.map"
-    ],
-    "path---blog-tetris-js-my-first-javascript-side-project": [
-      "path---blog-tetris-js-my-first-javascript-side-project-8ebd27ae8ab2b3a7d2e6.js",
-      "path---blog-tetris-js-my-first-javascript-side-project-8ebd27ae8ab2b3a7d2e6.js.map"
     ]
   }
 }

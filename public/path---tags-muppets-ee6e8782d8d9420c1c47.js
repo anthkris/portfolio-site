@@ -1,2 +1,0 @@
-webpackJsonp([0x6d63c6d93701],{1581:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weekend Project: Interactive Timeline",path:"/blog/weekend-project-interactive-timeline"}}}]}},pathContext:{tag:"muppets"}}}});
-//# sourceMappingURL=path---tags-muppets-ee6e8782d8d9420c1c47.js.map

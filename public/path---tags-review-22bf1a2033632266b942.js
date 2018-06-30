@@ -1,2 +1,0 @@
-webpackJsonp([0x6cc8c57b861a],{1663:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"#DearID: Interview with Hadiya Nuriddin",path:"/blog/dearid-interview-with-hadiya-nuriddin"}}},{node:{frontmatter:{title:"5 Things To Know About EdX vs Canvas",path:"/blog/5-things-to-know-about-edx-vs-canvas"}}}]}},pathContext:{tag:"review"}}}});
-//# sourceMappingURL=path---tags-review-22bf1a2033632266b942.js.map

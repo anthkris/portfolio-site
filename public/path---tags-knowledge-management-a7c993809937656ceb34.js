@@ -1,2 +1,0 @@
-webpackJsonp([0xc2179b4cd113],{1527:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Don't Sit on Your Darlings!",path:"/blog/dont-sit-on-your-darlings"}}}]}},pathContext:{tag:"knowledge management"}}}});
-//# sourceMappingURL=path---tags-knowledge-management-a7c993809937656ceb34.js.map

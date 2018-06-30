@@ -1,2 +1,0 @@
-webpackJsonp([0xde19c9a64ee0],{1559:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Storyteller",path:"/blog/the-storyteller"}}}]}},pathContext:{tag:"manual"}}}});
-//# sourceMappingURL=path---tags-manual-1883bf38af8f8418d3ce.js.map

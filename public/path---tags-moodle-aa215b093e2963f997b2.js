@@ -1,2 +1,0 @@
-webpackJsonp([57403641272298],{1578:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Tracking Everything in Storyline with xAPI",path:"/blog/tracking-everything-in-storyline-with-xapi"}}},{node:{frontmatter:{title:"#xAPI Statements Everywhere!",path:"/blog/xapi-statements-everywhere"}}}]}},pathContext:{tag:"Moodle"}}}});
-//# sourceMappingURL=path---tags-moodle-aa215b093e2963f997b2.js.map

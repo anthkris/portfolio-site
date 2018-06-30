@@ -1,2 +1,0 @@
-webpackJsonp([0xb45078b1cf46],{1596:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"What I'm Learning from my Open Source Contributing Experience",path:"/blog/what-im-learning-from-my-open-source-contributing-experience"}}},{node:{frontmatter:{title:"Diving into Oppia",path:"/blog/diving-into-oppia"}}}]}},pathContext:{tag:"Oppia"}}}});
-//# sourceMappingURL=path---tags-oppia-8fc4557fd01546a11475.js.map

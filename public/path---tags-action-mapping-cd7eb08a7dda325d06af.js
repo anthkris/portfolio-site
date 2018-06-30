@@ -1,0 +1,2 @@
+webpackJsonp([0xec90fa367f63],{508:function(o,a){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Towards a Model for Professional Development",path:"/blog/towards-a-model-for-professional-development"}}}]}},pathContext:{tag:"action mapping"}}}});
+//# sourceMappingURL=path---tags-action-mapping-cd7eb08a7dda325d06af.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([93356110844043],{1790:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#xAPI Statements Everywhere!",path:"/blog/xapi-statements-everywhere"}}}]}},pathContext:{tag:"YouTube"}}}});
-//# sourceMappingURL=path---tags-you-tube-5aaea199f4b5eac4b5ac.js.map

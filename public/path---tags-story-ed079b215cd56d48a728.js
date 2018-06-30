@@ -1,2 +1,0 @@
-webpackJsonp([0xed4b5a65d167],{1697:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"The Storyteller",path:"/blog/the-storyteller"}}},{node:{frontmatter:{title:"ELH Challenge 77: Emoji For the Win",path:"/blog/elh-challenge-77-emoji-for-the-win"}}}]}},pathContext:{tag:"story"}}}});
-//# sourceMappingURL=path---tags-story-ed079b215cd56d48a728.js.map

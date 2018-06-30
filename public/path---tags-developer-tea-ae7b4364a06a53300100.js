@@ -1,2 +1,0 @@
-webpackJsonp([0xba51283e8f0a],{1412:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Ideas on Effective Simulations",path:"/blog/ideas-on-effective-simulations"}}}]}},pathContext:{tag:"developer tea"}}}});
-//# sourceMappingURL=path---tags-developer-tea-ae7b4364a06a53300100.js.map

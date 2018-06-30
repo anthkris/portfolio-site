@@ -1,2 +1,0 @@
-webpackJsonp([0x716dafdd4009],{1428:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Apple Watch as a Game Changer? Nah.",path:"/blog/apple-watch-as-a-game-changer"}}}]}},pathContext:{tag:"edtech"}}}});
-//# sourceMappingURL=path---tags-edtech-a2290b4b94474e03d25b.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x9194a62d73bf],{1316:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Making it Work: A Great Conversation",path:"/blog/making-it-work"}}},{node:{frontmatter:{title:"Instructional Design From Professional Development to Academia",path:"/blog/instructional-design-from-professional-development-to-academia"}}}]}},pathContext:{tag:"academia"}}}});
-//# sourceMappingURL=path---tags-academia-ee4f661d95641848443c.js.map

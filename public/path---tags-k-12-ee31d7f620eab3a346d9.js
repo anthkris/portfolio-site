@@ -1,2 +1,0 @@
-webpackJsonp([51207596047419],{1525:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"#DearID: Interview with Alyssa Gomez",path:"/blog/dearid-interview-with-alyssa-gomez"}}},{node:{frontmatter:{title:"August Go Design Something Challenge: Carmen Sandiego-Like",path:"/blog/august-go-design-something-challenge-carmen-sandiego-like"}}}]}},pathContext:{tag:"K-12"}}}});
-//# sourceMappingURL=path---tags-k-12-ee31d7f620eab3a346d9.js.map

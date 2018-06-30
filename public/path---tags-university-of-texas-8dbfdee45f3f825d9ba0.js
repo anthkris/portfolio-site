@@ -1,2 +1,0 @@
-webpackJsonp([94502325022099],{1756:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Job, New City",path:"/blog/new-job-new-city"}}}]}},pathContext:{tag:"University of Texas"}}}});
-//# sourceMappingURL=path---tags-university-of-texas-8dbfdee45f3f825d9ba0.js.map

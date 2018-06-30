@@ -1,2 +1,0 @@
-webpackJsonp([0x821db5a79e80],{1574:function(e,n){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Patterns in Learning Experience Design",path:"/blog/patterns-in-learning-experience-design"}}}]}},pathContext:{tag:"modular design"}}}});
-//# sourceMappingURL=path---tags-modular-design-eb9b7d8e2c65f42c1a9f.js.map

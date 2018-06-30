@@ -1,2 +1,0 @@
-webpackJsonp([0xd1d852f37447],{1694:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Playing Games: Experimenting with Game Makers",path:"/blog/playing-games"}}}]}},pathContext:{tag:"stencyl"}}}});
-//# sourceMappingURL=path---tags-stencyl-72b8fca81c9c97d3cde7.js.map

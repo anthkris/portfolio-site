@@ -1,2 +1,0 @@
-webpackJsonp([24874529505955],{1674:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Dear Instructional Designer: A Sneak Peek at the new Show!",path:"/blog/dear-instructional-designer-a-sneak-peek-at-the-new-show"}}}]}},pathContext:{tag:"show"}}}});
-//# sourceMappingURL=path---tags-show-acaea742f28e1f57bdc5.js.map

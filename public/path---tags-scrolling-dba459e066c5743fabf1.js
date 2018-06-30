@@ -1,2 +1,0 @@
-webpackJsonp([0xda37479673d4],{1668:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Inspiration: Interactive Video",path:"/blog/inspiration-interactive-video"}}}]}},pathContext:{tag:"scrolling"}}}});
-//# sourceMappingURL=path---tags-scrolling-dba459e066c5743fabf1.js.map

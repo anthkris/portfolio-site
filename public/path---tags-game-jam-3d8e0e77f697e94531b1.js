@@ -1,2 +1,0 @@
-webpackJsonp([0xacd5987ad835],{1468:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Game Jammin': Narrative in Games",path:"/blog/game-jammin-narrative-in-games"}}}]}},pathContext:{tag:"game jam"}}}});
-//# sourceMappingURL=path---tags-game-jam-3d8e0e77f697e94531b1.js.map

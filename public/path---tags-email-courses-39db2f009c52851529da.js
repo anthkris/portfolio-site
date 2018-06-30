@@ -1,2 +1,0 @@
-webpackJsonp([57111710470183],{1434:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"DearID: Interview with Ant Pugh",path:"/blog/dearid-interview-with-ant-pugh"}}},{node:{frontmatter:{title:"The Dear Instructional Designer Show: Highbrow Courses and Subscription Learning",path:"/blog/the-dear-instructional-designer-show-highbrow-courses-and-subscription-learning"}}}]}},pathContext:{tag:"email courses"}}}});
-//# sourceMappingURL=path---tags-email-courses-39db2f009c52851529da.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0x6df5526ffc4f],{1763:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"UXLX: I released an xAPI-enabled app on Android and iOS",path:"/blog/uxlx-i-released-an-xapi-enabled-app-on-android-and-ios"}}}]}},pathContext:{tag:"UX"}}}});
+webpackJsonp([0x6df5526ffc4f],{582:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"UXLX: I released an xAPI-enabled app on Android and iOS",path:"/blog/uxlx-i-released-an-xapi-enabled-app-on-android-and-ios"}}}]}},pathContext:{tag:"UX"}}}});
 //# sourceMappingURL=path---tags-ux-1028d19743933ed89c1f.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xbf2b06f8a5b5],{1333:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Rocket Animicon",path:"/blog/rocket-animicon"}}}]}},pathContext:{tag:"animicon"}}}});
-//# sourceMappingURL=path---tags-animicon-abc718b5755855360156.js.map

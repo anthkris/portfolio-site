@@ -1,2 +1,0 @@
-webpackJsonp([0xf07593fe993f],{1782:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Respect the Text",path:"/blog/respect-the-text"}}}]}},pathContext:{tag:"words"}}}});
-//# sourceMappingURL=path---tags-words-5b074faa052bdbca0914.js.map

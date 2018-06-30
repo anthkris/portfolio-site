@@ -1,2 +1,0 @@
-webpackJsonp([0xb175dd1c9276],{1606:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Steal this Idea: Personalized Job Aids",path:"/blog/steal-this-idea-personalized-job-aids"}}}]}},pathContext:{tag:"personalization"}}}});
-//# sourceMappingURL=path---tags-personalization-90360a36185d11ffaabb.js.map

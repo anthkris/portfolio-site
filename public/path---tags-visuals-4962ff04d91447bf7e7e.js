@@ -1,2 +1,0 @@
-webpackJsonp([84987986545608],{1771:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Elearning Heroes Challenge: Pictograms",path:"/blog/elh-pictogram"}}}]}},pathContext:{tag:"visuals"}}}});
-//# sourceMappingURL=path---tags-visuals-4962ff04d91447bf7e7e.js.map

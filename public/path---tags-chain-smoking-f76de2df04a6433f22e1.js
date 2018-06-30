@@ -1,2 +1,0 @@
-webpackJsonp([9009947768014],{1361:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"All Work and Then Rest",path:"/blog/all-work-and-then-rest"}}}]}},pathContext:{tag:"chain-smoking"}}}});
-//# sourceMappingURL=path---tags-chain-smoking-f76de2df04a6433f22e1.js.map

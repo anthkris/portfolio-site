@@ -1,0 +1,2 @@
+webpackJsonp([0x69551393cbf0],{564:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Hack ID: Resources for Instructional Designers",path:"/blog/hack-id-resources-for-instructional-designers"}}}]}},pathContext:{tag:"portfolio work"}}}});
+//# sourceMappingURL=path---tags-portfolio-work-e07efe3808ed362d2ce9.js.map

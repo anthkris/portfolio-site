@@ -1,2 +1,0 @@
-webpackJsonp([0x6be896bea11b],{1649:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#DearID: Interview with Hadiya Nuriddin",path:"/blog/dearid-interview-with-hadiya-nuriddin"}}}]}},pathContext:{tag:"quality assurance"}}}});
-//# sourceMappingURL=path---tags-quality-assurance-801e4b9d337e19c589d5.js.map

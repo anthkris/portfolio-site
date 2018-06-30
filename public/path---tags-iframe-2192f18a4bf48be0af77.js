@@ -1,2 +1,0 @@
-webpackJsonp([0xa1e50ddeeb96],{1494:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#xAPI Statements Everywhere!",path:"/blog/xapi-statements-everywhere"}}}]}},pathContext:{tag:"iframe"}}}});
-//# sourceMappingURL=path---tags-iframe-2192f18a4bf48be0af77.js.map

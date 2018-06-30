@@ -1,2 +1,0 @@
-webpackJsonp([0xb86f43e647c6],{1718:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The DearID Show: Interview with Ido Abramovich",path:"/blog/the-dearid-show-interview-with-ido-abramovich"}}}]}},pathContext:{tag:"technical training"}}}});
-//# sourceMappingURL=path---tags-technical-training-87fb5fa526cd4126e67b.js.map

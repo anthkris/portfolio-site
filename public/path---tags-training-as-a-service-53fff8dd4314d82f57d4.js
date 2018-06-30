@@ -1,2 +1,0 @@
-webpackJsonp([0xc23de24e9b71],{1739:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The DearID Show: Interview with Ido Abramovich",path:"/blog/the-dearid-show-interview-with-ido-abramovich"}}}]}},pathContext:{tag:"training as a service"}}}});
-//# sourceMappingURL=path---tags-training-as-a-service-53fff8dd4314d82f57d4.js.map

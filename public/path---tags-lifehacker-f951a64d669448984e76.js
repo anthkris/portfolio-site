@@ -1,2 +1,0 @@
-webpackJsonp([94145364172807],{1549:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"I'm Kristin and This is How I Get Stuff Done",path:"/blog/im-kristin-and-this-is-how-i-get-stuff-done"}}}]}},pathContext:{tag:"lifehacker"}}}});
-//# sourceMappingURL=path---tags-lifehacker-f951a64d669448984e76.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xb72f0d68de47],{1492:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Game Prototype: A Clicker Game",path:"/blog/new-game-prototype-a-clicker-game"}}}]}},pathContext:{tag:"idle clicker"}}}});
+webpackJsonp([0xb72f0d68de47],{543:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Game Prototype: A Clicker Game",path:"/blog/new-game-prototype-a-clicker-game"}}}]}},pathContext:{tag:"idle clicker"}}}});
 //# sourceMappingURL=path---tags-idle-clicker-973d365702ba9e72595f.js.map

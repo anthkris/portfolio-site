@@ -1,2 +1,0 @@
-webpackJsonp([96407400828738],{1330:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Other Thoughts on Small Wins",path:"/blog/sometimes-you-need-a-small-win"}}}]}},pathContext:{tag:"angular js"}}}});
-//# sourceMappingURL=path---tags-angular-js-caeaa5f54ca1b1a65967.js.map

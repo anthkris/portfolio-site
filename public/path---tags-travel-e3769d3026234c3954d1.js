@@ -1,2 +1,0 @@
-webpackJsonp([0x97b0c33bb63c],{1743:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Travel.ly In Progress",path:"/blog/travel-ly-in-progress"}}}]}},pathContext:{tag:"travel"}}}});
-//# sourceMappingURL=path---tags-travel-e3769d3026234c3954d1.js.map

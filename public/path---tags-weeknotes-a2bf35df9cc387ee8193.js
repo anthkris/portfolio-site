@@ -1,2 +1,0 @@
-webpackJsonp([0xf8fea735b2b1],{1777:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Weeknotes 10/23",path:"/blog/weeknotes-1023"}}},{node:{frontmatter:{title:"Weeknotes 10/9",path:"/blog/weeknotes-109"}}}]}},pathContext:{tag:"weeknotes"}}}});
-//# sourceMappingURL=path---tags-weeknotes-a2bf35df9cc387ee8193.js.map

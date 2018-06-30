@@ -1,2 +1,0 @@
-webpackJsonp([44516383708792],{1360:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Go Design Something Challenges",path:"/blog/go-design-something-challenges"}}}]}},pathContext:{tag:"cease and desist"}}}});
-//# sourceMappingURL=path---tags-cease-and-desist-d3cfd4f20424fa3dbf58.js.map

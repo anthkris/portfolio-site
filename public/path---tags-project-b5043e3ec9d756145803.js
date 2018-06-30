@@ -1,0 +1,2 @@
+webpackJsonp([504908264167],{570:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Hack ID: Resources for Instructional Designers",path:"/blog/hack-id-resources-for-instructional-designers"}}}]}},pathContext:{tag:"project"}}}});
+//# sourceMappingURL=path---tags-project-b5043e3ec9d756145803.js.map

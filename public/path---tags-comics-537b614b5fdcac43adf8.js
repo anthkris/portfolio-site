@@ -1,2 +1,0 @@
-webpackJsonp([0xc1a4b3383257],{1375:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"A Medical Demo and a bit of Coding, too!",path:"/blog/a-medical-demo-and-a-bit-of-coding-too"}}}]}},pathContext:{tag:"comics"}}}});
-//# sourceMappingURL=path---tags-comics-537b614b5fdcac43adf8.js.map

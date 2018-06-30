@@ -1,2 +1,0 @@
-webpackJsonp([0x7f1d4f8e40b4],{1377:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Unpacking my Desire to Speak",path:"/blog/unpacking-my-desire-to-speak"}}}]}},pathContext:{tag:"comparison"}}}});
-//# sourceMappingURL=path---tags-comparison-95934d7781f84beb580b.js.map

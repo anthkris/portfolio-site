@@ -1,2 +1,0 @@
-webpackJsonp([53307707917434],{1463:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Weeknotes: eLBX My day in Review",path:"/blog/weeknotes-elbx-my-day-in-review"}}},{node:{frontmatter:{title:"GDS Challenge No. 2: Zombie Acme U",path:"/blog/gds-challenge-no-2-zombie-acme-u"}}},{node:{frontmatter:{title:"Acme U In Progress",path:"/blog/acme-u-in-progress"}}}]}},pathContext:{tag:"game-based learning"}}}});
-//# sourceMappingURL=path---tags-game-based-learning-98b1de6026d9e7718925.js.map

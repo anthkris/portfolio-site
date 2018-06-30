@@ -1,2 +1,0 @@
-webpackJsonp([47295320932217],{1510:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Lessons Learned in Canvas LMS",path:"/blog/lessons-learned-in-canvas-lms"}}}]}},pathContext:{tag:"Instructure"}}}});
-//# sourceMappingURL=path---tags-instructure-8a400b7ec554a10f9ca5.js.map

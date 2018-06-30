@@ -1,2 +1,0 @@
-webpackJsonp([0x781adf617d83],{1470:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"#DearID Episode 40: Deep Dive into Sponge UK's PFRA Adapt Course",path:"/blog/dearid-episode-40-deep-dive-into-sponge-uks-pfra-adapt-course"}}},{node:{frontmatter:{title:"Tetris JS Updated!",path:"/blog/tetris-js-updated"}}},{node:{frontmatter:{title:"AWSM Prompt 2: In Progress",path:"/blog/awsm-prompt-2-in-progress"}}}]}},pathContext:{tag:"game"}}}});
-//# sourceMappingURL=path---tags-game-63ec521cfc6286246b1e.js.map

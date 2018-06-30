@@ -1,2 +1,0 @@
-webpackJsonp([0x6edc0f361e51],{1595:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weekend Project: Opening Title Sequence",path:"/blog/weekend-project-opening-titles"}}}]}},pathContext:{tag:"opening"}}}});
-//# sourceMappingURL=path---tags-opening-3d061923d4651245f07b.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([53307707917434],{533:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weeknotes: eLBX My day in Review",path:"/blog/weeknotes-elbx-my-day-in-review"}}}]}},pathContext:{tag:"game-based learning"}}}});
+//# sourceMappingURL=path---tags-game-based-learning-ac24d89ac75c5291e5cf.js.map
