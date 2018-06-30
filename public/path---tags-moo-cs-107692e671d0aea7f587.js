@@ -1,2 +1,0 @@
-webpackJsonp([0x87c11dc1db7c],{557:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#DearID Episode 44: Simon Date on MOOCs",path:"/blog/dearid-episode-44-simon-date-on-moocs"}}}]}},pathContext:{tag:"MOOCs"}}}});
-//# sourceMappingURL=path---tags-moo-cs-107692e671d0aea7f587.js.map

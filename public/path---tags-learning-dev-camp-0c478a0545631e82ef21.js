@@ -1,2 +1,0 @@
-webpackJsonp([5120558149790],{551:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Weeknotes: Learning Dev Camp Day 2 to 3",path:"/blog/weeknotes-learning-dev-camp-day-2-to-3"}}},{node:{frontmatter:{title:"Weeknotes: Learning Dev Camp Day 1",path:"/blog/weeknotes-learning-dev-camp-day-1"}}}]}},pathContext:{tag:"learning dev camp"}}}});
-//# sourceMappingURL=path---tags-learning-dev-camp-0c478a0545631e82ef21.js.map

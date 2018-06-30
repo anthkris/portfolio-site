@@ -26,15 +26,29 @@ I've tried to tackle several of these issues before, especially with [Hack ID](h
 ### Learner Journeys
 
 <figure>
-    <img src="../post-images/IMG-2213.jpg" alt="learning path to learning journey" />
-    <figcaption>Exemplar learning journey built from a more linear learning path</figcaption>
+  <img
+    sizes="(max-width: 810px) 100vw, 810px"
+    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/IMG-2213.jpg 203w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/IMG-2213.jpg 405w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/IMG-2213.jpg 810w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/IMG-2213.jpg 1215w"
+    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/IMG-2213.jpg"
+    alt="learning path to learning journey" />
+  <figcaption>Exemplar learning journey built from a more linear learning path</figcaption>
 </figure>
 
 My second morning session was about designing learning journeys. This was probably my favorite session of the day. I try to read a lot in the UX/product design discipline, so I'd heard of customer journeys previously, but this session provided an really good framework for making learner journeys. In case you hadn't heard of them, here's a description: The goal of a customer journey is to acquire, onboard, engage and retain users throughout their lifecycle by creating fluid, personalized, proactive and automated pathways for them. What do they need to know at this stage of their lifecycle to keep them engaged? Learning journeys are like that but for learners.
 
 <figure>
-    <img src="../post-images/IMG-2215.jpg" alt="identify modes of communication" />
-    <figcaption>As you create a learning journey, consider all the tools in your toolbox</figcaption>
+  <img
+    sizes="(max-width: 810px) 100vw, 810px"
+    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/IMG-2215.jpg 203w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/IMG-2215.jpg 405w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/IMG-2215.jpg 810w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/IMG-2215.jpg 1215w"
+    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/IMG-2215.jpg"
+    alt="learning path to learning journey" />
+  <figcaption>As you create a learning journey, consider all the tools in your toolbox</figcaption>
 </figure>
 
 The benefits of planning out Learner Journeys for or with your stakeholders are that it:

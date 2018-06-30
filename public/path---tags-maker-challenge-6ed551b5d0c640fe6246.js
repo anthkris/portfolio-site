@@ -1,2 +1,0 @@
-webpackJsonp([0xbffa4e021cc7],{553:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#DearID Episode 46: Simon Date on Open Source",path:"/blog/dearid-episode-46-simon-date-on-open-source"}}}]}},pathContext:{tag:"maker challenge"}}}});
-//# sourceMappingURL=path---tags-maker-challenge-6ed551b5d0c640fe6246.js.map

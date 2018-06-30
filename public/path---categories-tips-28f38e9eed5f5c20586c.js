@@ -1,2 +1,0 @@
-webpackJsonp([4624475791187],{496:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#DearID Episode 46: Simon Date on Open Source",path:"/blog/dearid-episode-46-simon-date-on-open-source"}}}]}},pathContext:{category:"Tips"}}}});
-//# sourceMappingURL=path---categories-tips-28f38e9eed5f5c20586c.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([47117439817083],{548:function(a,n){a.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"UXLX: I released an xAPI-enabled app on Android and iOS",path:"/blog/uxlx-i-released-an-xapi-enabled-app-on-android-and-ios"}}},{node:{frontmatter:{title:"Oy! I'm building an App!",path:"/blog/oy-im-building-an-app"}}}]}},pathContext:{tag:"Ionic"}}}});
-//# sourceMappingURL=path---tags-ionic-b9c75c40c128c6d2d6b6.js.map

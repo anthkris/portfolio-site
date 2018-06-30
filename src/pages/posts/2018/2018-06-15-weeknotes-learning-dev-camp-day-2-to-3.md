@@ -34,8 +34,15 @@ My first session of the afternoon was on reflecting on the way comic books use v
 *   **Infinite Canvas:** The thing that most captured my imagination was the idea about putting some things off screen and considering an infinite canvas as opposed to being limited to the screen size. I'm not quite sure what I would do with that during design, but I'm intrigued about what that might mean.
 
 <figure>
-    <img src="../post-images/img_2235.jpg" alt="slide about history of comic book communcation" />
-    <figcaption>Comic book visual communication</figcaption>
+  <img
+    sizes="(max-width: 810px) 100vw, 810px"
+    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/img_2235.jpg 203w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/img_2235.jpg 405w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2235.jpg 810w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/img_2235.jpg 1215w"
+    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2235.jpg"
+    alt="slide about history of comic book communcation" />
+  <figcaption>Comic book visual communication</figcaption>
 </figure>
 
 My second session was also with Ray Jimenez and focused on deep diving with learners. The one thing that stuck to me was the idea that:
@@ -50,8 +57,15 @@ So often when I hear about engagement, it's in terms of gamification or prettier
 Today was a half day. I spent the morning in Jason Bickle's session around pragmatic instructional design. In his DECLARE method, I saw a lot of what I've done previously with clients by asking them to help me plan out, in spreadsheet form, the content for the course and the correct medium, and the necessary assets. This was really more of a form of project and asset management for efficiency, and it was interesting to hear about how Jason has used his method to make development work work better.
 
 <figure>
-    <img src="../post-images/img_2241.jpg" alt="stages of conflict journey" />
-    <figcaption>8 stages of the conflict journey</figcaption>
+  <img
+    sizes="(max-width: 810px) 100vw, 810px"
+    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/img_2241.jpg 203w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/img_2241.jpg 405w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2241.jpg 810w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/img_2241.jpg 1215w"
+    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2241.jpg"
+    alt="stages of conflict journey" />
+  <figcaption>8 stages of the conflict journey</figcaption>
 </figure>
 
 Then in Katie Stroud's session, she overlayed the hero's journey to thinking about how do we design around the conflict journey for change management for a user. I think really insightful steps were thinking about:
@@ -62,8 +76,15 @@ Then in Katie Stroud's session, she overlayed the hero's journey to thinking abo
 My last presenter session was from Joseph Suarez (!!!) where he told stories about his experience as an instructional designer and extrapolated some important lessons learned. I've read quite a lot around UX (user experience) and Joe shared a really impactful story around how observing his learners with training he designed really blew a whole in his thinking about how he advocated for design. While companies will often prioritize UX in other areas, I think they don't expect it from us, but those tools and methodologies are essential for the work that we do, as well. As I've said before, I think there's a TON we can learn from that discipline.
 
 <figure>
-    <img src="../post-images/img_2244.jpg" alt="gap between web development and elearning development" />
-    <figcaption>The strangeness of elearning courses comes from not bridging the gap.</figcaption>
+  <img
+    sizes="(max-width: 810px) 100vw, 810px"
+    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/img_2244.jpg 203w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/img_2244.jpg 405w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2244.jpg 810w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/img_2244.jpg 1215w"
+    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2244.jpg"
+    alt="gap between web development and elearning development" />
+  <figcaption>The strangeness of elearning courses comes from not bridging the gap.</figcaption>
 </figure>
 
 ## My Experience

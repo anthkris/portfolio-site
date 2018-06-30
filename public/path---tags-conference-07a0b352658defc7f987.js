@@ -1,2 +1,0 @@
-webpackJsonp([0x72f8b5193061],{522:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weeknotes: eLBX My day in Review",path:"/blog/weeknotes-elbx-my-day-in-review"}}}]}},pathContext:{tag:"conference"}}}});
-//# sourceMappingURL=path---tags-conference-07a0b352658defc7f987.js.map

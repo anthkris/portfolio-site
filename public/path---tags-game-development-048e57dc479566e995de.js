@@ -1,2 +1,0 @@
-webpackJsonp([0x9459754f7d2c],{536:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Supply Run: My #1GAM entry for January",path:"/blog/supply-run-my-1gam-entry-for-january"}}}]}},pathContext:{tag:"game development"}}}});
-//# sourceMappingURL=path---tags-game-development-048e57dc479566e995de.js.map

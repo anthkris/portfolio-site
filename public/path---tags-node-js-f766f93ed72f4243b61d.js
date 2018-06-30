@@ -1,2 +1,0 @@
-webpackJsonp([75715161491867],{560:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My first Twitter Bot",path:"/blog/my-first-twitter-bot"}}}]}},pathContext:{tag:"node js"}}}});
-//# sourceMappingURL=path---tags-node-js-f766f93ed72f4243b61d.js.map

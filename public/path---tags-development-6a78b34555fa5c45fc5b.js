@@ -1,2 +1,0 @@
-webpackJsonp([54666243603918],{526:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:'On Being an "Un-Opinionated" Developer',path:"/blog/on-being-an-un-opinionated-developer"}}},{node:{frontmatter:{title:"#DearID Episode 44: Simon Date on MOOCs",path:"/blog/dearid-episode-44-simon-date-on-moocs"}}}]}},pathContext:{tag:"development"}}}});
-//# sourceMappingURL=path---tags-development-6a78b34555fa5c45fc5b.js.map

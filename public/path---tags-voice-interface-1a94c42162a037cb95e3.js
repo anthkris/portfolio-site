@@ -1,2 +1,0 @@
-webpackJsonp([0x9ba618941999],{586:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#DearID Episode 38: Building a Quiz with Amazon Alexa and Dr. Dave Fusco",path:"/blog/dearid-episode-38-building-a-quiz-with-amazon-alexa-and-dr-dave-fusco"}}}]}},pathContext:{tag:"voice interface"}}}});
-//# sourceMappingURL=path---tags-voice-interface-1a94c42162a037cb95e3.js.map

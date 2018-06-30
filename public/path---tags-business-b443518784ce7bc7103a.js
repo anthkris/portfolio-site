@@ -1,2 +1,0 @@
-webpackJsonp([0x9abbd7ee3483],{516:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weeknotes 4/18: A Brief Recap of what I've been doing since I blew up my life",path:"/blog/weeknotes-418-in-which-i-finally-finish-my-game"}}}]}},pathContext:{tag:"business"}}}});
-//# sourceMappingURL=path---tags-business-b443518784ce7bc7103a.js.map

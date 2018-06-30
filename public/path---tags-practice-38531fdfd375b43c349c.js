@@ -1,2 +1,0 @@
-webpackJsonp([0x5b965b8f1af1],{565:function(e,n){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Civic Learning: An Idea Generated from Torrance Learning's Download Un-Conference",path:"/blog/civic-learning-an-idea-generated-from-torrance-learnings-download-un-conference"}}}]}},pathContext:{tag:"practice"}}}});
-//# sourceMappingURL=path---tags-practice-38531fdfd375b43c349c.js.map
