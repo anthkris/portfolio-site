@@ -1,0 +1,2 @@
+webpackJsonp([45136672546656],{1436:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"ELH Challenge 77: Emoji For the Win",path:"/blog/elh-challenge-77-emoji-for-the-win"}}}]}},pathContext:{tag:"emoji"}}}});
+//# sourceMappingURL=path---tags-emoji-59df1eabec108928fdfb.js.map

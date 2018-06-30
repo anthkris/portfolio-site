@@ -1,0 +1,2 @@
+webpackJsonp([0x8257086e7689],{1627:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Inspiration: Extra Credits",path:"/blog/inspiration-extra-credits"}}}]}},pathContext:{tag:"presentation design"}}}});
+//# sourceMappingURL=path---tags-presentation-design-e427ea794ad08c64b909.js.map

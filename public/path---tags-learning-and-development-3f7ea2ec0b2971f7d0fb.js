@@ -1,0 +1,2 @@
+webpackJsonp([0x8c3a617bc770],{1532:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Instructional Designer as Product Designer?",path:"/blog/instructional-designer-as-product-designer"}}}]}},pathContext:{tag:"learning and development"}}}});
+//# sourceMappingURL=path---tags-learning-and-development-3f7ea2ec0b2971f7d0fb.js.map

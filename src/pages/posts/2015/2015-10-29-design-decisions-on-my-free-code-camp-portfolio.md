@@ -2,7 +2,7 @@
 title: "Design Decisions on My Free Code Camp Portfolio"
 path: "/blog/design-decisions-on-my-free-code-camp-portfolio"
 date: '2015-10-29'
-featured: "../../static/post-images/Design-Decisions.png"
+featured: "../post-images/Design-Decisions.png"
 categories: ["Coding", "Design"]
 tags: ["free code camp", "hamburger icon", "menu", "portfolio", "responsive design"]
 ---
@@ -12,7 +12,7 @@ Last week, I spent the entire work on my first ever Free Code Camp zipline, Buil
 ## Why Not the Hamburger?
 
 <figure>
-  <img src="../../static/post-images/burgerception-9e3946121.png" alt="hamburger menus" />
+  <img src="../post-images/burgerception-9e3946121.png" alt="hamburger menus" />
   <figcaption>Hamburgers everywhere...</figcaption>
 </figure>
 
@@ -119,6 +119,6 @@ Have a look-see at the final project!
 
 <figure>
   <a href="http://codepen.io/anthkris/full/xwpPrE/" target="blank">
-    <img src="../../static/post-images/Screen-Shot-2015-10-21-at-3.15.53-PM.png" alt="portfolio screenshot" />
+    <img src="../post-images/Screen-Shot-2015-10-21-at-3.15.53-PM.png" alt="portfolio screenshot" />
   </a>
 </figure>

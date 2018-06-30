@@ -1,0 +1,2 @@
+webpackJsonp([0xfdb3dbb4a723],{1340:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Credit Where it's Due or Don't Be Aftraid to Use CC",path:"/blog/ credit-where-its-due"}}}]}},pathContext:{tag:"attribution"}}}});
+//# sourceMappingURL=path---tags-attribution-83d04bc1a1a70ba69f1c.js.map

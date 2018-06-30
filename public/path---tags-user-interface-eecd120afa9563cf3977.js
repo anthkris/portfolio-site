@@ -1,0 +1,2 @@
+webpackJsonp([0xf54f046afb6e],{1759:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Daily UI Day 1",path:"/blog/daily-ui-day-1"}}}]}},pathContext:{tag:"user interface"}}}});
+//# sourceMappingURL=path---tags-user-interface-eecd120afa9563cf3977.js.map

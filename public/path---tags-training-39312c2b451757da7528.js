@@ -1,0 +1,2 @@
+webpackJsonp([0x6ebe74bd2b63],{1740:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"May GDS Challege: Call Center Training for Travelly",path:"/blog/may-gds-challenge"}}}]}},pathContext:{tag:"training"}}}});
+//# sourceMappingURL=path---tags-training-39312c2b451757da7528.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x807e190fae71],{1536:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"#DearID: Game Makers for Learning",path:"/blog/dearid-game-makers"}}},{node:{frontmatter:{title:"#DearID: On Learning to Program",path:"/blog/dearid-on-learning-to-program"}}},{node:{frontmatter:{title:"Diving into Oppia",path:"/blog/diving-into-oppia"}}}]}},pathContext:{tag:"learning experience design"}}}});
+//# sourceMappingURL=path---tags-learning-experience-design-69ca75a925db0bea1330.js.map

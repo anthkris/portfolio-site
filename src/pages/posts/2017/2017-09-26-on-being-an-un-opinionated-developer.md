@@ -2,7 +2,7 @@
 title: "On Being an \"Un-Opinionated\" Developer"
 path: "/blog/on-being-an-un-opinionated-developer"
 date: '2017-09-26'
-featured: "../../static/post-images/logoColor.png"
+featured: "../post-images/logoColor.png"
 categories: ["Design", "elearning"]
 tags: ["authoring tools", "development", "elearning", "tool choice", "toolkit"]
 ---

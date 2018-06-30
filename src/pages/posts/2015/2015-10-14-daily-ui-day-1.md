@@ -2,7 +2,7 @@
 title: "Daily UI Day 1"
 path: "/blog/daily-ui-day-1"
 date: '2015-10-14'
-featured: "../../static/post-images/Sign-Up-Page.png"
+featured: "../post-images/Sign-Up-Page.png"
 categories: ["Showing my Work"]
 tags: ["challenge", "daily UI", "design", "mobile", "UI", "user interface"]
 ---
@@ -10,7 +10,7 @@ tags: ["challenge", "daily UI", "design", "mobile", "UI", "user interface"]
 I began the Daily UI 100 day challenge. Here's my Day 1 entry for a sign up page:
 
 <figure>
-  <img src="../../static/post-images/Sign-Up-Page.png" alt="Daily UI practice" />
+  <img src="../post-images/Sign-Up-Page.png" alt="Daily UI practice" />
   <figcaption>My attempt at a sign up form</figcaption>
 </figure>
 

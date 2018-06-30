@@ -1,0 +1,2 @@
+webpackJsonp([0xecc072587e06],{1672:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Steal this Idea: Create a Visual Language for your Team",path:"/blog/steal-this-idea-create-a-visual-language-for-your-team"}}},{node:{frontmatter:{title:"Don't Sit on Your Darlings!",path:"/blog/dont-sit-on-your-darlings"}}},{node:{frontmatter:{title:"Unpacking my Desire to Speak",path:"/blog/unpacking-my-desire-to-speak"}}}]}},pathContext:{tag:"sharing"}}}});
+//# sourceMappingURL=path---tags-sharing-a8441f12aca540671fe4.js.map

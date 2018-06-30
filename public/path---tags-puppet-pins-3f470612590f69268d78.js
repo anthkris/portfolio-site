@@ -1,0 +1,2 @@
+webpackJsonp([91067180449831],{1648:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weekend Project and ELH Challenge: Parallax Effect and Subtle Motion",path:"/blog/weekend-project-and-elh-challenge-parallax-effect-and-subtle-motion"}}}]}},pathContext:{tag:"puppet pins"}}}});
+//# sourceMappingURL=path---tags-puppet-pins-3f470612590f69268d78.js.map

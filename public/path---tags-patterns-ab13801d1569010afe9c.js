@@ -1,0 +1,2 @@
+webpackJsonp([0x66fb11120bce],{1601:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Another Look at Atomic Learning Experience Design",path:"/blog/another-look-at-atomic-learning-experience-design"}}}]}},pathContext:{tag:"patterns"}}}});
+//# sourceMappingURL=path---tags-patterns-ab13801d1569010afe9c.js.map

@@ -2,7 +2,7 @@
 title: 'Unconventional Tool: Using Google Forms for Text-Based Branching Scenarios'
 path: "/blog/unconventional-using-google-forms-for-text-based-branching"
 date: '2016-03-15'
-featured: "../../static/post-images/Google-Forms.png"
+featured: "../post-images/Google-Forms.png"
 categories: ["Design", "Showing my Work", "What If Ideas"]
 tags: ["branching", "branching scenario", "google forms", "scenario", "tools"]
 ---

@@ -2,7 +2,7 @@
 title: '#LXRepeat: Trying out zCast with a Personal Learning Journal'
 path: "/blog/lxrepeat-trying-out-zcast-with-a-personal-learning-journal"
 date: '2016-09-07'
-featured: "../../static/post-images/LXRepeat.png"
+featured: "../post-images/LXRepeat.png"
 categories: ["Showing my Work"]
 ---
 

@@ -1,0 +1,2 @@
+webpackJsonp([0x6f2d62214bdc],{1688:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Espiritus: A Teeny, Tiny Game made using Phaser JS",path:"/blog/espiritus-a-teeny-tiny-game-made-using-phaser-js"}}}]}},pathContext:{tag:"sound design"}}}});
+//# sourceMappingURL=path---tags-sound-design-653c7a56f58b496d10e6.js.map

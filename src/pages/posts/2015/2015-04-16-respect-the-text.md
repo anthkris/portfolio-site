@@ -2,7 +2,7 @@
 title: "Respect the Text"
 path: "/blog/respect-the-text"
 date: '2015-04-16'
-featured: "../../static/post-images/Instructional-Designing-Words.png"
+featured: "../post-images/Instructional-Designing-Words.png"
 categories: ["Design"]
 tags: ["instructional design", "text", "words"]
 ---
@@ -23,21 +23,21 @@ But sometimes, we are called on to engage in information design, instead ([somet
 
 <figure>
   <a href="https://thenib.com/lighten-up-4f7f96ca8a7e" target="blank">
-    <img src="../../static/post-images/lightenup.jpeg" alt="Panel from lighten up" />
+    <img src="../post-images/lightenup.jpeg" alt="Panel from lighten up" />
   </a>
   <figcaption>Ronald Wimberly wrote a wonderful essay using words and drawings.</figcaption>
 </figure>
 
 <figure>
   <a href="https://medium.com/@webalys/how-to-create-a-collection-with-thousands-of-icons-5051a613511c" target="blank">
-    <img src="../../static/post-images/iconcollectioninspiration.png" alt="collection of iconcollectioninspiration" />
+    <img src="../post-images/iconcollectioninspiration.png" alt="collection of iconcollectioninspiration" />
   </a>
   <figcaption>Vincent LeMoign made described his icon creation process</figcaption>
 </figure>
 
 <figure>
   <a href="https://readymag.com/shuffle/dieter-rams/products/" target="blank">
-    <img src="../../static/post-images/dieterrams.png" alt="10 Principles for Good Design" />
+    <img src="../post-images/dieterrams.png" alt="10 Principles for Good Design" />
   </a>
   <figcaption> This piece from Shuffle Magazine on Dieter Rams 10 Principles of Design combines a full-screen experience of text with parallax scrolling and other media.</figcaption>
 </figure>
@@ -50,7 +50,7 @@ Every time I play a Twine game,or another piece of interactive fiction, I'm remi
 
 <figure>
   <a href="http://emshort.home.mindspring.com/Alabaster/" target="blank">
-    <img src="../../static/post-images/alabaster.png" alt="Alabaster title screen" />
+    <img src="../post-images/alabaster.png" alt="Alabaster title screen" />
   </a>
 </figure>
 

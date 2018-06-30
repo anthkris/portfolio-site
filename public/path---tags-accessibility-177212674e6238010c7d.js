@@ -1,0 +1,2 @@
+webpackJsonp([57637855410200],{1317:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"July GDS Challenge: Accessibility Playbook",path:"/blog/july-gds-accessibility-playbook"}}},{node:{frontmatter:{title:"Accessible eLearning: Part 2",path:"/blog/accessible-elearning-part-2"}}},{node:{frontmatter:{title:"Accessible eLearning: Lessons Learned Part 1",path:"/blog/accessible-elearning-lessons-learned-part-1"}}}]}},pathContext:{tag:"accessibility"}}}});
+//# sourceMappingURL=path---tags-accessibility-177212674e6238010c7d.js.map

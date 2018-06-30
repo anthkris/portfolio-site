@@ -2,7 +2,7 @@
 title: "3 Instructional Design Lessons from Awesome Children's Television"
 path: "/blog/3-instructional-design-lessons-from-awesome-childrens-television"
 date: '2015-03-05'
-featured: "../../static/post-images/Lessons-learned-from-awesome-kids-TV.png"
+featured: "../post-images/Lessons-learned-from-awesome-kids-TV.png"
 categories: ["Design"]
 tags: ["animation", "children", "lessons", "television", "tv"]
 ---

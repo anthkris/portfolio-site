@@ -2,7 +2,7 @@
 title: 'Dear Instructional Designer Show!: Interview with James Finder'
 path: "/blog/dear-instructional-designer-show-interview-with-james-finder"
 date: '2016-06-23'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["business", "instructional design", "solopreneur"]
 ---

@@ -2,7 +2,7 @@
 title: 'Weeknotes 4/18: A Brief Recap of what I''ve been doing since I blew up my life'
 path: "/blog/weeknotes-418-in-which-i-finally-finish-my-game"
 date: '2017-04-18'
-featured: "../../static/post-images/WeekNotes-42F18.png"
+featured: "../post-images/WeekNotes-42F18.png"
 categories: ["Coding", "GameDev", "Weeknotes"]
 tags: ["business", "coding", "freelancing", "game dev"]
 ---
@@ -24,7 +24,7 @@ And went full freelance. It was a terrifying leap, but I've been talking about i
 Work, as I've said, has been really kicking my butt, so I haven't had a ton of time to continue my game development learning (meanwhile, my list of things to learn is growing longer). But, I've had a game that I've had on whole for a least a month or so and, this weekend, I decided to buckle down and make time to get it into a finished state. It's not perfect, but I'm proud of it!
 <figure>
   <a href="https://anthkris.itch.io/Campaign" target="blank">
-    <img src="../../static/post-images/Screen-Shot-2017-04-16-at-3.46.47-PM.png" alt="game screenshot" />
+    <img src="../post-images/Screen-Shot-2017-04-16-at-3.46.47-PM.png" alt="game screenshot" />
     <figcaption>Play the game!</figcaption>
   </a>
 </figure>
@@ -33,7 +33,7 @@ I'm also working on an iteration 1.0 of an xAPI-enabled game with [Craig Wiggins
 
 <figure>
   <a href="http://www.knanthony.com/showcase/budget-game/BudgetStory2.html" target="blank">
-    <img src="../../static/post-images/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html-1492385379385.png" alt="game screenshot for twine game" />
+    <img src="../post-images/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html-1492385379385.png" alt="game screenshot for twine game" />
     <figcaption>Playtesters needed!</figcaption>
   </a>
 </figure>

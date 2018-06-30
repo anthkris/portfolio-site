@@ -2,7 +2,7 @@
 title: 'ELH Challenge #76: Educational Animations'
 path: "/blog/elh-challenge-76-educational-animations"
 date: '2015-04-02'
-featured: "../../static/post-images/AnatomyofaBook.png"
+featured: "../post-images/AnatomyofaBook.png"
 categories: ["Elearning Heroes Challenge", "Showing my Work"]
 tags: ["animation", "articulate", "ELH Challenge", "sliders", "stop-motion", "Storyline 2"]
 ---
@@ -16,7 +16,7 @@ Fresh off the heels of building my [March AWSM Prompt submission](https://awsmpr
 My own entry into this one was inspired by [Charles Hamper's stop-motion pig animation](https://community.articulate.com/articles/interactive-sliders-elearning-examples "ELH Challenge 52"), submitted for an earlier slider-related ELH Challenge. Immediately after seeing this cool use of sliders, I wanted to emulate it, but I hadn't had a chance up until now.
 
 <figure>
-  <img src="../../static/post-images/stopmotionpig.png" alt="stop motion pig example" />
+  <img src="../post-images/stopmotionpig.png" alt="stop motion pig example" />
   <figcaption>Stop-motion pig animation by Charles Hamper</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ My own entry into this one was inspired by [Charles Hamper's stop-motion pig ani
 It was a bit difficult coming up with a topic for this one but I settled on some inspiration from my days in library school: book restoration, one of the more interesting and hands-on classes I took during my master's degree. I love to read and I also really just love books: the size, the shape, the smell of decaying paper. In this class, we were able to tear books apart and learn about how they are restored, not only for the purpose of historical restoration (for example, restoring an important first edition or restoring a book for collector) but also just as a librarian who might need to repair a worn book in the stacks. Riffing off of Charles's technique, I created a book vector in Adobe Illustrator and then made slight changes to it to replicate a stop-motion opening and separating effect. 11 images later, I had a passable stop-motion animation.
 
 <figure>
-  <img src="../../static/post-images/layercrazy.png" alt="articulate storyline story editor view" />
+  <img src="../post-images/layercrazy.png" alt="articulate storyline story editor view" />
   <figcaption>Many, many layers... so many</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ With special thanks to Sea Lemon for giving me permission to use her video, try 
 
 <figure>
   <a href="http://knanthony.com/showcase/bookanatomy/story.html" target="blank">
-    <img src="../../static/post-images/AnatomyofaBook2.png" alt="Anaotmy of a book" />
+    <img src="../post-images/AnatomyofaBook2.png" alt="Anaotmy of a book" />
   </a>
   <figcaption>Play the Demo</figcaption>
 </figure>

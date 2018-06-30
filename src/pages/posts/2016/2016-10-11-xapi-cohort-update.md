@@ -2,7 +2,7 @@
 title: '#xAPI Cohort Update'
 path: "/blog/xapi-cohort-update"
 date: '2016-10-11'
-featured: "../../static/post-images/xAPI-cohort.png"
+featured: "../post-images/xAPI-cohort.png"
 categories: ["Coding", "Showing my Work"]
 tags: ["Amazon Web Services", "AWS", "installation", "learning locker", "xAPI"]
 ---

@@ -1,0 +1,2 @@
+webpackJsonp([0x5b86142c985d],{1461:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"2017 Job Title: SCORM Hacker",path:"/blog/2017-job-title-scorm-hacker"}}}]}},pathContext:{tag:"future proof"}}}});
+//# sourceMappingURL=path---tags-future-proof-24e7e397330e2a6b166c.js.map

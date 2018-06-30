@@ -2,7 +2,7 @@
 title: "#DearID Episode 39: Supporting Faculty with Online Teaching with Leslie Sandoval"
 path: "/blog/dearid-episode-39-supporting-faculty-with-online-teaching-with-leslie-sandoval"
 date: '2017-03-09'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["collaboration", "faculty", "higher ed", "instructional design", "SMEs"]
 ---

@@ -1,0 +1,2 @@
+webpackJsonp([0xab54f69d02bc],{1399:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Conversations at the Office: Free vs Paid Support",path:"/blog/conversations-at-the-office-free-vs-paid-support"}}},{node:{frontmatter:{title:"The Netflix of eLearning: WebLRN",path:"/blog/the-netflix-of-elearning-weblrn"}}}]}},pathContext:{tag:"curation"}}}});
+//# sourceMappingURL=path---tags-curation-a004c4b318424671dbee.js.map

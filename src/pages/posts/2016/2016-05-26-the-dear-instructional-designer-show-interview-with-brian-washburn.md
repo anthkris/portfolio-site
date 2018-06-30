@@ -2,7 +2,7 @@
 title: "The Dear Instructional Designer Show! Interview with Brian Washburn"
 path: "/blog/the-dear-instructional-designer-show-interview-with-brian-washburn"
 date: '2016-05-26'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["instructional design", "interview"]
 ---

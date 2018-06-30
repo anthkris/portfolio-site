@@ -2,7 +2,7 @@
 title: 'ELH Challenge 77: Emoji For the Win'
 path: "/blog/elh-challenge-77-emoji-for-the-win"
 date: '2015-04-06'
-featured: "../../static/post-images/Storytelling-with-Emoji.png"
+featured: "../post-images/Storytelling-with-Emoji.png"
 categories: ["Elearning Heroes Challenge", "Showing my Work"]
 tags: ["articulate", "emoji", "illustrations", "story", "Storyline"]
 ---
@@ -31,7 +31,7 @@ I realized that a lot of the great folks in the Articulate community are big on 
 Like I wrote above, I wanted to tell a little story and I loved that Emoji Dick inspiration. I also really loved that intimate telephone call sound quality. It makes it feel as though we're a part of a private conversation. So I wanted to emulate that. I recorded my audio using Audacity and then I used the telephone equalization effect to simulate that same audio quality.
 
 <figure>
-  <img src="../../static/post-images/audacityequalization.png" alt="Audacity UI" />
+  <img src="../post-images/audacityequalization.png" alt="Audacity UI" />
   <figcaption>Using Audacity</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Last but not least, here's the emoji story. Enjoy!
 
 <figure>
   < a href="http://knanthony.com/showcase/emoji/story.html" target="blank">
-    <img src="../../static/post-images/EmojiScreenshot.png" alt="My emoji story" />
+    <img src="../post-images/EmojiScreenshot.png" alt="My emoji story" />
   </a>
   <figcaption>Click on the Screenshot to View the Demo</figcaption>
 </figure>

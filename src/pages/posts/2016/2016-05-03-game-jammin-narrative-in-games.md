@@ -2,7 +2,7 @@
 title: 'Game Jammin'': Narrative in Games'
 path: "/blog/game-jammin-narrative-in-games"
 date: '2016-05-03'
-featured: "../../static/post-images/Game-Jammin.png"
+featured: "../post-images/Game-Jammin.png"
 categories: ["Design", "GameDev", "Showing my Work"]
 tags: ["game design", "game development", "game jam", "game narrative"]
 ---

@@ -2,7 +2,7 @@
 title: "Why My Ideas are Not for Everybody"
 path: "/blog/why-my-ideas-are-not-for-everybody"
 date: '2016-08-09'
-featured: "../../static/post-images/Why.png"
+featured: "../post-images/Why.png"
 categories: ["Commonplace Book", "Dear ID Show", "What If Ideas"]
 tags: ["craft", "instructional design", "meaning", "practice", "work"]
 ---

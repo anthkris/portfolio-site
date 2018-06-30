@@ -1,0 +1,2 @@
+webpackJsonp([0x5e7d153fea6c],{1323:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weekend Project and ELH Challenge: Parallax Effect and Subtle Motion",path:"/blog/weekend-project-and-elh-challenge-parallax-effect-and-subtle-motion"}}}]}},pathContext:{tag:"after effects"}}}});
+//# sourceMappingURL=path---tags-after-effects-bd1e35dd443420dbbe1d.js.map

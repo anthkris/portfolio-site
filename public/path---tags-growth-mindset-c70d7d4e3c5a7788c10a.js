@@ -1,0 +1,2 @@
+webpackJsonp([0xa2c1c5edbe80],{1479:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Making it Visual: Twitter Draw-a-Thon and Takeaways",path:"/blog/making-it-visual-twitter-draw-a-thon-and-takeaways"}}}]}},pathContext:{tag:"growth mindset"}}}});
+//# sourceMappingURL=path---tags-growth-mindset-c70d7d4e3c5a7788c10a.js.map

@@ -2,7 +2,7 @@
 title: "Dear Instructional Designer Show! Planning and Tracking Personal Learning"
 path: "/blog/dear-instructional-designer-show-planning-and-tracking-personal-learning"
 date: '2016-06-09'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show", "Showing my Work", "Tips"]
 tags: ["dear id", "personal learning", "podcast", "professional development"]
 ---

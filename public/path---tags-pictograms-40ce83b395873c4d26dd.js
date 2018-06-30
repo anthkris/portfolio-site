@@ -1,0 +1,2 @@
+webpackJsonp([0xdf31c6e54c52],{1611:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Elearning Heroes Challenge: Pictograms",path:"/blog/elh-pictogram"}}}]}},pathContext:{tag:"pictograms"}}}});
+//# sourceMappingURL=path---tags-pictograms-40ce83b395873c4d26dd.js.map

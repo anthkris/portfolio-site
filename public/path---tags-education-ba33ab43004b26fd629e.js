@@ -1,0 +1,2 @@
+webpackJsonp([0x5d4e155a0858],{1429:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Hack ID: Resources for Instructional Designers",path:"/blog/hack-id-resources-for-instructional-designers"}}},{node:{frontmatter:{title:"Apple Watch as a Game Changer? Nah.",path:"/blog/apple-watch-as-a-game-changer"}}}]}},pathContext:{tag:"education"}}}});
+//# sourceMappingURL=path---tags-education-ba33ab43004b26fd629e.js.map

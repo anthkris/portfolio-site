@@ -2,7 +2,7 @@
 title: 'Giving Critical Feedback: We Need More of It'
 path: "/blog/giving-critical-feedback-we-need-more-of-it"
 date: '2015-09-03'
-featured: "../../static/post-images/Giving-feedback.png"
+featured: "../post-images/Giving-feedback.png"
 categories: ["Showing my Work", "Tips"]
 tags: ["critique", "feedback", "praise"]
 ---

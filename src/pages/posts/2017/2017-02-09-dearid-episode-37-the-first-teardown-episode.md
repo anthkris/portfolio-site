@@ -2,7 +2,7 @@
 title: '#DearID Episode 37: The First Teardown Episode'
 path: "/blog/dearid-episode-37-the-first-teardown-episode"
 date: '2017-02-09'
-featured: "../../static/post-images/ID-Teardown-Will-you-Fit-into-Deloitte-.png"
+featured: "../post-images/ID-Teardown-Will-you-Fit-into-Deloitte-.png"
 categories: ["Dear ID Show", "elearning"]
 tags: ["analysis", "dear id", "interactive video", "teardown"]
 ---

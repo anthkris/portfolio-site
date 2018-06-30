@@ -2,7 +2,7 @@
 title: 'Slowing Down to Go Faster: Year of the Project Mid-Year Review'
 path: "/blog/year-of-the-project-midyear-review"
 date: '2015-07-30'
-featured: "../../static/post-images/Year-of-the-ProjectMid-Year-Review.png"
+featured: "../post-images/Year-of-the-ProjectMid-Year-Review.png"
 categories: ["Showing my Work"]
 tags: ["discovery", "focus", "learning", "professional development", "year of the project"]
 ---

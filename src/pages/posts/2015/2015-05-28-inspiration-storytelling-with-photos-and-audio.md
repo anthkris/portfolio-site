@@ -2,7 +2,7 @@
 title: 'Inspiration: Storytelling with Photos and Audio'
 path: "/blog/inspiration-storytelling-with-photos-and-audio"
 date: '2015-05-28'
-featured: "../../static/post-images/Storytelling.png"
+featured: "../post-images/Storytelling.png"
 categories: ["Design"]
 tags: ["audio", "conversation", "inspiration", "simple", "video"]
 ---

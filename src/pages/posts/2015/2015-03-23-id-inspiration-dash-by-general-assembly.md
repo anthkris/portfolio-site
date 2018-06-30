@@ -2,7 +2,7 @@
 title: 'ID Inspiration: Dash by General Assembly'
 path: "/blog/id-inspiration-dash-by-general-assembly"
 date: '2015-03-23'
-featured: "../../static/post-images/Dash-by-GA.png"
+featured: "../post-images/Dash-by-GA.png"
 categories: ["Coding", "Design", "elearning"]
 tags: ["coding", "inspiration", "project-based learning"]
 ---
@@ -14,7 +14,7 @@ As I wrote last week, I've been handling my personal learning by just trying to 
 The Dash lessons are separated into projects first, and then into smaller steps within each project. Within each lesson, there is a really well-done presentation and an interactive code editor below. You can view the changes you make to the code in the responsive preview to the right.
 
 <figure>
-  <img src="../../static/post-images/DashLessonDesign.png" alt="Dash lesson UI" />
+  <img src="../post-images/DashLessonDesign.png" alt="Dash lesson UI" />
   <figcaption>Dash Lesson design</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Dash is a wonderful introduction to the basic web languages: HTML, CSS, and Java
 The projects GA has designed are immediately relevant to anyone looking to get into web development: a basic landing page website, a blog, a basic restaurant site, and interactive animations. Anyone looking for a inspiration on microlessons or chunking would do well to check out the way Dash is designed. They also created an interactive code editor that provides a real-life context for what a web developer would look at all day.
 
 <figure>
-  <img src="../../static/post-images/DashbyGA.png" alt="Jeff's Blog lesson" />
+  <img src="../post-images/DashbyGA.png" alt="Jeff's Blog lesson" />
   <figcaption>Lesson from Dash/figcaption>
 </figure>
 

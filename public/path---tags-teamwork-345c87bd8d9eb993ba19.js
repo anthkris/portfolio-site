@@ -1,0 +1,2 @@
+webpackJsonp([0xbc9bfaaee6bd],{1716:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#DearID Episode 44: Simon Date on MOOCs",path:"/blog/dearid-episode-44-simon-date-on-moocs"}}}]}},pathContext:{tag:"teamwork"}}}});
+//# sourceMappingURL=path---tags-teamwork-345c87bd8d9eb993ba19.js.map

@@ -2,7 +2,7 @@
 title: "5 Things You Should Do When You Leave a Job"
 path: "/blog/5-things-you-should-do-when-you-leave-a-job"
 date: '2016-05-31'
-featured: "../../static/post-images/5Things-to-do-When-you-are-Leaving-a-Job.png"
+featured: "../post-images/5Things-to-do-When-you-are-Leaving-a-Job.png"
 categories: ["Showing my Work"]
 tags: ["exiting", "jobs", "new job", "work"]
 ---

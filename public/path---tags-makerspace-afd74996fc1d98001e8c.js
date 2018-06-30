@@ -1,0 +1,2 @@
+webpackJsonp([0xcae195ce7b77],{1557:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"#DearID: Episode 42: Online Course for a Student Maker Space with Ellen Hayes",path:"/blog/dearid-episode-42-online-course-for-a-student-maker-space-with-ellen-hayes"}}},{node:{frontmatter:{title:"5 Reasons Why Instructional Designers Should Make Stuff",path:"/blog/5-reasons-why-instructional-designers-should-make-stuff"}}}]}},pathContext:{tag:"makerspace"}}}});
+//# sourceMappingURL=path---tags-makerspace-afd74996fc1d98001e8c.js.map

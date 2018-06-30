@@ -1,0 +1,2 @@
+webpackJsonp([0x916ce787e31c],{1359:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Preventing Workplace Violence",path:"/blog/preventing-workplace-violence"}}}]}},pathContext:{tag:"CCAF"}}}});
+//# sourceMappingURL=path---tags-ccaf-9d7b89ad8c412bac0b1e.js.map

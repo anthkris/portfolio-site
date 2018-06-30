@@ -2,7 +2,7 @@
 title: "All Work and Then Rest"
 path: "/blog/all-work-and-then-rest"
 date: '2015-09-10'
-featured: "../../static/post-images/All-work-and-then-rest-e1441299248991.png"
+featured: "../post-images/All-work-and-then-rest-e1441299248991.png"
 categories: ["Inspiration", "Showing my Work"]
 tags: ["Austin Kleon", "chain-smoking", "rest", "sabbatical", "show your work"]
 ---

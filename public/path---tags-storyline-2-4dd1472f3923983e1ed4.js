@@ -1,0 +1,2 @@
+webpackJsonp([0x615a831d9f37],{1700:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"ELH Challenge #76: Educational Animations",path:"/blog/elh-challenge-76-educational-animations"}}}]}},pathContext:{tag:"Storyline 2"}}}});
+//# sourceMappingURL=path---tags-storyline-2-4dd1472f3923983e1ed4.js.map

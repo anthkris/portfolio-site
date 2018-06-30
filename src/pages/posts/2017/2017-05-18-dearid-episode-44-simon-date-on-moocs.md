@@ -2,7 +2,7 @@
 title: '#DearID Episode 44: Simon Date on MOOCs'
 path: "/blog/dearid-episode-44-simon-date-on-moocs"
 date: '2017-05-18'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show", "elearning"]
 tags: ["Adapt", "dear id", "development", "elearning", "instructional design", "MOOC", "MOOCs", "teamwork"]
 ---

@@ -2,7 +2,7 @@
 title: 'Steal this Idea: Push and Pull Systems'
 path: "/blog/steal-this-idea-push-and-pull-systems"
 date: '2016-05-17'
-featured: "../../static/post-images/Steal-This-Idea.png"
+featured: "../post-images/Steal-This-Idea.png"
 categories: ["Inspiration", "What If Ideas"]
 tags: ["higher ed", "marketing", "systems"]
 ---

@@ -2,7 +2,7 @@
 title: "Lessons Learned in Canvas LMS"
 path: "/blog/lessons-learned-in-canvas-lms"
 date: '2015-11-04'
-featured: "../../static/post-images/LEssons-LEarned-in.png"
+featured: "../post-images/LEssons-LEarned-in.png"
 categories: ["Coding", "Showing my Work"]
 tags: ["Canvas LMS", "html", "Instructure", "LMS"]
 ---
@@ -14,7 +14,7 @@ I'm new to using Canvas LMS, a rising star among learning management systems, es
 From what I can tell, Canvas seems to have been built by integrating the open source Bootstrap framework. What I wish I knew (before I tried to include a bunch of stuff for 3 or 4 hours) is that, because of this, Canvas seems to have included jQuery (an easy-to-use JavaScript library) as a part of their environment. That's really great news because it means that I don't have to include jQuery as a part of my ONE javascript upload available. So content enhancements like this accordion are built in to Canvas.
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2015-11-03-at-3.44.32-PM.png" alt="Canvas accordion component" />
+  <img src="../post-images/Screen-Shot-2015-11-03-at-3.44.32-PM.png" alt="Canvas accordion component" />
 </figure>
 
 From this code in the text editor:
@@ -44,7 +44,7 @@ From this code in the text editor:
 You can find more Canvas code snippets in this handy doc someone made: [Canvas HTML Code](https://docs.google.com/document/d/1sd62Kt7eIK0At3O9V5GtaYiPr3WFtHs2AksUse1dDvE/pub) It also means that I can access jQuery functions in order to implement other cool interactions ([like the Owl jQuery Carousel](http://owlgraphic.com/owlcarousel/index.html)).
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2015-11-03-at-3.37.49-PM.png" alt="Canvas accessible carousel component" />
+  <img src="../post-images/Screen-Shot-2015-11-03-at-3.37.49-PM.png" alt="Canvas accessible carousel component" />
 </figure>
 
 In this case, I used my JavaScript and CSS uploads to get the necessary functionality.

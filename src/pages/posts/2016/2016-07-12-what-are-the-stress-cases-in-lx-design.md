@@ -2,7 +2,7 @@
 title: "What are the Stress Cases in LX Design?"
 path: "/blog/what-are-the-stress-cases-in-lx-design"
 date: '2016-07-12'
-featured: "../../static/post-images/Stress-Cases.png"
+featured: "../post-images/Stress-Cases.png"
 categories: ["Good Reads", "Inspiration"]
 tags: ["crisis", "learner", "reading", "stress", "stress case"]
 ---

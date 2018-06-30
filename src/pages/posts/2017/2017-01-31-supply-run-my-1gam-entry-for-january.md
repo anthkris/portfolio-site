@@ -2,7 +2,7 @@
 title: 'Supply Run: My #1GAM entry for January'
 path: "/blog/supply-run-my-1gam-entry-for-january"
 date: '2017-01-31'
-featured: "../../static/post-images/Screen-Shot-2017-01-30-at-11.12.20-PM.png"
+featured: "../post-images/Screen-Shot-2017-01-30-at-11.12.20-PM.png"
 categories: ["Coding", "GameDev"]
 tags: ["endless runner", "game development", "phaser JS", "procedural", "programming"]
 ---
@@ -24,7 +24,7 @@ Probably the other big thing I had an issue with was trying to make my game spee
 I built this game (as I have my other Phaser games) using the Cloud9 IDE and pushing my code regularly to Github. I mention this because I think this is the first time I've used this workflow well(ish). When I was getting overwhelmed with the number of problems I was trying to fix and features I was trying to add, I started submitting issues to my Github repository and creating branches to fix and to add. This really did a lot in the way of helping me to focus on one problem at a time and get it fixed.
 
 <figure>
-    <img src="../../static/post-images/Screen-Shot-2017-01-31-at-12.01.14-AM.png" alt="github issues" />
+    <img src="../post-images/Screen-Shot-2017-01-31-at-12.01.14-AM.png" alt="github issues" />
     <figcaption>Using issues, branches, and pull requests helped me focus on fixing one problem at a time.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ There are still a few minor ticks with bits of the game, but overall, I was able
 
 <figure>
   <a href="https://anthkris.itch.io/supply-run" target="blank">
-    <img src="../../static/post-images/Screen-Shot-2017-01-30-at-11.12.20-PM.png" alt="Supply Run on Itch.io" />
+    <img src="../post-images/Screen-Shot-2017-01-30-at-11.12.20-PM.png" alt="Supply Run on Itch.io" />
     <figcaption>Play the Game!</figcaption>
   </a>
 </figure>

@@ -1,0 +1,2 @@
+webpackJsonp([0xdc8f09cc7921],{1706:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Adding Value: An Opportunity",path:"/blog/adding-value-an-opportunity"}}}]}},pathContext:{tag:"structure"}}}});
+//# sourceMappingURL=path---tags-structure-0e5e4f69984257707936.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xc2e94a9f1350],{1586:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"#DearID Episode 43: A Tale of Two Projects with Zsolt Olah",path:"/blog/dearid-episode-43-a-tale-of-two-projects-with-zsolt-olah"}}},{node:{frontmatter:{title:"#DearID: Episode 42: Online Course for a Student Maker Space with Ellen Hayes",path:"/blog/dearid-episode-42-online-course-for-a-student-maker-space-with-ellen-hayes"}}}]}},pathContext:{tag:"newbie"}}}});
+//# sourceMappingURL=path---tags-newbie-ef0963ea7783d49199b8.js.map

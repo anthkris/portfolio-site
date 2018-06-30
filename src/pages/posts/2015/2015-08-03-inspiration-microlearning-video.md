@@ -2,7 +2,7 @@
 title: 'Inspiration: MicroLearning Video'
 path: "/blog/inspiration-microlearning-video"
 date: '2015-08-03'
-featured: "../../static/post-images/Inspiration.png"
+featured: "../post-images/Inspiration.png"
 categories: ["Inspiration"]
 tags: ["animation", "development", "inspiration", "microlearning", "PowerPoint", "video"]
 ---

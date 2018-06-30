@@ -2,7 +2,7 @@
 title: 'The Dear ID Show: Interview with Ashley Chiasson'
 path: "/blog/the-dear-id-show-interview-with-ashley-chiasson"
 date: '2016-07-07'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["business", "dear id", "elearning business", "higher ed", "instructional design business", "podcast"]
 ---

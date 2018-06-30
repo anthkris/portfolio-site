@@ -1,0 +1,2 @@
+webpackJsonp([0xbd02b1f79ca9],{1523:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#DearID Interview with Joseph Suarez",path:"/blog/dearid-interview-with-joseph-suarez"}}}]}},pathContext:{tag:"Joseph Suarez"}}}});
+//# sourceMappingURL=path---tags-joseph-suarez-b8fe556bbcacb1a6cb3b.js.map

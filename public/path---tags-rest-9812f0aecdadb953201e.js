@@ -1,0 +1,2 @@
+webpackJsonp([0x836e388c3d46],{1662:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"All Work and Then Rest",path:"/blog/all-work-and-then-rest"}}},{node:{frontmatter:{title:"What I did This Weekend",path:"/blog/what-i-did-this-weekend"}}}]}},pathContext:{tag:"rest"}}}});
+//# sourceMappingURL=path---tags-rest-9812f0aecdadb953201e.js.map

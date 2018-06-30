@@ -2,7 +2,7 @@
 title: "Ideas on Effective Simulations"
 path: "/blog/ideas-on-effective-simulations"
 date: '2016-08-23'
-featured: "../../static/post-images/Effective-Simulations.png"
+featured: "../post-images/Effective-Simulations.png"
 categories: ["Inspiration", "What If Ideas"]
 tags: ["developer tea", "podcast", "simulations"]
 ---

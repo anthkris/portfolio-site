@@ -1,0 +1,2 @@
+webpackJsonp([44611596604678],{1502:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Trying something new",path:"/blog/trying-something-new"}}},{node:{frontmatter:{title:"The T-Shaped Instructional Designer",path:"/blog/the-t-shaped-instructional-designer"}}}]}},pathContext:{tag:"innovation"}}}});
+//# sourceMappingURL=path---tags-innovation-a35368722df50afd4eeb.js.map

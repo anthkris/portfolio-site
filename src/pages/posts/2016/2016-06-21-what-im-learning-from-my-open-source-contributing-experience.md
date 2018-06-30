@@ -2,7 +2,7 @@
 title: "What I'm Learning from my Open Source Contributing Experience"
 path: "/blog/what-im-learning-from-my-open-source-contributing-experience"
 date: '2016-06-21'
-featured: "../../static/post-images/What-Im-learning-from-my-open-source-journey.png"
+featured: "../post-images/What-Im-learning-from-my-open-source-journey.png"
 categories: ["Coding", "Inspiration", "What If Ideas"]
 tags: ["lessons learned", "open source", "Oppia"]
 ---

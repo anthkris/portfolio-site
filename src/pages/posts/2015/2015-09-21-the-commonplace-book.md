@@ -2,7 +2,7 @@
 title: "The Commonplace Book"
 path: "/blog/the-commonplace-book"
 date: '2015-09-21'
-featured: "../../static/post-images/The-Commonplace-book.png"
+featured: "../post-images/The-Commonplace-book.png"
 categories: ["Showing my Work"]
 tags: ["creativity", "critical thinking", "reflection", "writing"]
 ---

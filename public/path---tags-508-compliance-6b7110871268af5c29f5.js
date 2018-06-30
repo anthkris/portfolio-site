@@ -1,0 +1,2 @@
+webpackJsonp([0x90f3629f430b],{1315:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Accessible eLearning: Part 2",path:"/blog/accessible-elearning-part-2"}}},{node:{frontmatter:{title:"Accessible eLearning: Lessons Learned Part 1",path:"/blog/accessible-elearning-lessons-learned-part-1"}}}]}},pathContext:{tag:"508 compliance"}}}});
+//# sourceMappingURL=path---tags-508-compliance-6b7110871268af5c29f5.js.map

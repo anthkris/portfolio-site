@@ -2,7 +2,7 @@
 title: 'Good Reads: You''re my Favorite Client and Advice on Portfolios'
 path: "/blog/good-reads-youre-my-favorite-client-and-advice-on-portfolios"
 date: '2016-09-13'
-featured: "../../static/post-images/Good-Reads.png"
+featured: "../post-images/Good-Reads.png"
 categories: ["Design", "Good Reads"]
 tags: ["design", "mike monteiro", "personal project", "portfolio design", "portfolio project"]
 ---

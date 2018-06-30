@@ -1,0 +1,2 @@
+webpackJsonp([93663580822561],{1659:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Adding Value: An Opportunity",path:"/blog/adding-value-an-opportunity"}}},{node:{frontmatter:{title:"Accessible eLearning: Part 2",path:"/blog/accessible-elearning-part-2"}}},{node:{frontmatter:{title:"Credit Where it's Due or Don't Be Aftraid to Use CC",path:"/blog/ credit-where-its-due"}}}]}},pathContext:{tag:"resources"}}}});
+//# sourceMappingURL=path---tags-resources-a95f5c84cafe9eb4d0e3.js.map

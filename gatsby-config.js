@@ -29,7 +29,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `featured`,
-        path: `${__dirname}/src/pages/static/post-images`
+        path: `${__dirname}/src/pages/posts/post-images`
       }
     },
     {

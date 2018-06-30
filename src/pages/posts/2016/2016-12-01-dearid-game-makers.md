@@ -2,7 +2,7 @@
 title: '#DearID: Game Makers for Learning'
 path: "/blog/dearid-game-makers"
 date: '2016-12-01'
-featured: "../../static/post-images/Game-Makers-for-Learning.png"
+featured: "../post-images/Game-Makers-for-Learning.png"
 categories: ["Dear ID Show", "GameDev"]
 tags: ["elearning development", "game dev", "game development", "learning experience design"]
 ---

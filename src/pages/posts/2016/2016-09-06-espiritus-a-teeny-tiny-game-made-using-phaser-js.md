@@ -2,7 +2,7 @@
 title: 'Espiritus: A Teeny, Tiny Game made using Phaser JS'
 path: "/blog/espiritus-a-teeny-tiny-game-made-using-phaser-js"
 date: '2016-09-06'
-featured: "../../static/post-images/Espiritus-post.png"
+featured: "../post-images/Espiritus-post.png"
 categories: ["GameDev", "Showing my Work"]
 tags: ["game design", "game development", "phaser JS", "post-mortem", "sound design", "start small"]
 ---
@@ -13,7 +13,7 @@ Last month, in seeking to practice what I preach, I found a great horror-focused
 
 Using the game jam and this amazing game from another indie game dev called McFunkyPants, who incidentally, is also one of my inspirations with his OneGameAMonth site and practice (Greeble: http://mcfunkypants.com/LD22/) as inspiration , I focused on building a tiny horror game, with no combat, no baddies. Just you trying to escape. I also hit upon the idea/mechanic of the player being constantly pulled backwards, towards the void and towards danger, pretty early. Here's my Trello card for the game:
 
-![Trello Board card](../../static/post-images/Screen-Shot-2016-09-05-at-5.49.58-PM.png)
+![Trello Board card](../post-images/Screen-Shot-2016-09-05-at-5.49.58-PM.png)
 
 For assets, I turned to several free sites I know, including:
 
@@ -33,7 +33,7 @@ As I said, I've been looking to practice my beloved mantra (from Justin Jackson)
 
 <figure>
   <a href="https://anthkris.itch.io/espiritus" target="blank">
-    <img src="../../static/post-images/Screen-Shot-2016-09-05-at-6.12.06-PM.png" alt="game screenshot" />
+    <img src="../post-images/Screen-Shot-2016-09-05-at-6.12.06-PM.png" alt="game screenshot" />
   </a>
   <figcaption>Play Espiritus</figcaption>
 </figure>

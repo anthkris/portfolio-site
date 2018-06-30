@@ -2,7 +2,7 @@
 title: "A More Nuanced Discussion of Templates"
 path: "/blog/a-more-nuanced-discussion-of-templates"
 date: '2015-10-16'
-featured: "../../static/post-images/Discussion-of-Templates.png"
+featured: "../post-images/Discussion-of-Templates.png"
 categories: ["Design", "elearning"]
 tags: ["design", "podcast", "template", "templates"]
 ---

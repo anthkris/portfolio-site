@@ -2,7 +2,7 @@
 title: '#DearID: Interview with Cara North'
 path: "/blog/dearid-interview-with-cara-north"
 date: '2016-10-06'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["Cara North", "higher ed", "interview", "LMS"]
 ---

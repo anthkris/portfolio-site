@@ -1,0 +1,2 @@
+webpackJsonp([23192276711551],{1695:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Pushing the Button: Are stock designs and templates killing Instructional Design?",path:"/blog/pushing-the-button"}}}]}},pathContext:{tag:"stock"}}}});
+//# sourceMappingURL=path---tags-stock-b6a7b3c709fee97686c0.js.map

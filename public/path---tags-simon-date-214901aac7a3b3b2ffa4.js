@@ -1,0 +1,2 @@
+webpackJsonp([0xe2a0d3c45f1a],{1677:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#DearID Episode 45: Simon Date on Adapt",path:"/blog/dearid-episode-45-simon-date-on-adapt"}}}]}},pathContext:{tag:"Simon Date"}}}});
+//# sourceMappingURL=path---tags-simon-date-214901aac7a3b3b2ffa4.js.map

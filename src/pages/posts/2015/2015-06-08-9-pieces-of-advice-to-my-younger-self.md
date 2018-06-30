@@ -2,7 +2,7 @@
 title: "9 Pieces of Advice to My Younger Self"
 path: "/blog/9-pieces-of-advice-to-my-younger-self"
 date: '2015-06-08'
-featured: "../../static/post-images/9-pieces-of-advice-to-my.png"
+featured: "../post-images/9-pieces-of-advice-to-my.png"
 categories: ["Tips"]
 tags: ["advice", "college", "time travel", "tips", "younger self"]
 ---

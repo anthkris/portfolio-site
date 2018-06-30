@@ -2,7 +2,7 @@
 title: "Weekend Project: Interactive Timeline"
 path: "/blog/weekend-project-interactive-timeline"
 date: "2014-09-20"
-featured: "../../static/post-images/muppet-timeline.png"
+featured: "../post-images/muppet-timeline.png"
 categories: ["elearning", "Weekend Project"]
 tags: ["interaction", "Lectora", "muppets", "project", "template", "timeline"]
 ---
@@ -10,7 +10,7 @@ tags: ["interaction", "Lectora", "muppets", "project", "template", "timeline"]
 As often as possible, I like to take the time to emulate some of the interaction designs that I like most. This time, I chose the interactive timeline ["The Wealthiest Americans Ever" from the New York Times.](http://www.nytimes.com/ref/business/20070715_GILDED_GRAPHIC.html "The Wealthiest Americans Ever NYT")
 
 <figure>
-  <img src="../../static/post-images/wealthies-americans-timeline.png" alt="Wealthiest Americans Ever interactive timeline" />
+  <img src="../post-images/wealthies-americans-timeline.png" alt="Wealthiest Americans Ever interactive timeline" />
   <figcaption> A cool and informative interactive timeline that uses rollover effects</figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ I created mine using Lectora Inspire and some images and info from [the Muppet W
 
 <figure>
   <a href="http://www.knanthony.com/showcase/muppettime/index.html" target="blank">
-    <img src="../../static/post-images/muppet-timeline.png" alt="Muppet timeline" />
+    <img src="../post-images/muppet-timeline.png" alt="Muppet timeline" />
   </a>
   <figcaption>Take a look at the demo</figcaption>
 </figure>

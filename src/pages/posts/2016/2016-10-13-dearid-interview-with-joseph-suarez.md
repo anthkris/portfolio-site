@@ -2,7 +2,7 @@
 title: '#DearID Interview with Joseph Suarez'
 path: "/blog/dearid-interview-with-joseph-suarez"
 date: '2016-10-13'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show", "Design"]
 tags: ["dear id", "elearning", "elearning development", "interview", "Joseph Suarez", "web development"]
 ---

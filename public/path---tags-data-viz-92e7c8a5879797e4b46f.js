@@ -1,0 +1,2 @@
+webpackJsonp([0x7e2c3918deb3],{1403:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Evolution of a Data Viz: Showing User Journeys through Google Charts",path:"/blog/evolution-of-a-data-viz-showing-user-journeys-through-google-charts"}}},{node:{frontmatter:{title:"Data Viz Experiments with Google Charts",path:"/blog/data-viz-experiments-with-google-charts"}}}]}},pathContext:{tag:"data viz"}}}});
+//# sourceMappingURL=path---tags-data-viz-92e7c8a5879797e4b46f.js.map

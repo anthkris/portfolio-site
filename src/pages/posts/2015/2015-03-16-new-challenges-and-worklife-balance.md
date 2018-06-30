@@ -2,7 +2,7 @@
 title: 'New Challenges and Work/Life Balance: Following Through by Making it Smaller'
 path: "/blog/new-challenges-and-worklife-balance"
 date: '2015-03-16'
-featured: "../../static/post-images/Personal-learning-and-following-through.png"
+featured: "../post-images/Personal-learning-and-following-through.png"
 categories: ["Tips"]
 tags: [ "experimentation", "personal learning", "work", "work/life balance"]
 ---
@@ -16,7 +16,7 @@ I oftentimes find myself interested in exploring a million different things. The
 I began participating in [Blair Rorani's Twitter Draw-a-Thon](http://blair.rorani.com/twitter-drawathon/ "Twitter Draw-a-Thon") last week and I'm loving it. It's also sparked a new desire to explore visual language. I've been interested in sketchnoting before and just plain visual thinking and so I've decided that, even after the draw-a-thon is over, I want to continue practicing my visual language skills by drawing something, anything 5 days a week. To that end, I started a [Tumblr called Visilang](http://visilang.tumblr.com/ "Visilang"). Check it out!
 
 <figure>
-  <img src="../../static/post-images/Dog-for-day-4.png" alt="Day 4 draw-a-thon drawing" />
+  <img src="../post-images/Dog-for-day-4.png" alt="Day 4 draw-a-thon drawing" />
   <figcaption>My Favorite Draw-a-Thon drawing so far: Day 4 Dog</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ I've always been a fiction lover. When I was younger, I would write all the time
 As you may know, coding is definitely something I want to improve at and I'd like to get my beginner level JavaScript/jQuery skills down pat by the end of the year. I'm a TreeHouse member and I also recently discovered FreeCodeCamp which has put together some great problem-based tutorials. I often find myself falling off the wagon, though, when things get tough. So I'm going for one lesson a day until I reach completion.
 
 <figure>
-  <img src="../../static/post-images/DashWebsiteProject.png" alt="Dash coding project" />
+  <img src="../post-images/DashWebsiteProject.png" alt="Dash coding project" />
   <figcaption>One of the projects FreeCodeCamp links to on Dash</figcaption>
 </figure>
 

@@ -1,0 +1,2 @@
+webpackJsonp([0x83ba215b4c73],{1374:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"9 Pieces of Advice to My Younger Self",path:"/blog/9-pieces-of-advice-to-my-younger-self"}}},{node:{frontmatter:{title:"What if the First Year of College was more like Job Onboarding?",path:"/blog/what-if-the-first-year-of-college-was-more-like-job-onboarding"}}}]}},pathContext:{tag:"college"}}}});
+//# sourceMappingURL=path---tags-college-44f46d8749481b69a4b0.js.map

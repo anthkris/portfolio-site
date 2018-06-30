@@ -2,7 +2,7 @@
 title: "Instructional Design From Professional Development to Academia"
 path: "/blog/instructional-design-from-professional-development-to-academia"
 date: '2016-01-26'
-featured: "../../static/post-images/ID-in-Academia.png"
+featured: "../post-images/ID-in-Academia.png"
 categories: ["Commonplace Book", "Design", "Showing my Work"]
 tags: ["academia", "information design", "learning experience"]
 ---

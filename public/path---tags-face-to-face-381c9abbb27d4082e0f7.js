@@ -1,0 +1,2 @@
+webpackJsonp([0x7251c79ddd8e],{1447:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Dear ID Show! Interview with Rachel Barnum",path:"/blog/dear-id-show-interview-with-rachel-barnum"}}},{node:{frontmatter:{title:"The Storyteller",path:"/blog/the-storyteller"}}}]}},pathContext:{tag:"face-to-face"}}}});
+//# sourceMappingURL=path---tags-face-to-face-381c9abbb27d4082e0f7.js.map

@@ -2,7 +2,7 @@
 title: "Things Your Instructional Designer Never Wants to Hear"
 path: "/blog/things-your-instructional-designer-never-wants-to-hear"
 date: '2014-10-28'
-featured: "../../static/post-images/Screenshot.png"
+featured: "../post-images/Screenshot.png"
 categories: ["elearning", "Elearning Heroes Challenge"]
 tags: ["animations", "css"]
 ---
@@ -11,7 +11,7 @@ This week's challenge was meant to be fun and light but leave it to yours truly 
 
 <figure>
   <a href="http://knanthony.com/showcase/IDCards/index.html" target="blank">
-    <img src="../../static/post-images/screenshot.png" alt="Things Instructional Designers Never Want to Hear " />
+    <img src="../post-images/screenshot.png" alt="Things Instructional Designers Never Want to Hear " />
   </a>
   <figcaption>For better or worse, check out my list.</figcaption>
 </figure>

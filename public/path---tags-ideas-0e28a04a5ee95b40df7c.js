@@ -1,0 +1,2 @@
+webpackJsonp([80797224825595],{1491:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Don't Sit on Your Darlings!",path:"/blog/dont-sit-on-your-darlings"}}}]}},pathContext:{tag:"ideas"}}}});
+//# sourceMappingURL=path---tags-ideas-0e28a04a5ee95b40df7c.js.map

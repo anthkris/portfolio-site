@@ -1,0 +1,2 @@
+webpackJsonp([0x6f9cc258b4a6],{1488:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Lessons Learned in Canvas LMS",path:"/blog/lessons-learned-in-canvas-lms"}}},{node:{frontmatter:{title:"12 Things You Can Do with Lectora and Code",path:"/blog/12-things-you-can-do-with-lectora-and-code"}}},{node:{frontmatter:{title:"My First Twine Story!",path:"/blog/my-first-twine-story"}}}]}},pathContext:{tag:"html"}}}});
+//# sourceMappingURL=path---tags-html-6b567e6ac5ba124955e2.js.map

@@ -2,7 +2,7 @@
 title: "What if the First Year of College was more like Job Onboarding?"
 path: "/blog/what-if-the-first-year-of-college-was-more-like-job-onboarding"
 date: '2015-02-16'
-featured: "../../static/post-images/What-if.png"
+featured: "../post-images/What-if.png"
 categories: ["What If Ideas"]
 tags: ["college", "onboarding", "performance support", "university"]
 ---

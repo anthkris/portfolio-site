@@ -2,7 +2,7 @@
 title: "Oy! I'm building an App!"
 path: "/blog/oy-im-building-an-app"
 date: '2017-09-12'
-featured: "../../static/post-images/Im-building-an-app.png"
+featured: "../post-images/Im-building-an-app.png"
 categories: ["Design"]
 tags: ["app development", "Ionic", "xAPI"]
 ---
@@ -27,7 +27,7 @@ And I thought, "Yeah, how do you do that?" So, during Hurricane Harvey, when I t
 
 I did a little looking up of a couple of frameworks I had previously heard about that would allow me to create mobile apps using the programming language I know (namely, Javascript). I decided to use [Ionic 3](http://ionicframework.com/). Content-wise, I took from the outline that Ellen Hayes and I had made as well as some of the resources she had gathered. Design-wise, I was inspired by card-based microlearning apps like [Google's Primer](https://itunes.apple.com/us/app/google-primer-learn-marketing-fast/id918628107?mt=8) and [Startup Patterns.](https://itunes.apple.com/us/app/startup-patterns-bite-sized-startup-lessons/id1142253405?mt=8) I knew I wanted a user to be able to choose from a series of lessons and then swipe through cards to go through the lesson. A card might contain text, a video, or a question. I also wanted a person to be able to see their progress inside of a lesson, as well as from the home page, and be able to get back to where they were easily. As I kept building, I tried to keep things small, but also made sure to add features that I felt would help the experience be better.
 <figure>
-    <img src="../../static/post-images/app_sketch.jpg" alt="app sketches" />
+    <img src="../post-images/app_sketch.jpg" alt="app sketches" />
     <figcaption>My initial sketches</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Getting the app started was actually really easy! Ionic has great documentation 
 As others have said, the hard part with xAPI isn't the sending of statements, it's really the planning out of the data and I'm still really new to the spec and trying to make sure that I'm doing things right (which is where having a community in the cohort helps!). Last cohort meeting, Sean Putnam also offered up one great way to look at thinking about your data plan, tracking participation vs tracking performance. For this app, definitely participation-based metrics are what I'm after!
 
 <figure>
-    <img src="../../static/post-images/Screen-Shot-2017-09-11-at-6.31.04-PM.png" alt="Trello board card" />
+    <img src="../post-images/Screen-Shot-2017-09-11-at-6.31.04-PM.png" alt="Trello board card" />
     <figcaption>My expanding trello card for initial development</figcaption>
 </figure>
 

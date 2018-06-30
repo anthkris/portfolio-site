@@ -2,7 +2,7 @@
 title: '#DearID Episode 38: Building a Quiz with Amazon Alexa and Dr. Dave Fusco'
 path: "/blog/dearid-episode-38-building-a-quiz-with-amazon-alexa-and-dr-dave-fusco"
 date: '2017-02-23'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Coding", "Dear ID Show"]
 tags: ["amazon alexa", "quiz", "voice interface", "xAPI"]
 ---

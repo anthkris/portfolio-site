@@ -2,7 +2,7 @@
 title: '#DearID: Season 2 Wrap Up'
 path: "/blog/dearid-season-2-wrap-up"
 date: '2016-12-22'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["dear id", "showing my work", "wol", "year in projects", "year in review"]
 ---
@@ -16,14 +16,14 @@ Season 2 of Dear ID is finally over! In this episode, I share some stats about m
 We've grown tremendously this season in listens!
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2016-12-21-at-11.54.46-AM.png" alt="screenshot of season 2 stats" />
+  <img src="../post-images/Screen-Shot-2016-12-21-at-11.54.46-AM.png" alt="screenshot of season 2 stats" />
   <figcaption>Season 2 started in September</figcaption>
 </figure>
 
 There's also been a little movement in the most-listened-to episodes, though Jane Bozarth is holding the number 1 spot.
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2016-12-21-at-11.55.01-AM.png" alt="top episodes after season 2" />
+  <img src="../post-images/Screen-Shot-2016-12-21-at-11.55.01-AM.png" alt="top episodes after season 2" />
 </figure>
 
 ## 2016 Year of Projects

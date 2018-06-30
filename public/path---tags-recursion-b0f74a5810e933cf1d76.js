@@ -1,0 +1,2 @@
+webpackJsonp([55151814806420],{1655:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Look Ma I'm Learnin': FreeCodeCamp Exact Change Bonfire",path:"/blog/look-ma-im-learnin-freecodecamp-exact-change-bonfire"}}},{node:{frontmatter:{title:"JavaScript Concepts: Recursion",path:"/blog/javascript-concepts-recursion"}}}]}},pathContext:{tag:"recursion"}}}});
+//# sourceMappingURL=path---tags-recursion-b0f74a5810e933cf1d76.js.map

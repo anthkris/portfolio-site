@@ -2,7 +2,7 @@
 title: "The Minimum Viable Practice for Instructional Designers"
 path: "/blog/the-minimum-viable-practice-for-instructional-designers"
 date: '2016-03-08'
-featured: "../../static/post-images/MinimumViablePractice.png"
+featured: "../post-images/MinimumViablePractice.png"
 categories: ["Design", "Showing my Work", "Tips", "What If Ideas"]
 tags: ["minimum viable product", "practice", "prototyping", "rapid prototyping"]
 ---

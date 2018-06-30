@@ -2,7 +2,7 @@
 title: 'UXLX: I released an xAPI-enabled app on Android and iOS'
 path: "/blog/uxlx-i-released-an-xapi-enabled-app-on-android-and-ios"
 date: '2017-11-16'
-featured: "../../static/post-images/UXLX-App.png"
+featured: "../post-images/UXLX-App.png"
 categories: ["Coding", "Showing my Work"]
 tags: ["Android", "app development", "Ionic", "iOS", "LX", "UX", "UXLX", "web development", "xAPI"]
 ---

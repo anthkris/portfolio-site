@@ -2,7 +2,7 @@
 title: 'Weekend Project: Opening Title Sequence'
 path: "/blog/weekend-project-opening-titles"
 date: "2014-09-26"
-featured: "../../static/post-images/logoColor.png"
+featured: "../post-images/logoColor.png"
 categories: ["Design", "Weekend Project"]
 tags: ["animation", "css", "opening", "title sequence"]
 ---
@@ -15,7 +15,7 @@ And, much more recently, I stumbled upon this great tutorial on [creating an ope
 
 <figure>
   <a href="http://www.knanthony.com/showcase/opening-sequence/index.html" target="blank">
-    <img src="../../static/post-images/scary-mary.png" alt="Scary Mary Opening Sequence" />
+    <img src="../post-images/scary-mary.png" alt="Scary Mary Opening Sequence" />
   </a>
   <figcaption>Check out the final trailer here.</figcaption>
 </figure>

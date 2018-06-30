@@ -2,7 +2,7 @@
 title: 'August Go Design Something Challenge: Carmen Sandiego-Like'
 path: "/blog/august-go-design-something-challenge-carmen-sandiego-like"
 date: '2015-08-13'
-featured: "../../static/post-images/Carmen-Sandiego-Like.png"
+featured: "../post-images/Carmen-Sandiego-Like.png"
 categories: ["Design", "GDS Challenge", "Showing my Work"]
 tags: ["carmen sandiego", "development", "game design", "K-12", "social studies"]
 ---
@@ -18,17 +18,17 @@ I choose Carmen for a couple of reasons. Firstly it's what I would call a seriou
 My vision for this one was pretty straight forward. I created a tiny lookbook of Carmen Sandiego games both past and present and created a look and feel based on them. I will say though that, partly owing to not having all the graphics I need yet, I went ahead and started prototyping in PowerPoint which has proved very helpful. As I've mentioned before, for me, PowerPoint works well because it's a medium in which I feel free to delete something if it doesn't work. It's also allowed me to take some time and really flesh out my ideas about some of the game elements. Looking to make this a reality by the end of the month!
 
 <figure>
-  <img src="../../static/post-images/Slide8.png" alt="Suspect page prototype" />
+  <img src="../post-images/Slide8.png" alt="Suspect page prototype" />
 </figure>
 
 <figure>
-  <img src="../../static/post-images/Slide11.png" alt="Speaking with a victim prototype" />
+  <img src="../post-images/Slide11.png" alt="Speaking with a victim prototype" />
 </figure>
 
 <figure>
-  <img src="../../static/post-images/Slide3.png" alt="Getting a case prototype" />
+  <img src="../post-images/Slide3.png" alt="Getting a case prototype" />
 </figure>
 
 <figure>
-  <img src="../../static/post-images/Slide5.png" alt="Robbery start scene prototype" />
+  <img src="../post-images/Slide5.png" alt="Robbery start scene prototype" />
 </figure>

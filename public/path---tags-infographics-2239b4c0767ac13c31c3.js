@@ -1,0 +1,2 @@
+webpackJsonp([0xf08cb4ef3bd3],{1500:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Keeping it Simple in the Name of Clarity",path:"/blog/keeping-it-simple-in-the-name-of-clarity"}}}]}},pathContext:{tag:"infographics"}}}});
+//# sourceMappingURL=path---tags-infographics-2239b4c0767ac13c31c3.js.map

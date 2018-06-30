@@ -1,0 +1,2 @@
+webpackJsonp([39399298352292],{1411:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Instructional Designer as Product Designer?",path:"/blog/instructional-designer-as-product-designer"}}}]}},pathContext:{tag:"designer roles"}}}});
+//# sourceMappingURL=path---tags-designer-roles-3ee970b856596281566a.js.map

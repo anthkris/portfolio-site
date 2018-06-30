@@ -2,7 +2,7 @@
 title: "Pushing the Button: Are stock designs and templates killing Instructional Design?"
 path: "/blog/pushing-the-button"
 date: '2015-05-14'
-featured: "../../static/post-images/Pushing-the-button.png"
+featured: "../post-images/Pushing-the-button.png"
 categories: ["Design"]
 tags: ["creativity", "design", "stock", "templates", "uniqueness"]
 ---
@@ -14,7 +14,7 @@ I read an article from Blair Rorani this week, called [Push Button Creativity](h
 If I understood Blair correctly, he is lamenting the state of all kinds of design, including instructional design, where people rely on templates and stock photos and vectors and it results in designs that look mind-numbingly the same. And, on the one hand, I agree with him. One of the reasons I avoid using templates (though I often look at templates for design inspiration) is that they actively invite us to just dump in content, hit Publish, and call it a night. The problem with that is that design is meant to solve problems. It's not meant to just be a pretty container  for stuff. And when you simply dump content into a template, that's when you begin to lose the meaning, the function, and the motivation. You end up with a pretty, ineffective mess. Another issue is that templates invite us to simply make the same course (or website) over and over again. Honestly, the courses I design for law enforcement should not look like the courses someone else designs for restaurants. Our audiences are different; their needs are different; the way in which we deliver training should be different.
 
 <figure>
-  <img src="../../static/post-images/design-patterns.jpeg" alt="Multiple websites with same design" />
+  <img src="../post-images/design-patterns.jpeg" alt="Multiple websites with same design" />
   <figcaption>Consider this! Different websites, different products, same design. Image from WebdesignerDepot via Medium</figcaption>
 </figure>
 

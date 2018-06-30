@@ -2,7 +2,7 @@
 title: 'Instructional Design Battlefield: Information vs Instructional Design'
 path: "/blog/instructional-design-battlefield-information-vs-instructional-design"
 date: '2015-05-04'
-featured: "../../static/post-images/Instructional-Design-Battlefield.png"
+featured: "../post-images/Instructional-Design-Battlefield.png"
 categories: ["Design"]
 tags: ["information design", "instructional design", "problems"]
 ---

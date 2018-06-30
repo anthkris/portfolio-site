@@ -2,7 +2,7 @@
 title: 'Conversations at the Office: Free vs Paid Support'
 path: "/blog/conversations-at-the-office-free-vs-paid-support"
 date: '2016-07-26'
-featured: "../../static/post-images/Office-Conversations.png"
+featured: "../post-images/Office-Conversations.png"
 categories: ["Design", "What If Ideas"]
 tags: ["curation", "customer facing", "elearning", "free support", "videos"]
 ---

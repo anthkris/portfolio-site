@@ -1,0 +1,2 @@
+webpackJsonp([95087971139439],{1453:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New #DearID: My Experience Creating with the Adapt Learning Framework",path:"/blog/new-dearid-my-experience-creating-with-the-adapt-learning-framework"}}}]}},pathContext:{tag:"framework"}}}});
+//# sourceMappingURL=path---tags-framework-2bef22afcdff6340f6ac.js.map

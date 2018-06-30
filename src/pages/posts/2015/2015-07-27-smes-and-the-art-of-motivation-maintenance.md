@@ -2,7 +2,7 @@
 title: 'SMEs and the Art of Motivation Maintenance: A Cautionary Tale'
 path: "/blog/smes-and-the-art-of-motivation-maintenance"
 date: '2015-07-27'
-featured: "../../static/post-images/logoColor.png"
+featured: "../post-images/logoColor.png"
 categories: ["Design", "Showing my Work"]
 tags: ["editing", "motivation", "SMEs", "writing"]
 ---

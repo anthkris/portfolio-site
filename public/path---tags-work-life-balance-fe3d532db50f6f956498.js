@@ -1,0 +1,2 @@
+webpackJsonp([0xf9abcea8eb2c],{1783:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"New Challenges and Work/Life Balance: Following Through by Making it Smaller",path:"/blog/new-challenges-and-worklife-balance"}}}]}},pathContext:{tag:"work/life balance"}}}});
+//# sourceMappingURL=path---tags-work-life-balance-fe3d532db50f6f956498.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xf1d676570f09],{1420:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Discussion Forums in the Online Space",path:"/blog/discussion-forums-in-the-online-space"}}}]}},pathContext:{tag:"discussion"}}}});
+//# sourceMappingURL=path---tags-discussion-672ff1baedbfb211b844.js.map

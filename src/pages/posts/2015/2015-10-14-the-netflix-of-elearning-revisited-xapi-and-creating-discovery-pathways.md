@@ -2,7 +2,7 @@
 title: 'The Netflix of eLearning Revisited: xAPI and Creating Discovery Pathways'
 path: "/blog/the-netflix-of-elearning-revisited-xapi-and-creating-discovery-pathways"
 date: '2015-10-14'
-featured: "../../static/post-images/The-Netflix-of-elearning-revisited.png"
+featured: "../post-images/The-Netflix-of-elearning-revisited.png"
 categories: ["Design", "elearning"]
 tags: ["elearning", "experience", "learning", "pathways", "xAPI"]
 ---

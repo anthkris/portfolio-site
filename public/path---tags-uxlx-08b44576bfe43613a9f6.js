@@ -1,0 +1,2 @@
+webpackJsonp([0xa49327c4fa42],{1764:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"UXLX: I released an xAPI-enabled app on Android and iOS",path:"/blog/uxlx-i-released-an-xapi-enabled-app-on-android-and-ios"}}}]}},pathContext:{tag:"UXLX"}}}});
+//# sourceMappingURL=path---tags-uxlx-08b44576bfe43613a9f6.js.map

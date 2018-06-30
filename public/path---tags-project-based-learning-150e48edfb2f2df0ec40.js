@@ -1,0 +1,2 @@
+webpackJsonp([0x8c6bb1865707],{1639:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"ID Inspiration: Dash by General Assembly",path:"/blog/id-inspiration-dash-by-general-assembly"}}}]}},pathContext:{tag:"project-based learning"}}}});
+//# sourceMappingURL=path---tags-project-based-learning-150e48edfb2f2df0ec40.js.map

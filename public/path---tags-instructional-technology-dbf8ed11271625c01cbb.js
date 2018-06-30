@@ -1,0 +1,2 @@
+webpackJsonp([19034820755979],{1509:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Apple Watch as a Game Changer? Nah.",path:"/blog/apple-watch-as-a-game-changer"}}}]}},pathContext:{tag:"instructional technology"}}}});
+//# sourceMappingURL=path---tags-instructional-technology-dbf8ed11271625c01cbb.js.map

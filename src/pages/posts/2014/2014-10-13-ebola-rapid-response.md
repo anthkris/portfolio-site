@@ -2,7 +2,7 @@
 title: "Ebola Rapid Response"
 path: "/blog/ebola-rapid-response"
 date: '2014-10-13'
-featured: "../../static/post-images/logoColor.png"
+featured: "../post-images/logoColor.png"
 categories: ["elearning", "Elearning Heroes Challenge", "Weekend Project"]
 tags: ["ebola", "rapid response"]
 ---
@@ -12,5 +12,5 @@ The current Ebola outbreak has seen the spread of a lot of misinformation and wo
 [Check out the demo here](http://knanthony.com/showcase/Ebola/story.html "Ebola Elearning Heroes Challenge").
 
 <figure>
-  <img src="../../static/post-images/EbolaCourseScreenshot.png" alt="Ebola Course Screenshot" />
+  <img src="../post-images/EbolaCourseScreenshot.png" alt="Ebola Course Screenshot" />
 </figure>

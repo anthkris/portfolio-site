@@ -2,7 +2,7 @@
 title: 'Less Talk, More Practice: Instructional Design Communities of Practice'
 path: "/blog/less-talk-more-practice-instructional-design-communities-of-practice"
 date: '2015-02-23'
-featured: "../../static/post-images/LEss-Talk-More-Practice.png"
+featured: "../post-images/LEss-Talk-More-Practice.png"
 categories: ["Design", "elearning"]
 tags: ["communities of practice", "design", "instructional design", "practice"]
 ---
@@ -17,7 +17,7 @@ Creatives aren't people who somehow, magically are amazing at what they do; who 
 
 <figure>
   <a href="http://frodesignco.com/mario-prop/" target="blank">
-    <img src="../../static/post-images/8.jpg" alt="Via FroDesign" />
+    <img src="../post-images/8.jpg" alt="Via FroDesign" />
   </a>
 </figure>
 

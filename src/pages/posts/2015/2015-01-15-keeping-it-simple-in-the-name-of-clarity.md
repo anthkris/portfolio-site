@@ -2,7 +2,7 @@
 title: "Keeping it Simple in the Name of Clarity"
 path: "/blog/keeping-it-simple-in-the-name-of-clarity"
 date: '2015-01-15'
-featured: "../../static/post-images/TOMATO.png"
+featured: "../post-images/TOMATO.png"
 categories: ["Design"]
 tags: ["charts", "data", "data visualization", "graphs", "infographics", "information design"]
 ---

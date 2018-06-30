@@ -2,7 +2,7 @@
 title: "5 Reasons Why Instructional Designers Should Make Stuff"
 path: "/blog/5-reasons-why-instructional-designers-should-make-stuff"
 date: '2015-04-13'
-featured: "../../static/post-images/5-reasons-why.png"
+featured: "../post-images/5-reasons-why.png"
 categories: ["elearning", "Showing my Work", "Tips"]
 tags: ["instructional designer", "makerspace", "making"]
 ---
@@ -24,7 +24,7 @@ I didn't go to school for instructional design but I did go to school for librar
 **4\. Practice = Creativity** For a long time, I was caught up in the myth of inspiration and the idea person. I thought that inspiration was akin to a shooting star: you went a long time without it and you just had to wait for it to show up in order to get anything done. Well, it turns out that was dead wrong. Creativity, inspiration, even innovation is a function of showing up and making things consistently. Look, I know you have lives outside of work, but if being more creative or getting design or development inspiration is your goal, there's no way around the fact that you have to be willing to experiment and make things on a regular basis. And I don't mean just think about things you can do. You have to actually produce an artifact. It's the work that does the trick.
 
 <figure>
-  <img src="../../static/post-images/CreativeProcess.png" alt="Tweet from Mitch Goldstein" />
+  <img src="../post-images/CreativeProcess.png" alt="Tweet from Mitch Goldstein" />
   <figcaption>The Creative Process, via Mitch Goldstein</figcaption>
 </figure>
 

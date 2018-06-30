@@ -2,7 +2,7 @@
 title: 'Trying out Adapt: Open Source Elearning Authoring Framework'
 path: "/blog/trying-out-kineo-adapt-open-source-elearning-authoring-framework"
 date: '2016-08-16'
-featured: "../../static/post-images/Trying-out-Adapt.png"
+featured: "../post-images/Trying-out-Adapt.png"
 categories: ["elearning", "Showing my Work"]
 tags: ["Adapt", "course build", "course design", "open source", "responsive"]
 ---
@@ -29,7 +29,7 @@ Again, Adapt is built more along the lines of a webpage. They explain their fram
 *   Components: Components are the main interactions in Adapt, and present simple ideas. Components can be used in a block full-width, or combined with another component for more variety. To summarise: Pages contain Articles contain Blocks contain Components.
 
 <figure>
-  <img src="../../static/post-images/adapt-a-b-c.jpg" alt="Adapt framework" />
+  <img src="../post-images/adapt-a-b-c.jpg" alt="Adapt framework" />
   <figcaption>The ABCs framework</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ I created an onboarding-inspired, bite-sized course for an imaginary hipster, be
 
 <figure>
   <a href="http://knanthony.com/showcase/candvbikes" target="blank">
-    <img src="../../static/post-images/Screen-Shot-2016-08-08-at-10.21.49-PM.png" alt="screenshot of the course" />
+    <img src="../post-images/Screen-Shot-2016-08-08-at-10.21.49-PM.png" alt="screenshot of the course" />
   </a>
   <figcaption>Check out the course!</figcaption>
 </figure>

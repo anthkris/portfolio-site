@@ -2,7 +2,7 @@
 title: 'Steal this Idea: Create a Visual Language for your Team'
 path: "/blog/steal-this-idea-create-a-visual-language-for-your-team"
 date: '2016-08-02'
-featured: "../../static/post-images/CreateAVisualLanguage.png"
+featured: "../post-images/CreateAVisualLanguage.png"
 categories: ["Showing my Work", "What If Ideas"]
 tags: ["assets", "sharing", "visual language", "visualization"]
 ---
@@ -14,7 +14,7 @@ I just started my new job and it's already time to think about performance goals
 The idea of a shared visual language is the idea of having a system of communication defined by visual elements. For example, if I gave you this image:
 
 <figure>
-  <img src="../../static/post-images/IDCard.png" alt="a drawing of an ID card" />
+  <img src="../post-images/IDCard.png" alt="a drawing of an ID card" />
   <figcaption>An item from my drawing practice Tumblr, Visilang</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ What associations might you have? Perhaps they would include identification, ac
 My first thought was, "wouldn't it be cool if I could build some searchable site of icons that would help you find them using semantic search terms?" Something like The Noun Project but for our team's use? And the answer is, heck yeah that would be cool! But it wasn't really practical. My second thought was to turn to the Noun Project's Lingo, which is meant to be used exactly for the purpose of sharing a visual language across teams. But, [as I've mentioned before](/blog/dont-sit-on-your-darlings/), when in comes to systems of sharing, it's essential that the system is something that people are already using or want to use. Even if you build, or find a system that seems purpose-built for what you're trying to do and folks do buy in, then it's doomed to fail, no matter how cool it is. On my team, the only system of sharing we really use is Box... So, Box it was. But what could I do to try and make searching and finding the right icon as easy as possible? I found my answer in tagging. I spent a day and put all of my images in a series of PowerPoint slides (I'm using PPT for lots of image-related tasks these days, since I don't have access to Adobe Creative Suite, though I'm supplementing with open source tools [Inkscape](https://inkscape.org/en/) and [GIMP](https://www.gimp.org/downloads/)), and used a text element under each icon to list every association I could think of for each icon. Then, I printed out every icon that I currently had and organized them on my desk, moving and arranging, and rearranging the images until I had some broad categories that I thought made sense. From there, I had some folders that could serve as categories, and tags for each individual image. Bada-bing!
 
 <figure>
-  <img src="../../static/post-images/thumb_IMG_1077_1024.jpg" alt="Cutouts of icons arranged on my desk" />
+  <img src="../post-images/thumb_IMG_1077_1024.jpg" alt="Cutouts of icons arranged on my desk" />
   <figcaption>Part of my tagging work</figcaption>
 </figure>
 

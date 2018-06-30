@@ -1,0 +1,2 @@
+webpackJsonp([77866890950224],{1390:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Portfolio Project: Essia Tourism Board",path:"/blog/essia-tourism-board"}}}]}},pathContext:{tag:"course trailer"}}}});
+//# sourceMappingURL=path---tags-course-trailer-bf964ac749715ee08d73.js.map

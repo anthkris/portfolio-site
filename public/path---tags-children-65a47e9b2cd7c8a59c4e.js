@@ -1,0 +1,2 @@
+webpackJsonp([0xbafc1a5d3852],{1365:function(e,n){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"3 Instructional Design Lessons from Awesome Children's Television",path:"/blog/3-instructional-design-lessons-from-awesome-childrens-television"}}}]}},pathContext:{tag:"children"}}}});
+//# sourceMappingURL=path---tags-children-65a47e9b2cd7c8a59c4e.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xdc988a1e23b2],{1531:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"What are the Stress Cases in LX Design?",path:"/blog/what-are-the-stress-cases-in-lx-design"}}}]}},pathContext:{tag:"learner"}}}});
+//# sourceMappingURL=path---tags-learner-88fcd40e0ce1bcd5a579.js.map

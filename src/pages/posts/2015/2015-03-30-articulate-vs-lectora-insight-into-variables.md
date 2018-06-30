@@ -2,7 +2,7 @@
 title: 'Articulate vs. Lectora: Insight into Variables'
 path: "/blog/articulate-vs-lectora-insight-into-variables"
 date: '2015-03-30'
-featured: "../../static/post-images/Articulate-v.-Lectora-Variables.png"
+featured: "../post-images/Articulate-v.-Lectora-Variables.png"
 categories: ["AWSM Prompts", "Coding","Design", "Showing my Work", "Tips"]
 tags: ["coding", "Lectora 12", "Storyline", "variables"]
 ---
@@ -18,14 +18,14 @@ The task I wanted to complete was to track whether several build options had bee
 Being the budding coder that I am (and using Lectora several hours a day) I have to say that Lectora's way of handling variables makes more sense to my brain. In a Lectora title, any variable that you create can become an array, which is a variable that can hold several different values. So, for example, if I create the variable FavoriteColor in Lectora, I can store several different values into it: green, purple, red, indigo, chartreuse. This is pretty powerful stuff. It means that I can be fairly efficient in my coding because I can always search this variable for a particular item in the array to cause a change elsewhere.
 
 <figure>
-  <img src="../../static/post-images/Lectora-Variables.png" alt="Variables in Lectory" />
+  <img src="../post-images/Lectora-Variables.png" alt="Variables in Lectory" />
   <figcaption>Add to variable in Lectora allows for an array</figcaption>
 </figure>
 
 The other thing Lectora allows me to do is to easily create an if/else statement. So I can create a situation where, if FavoriteColor is indigo, then go to page "Indigo." Easy peasy (to me at least).
 
 <figure>
-  <img src="../../static/post-images/Lectora-if-else.png" alt="If/Else statement in Lectory" />
+  <img src="../post-images/Lectora-if-else.png" alt="If/Else statement in Lectory" />
   <figcaption>If/Else statement</figcaption>
 </figure>
 
@@ -34,12 +34,12 @@ The other thing Lectora allows me to do is to easily create an if/else statement
 This was my mode of thinking as I sat down to complete the task on the design page. However, I soon found that my thinking wouldn't fly because Articulate doesn't allow for arrays or if/else (though it allows for if statements, called conditions). Instead, if I wanted to track something like favorite color, I would need to create several different variables: Indigo, Red, Green, Purple and then set them to a value (I used true/false). Then I could check whether this individual value was true or false to cause something else to happen. Not a project killer, of course, but much less efficient than an array and I had to consider the situation for several minutes before hitting on this solution. As a coder, this way of doing things isn't intuitive anymore.
 
 <figure>
-  <img src="../../static/post-images/ArticulateVariables.png" alt="Variables in Articulate" />
+  <img src="../post-images/ArticulateVariables.png" alt="Variables in Articulate" />
   <figcaption>Variables in Articulate: Text</figcaption>
 </figure>
 
 <figure>
-  <img src="../../static/post-images/ArticulateVariables2.png" alt="Variables in Articulate" />
+  <img src="../post-images/ArticulateVariables2.png" alt="Variables in Articulate" />
   <figcaption>Variables in Articulate: True/False</figcaption>
 </figure>
 

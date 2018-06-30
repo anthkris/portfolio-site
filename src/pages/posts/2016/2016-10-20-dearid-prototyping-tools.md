@@ -2,7 +2,7 @@
 title: '#DearID: Prototyping Tools'
 path: "/blog/dearid-prototyping-tools"
 date: '2016-10-20'
-featured: "../../static/post-images/Prototyping-Tools.png"
+featured: "../post-images/Prototyping-Tools.png"
 categories: ["Dear ID Show"]
 tags: ["design", "prototyping", "prototyping tools", "show your work"]
 ---

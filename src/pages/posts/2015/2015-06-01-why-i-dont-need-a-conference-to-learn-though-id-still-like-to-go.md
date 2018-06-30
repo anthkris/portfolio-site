@@ -2,7 +2,7 @@
 title: "Why I don't need a Conference to Learn (Though I'd Still Like to Go)"
 path: "/blog/why-i-dont-need-a-conference-to-learn-though-id-still-like-to-go"
 date: '2015-06-01'
-featured: "../../static/post-images/I-dont-need-a-conference.png"
+featured: "../post-images/I-dont-need-a-conference.png"
 categories: ["Tips"]
 tags: ["conference", "learning", "making", "practice"]
 ---

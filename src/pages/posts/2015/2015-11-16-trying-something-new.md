@@ -2,7 +2,7 @@
 title: "Trying something new"
 path: "/blog/trying-something-new"
 date: '2015-11-16'
-featured: "../../static/post-images/logoColor.png"
+featured: "../post-images/logoColor.png"
 categories: ["Commonplace Book"]
 tags: ["buzzwords", "change", "innovation"]
 ---

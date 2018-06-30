@@ -2,7 +2,7 @@
 title: "LXDesign to Game Design"
 path: "/blog/lxdesign-to-game-design"
 date: '2016-09-27'
-featured: "../../static/post-images//LXDesign-to-Game-Design.png"
+featured: "../post-images//LXDesign-to-Game-Design.png"
 categories: ["Showing my Work"]
 tags: ["game design", "instructional design", "practice"]
 ---

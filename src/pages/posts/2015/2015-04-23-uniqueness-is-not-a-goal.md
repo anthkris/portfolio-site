@@ -2,7 +2,7 @@
 title: "Uniqueness is Not a Goal"
 path: "/blog/uniqueness-is-not-a-goal"
 date: '2015-04-23'
-featured: "../../static/post-images/Uniqueness-is-not-a-goal.png"
+featured: "../post-images/Uniqueness-is-not-a-goal.png"
 categories: ["Design", "Tips"]
 tags: ["design", "original", "originality", "uniqueness"]
 ---
@@ -20,12 +20,12 @@ I was talking with a co-worker a while back and I remember her main concern abou
 We have to get used to it. True innovation doesn't happen very often. And in terms of learning, a lot of the "new" trends are simply us articulating and learning to use many things that folks have known for a while. Gamification and game-based learning are not really new. Branching scenarios are not really new. Asking questions to engage users in their learning? Not really new. Now that's not an accusation because none of that is really a problem. For example, think about the navigation on many of your favorite apps. The icons, the placement, the sum total of the design choices of a well-designed app seem transparent and intuitive. That's completely on purpose. When we design an experience, we rely on the comfort of familiar things to help our users get to want they want quickly and easily. That's great design. Design and even at a higher level, creativity, at its heart, is about solving problems, not about creating something "new." We need to get comfortable with "stealing like artists:" taking designs, stories, and tropes that work and making them our own.
 
 <figure>
-  <img src="../../static/post-images/IMG_0399.jpg" alt="UI of various video players" />
+  <img src="../post-images/IMG_0399.jpg" alt="UI of various video players" />
   <figcaption>Most video players look about the same, yes?</figcaption>
 </figure>
 
 <figure>
-  <img src="../../static/post-images/IMG_0400.png" alt="UI of various writing apps" />
+  <img src="../post-images/IMG_0400.png" alt="UI of various writing apps" />
   <figcaption>The same with many writing apps. Similar interface.</figcaption>
 </figure>
 

@@ -1,0 +1,2 @@
+webpackJsonp([0xe3a7d661de8b],{1623:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"DearID: PowerPoint for Video",path:"/blog/dearid-powerpoint-for-video"}}},{node:{frontmatter:{title:"Engaging Animated Video in PowerPoint",path:"/blog/engaging-animated-video-in-powerpoint"}}},{node:{frontmatter:{title:"Inspiration: MicroLearning Video",path:"/blog/inspiration-microlearning-video"}}}]}},pathContext:{tag:"PowerPoint"}}}});
+//# sourceMappingURL=path---tags-power-point-2222ab4d6e164ac2d0f6.js.map

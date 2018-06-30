@@ -2,7 +2,7 @@
 title: 'GDS Challenge No. 2: Zombie Acme U'
 path: "/blog/gds-challenge-no-2-zombie-acme-u"
 date: '2015-06-22'
-featured: "../../static/post-images/gds-Challenge-No.-2zombie-acme-u.png"
+featured: "../post-images/gds-Challenge-No.-2zombie-acme-u.png"
 categories: ["elearning", "GDS Challenge", "Showing my Work"]
 tags: ["construct 2", "elearning", "game design", "game-based learning", "serious game"]
 ---
@@ -18,7 +18,7 @@ Phew. This was one of the toughest projects I've worked on in a while, mostly du
 I drew major inspiration from the Zombie college course created by the very talented folks at BioNetworks Learning Solutions ([see the GDS Challenge Post](http://godesignsomething.co/gds-challenge-no-2-college-lab-safety/)) and mapped out a really small prototype that would go from Storyline, into the game and back out again.
 
 <figure>
-  <img src="../../static/post-images/IMG_0402.jpg" alt="game prototype" />
+  <img src="../post-images/IMG_0402.jpg" alt="game prototype" />
   <figcaption>My simple prototype</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ That's it for my post-development review. Here's the shipped example, if you wan
 
 <figure>
   <a href="http://www.knanthony.com/showcase/AcmeU/story.html" target="blank">
-    <img src="../../static/post-images/SaveOurSchool.png" alt="game final version" />
+    <img src="../post-images/SaveOurSchool.png" alt="game final version" />
   </a>
   <figcaption>Click the image to play</figcaption>
 </figure>

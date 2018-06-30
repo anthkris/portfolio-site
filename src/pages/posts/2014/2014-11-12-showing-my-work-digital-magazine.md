@@ -2,7 +2,7 @@
 title: 'Showing My Work: Digital Magazine'
 path: "/blog/showing-my-work-digital-magazine"
 date: '2014-11-12'
-featured: "../../static/post-images/logoColor.png"
+featured: "../post-images/logoColor.png"
 categories: ["Design", "Elearning Heroes Challenge", "Showing my Work"]
 tags: ["process", "transparency", "video", "work"]
 ---

@@ -1,0 +1,2 @@
+webpackJsonp([0x72f8b5193061],{1378:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Weeknotes: eLBX My day in Review",path:"/blog/weeknotes-elbx-my-day-in-review"}}},{node:{frontmatter:{title:"Why I don't need a Conference to Learn (Though I'd Still Like to Go)",path:"/blog/why-i-dont-need-a-conference-to-learn-though-id-still-like-to-go"}}}]}},pathContext:{tag:"conference"}}}});
+//# sourceMappingURL=path---tags-conference-ea27dd11df267f07f375.js.map

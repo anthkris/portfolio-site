@@ -1,0 +1,2 @@
+webpackJsonp([30596679795723],{1722:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"A More Nuanced Discussion of Templates",path:"/blog/a-more-nuanced-discussion-of-templates"}}},{node:{frontmatter:{title:"Pushing the Button: Are stock designs and templates killing Instructional Design?",path:"/blog/pushing-the-button"}}}]}},pathContext:{tag:"templates"}}}});
+//# sourceMappingURL=path---tags-templates-985a4b8b4872f72f016c.js.map

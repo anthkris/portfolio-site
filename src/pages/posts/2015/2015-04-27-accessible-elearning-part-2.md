@@ -2,7 +2,7 @@
 title: 'Accessible eLearning: Part 2'
 path: "/blog/accessible-elearning-part-2"
 date: '2015-04-27'
-featured: "../../static/post-images/Accessible-elearning-P2.png"
+featured: "../post-images/Accessible-elearning-P2.png"
 categories: ["Design", "elearning"]
 tags: ["508 compliance", "accessibility", "programs", "resources", "Section 508", "tools"]
 ---
@@ -30,7 +30,7 @@ Before you ever install anything, there are several basic things you can do to t
 **Pro Tip:** Consider creating style guides with fonts, colors, and other stylistic considerations early before diving into development. This will let you check color contrast and legibility before you go too far.
 
 <figure>
-  <img src="../../static/post-images/colorcontrast-checker.png" alt="WebAIM color contrast checker UI" />
+  <img src="../post-images/colorcontrast-checker.png" alt="WebAIM color contrast checker UI" />
 </figure>
 
 ### WebAIM WAVE Toolbar
@@ -42,7 +42,7 @@ Before you ever install anything, there are several basic things you can do to t
 **Note:** With rapid elearning tools, we are, in many ways, bound to the limitations of our tools, so you may not be able to squash every accessibility problem identified with your output. That said, you should still try really hard.
 
 <figure>
-  <img src="../../static/post-images/WAVEToolbar.png" alt="WebAIM WAVE UI" />
+  <img src="../post-images/WAVEToolbar.png" alt="WebAIM WAVE UI" />
 </figure>
 
 ### The Readability Test Tool
@@ -52,7 +52,7 @@ Before you ever install anything, there are several basic things you can do to t
 **About:** One population that isn't always considered are people with cognitive disabilities. Making sure that your content is mentally accessible (understandable) is another important accessibility must that also greatly increases usability for all members of your audience.
 
 <figure>
-  <img src="../../static/post-images/ReadbilityTestTool.png" alt="Readability Test UI" />
+  <img src="../post-images/ReadbilityTestTool.png" alt="Readability Test UI" />
 </figure>
 
 ### FireEyes Firefox extension
@@ -62,7 +62,7 @@ Before you ever install anything, there are several basic things you can do to t
 **About:** The FireEyes extension works with the Firebug developer extension in Firefox (whew! that's a lot of fire!) and is yet another tool you can use to spot accessibility issues and create a report. It's available for free but requires a signup.
 
 <figure>
-  <img src="../../static/post-images/Fireeyes.jpg" alt="Fireeyes UI" />
+  <img src="../post-images/Fireeyes.jpg" alt="Fireeyes UI" />
 </figure>
 
 ### NVDA Screen Reader
@@ -124,7 +124,7 @@ Before you ever install anything, there are several basic things you can do to t
 **About:** Accessibility Wins is a recent find of mine. It's a Tumblr dedicated to cataloging accessible design "in the wild" (implemented in live web pages). Best of all, the curators also provide commentary on the specific accessibility win on the page, what they love and what could be improved. It's a great source of inspiration whenever it seems like designing accessible content might prevent a certain design concept.
 
 <figure>
-  <img src="../../static/post-images/accessibility-wins.png" alt="accessibility wins website" />
+  <img src="../post-images/accessibility-wins.png" alt="accessibility wins website" />
 </figure>
 
 ## I'm No Expert

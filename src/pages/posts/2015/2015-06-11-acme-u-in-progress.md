@@ -2,7 +2,7 @@
 title: "Acme U In Progress"
 path: "/blog/acme-u-in-progress"
 date: '2015-06-11'
-featured: "../../static/post-images/ACME-U-IN-PROGRESS.png"
+featured: "../post-images/ACME-U-IN-PROGRESS.png"
 categories: ["GDS Challenge"]
 tags: ["construct 2", "game design", "game-based learning", "gaming", "Storyline"]
 ---
@@ -14,7 +14,7 @@ Let me begin by saying that, on my honor, I had no intention of including zombie
 My idea is to begin with a game-like/comic-book type aesthetic, giving some context and story. I'd then transition to level one of zombie bashing to get to the college laboratory, starting off strong and getting participants used to the back and forth, before going back into Storyline and introducing the first piece of content on dressing appropriately. June is shaping up to be an incredibly busy month. So I'm scaling back my ambitions for this GDS Challenge a bit, and may have to begin with with, at least, a proof of concept, instead of a fully realized mini-course. Especially since I'll be learning to use the game design program as well, If I can produce this one transition from Storyline to game and back to Storyline, that will be a really good start. The long-game (pun intended) would be to introduce a quiz which would somehow affect points or powerups in the game, so, if I have time, I'd like to demo that, as well.
 
 <figure>
-  <img src="../../static/post-images/IMG_0402.jpg" alt="ACME U Game prototype" />
+  <img src="../post-images/IMG_0402.jpg" alt="ACME U Game prototype" />
   <figcaption>My basic prototype</figcaption>
 </figure>
 

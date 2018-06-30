@@ -1,0 +1,2 @@
+webpackJsonp([94447548197409],{1665:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"All Work and Then Rest",path:"/blog/all-work-and-then-rest"}}}]}},pathContext:{tag:"sabbatical"}}}});
+//# sourceMappingURL=path---tags-sabbatical-df9b25a321e3c4b938cf.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([38911768396865],{1600:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Netflix of eLearning Revisited: xAPI and Creating Discovery Pathways",path:"/blog/the-netflix-of-elearning-revisited-xapi-and-creating-discovery-pathways"}}}]}},pathContext:{tag:"pathways"}}}});
+//# sourceMappingURL=path---tags-pathways-7c07fc42fe7879840c6f.js.map

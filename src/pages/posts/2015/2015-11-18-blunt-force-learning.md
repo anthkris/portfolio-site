@@ -2,7 +2,7 @@
 title: "Blunt Force Learning"
 path: "/blog/blunt-force-learning"
 date: '2015-11-18'
-featured: "../../static/post-images/logoColor.png"
+featured: "../post-images/logoColor.png"
 categories: ["Commonplace Book", "Showing my Work"]
 tags: ["how I learn", "showing my work", "wol"]
 ---

@@ -1,0 +1,2 @@
+webpackJsonp([59207278604851],{1620:function(o,e){o.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Design Decisions on My Free Code Camp Portfolio",path:"/blog/design-decisions-on-my-free-code-camp-portfolio"}}},{node:{frontmatter:{title:'Seriously Though, The Answer is "Make Stuff"',path:"/blog/seriously-though-the-answer-is-make-stuff"}}}]}},pathContext:{tag:"portfolio"}}}});
+//# sourceMappingURL=path---tags-portfolio-16945b6480ab6c8c417b.js.map

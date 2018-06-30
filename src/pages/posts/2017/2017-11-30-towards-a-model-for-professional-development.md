@@ -2,7 +2,7 @@
 title: "Towards a Model for Professional Development"
 path: "/blog/towards-a-model-for-professional-development"
 date: '2017-11-30'
-featured: "../../static/post-images/Towards-a-Model-for-PD.png"
+featured: "../post-images/Towards-a-Model-for-PD.png"
 categories: ["Design", "Good Reads", "Showing my Work", "What If Ideas"]
 tags: ["action mapping", "model", "professional development"]
 ---

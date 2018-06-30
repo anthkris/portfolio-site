@@ -2,7 +2,7 @@
 title: 'New #DearID: My Experience Creating with the Adapt Learning Framework'
 path: "/blog/new-dearid-my-experience-creating-with-the-adapt-learning-framework"
 date: '2016-09-29'
-featured: "../../static/post-images/Creating-with-Adapt.png"
+featured: "../post-images/Creating-with-Adapt.png"
 categories: ["Coding", "Dear ID Show", "elearning", "Showing my Work"]
 tags: ["Adapt", "coding", "elearning", "framework"]
 ---

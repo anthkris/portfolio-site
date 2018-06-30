@@ -1,0 +1,2 @@
+webpackJsonp([0x981c15d0551c],{1391:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Why My Ideas are Not for Everybody",path:"/blog/why-my-ideas-are-not-for-everybody"}}}]}},pathContext:{tag:"craft"}}}});
+//# sourceMappingURL=path---tags-craft-6f67341a41a52eadb2e5.js.map

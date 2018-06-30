@@ -2,7 +2,7 @@
 title: 'Making it Work: A Great Conversation'
 path: "/blog/making-it-work"
 date: '2016-03-29'
-featured: "../../static/post-images/Making-it-Work.png"
+featured: "../post-images/Making-it-Work.png"
 categories: ["Showing my Work", "Tips"]
 tags: ["academia", "adjustment", "new job"]
 ---

@@ -1,0 +1,2 @@
+webpackJsonp([0x7e8269c3b564],{1757:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"What if the First Year of College was more like Job Onboarding?",path:"/blog/what-if-the-first-year-of-college-was-more-like-job-onboarding"}}}]}},pathContext:{tag:"university"}}}});
+//# sourceMappingURL=path---tags-university-3565f67d9fa1a0c6e990.js.map

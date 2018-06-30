@@ -2,7 +2,7 @@
 title: "FCC Tic-Tac-Toe"
 path: "/blog/fcc-tic-tac-toe"
 date: '2016-10-04'
-featured: "../../static/post-images/tic-tac-toe.png"
+featured: "../post-images/tic-tac-toe.png"
 categories: ["Coding", "GameDev"]
 tags: ["game development", "JavaScript", "tic tac toe"]
 ---
@@ -91,7 +91,7 @@ Test out the game and let me know if you find any bugs!
 
 <figure>
   <a href="http://codepen.io/anthkris/details/mAAVjq" target="blank">
-    <img src="../../static/post-images/Screen-Shot-2016-09-27-at-10.43.01-PM.png" alt="game screenshot" />
+    <img src="../post-images/Screen-Shot-2016-09-27-at-10.43.01-PM.png" alt="game screenshot" />
     <figcaption>Play Tic Tac Toe</figcaption>
   </a>
 </figure>

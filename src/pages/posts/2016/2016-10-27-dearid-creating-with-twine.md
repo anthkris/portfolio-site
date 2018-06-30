@@ -2,7 +2,7 @@
 title: '#DearID: Creating with Twine'
 path: "/blog/dearid-creating-with-twine"
 date: '2016-10-27'
-featured: "../../static/post-images/Creating-with-Twine.png"
+featured: "../post-images/Creating-with-Twine.png"
 categories: ["Dear ID Show", "elearning", "GameDev"]
 tags: ["game design", "interactive fiction", "twine", "writing"]
 ---

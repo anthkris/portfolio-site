@@ -2,7 +2,7 @@
 title: '#DearID Episode 46: Simon Date on Open Source'
 path: "/blog/dearid-episode-46-simon-date-on-open-source"
 date: '2017-06-15'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show", "Inspiration", "Tips"]
 tags: ["dear id", "maker challenge", "making", "open source"]
 ---

@@ -2,7 +2,7 @@
 title: "Dear Instructional Designer Podcast"
 path: "/blog/dear-instructional-designer-podcast"
 date: '2016-05-13'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Design", "Inspiration", "Tips"]
 tags: ["instructional design", "podcast"]
 ---

@@ -1,0 +1,2 @@
+webpackJsonp([0x9bdec74c6408],{1640:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"My first Twitter Bot",path:"/blog/my-first-twitter-bot"}}},{node:{frontmatter:{title:"Go Design Something: The Final Incarnation?",path:"/blog/go-design-something-the-final-incarnation"}}}]}},pathContext:{tag:"project ideas"}}}});
+//# sourceMappingURL=path---tags-project-ideas-d7b4188db154817d5dd4.js.map

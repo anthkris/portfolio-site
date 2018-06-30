@@ -1,0 +1,2 @@
+webpackJsonp([54526420915550],{1352:function(t,n){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Trying something new",path:"/blog/trying-something-new"}}}]}},pathContext:{tag:"buzzwords"}}}});
+//# sourceMappingURL=path---tags-buzzwords-5c8bf7d05f769ece20b4.js.map

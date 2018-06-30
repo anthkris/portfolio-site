@@ -1,0 +1,2 @@
+webpackJsonp([68262445049343],{1584:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Netflix of eLearning: WebLRN",path:"/blog/the-netflix-of-elearning-weblrn"}}}]}},pathContext:{tag:"netflix"}}}});
+//# sourceMappingURL=path---tags-netflix-a95c2cd5907fc8a9d63d.js.map

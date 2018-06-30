@@ -2,7 +2,7 @@
 title: 'Weekend Project and ELH Challenge: Parallax Effect and Subtle Motion'
 path: "/blog/weekend-project-and-elh-challenge-parallax-effect-and-subtle-motion"
 date: '2015-03-02'
-featured: "../../static/post-images/Motion-out-of-stillness.png"
+featured: "../post-images/Motion-out-of-stillness.png"
 categories: ["Design", "Elearning Heroes Challenge", "Weekend Project"]
 tags: ["after effects", "animation", "puppet pins", "video"]
 ---
@@ -54,7 +54,7 @@ The first thing that you need to do, is to separate the foreground and backgroun
 **Pro Tip:** If you are setting up a shot for this kind of thing, you should take an image of the background by itself. That would make things much easier. I also imagine that if you are combining a character with a background as we so often do in elearning, this would also be an easier process.
 
 <figure>
-  <img src="../../static/post-images/golferPSD.png" alt="Working in Photoshop" />
+  <img src="../post-images/golferPSD.png" alt="Working in Photoshop" />
   <figcaption>Notice the separate layers in the Photoshop file.</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ I imported my Photoshop file, layers and all, into After Effects as a compositio
 The puppet pins in After Effects allow you to deform parts of an image. I found that this is a bit of a trial-and-error process. You place pins both in the places that you will want to cause the deforming and in the places that you want to stay still. It will take a few tries before you come up with something that looks natural. It's important to make sure that you have a keyframe for each of the pins both at the beginning of the composition and at the point of your movement (for me, I only created simple movements so there were only two keyframes).
 
 <figure>
-  <img src="../../static/post-images/PuppetPininAE1.png" alt="After Effects puppet pins" />
+  <img src="../post-images/PuppetPininAE1.png" alt="After Effects puppet pins" />
 </figure>
 
 Notice the puppet pins in the girl composition.[/image] Once you've made the movements you want with the pins, then create a new comp from your current one so that you can use the camera more easily.
@@ -77,7 +77,7 @@ Notice the puppet pins in the girl composition.[/image] Once you've made the mov
 Once I was happy with the movement, I created a new comp in order to smush everything together. I then added a null object and a camera and with another two keyframes, I created a simple zoom.
 
 <figure>
-  <img src="../../static/post-images/zoominAE.png" alt="After Effects" />
+  <img src="../post-images/zoominAE.png" alt="After Effects" />
   <figcaption>Zooming in After Effects</figcaption>
 </figure>
 

@@ -2,7 +2,7 @@
 title: '#DearID: Interview with Hadiya Nuriddin'
 path: "/blog/dearid-interview-with-hadiya-nuriddin"
 date: '2016-11-17'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["design", "instructional design", "quality assurance", "quality control", "review"]
 ---

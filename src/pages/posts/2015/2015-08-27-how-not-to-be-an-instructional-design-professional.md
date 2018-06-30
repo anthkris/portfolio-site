@@ -2,7 +2,7 @@
 title: "How Not to Be an Instructional Design Professional"
 path: "/blog/how-not-to-be-an-instructional-design-professional"
 date: '2015-08-27'
-featured: "../../static/post-images/How-not-to-be-an-instructional-design-professional.png"
+featured: "../post-images/How-not-to-be-an-instructional-design-professional.png"
 categories: ["Inspiration", "Showing my Work"]
 tags: ["amateur", "professional"]
 ---

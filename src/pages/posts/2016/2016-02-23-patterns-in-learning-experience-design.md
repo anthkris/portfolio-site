@@ -2,7 +2,7 @@
 title: "Patterns in Learning Experience Design"
 path: "/blog/patterns-in-learning-experience-design"
 date: '2016-02-23'
-featured: "../../static/post-images/Instructional-Design-Patterns.png"
+featured: "../post-images/Instructional-Design-Patterns.png"
 categories: ["Commonplace Book", "Design", "Showing my Work", "What If Ideas"]
 tags: ["elearning", "modular design", "online learning", "web design"]
 ---

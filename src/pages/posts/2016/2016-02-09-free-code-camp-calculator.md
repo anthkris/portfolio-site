@@ -2,7 +2,7 @@
 title: "Free Code Camp Calculator"
 path: "/blog/free-code-camp-calculator"
 date: '2016-02-09'
-featured: "../../static/post-images/JS-Calculator.png"
+featured: "../post-images/JS-Calculator.png"
 categories: ["Coding", "Design", "GDS Challenge", "Showing my Work"]
 tags: ["calculator", "free code camp", "JavaScript"]
 ---
@@ -18,7 +18,7 @@ I tried so hard to be conscientious during this process of showing my work, so I
 ### Saving the Total
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2016-02-02-at-4.54.25-PM.png" alt="calculator prototype" />
+  <img src="../post-images/Screen-Shot-2016-02-02-at-4.54.25-PM.png" alt="calculator prototype" />
   <figcaption>A reasonable facsimile of my original prototype. Ugly, huh?</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ This project took shape WAAAAAY more quickly than I thought it would. By the tim
 The basics of the functions worked out, I started to do some styling. I added a history feature so that a user could keep tabs on what operations were happening.
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2016-01-31-at-9.31.28-PM.png" alt="calculator prototype" />
+  <img src="../post-images/Screen-Shot-2016-01-31-at-9.31.28-PM.png" alt="calculator prototype" />
   <figcaption>Second iteration</figcaption>
 </figure>
 
@@ -111,12 +111,12 @@ What's with the BigNumber? Well, as I wrote at the beginning, I implemented the 
 Not an issue exactly, but I found that I HATED the visual design of my second iteration. So I looked through Dribbble and the calculators that had been designed for the 100-day Daily UI Challenge and took my inspiration from this:
 
 <figure>
-  <img src="../../static/post-images/4-daily-ui.png" alt="Original Dribbble Shot" />
+  <img src="../post-images/4-daily-ui.png" alt="Original Dribbble Shot" />
   <figcaption>[Dribbble shot by Shabbir Manpurwala](https://dribbble.com/shots/2496666--4-Daily-UI-Calculator)</figcaption>
 </figure>
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2016-02-02-at-4.41.12-PM.png" alt="My final calculator UI" />
+  <img src="../post-images/Screen-Shot-2016-02-02-at-4.41.12-PM.png" alt="My final calculator UI" />
   <figcaption>My Attempt</figcaption>
 </figure>
 
@@ -130,7 +130,7 @@ With all that out of the way, feel free to give it a test drive and let me know 
 
 <figure>
   <a href="http://codepen.io/anthkris/full/vLdgev/" target="blank">
-    <img src="../../static/post-images/Screen-Shot-2016-02-01-at-7.07.33-PM.png" alt="Try out the calculators" />
+    <img src="../post-images/Screen-Shot-2016-02-01-at-7.07.33-PM.png" alt="Try out the calculators" />
   </a>
   <figcaption>FCC Calculator in CodePen</figcaption>
 </figure>

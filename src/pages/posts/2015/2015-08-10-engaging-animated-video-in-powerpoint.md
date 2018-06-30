@@ -2,7 +2,7 @@
 title: "Engaging Animated Video in PowerPoint"
 path: "/blog/engaging-animated-video-in-powerpoint"
 date: '2015-08-10'
-featured: "../../static/post-images/Fitopoly-Video.png"
+featured: "../post-images/Fitopoly-Video.png"
 categories: ["Design", "elearning", "Inspiration", "Showing my Work"]
 tags: ["animation", "development", "elearning", "microlearning", "PowerPoint", "video"]
 ---

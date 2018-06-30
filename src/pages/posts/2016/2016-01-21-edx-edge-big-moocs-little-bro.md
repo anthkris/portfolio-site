@@ -2,7 +2,7 @@
 title: 'EdX Edge: Big MOOC''s Little Bro'
 path: "/blog/edx-edge-big-moocs-little-bro"
 date: '2016-01-21'
-featured: "../../static/post-images/The-EdX-Edge-Platform.png"
+featured: "../post-images/The-EdX-Edge-Platform.png"
 categories: ["Showing my Work"]
 tags: ["EdX", "Learning Management Systems", "LMS"]
 ---
@@ -20,12 +20,12 @@ The basic structure of EdX is:
 That in an of itself isn't odd, but what is a bit strange is that you can only put in real content at the unit level.
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2016-01-20-at-8.39.06-PM.png" alt="Edge Add a new component" />
+  <img src="../post-images/Screen-Shot-2016-01-20-at-8.39.06-PM.png" alt="Edge Add a new component" />
   <figcaption>Units themselves are also strange in that each unit is made up of one or more components (which can be text, video, iframes, and more).</figcaption>
 </figure>
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2016-01-20-at-8.40.30-PM.png" alt="Edge section menu" />
+  <img src="../post-images/Screen-Shot-2016-01-20-at-8.40.30-PM.png" alt="Edge section menu" />
   <figcaption>You put as many units as you like into a subsection and they are presented as pages horizontally to students.</figcaption>
 </figure>
 
@@ -36,12 +36,12 @@ That takes a little thinking to work out the best way to organize your course co
 EdX isn't super configurable in terms of how it looks (typical of many LMSs, and of MOOCs, in particular) but I have been super impressed by the content options. EdX has an absolute crap ton of awesome question types built in, along with the ability to build your own graded questions using JavaScript and Python.
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2016-01-20-at-8.34.21-PM.png" alt="" />
+  <img src="../post-images/Screen-Shot-2016-01-20-at-8.34.21-PM.png" alt="" />
   <figcaption>EdX Basic Question Types</figcaption>
 </figure>
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2016-01-20-at-8.34.30-PM.png" alt="" />
+  <img src="../post-images/Screen-Shot-2016-01-20-at-8.34.30-PM.png" alt="" />
   <figcaption>EdX Advanced Question Types</figcaption>
 </figure>
 

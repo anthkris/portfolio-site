@@ -1,0 +1,2 @@
+webpackJsonp([99957704066256],{1681:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Interaction Inspiration: Google Doodle for Bartolomeo Cristoforo",path:"/blog/interaction-inspiration-google-doodle-for-bartolomeo-cristoforo"}}}]}},pathContext:{tag:"slider"}}}});
+//# sourceMappingURL=path---tags-slider-f5c246ac83f8474c0a13.js.map

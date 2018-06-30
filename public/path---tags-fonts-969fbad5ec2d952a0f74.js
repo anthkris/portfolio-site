@@ -1,0 +1,2 @@
+webpackJsonp([0x9569b0488838],{1452:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Can't Install Fonts? There's a Fix for that",path:"/blog/cant-install-fonts-theres-a-fix-for-that"}}},{node:{frontmatter:{title:"Embedding Fonts in Lectora",path:"/blog/embedding-fonts-in-lectora"}}}]}},pathContext:{tag:"fonts"}}}});
+//# sourceMappingURL=path---tags-fonts-969fbad5ec2d952a0f74.js.map

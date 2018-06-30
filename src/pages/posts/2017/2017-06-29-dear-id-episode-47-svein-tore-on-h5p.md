@@ -2,7 +2,7 @@
 title: '#Dear ID Episode 47: Svein-Tore on H5P'
 path: "/blog/dear-id-episode-47-svein-tore-on-h5p"
 date: '2017-06-29'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show", "elearning"]
 tags: ["authoring tools", "elearning", "free", "interactive video", "open source"]
 ---

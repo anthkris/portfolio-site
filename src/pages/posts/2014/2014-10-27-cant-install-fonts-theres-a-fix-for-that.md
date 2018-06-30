@@ -2,7 +2,7 @@
 title: "Can't Install Fonts? There's a Fix for that"
 path: "/blog/cant-install-fonts-theres-a-fix-for-that"
 date: '2014-10-27'
-featured: "../../static/post-images/logoColor.png"
+featured: "../post-images/logoColor.png"
 categories: ["Design", "Tips"]
 tags: ["fonts", "portable apps"]
 ---
@@ -12,23 +12,23 @@ I don't always complain. But, when I do, I complain about not being able to inst
 1.  After you install Portable Apps and a couple of programs (it doesn't matter which), open up the folder where you installed it.
 
 <figure>
-  <img src="../../static/post-images/portableapps1.png" alt="Go to folder where you installed portable apps" />
+  <img src="../post-images/portableapps1.png" alt="Go to folder where you installed portable apps" />
 </figure>
 
 2.  Enter the PortableApps.com folder, and then the Data folder
 
 <figure>
-  <img src="../../static/post-images/portableapps2.png" alt="Enter PortableApps.com folder" />
+  <img src="../post-images/portableapps2.png" alt="Enter PortableApps.com folder" />
 </figure>
 
 3.  In the data folder, create a folder called Fonts. Drop all of the fonts you want to use into this folder.
 
 <figure>
-  <img src="../../static/post-images/portableapps3.png" alt="Create the Fonts Folder" />
+  <img src="../post-images/portableapps3.png" alt="Create the Fonts Folder" />
 </figure>
 
 <figure>
-  <img src="../../static/post-images/portableapps4.png" alt="Drop font files into Font folder" />
+  <img src="../post-images/portableapps4.png" alt="Drop font files into Font folder" />
 </figure>
 
 4.  If Portable Apps was running, be sure to shut it down and restart it.

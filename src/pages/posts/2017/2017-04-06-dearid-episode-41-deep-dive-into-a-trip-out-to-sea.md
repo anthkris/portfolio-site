@@ -2,7 +2,7 @@
 title: '#DearID Episode 41: Deep Dive into A Trip Out to Sea'
 path: "/blog/dearid-episode-41-deep-dive-into-a-trip-out-to-sea"
 date: '2017-04-06'
-featured: "../../static/post-images/ID-Teardown-Sortie-en-Mer.png"
+featured: "../post-images/ID-Teardown-Sortie-en-Mer.png"
 categories: ["Dear ID Show", "Inspiration"]
 tags: ["dear id", "game design", "interaction design", "interactive video", "teardown"]
 ---

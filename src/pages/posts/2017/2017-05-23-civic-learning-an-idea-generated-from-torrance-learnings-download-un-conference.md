@@ -2,7 +2,7 @@
 title: "Civic Learning: An Idea Generated from Torrance Learning's Download Un-Conference"
 path: "/blog/civic-learning-an-idea-generated-from-torrance-learnings-download-un-conference"
 date: '2017-05-23'
-featured: "../../static/post-images/Civic-Learning.png"
+featured: "../post-images/Civic-Learning.png"
 categories: ["elearning", "Inspiration", "Showing my Work", "What If Ideas"]
 tags: ["civic learning", "civic tech", "communities of practice", "instructional design", "practice"]
 ---

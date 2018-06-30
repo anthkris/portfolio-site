@@ -2,7 +2,7 @@
 title: 'Inspiration: Extra Credits'
 path: "/blog/inspiration-extra-credits"
 date: '2016-03-01'
-featured: "../../static/post-images/Extra-Credits-Inspiration.png"
+featured: "../post-images/Extra-Credits-Inspiration.png"
 categories: ["elearning", "Inspiration"]
 tags: ["Extra Credits", "game design", "presentation", "presentation design", "video"]
 ---

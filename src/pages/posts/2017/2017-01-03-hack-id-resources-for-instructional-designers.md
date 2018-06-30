@@ -2,7 +2,7 @@
 title: 'Hack ID: Resources for Instructional Designers'
 path: "/blog/hack-id-resources-for-instructional-designers"
 date: '2017-01-03'
-featured: "../../static/post-images/Introducing-Hack-ID.png"
+featured: "../post-images/Introducing-Hack-ID.png"
 categories: ["Coding", "Design", "elearning", "Inspiration", "Showing my Work"]
 tags: ["education", "hack id", "instructional design learning", "open source", "portfolio work", "project"]
 ---
@@ -14,12 +14,12 @@ tags: ["education", "hack id", "instructional design learning", "open source", "
 Overall, I spent probably 4 solid days getting the site to its current state. Before I got started building, I thought long and hard about how the site should be organized. For a while, I was torn between two different ways of viewing. One would let a user come to the site and see every single resource listed. But, of course, this could get overwhelming, so I also wanted to have categories of some kind that could help you filter down to what you wanted to concentrate on. But I also thought that a person might just want to see the categories first and dive in to the resources in each, to get to their desired resource. In the end, I decided to offer both: the default view shows all resources, and a View by Category link in the navigation allows you to switch to the category view.
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2017-01-03-at-10.49.52-AM.png" alt="hack id screenshot" />
+  <img src="../post-images/Screen-Shot-2017-01-03-at-10.49.52-AM.png" alt="hack id screenshot" />
   <figcaption>All resource view</figcaption>
 </figure>
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2017-01-03-at-10.50.05-AM.png" alt="hack id screenshot" />
+  <img src="../post-images/Screen-Shot-2017-01-03-at-10.50.05-AM.png" alt="hack id screenshot" />
   <figcaption>Category view/figcaption>
 </figure>
 

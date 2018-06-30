@@ -2,7 +2,7 @@
 title: 'Go Design Something: The Final Incarnation?'
 path: "/blog/go-design-something-the-final-incarnation"
 date: '2016-12-27'
-featured: "../../static/post-images/Screen-Shot-2016-12-26-at-11.30.09-AM.png"
+featured: "../post-images/Screen-Shot-2016-12-26-at-11.30.09-AM.png"
 categories: ["Coding", "GDS Challenge", "Inspiration"]
 tags: ["coding", "portfolio work", "project ideas"]
 ---
@@ -10,12 +10,12 @@ tags: ["coding", "portfolio work", "project ideas"]
 As readers of this blog may know, my Go Design Something idea has a long and storied history. It began life as [AWSMPrompts](/blog/less-talk-more-practice-instructional-design-communities-of-practice/), way back in February of 2015\. I took some feedback on making the prompts more specific and tried again with Go Design Something.co with much more specific challenges. I tried that from May to December, but I still didn't get much traction. Then, I got super inspired and tried to emulate a great brief site for designers (not IDs) called BriefBox in July of this year. And I got a [cease and desist letter](/blog/go-design-something-challenges/). So... I wasn't sure what to do. Just this month, I finally finished my Free Code Camp Front End certificate (YAY!!!) and I was looking at my Trello boards of project ideas. And it hit me: I could take an old project idea that has just been sitting there, mix it with my abandoned project idea, and create a mini-project. Something much smaller, much less ambitious, but still in the same vein (remember Start small, Start now).
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2016-12-26-at-12.32.26-PM.png" alt="Trello card describing scenario generator" />
+  <img src="../post-images/Screen-Shot-2016-12-26-at-12.32.26-PM.png" alt="Trello card describing scenario generator" />
   <figcaption>I mixed this...</figcaption>
 </figure>
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2016-12-26-at-12.33.19-PM.png" alt="Trello card describing brief site for IDs" />
+  <img src="../post-images/Screen-Shot-2016-12-26-at-12.33.19-PM.png" alt="Trello card describing brief site for IDs" />
   <figcaption>... With this!</figcaption>
 </figure>
 

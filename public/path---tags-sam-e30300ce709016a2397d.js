@@ -1,0 +1,2 @@
+webpackJsonp([0xdbd73fde88b2],{1666:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Showing My Work: A New Kind of Kickoff",path:"/blog/showing-my-work-a-new-kind-of-kickoff"}}}]}},pathContext:{tag:"SAM"}}}});
+//# sourceMappingURL=path---tags-sam-e30300ce709016a2397d.js.map

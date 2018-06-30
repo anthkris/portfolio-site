@@ -2,7 +2,7 @@
 title: "Instructional Designer as Product Designer?"
 path: "/blog/instructional-designer-as-product-designer"
 date: '2015-03-26'
-featured: "../../static/post-images/image.jpg"
+featured: "../post-images/image.jpg"
 categories: ["Design"]
 tags: ["designer roles", "instructional design", "L&amp;D", "learning and development", "product designer"]
 ---

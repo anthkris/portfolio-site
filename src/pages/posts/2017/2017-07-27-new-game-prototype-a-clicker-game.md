@@ -2,7 +2,7 @@
 title: 'New Game Prototype: A Clicker Game'
 path: "/blog/new-game-prototype-a-clicker-game"
 date: '2017-07-27'
-featured: "../../static/post-images/screencapture-preview-c9users-io-anthkris-maker-click-index-html-1501119966861.png"
+featured: "../post-images/screencapture-preview-c9users-io-anthkris-maker-click-index-html-1501119966861.png"
 categories: ["GameDev", "Showing my Work"]
 tags: ["game design", "idle clicker", "PhaserJS"]
 ---
@@ -20,7 +20,7 @@ So, I decided to try my hand at yet another game using PhaserJS. I've been think
 
 <figure>
     <a href="http://www.knanthony.com/showcase/clicker/index.html" target="blank">
-      <img src="../../static/post-images/screencapture-preview-c9users-io-anthkris-maker-click-index-html-1501119966861.png" alt="game screenshot" />
+      <img src="../post-images/screencapture-preview-c9users-io-anthkris-maker-click-index-html-1501119966861.png" alt="game screenshot" />
       <figcaption>Try the Game!</figcaption>
     </a>
 </figure>

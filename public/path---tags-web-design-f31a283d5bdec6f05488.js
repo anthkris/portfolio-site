@@ -1,0 +1,2 @@
+webpackJsonp([0x8007bd5b842f],{1774:function(e,n){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Patterns in Learning Experience Design",path:"/blog/patterns-in-learning-experience-design"}}}]}},pathContext:{tag:"web design"}}}});
+//# sourceMappingURL=path---tags-web-design-f31a283d5bdec6f05488.js.map

@@ -2,7 +2,7 @@
 title: "My first Twitter Bot"
 path: "/blog/my-first-twitter-bot"
 date: '2017-02-14'
-featured: "../../static/post-images/Twitter-Bot-Shipping.png"
+featured: "../post-images/Twitter-Bot-Shipping.png"
 categories: ["Coding", "Design"]
 tags: ["coding", "JavaScript", "node js", "project ideas", "twitter bot"]
 ---
@@ -19,7 +19,7 @@ heroku ps:scale worker=1 web=0
 And then, and this was key, I should change my free dynos to use the Heroku and the Worker dynos. Don't know what I'm talking about? That's okay, neither do I! At this point, I just know it works.
 
 <figure>
-  <img src="../../static/post-images/Screen-Shot-2017-02-08-at-1.41.13-PM.png" alt="Twitter bot screenshot" />
+  <img src="../post-images/Screen-Shot-2017-02-08-at-1.41.13-PM.png" alt="Twitter bot screenshot" />
 </figure>
 
 ## It's a Little Raw

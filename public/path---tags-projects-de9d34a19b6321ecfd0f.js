@@ -1,0 +1,2 @@
+webpackJsonp([5270296332568],{1643:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Weeknotes 10/16",path:"/blog/weeknotes-1016"}}}]}},pathContext:{tag:"projects"}}}});
+//# sourceMappingURL=path---tags-projects-de9d34a19b6321ecfd0f.js.map

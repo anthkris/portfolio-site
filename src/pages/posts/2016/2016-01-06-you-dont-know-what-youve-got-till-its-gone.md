@@ -2,7 +2,7 @@
 title: "You Don't Know What You've Got Till It's Gone"
 path: "/blog/you-dont-know-what-youve-got-till-its-gone"
 date: '2016-01-06'
-featured: "../../static/post-images/You-dont-know-what-youve-got-till-its-gone.png"
+featured: "../post-images/You-dont-know-what-youve-got-till-its-gone.png"
 categories: ["Design", "Showing my Work"]
 tags: ["assumption", "instructional design", "kickoff meetings"]
 ---

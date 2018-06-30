@@ -1,0 +1,2 @@
+webpackJsonp([0xc9911ec3e27],{1476:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Elearning Heroes Challenge: Pictograms",path:"/blog/elh-pictogram"}}}]}},pathContext:{tag:"graphic design"}}}});
+//# sourceMappingURL=path---tags-graphic-design-cf3b236ac30f7136ec1b.js.map

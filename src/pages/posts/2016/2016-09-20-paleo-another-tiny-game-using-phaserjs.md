@@ -2,7 +2,7 @@
 title: 'Paleo: Another Tiny Game using PhaserJS'
 path: "/blog/paleo-another-tiny-game-using-phaserjs"
 date: '2016-09-20'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Design", "GameDev"]
 tags: ["clean eating", "collection", "diet", "game dev", "Paleo", "Phaser"]
 ---
@@ -134,7 +134,7 @@ With all that accomplished and a little polish, I feel good enough about the gam
 
 <figure>
   <a href="https://anthkris.itch.io/paleo" target="blank">
-    <img src="../../static/post-images/Screen-Shot-2016-09-18-at-12.50.54-PM.png" alt="game screenshot" />
+    <img src="../post-images/Screen-Shot-2016-09-18-at-12.50.54-PM.png" alt="game screenshot" />
     <figcaption>Play the Game!</figcaption>
   </a>
 </figure>

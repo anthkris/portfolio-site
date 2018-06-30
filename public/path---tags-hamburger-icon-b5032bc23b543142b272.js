@@ -1,0 +1,2 @@
+webpackJsonp([0xa6b0e12dbb32],{1482:function(o,e){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Design Decisions on My Free Code Camp Portfolio",path:"/blog/design-decisions-on-my-free-code-camp-portfolio"}}}]}},pathContext:{tag:"hamburger icon"}}}});
+//# sourceMappingURL=path---tags-hamburger-icon-b5032bc23b543142b272.js.map

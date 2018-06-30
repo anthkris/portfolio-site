@@ -2,7 +2,7 @@
 title: "Spheres of Influence"
 path: "/blog/spheres-of-influence"
 date: '2015-11-17'
-featured: "../../static/post-images/logoColor.png"
+featured: "../post-images/logoColor.png"
 categories: ["Commonplace Book", "Showing my Work"]
 tags: ["context", "frustration", "influence", "nuance"]
 ---

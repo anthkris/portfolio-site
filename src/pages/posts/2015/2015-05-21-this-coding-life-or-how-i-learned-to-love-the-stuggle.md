@@ -2,7 +2,7 @@
 title: 'This Coding Life: OR How I learned to Love the Stuggle'
 path: "/blog/this-coding-life-or-how-i-learned-to-love-the-stuggle"
 date: '2015-05-21'
-featured: "../../static/post-images/THIS-CODING-LIFE.png"
+featured: "../post-images/THIS-CODING-LIFE.png"
 categories: ["Coding"]
 tags: ["coding", "JavaScript", "learning curve", "struggles"]
 ---

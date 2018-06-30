@@ -2,7 +2,7 @@
 title: 'Copywork: A Forgotten Writing Practice'
 path: "/blog/copywork-a-forgotten-writing-practice"
 date: '2016-10-25'
-featured: "../../static/post-images/Copywork.png"
+featured: "../post-images/Copywork.png"
 categories: ["Commonplace Book", "Showing my Work"]
 tags: ["copywork", "fiction", "game dev", "writing"]
 ---

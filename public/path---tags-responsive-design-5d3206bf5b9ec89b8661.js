@@ -1,0 +1,2 @@
+webpackJsonp([0xdac991e2619e],{1660:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Design Decisions on My Free Code Camp Portfolio",path:"/blog/design-decisions-on-my-free-code-camp-portfolio"}}}]}},pathContext:{tag:"responsive design"}}}});
+//# sourceMappingURL=path---tags-responsive-design-5d3206bf5b9ec89b8661.js.map

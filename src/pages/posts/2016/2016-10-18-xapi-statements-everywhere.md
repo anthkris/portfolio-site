@@ -2,7 +2,7 @@
 title: '#xAPI Statements Everywhere!'
 path: "/blog/xapi-statements-everywhere"
 date: '2016-10-18'
-featured: "../../static/post-images/xapi-statemtnes.png"
+featured: "../post-images/xapi-statemtnes.png"
 categories: ["Coding", "elearning", "Showing my Work"]
 tags: ["iframe", "JavaScript", "Moodle", "Tin Can JS", "xAPI", "YouTube"]
 ---

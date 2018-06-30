@@ -1,0 +1,2 @@
+webpackJsonp([0xec90fa367f63],{1318:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Towards a Model for Professional Development",path:"/blog/towards-a-model-for-professional-development"}}},{node:{frontmatter:{title:"Showing My Work: A New Kind of Kickoff",path:"/blog/showing-my-work-a-new-kind-of-kickoff"}}}]}},pathContext:{tag:"action mapping"}}}});
+//# sourceMappingURL=path---tags-action-mapping-71b37422d5687b86eca4.js.map

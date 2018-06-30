@@ -2,7 +2,7 @@
 title: "Don't Sit on Your Darlings!"
 path: "/blog/dont-sit-on-your-darlings"
 date: '2016-05-24'
-featured: "../../static/post-images/Dont-Sit-on-your-darlings.png"
+featured: "../post-images/Dont-Sit-on-your-darlings.png"
 categories: ["Design", "What If Ideas"]
 tags: ["ideas", "knowledge management", "sharing", "show your work", "work"]
 ---

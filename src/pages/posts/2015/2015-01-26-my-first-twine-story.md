@@ -2,7 +2,7 @@
 title: "My First Twine Story!"
 path: "/blog/my-first-twine-story"
 date: '2015-01-26'
-featured: "../../static/post-images/logoColor.png"
+featured: "../post-images/logoColor.png"
 categories: ["Coding", "Design"]
 tags: ["coding", "css", "game design", "html", "IF", "interactive fiction", "twine", "writing"]
 ---
@@ -22,7 +22,7 @@ I asked myself that again and again as I resisted the urge to quit. It's not tha
 [Without further ado, feel free to explore A Hill and Beans](http://knanthony.com/showcase/LEGume/index.html "A Hill and Beans Twine Game"). I tried to make it work on phones and tablets and it does, mostly, but it's probably best on a desktop. Let me know what you think!!
 
 <figure>
-  <img src="../../static/post-images/HillandBeans.png" alt="Hill and Beans" />
+  <img src="../post-images/HillandBeans.png" alt="Hill and Beans" />
 </figure>
 
 ## Credits

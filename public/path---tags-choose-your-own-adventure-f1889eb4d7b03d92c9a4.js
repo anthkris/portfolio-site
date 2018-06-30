@@ -1,0 +1,2 @@
+webpackJsonp([0xeb179da996b3],{1366:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Stuff I Like: Will You Fit into Deloitte",path:"/blog/stuff-i-like-will-you-fit-into-deloitte"}}}]}},pathContext:{tag:"choose your own adventure"}}}});
+//# sourceMappingURL=path---tags-choose-your-own-adventure-f1889eb4d7b03d92c9a4.js.map

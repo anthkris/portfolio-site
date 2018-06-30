@@ -2,7 +2,7 @@
 title: 'Lessons Learned in Canvas LMS: Part the Second'
 path: "/blog/lessons-learned-in-canvas-lms-part-the-second"
 date: '2015-12-03'
-featured: "../../static/post-images/Lessons-Second.png"
+featured: "../post-images/Lessons-Second.png"
 categories: ["Coding", "Showing my Work"]
 tags: ["canvas", "JavaScript", "LMS"]
 ---
@@ -40,7 +40,7 @@ TL;DR: The way Canvas was inserting my script meant that sometimes the page cons
 I finally knew the why but that didn't bring me any closer to fixing it. But I couldn't let it go. I figured _someone_ else had to be having this problem. So I made one final push and found a thread on the Canvas forum. Wonderful user Kenneth Larsen wrote an amazing script (find it here: [https://community.canvaslms.com/thread/7128](https://community.canvaslms.com/thread/7128)) that checks up to 100 times whether or not the content has loaded, based on the type of page you're on and then runs your script, when it can. This was exactly what I needed (and may be what you need, too so check out the thread). Apologies for the GIF quality, but you get the idea. Everything is running smoothly! I was even able to implement an accordion within an accordion.
 
 <figure>
-  <img src="../../static/post-images/AccordionGIF.gif" alt="Accordion functionality" />
+  <img src="../post-images/AccordionGIF.gif" alt="Accordion functionality" />
 </figure>
 
 ## Next Steps

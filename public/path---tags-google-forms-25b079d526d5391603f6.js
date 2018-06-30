@@ -1,0 +1,2 @@
+webpackJsonp([0xb25f58e4afc1],{1474:function(o,n){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Unconventional Tool: Using Google Forms for Text-Based Branching Scenarios",path:"/blog/unconventional-using-google-forms-for-text-based-branching"}}}]}},pathContext:{tag:"google forms"}}}});
+//# sourceMappingURL=path---tags-google-forms-25b079d526d5391603f6.js.map

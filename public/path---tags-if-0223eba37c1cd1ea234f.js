@@ -1,0 +1,2 @@
+webpackJsonp([23195601381249],{1493:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"My First Twine Story!",path:"/blog/my-first-twine-story"}}}]}},pathContext:{tag:"IF"}}}});
+//# sourceMappingURL=path---tags-if-0223eba37c1cd1ea234f.js.map

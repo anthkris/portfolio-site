@@ -1,0 +1,2 @@
+webpackJsonp([92070811142570],{1656:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Back to the Storyboard: Throwing it All Out",path:"/blog/back-to-the-storyboard-throwing-it-all-out"}}}]}},pathContext:{tag:"redesign"}}}});
+//# sourceMappingURL=path---tags-redesign-a3332f9cc342a8b303ae.js.map

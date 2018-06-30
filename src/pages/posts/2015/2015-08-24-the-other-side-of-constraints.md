@@ -2,7 +2,7 @@
 title: "The Other Side of Constraints"
 path: "/blog/the-other-side-of-constraints"
 date: '2015-08-24'
-featured: "../../static/post-images/The-other-side-of.png"
+featured: "../post-images/The-other-side-of.png"
 categories: ["Tips", "What If Ideas"]
 tags: ["constraints", "excuses", "thinking big"]
 ---

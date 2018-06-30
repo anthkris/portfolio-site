@@ -2,7 +2,7 @@
 title: 'Accessible eLearning: Lessons Learned Part 1'
 path: "/blog/accessible-elearning-lessons-learned-part-1"
 date: '2015-02-12'
-featured: "../../static/post-images/Accessible-elearning-P1.png"
+featured: "../post-images/Accessible-elearning-P1.png"
 categories: ["Design", "elearning", "Tips"]
 tags: ["508 compliance", "accessibility", "disability", "Section 508", "usability"]
 ---

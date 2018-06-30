@@ -2,7 +2,7 @@
 title: "#DearID: What's Next"
 path: "/blog/dearid-whats-next"
 date: '2016-12-15'
-featured: "../../static/post-images/Whats-Next-Future-Projects.png"
+featured: "../post-images/Whats-Next-Future-Projects.png"
 categories: ["Dear ID Show"]
 tags: ["dear id", "future", "practice", "technology"]
 ---

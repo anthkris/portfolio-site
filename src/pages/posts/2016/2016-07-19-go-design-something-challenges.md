@@ -2,7 +2,7 @@
 title: "Go Design Something Challenges"
 path: "/blog/go-design-something-challenges"
 date: '2016-07-19'
-featured: "../../static/post-images/GDS-Challenge-Changes.png"
+featured: "../post-images/GDS-Challenge-Changes.png"
 categories: ["GDS Challenge"]
 tags: ["cease and desist", "challenge", "copyright", "wordpress theming"]
 ---

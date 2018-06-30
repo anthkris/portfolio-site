@@ -1,0 +1,2 @@
+webpackJsonp([0xae2cf469aa54],{1414:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Across the Device Spectrum: Thinking about How Learners use Devices",path:"/blog/across-the-device-spectrum-thinking-about-how-learners-use-devices"}}}]}},pathContext:{tag:"devices"}}}});
+//# sourceMappingURL=path---tags-devices-35339271b691464c639b.js.map

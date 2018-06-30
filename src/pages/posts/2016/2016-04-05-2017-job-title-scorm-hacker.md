@@ -2,7 +2,7 @@
 title: '2017 Job Title: SCORM Hacker'
 path: "/blog/2017-job-title-scorm-hacker"
 date: '2016-04-05'
-featured: "../../static/post-images/2017-Job-Title.png"
+featured: "../post-images/2017-Job-Title.png"
 categories: ["Inspiration", "What If Ideas"]
 tags: ["editing", "future proof", "open source", "tools"]
 ---

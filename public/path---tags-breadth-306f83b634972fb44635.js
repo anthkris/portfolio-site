@@ -1,0 +1,2 @@
+webpackJsonp([37605813424670],{1349:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Useful Atrophy: Breadth vs Depth",path:"/blog/useful-atrophy-breadth-vs-depth"}}}]}},pathContext:{tag:"breadth"}}}});
+//# sourceMappingURL=path---tags-breadth-306f83b634972fb44635.js.map

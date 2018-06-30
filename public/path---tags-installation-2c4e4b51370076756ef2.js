@@ -1,0 +1,2 @@
+webpackJsonp([0xf5fbbf6c324],{1504:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#xAPI Cohort Update",path:"/blog/xapi-cohort-update"}}}]}},pathContext:{tag:"installation"}}}});
+//# sourceMappingURL=path---tags-installation-2c4e4b51370076756ef2.js.map

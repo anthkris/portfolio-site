@@ -1,0 +1,2 @@
+webpackJsonp([0x832254f8b5c7],{1396:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"The Commonplace Book",path:"/blog/the-commonplace-book"}}}]}},pathContext:{tag:"critical thinking"}}}});
+//# sourceMappingURL=path---tags-critical-thinking-246c05b05f77905d97db.js.map

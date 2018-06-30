@@ -1,0 +1,2 @@
+webpackJsonp([28187646782549],{1539:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"5 Things To Know About EdX vs Canvas",path:"/blog/5-things-to-know-about-edx-vs-canvas"}}}]}},pathContext:{tag:"learning management system"}}}});
+//# sourceMappingURL=path---tags-learning-management-system-f2be8d3422045ce6447f.js.map

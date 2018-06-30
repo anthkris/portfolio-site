@@ -2,7 +2,7 @@
 title: "Modularity in Elearning Design"
 path: "/blog/modularity-in-elearning-design"
 date: '2015-01-29'
-featured: "../../static/post-images/Modularity.png"
+featured: "../post-images/Modularity.png"
 categories: ["Design", "elearning"]
 tags: ["design", "Lectora", "modularity", "revision"]
 ---

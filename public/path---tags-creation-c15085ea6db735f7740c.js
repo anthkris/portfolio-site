@@ -1,0 +1,2 @@
+webpackJsonp([0x98c933f1b488],{1392:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Mid-Lab Review: Creating an eBook with the Small Product Lab",path:"/blog/mid-lab-review-creating-an-ebook-with-the-small-product-lab"}}}]}},pathContext:{tag:"creation"}}}});
+//# sourceMappingURL=path---tags-creation-c15085ea6db735f7740c.js.map

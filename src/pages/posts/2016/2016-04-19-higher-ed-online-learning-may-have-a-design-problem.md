@@ -2,7 +2,7 @@
 title: "Higher Ed Online Learning May Have a Design Problem"
 path: "/blog/higher-ed-online-learning-may-have-a-design-problem"
 date: '2016-04-19'
-featured: "../../static/post-images/Higher-ed-online-learning-may-have-a-design-problem.png"
+featured: "../post-images/Higher-ed-online-learning-may-have-a-design-problem.png"
 categories: ["Design"]
 tags: ["learning design", "online courses", "student engagement", "teaching experience"]
 ---

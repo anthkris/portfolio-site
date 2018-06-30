@@ -1,0 +1,2 @@
+webpackJsonp([57378367367885],{1747:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"#DearID: Creating with Twine",path:"/blog/dearid-creating-with-twine"}}},{node:{frontmatter:{title:"My First Twine Story!",path:"/blog/my-first-twine-story"}}}]}},pathContext:{tag:"twine"}}}});
+//# sourceMappingURL=path---tags-twine-2f04e6f46f1905f138cd.js.map

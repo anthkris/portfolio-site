@@ -2,7 +2,7 @@
 title: 'Dear ID Show: Interview with Jane Bozarth'
 path: "/blog/dear-id-show-interview-with-jane-bozarth"
 date: '2016-07-14'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["conferences", "dear id", "presentation", "public speaking"]
 ---

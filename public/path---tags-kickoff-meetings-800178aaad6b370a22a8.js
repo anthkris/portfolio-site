@@ -1,0 +1,2 @@
+webpackJsonp([75167771693907],{1526:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"You Don't Know What You've Got Till It's Gone",path:"/blog/you-dont-know-what-youve-got-till-its-gone"}}},{node:{frontmatter:{title:"Showing My Work: A New Kind of Kickoff",path:"/blog/showing-my-work-a-new-kind-of-kickoff"}}}]}},pathContext:{tag:"kickoff meetings"}}}});
+//# sourceMappingURL=path---tags-kickoff-meetings-800178aaad6b370a22a8.js.map

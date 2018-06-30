@@ -2,7 +2,7 @@
 title: '#DearID Episode 40: Deep Dive into Sponge UK''s PFRA Adapt Course'
 path: "/blog/dearid-episode-40-deep-dive-into-sponge-uks-pfra-adapt-course"
 date: '2017-03-23'
-featured: "../../static/post-images/ID-Teardown-Sponge-UKs-PFRA-Adapt-Course.png"
+featured: "../post-images/ID-Teardown-Sponge-UKs-PFRA-Adapt-Course.png"
 categories: ["Dear ID Show", "Inspiration"]
 tags: ["Adapt", "analysis", "dear id", "deep dive", "game", "phaser JS", "Sponge UK", "teardown"]
 ---

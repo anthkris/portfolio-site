@@ -2,7 +2,7 @@
 title: "Instructional Designers are Solutions Architects"
 path: "/blog/instructional-designers-are-solutions-architects"
 date: '2016-07-05'
-featured: "../../static/post-images/Solution-Architecture.jpg"
+featured: "../post-images/Solution-Architecture.jpg"
 categories: ["Dear ID Show", "Design"]
 tags: ["instructional design", "reflection", "solutions"]
 ---

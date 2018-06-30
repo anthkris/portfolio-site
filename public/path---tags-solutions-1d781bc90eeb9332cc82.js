@@ -1,0 +1,2 @@
+webpackJsonp([0x9373b4271a99],{1687:function(t,o){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Instructional Designers are Solutions Architects",path:"/blog/instructional-designers-are-solutions-architects"}}}]}},pathContext:{tag:"solutions"}}}});
+//# sourceMappingURL=path---tags-solutions-1d781bc90eeb9332cc82.js.map

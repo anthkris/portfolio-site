@@ -2,7 +2,7 @@
 title: "The Dear Instructional Designer Show! Interview with Melissa Milloway"
 path: "/blog/the-dear-instructional-designer-show-interview-with-melissa-milloway"
 date: '2016-06-02'
-featured: "../../static/post-images/twitter.jpg"
+featured: "../post-images/twitter.jpg"
 categories: ["Dear ID Show"]
 tags: ["development", "Mel Milloway", "podcast", "show your work", "Storyline"]
 ---

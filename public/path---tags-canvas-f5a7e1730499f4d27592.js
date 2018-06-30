@@ -1,0 +1,2 @@
+webpackJsonp([42072867915279],{1356:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"5 Things To Know About EdX vs Canvas",path:"/blog/5-things-to-know-about-edx-vs-canvas"}}},{node:{frontmatter:{title:"Lessons Learned in Canvas LMS: Part the Second",path:"/blog/lessons-learned-in-canvas-lms-part-the-second"}}}]}},pathContext:{tag:"canvas"}}}});
+//# sourceMappingURL=path---tags-canvas-f5a7e1730499f4d27592.js.map

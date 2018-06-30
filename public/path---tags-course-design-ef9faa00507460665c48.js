@@ -1,0 +1,2 @@
+webpackJsonp([0xb7fc81e01fa7],{1389:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{frontmatter:{title:"Trying out Adapt: Open Source Elearning Authoring Framework",path:"/blog/trying-out-kineo-adapt-open-source-elearning-authoring-framework"}}},{node:{frontmatter:{title:"Another Look at Atomic Learning Experience Design",path:"/blog/another-look-at-atomic-learning-experience-design"}}}]}},pathContext:{tag:"course design"}}}});
+//# sourceMappingURL=path---tags-course-design-ef9faa00507460665c48.js.map

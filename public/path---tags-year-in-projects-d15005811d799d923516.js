@@ -1,0 +1,2 @@
+webpackJsonp([0x6223c8ce1288],{1787:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"#DearID: Season 2 Wrap Up",path:"/blog/dearid-season-2-wrap-up"}}}]}},pathContext:{tag:"year in projects"}}}});
+//# sourceMappingURL=path---tags-year-in-projects-d15005811d799d923516.js.map

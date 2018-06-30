@@ -2,7 +2,7 @@
 title: "Another Look at Atomic Learning Experience Design"
 path: "/blog/another-look-at-atomic-learning-experience-design"
 date: '2016-04-26'
-featured: "../../static/post-images/Another-look-at-Atomic-LX-Design.png"
+featured: "../post-images/Another-look-at-Atomic-LX-Design.png"
 categories: ["Design", "Showing my Work"]
 tags: ["atomic design", "course build", "course design", "patterns"]
 ---

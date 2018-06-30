@@ -2,7 +2,7 @@
 title: 'Useful Atrophy: Breadth vs Depth'
 path: "/blog/useful-atrophy-breadth-vs-depth"
 date: '2015-09-24'
-featured: "../../static/post-images/A-large-part-of-the-value-of-an-architect.png"
+featured: "../post-images/A-large-part-of-the-value-of-an-architect.png"
 categories: ["Showing my Work"]
 tags: ["breadth", "knowledge", "transition", "work"]
 ---

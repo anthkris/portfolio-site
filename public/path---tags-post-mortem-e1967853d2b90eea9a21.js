@@ -1,0 +1,2 @@
+webpackJsonp([88311473674935],{1621:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{frontmatter:{title:"Espiritus: A Teeny, Tiny Game made using Phaser JS",path:"/blog/espiritus-a-teeny-tiny-game-made-using-phaser-js"}}}]}},pathContext:{tag:"post-mortem"}}}});
+//# sourceMappingURL=path---tags-post-mortem-e1967853d2b90eea9a21.js.map
