@@ -1,14 +1,14 @@
 import React from 'react';
 import WorkTile from './WorkTile';
 import WorkTileOut from './WorkTileOut';
-import CrowdScores from "../images/preview/crowdscores-app.jpg";
-import Suggestv from "../images/preview/suggestv-platfom.jpg";
-import Numilli from "../images/preview/numilli.jpg";
-import YunoJuno from "../images/preview/yunojuno.jpg";
-import NumilliSite from "../images/preview/numilli-site.jpg";
-import QuidCo from "../images/preview/quidco.jpg";
-import Deliverate from "../images/preview/deliverate.svg";
-import WorkingOut from "../images/preview/working-out.svg";
+import CrowdScores from "./images/preview/crowdscores-app.jpg";
+import Suggestv from "./images/preview/suggestv-platfom.jpg";
+import Numilli from "./images/preview/numilli.jpg";
+import YunoJuno from "./images/preview/yunojuno.jpg";
+import NumilliSite from "./images/preview/numilli-site.jpg";
+import QuidCo from "./images/preview/quidco.jpg";
+import Deliverate from "./images/preview/deliverate.svg";
+import WorkingOut from "./images/preview/working-out.svg";
 
 
 class Work extends React.Component {

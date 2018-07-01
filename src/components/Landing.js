@@ -1,7 +1,7 @@
 import React from 'react';
 import Social from './Social';
-import bg from "../images/bg.svg";
-import mockups from "../images/mockups.png";
+import bg from "./images/bg.svg";
+import mockups from "./images/mockups.png";
 
 class Landing extends React.Component {
   render() {

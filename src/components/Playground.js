@@ -1,14 +1,14 @@
 import React from 'react';
 import PlayTile from './PlayTile';
-import websiteTool from "../images/tools/website.svg";
-import documentTool from "../images/tools/document.svg";
-import podcastTool from "../images/tools/podcast.svg";
-import courseTool from "../images/tools/course.svg";
-import hackId from "../images/preview/hackid.png";
-import DearID from "../images/preview/DearIDtwitter.jpg";
-import GDS from "../images/preview/gds-briefs.png";
-import IDQuestions from "../images/preview/ID-questions.svg";
-import GDSCourse from "../images/preview/gds-course.png";
+import websiteTool from "./images/tools/website.svg";
+import documentTool from "./images/tools/document.svg";
+import podcastTool from "./images/tools/podcast.svg";
+import courseTool from "./images/tools/course.svg";
+import hackId from "./images/preview/hackid.png";
+import DearID from "./images/preview/DearIDtwitter.jpg";
+import GDS from "./images/preview/gds-briefs.png";
+import IDQuestions from "./images/preview/ID-questions.svg";
+import GDSCourse from "./images/preview/gds-course.png";
 
 class Playground extends React.Component {
   render() {

@@ -1,12 +1,5 @@
 [
     {
-        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "offline-plugin-app-shell-fallback.json",
-        "path": "/offline-plugin-app-shell-fallback/"
-    },
-    {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -815,13 +808,6 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-weeknotes-1016.json",
-        "path": "/blog/weeknotes-1016"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "blog-a-more-nuanced-discussion-of-templates.json",
         "path": "/blog/a-more-nuanced-discussion-of-templates"
     },
@@ -829,8 +815,8 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-the-netflix-of-elearning-revisited-xapi-and-creating-discovery-pathways.json",
-        "path": "/blog/the-netflix-of-elearning-revisited-xapi-and-creating-discovery-pathways"
+        "jsonName": "blog-weeknotes-1016.json",
+        "path": "/blog/weeknotes-1016"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -838,6 +824,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "blog-daily-ui-day-1.json",
         "path": "/blog/daily-ui-day-1"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "blog-the-netflix-of-elearning-revisited-xapi-and-creating-discovery-pathways.json",
+        "path": "/blog/the-netflix-of-elearning-revisited-xapi-and-creating-discovery-pathways"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -3608,13 +3601,6 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-projects.json",
-        "path": "/tags/projects/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-template.json",
         "path": "/tags/template/"
     },
@@ -3629,22 +3615,8 @@
         "componentChunkName": "component---src-templates-tags-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-experience.json",
-        "path": "/tags/experience/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-learning.json",
-        "path": "/tags/learning/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tags-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tags-pathways.json",
-        "path": "/tags/pathways/"
+        "jsonName": "tags-projects.json",
+        "path": "/tags/projects/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -3673,6 +3645,27 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "tags-user-interface.json",
         "path": "/tags/user-interface/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-experience.json",
+        "path": "/tags/experience/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-learning.json",
+        "path": "/tags/learning/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tags-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tags-pathways.json",
+        "path": "/tags/pathways/"
     },
     {
         "componentChunkName": "component---src-templates-tags-js",
@@ -5073,6 +5066,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "categories-awsm-prompts.json",
         "path": "/categories/awsm-prompts/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",

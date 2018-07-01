@@ -1,10 +1,10 @@
 import React from 'react';
 import Role from './Role';
-import UT from "../images/companies/UTsm.png";
-import LBG from "../images/companies/littlebirdgames.png";
-import Planview from "../images/companies/planview.png";
-import TEEX from "../images/companies/TEEXsm.png";
-import ESC13 from "../images/companies/esc13.png";
+import UT from "./images/companies/UTsm.png";
+import LBG from "./images/companies/littlebirdgames.png";
+import Planview from "./images/companies/planview.png";
+import TEEX from "./images/companies/TEEXsm.png";
+import ESC13 from "./images/companies/esc13.png";
 
 class Experience extends React.Component {
   render() {
