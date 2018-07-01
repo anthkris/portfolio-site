@@ -2,7 +2,7 @@
 title: 'Weeknotes: Learning Dev Camp Day 2 to 3'
 path: "/blog/weeknotes-learning-dev-camp-day-2-to-3"
 date: '2018-06-15'
-featured: "../post-images/Learning-Dev-Camp-Day-2-and-3.png"
+featured: "../featured/Learning-Dev-Camp-Day-2-and-3.png"
 categories: ["Commonplace Book", "Weeknotes"]
 tags: ["conferences", "elearning", "learning dev camp"]
 ---

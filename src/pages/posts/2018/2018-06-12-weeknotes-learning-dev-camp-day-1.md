@@ -2,7 +2,7 @@
 title: 'Weeknotes: Learning Dev Camp Day 1'
 path: "/blog/weeknotes-learning-dev-camp-day-1"
 date: '2018-06-12'
-featured: "../post-images/Copy-of-Learning-Dev-Camp-Day-1.png"
+featured: "../featured/Copy-of-Learning-Dev-Camp-Day-1.png"
 categories: ["Commonplace Book", "Weeknotes"]
 tags: ["augmented reality", "conferences", "learner journeys", "learning dev camp"]
 ---

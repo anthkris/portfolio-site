@@ -29,7 +29,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `featured`,
-        path: `${__dirname}/src/pages/posts/post-images`
+        path: `${__dirname}/src/pages/posts/featured`
       }
     },
     {
@@ -42,15 +42,6 @@ module.exports = {
                 maxWidth: 810,
                 quality: 60,
                 linkImagesToOriginal: false,
-              },
-            },
-            {
-              resolve: `gatsby-remark-responsive-image`,
-              options: {
-                // It's important to specify the maxWidth (in pixels) of
-                // the content container as this plugin uses this as the
-                // base for generating different widths of each image.
-                maxWidth: 810,
               },
             },
             {

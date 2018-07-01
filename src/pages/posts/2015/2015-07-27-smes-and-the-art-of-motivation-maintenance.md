@@ -1,0 +1,30 @@
+---
+title: 'SMEs and the Art of Motivation Maintenance: A Cautionary Tale'
+path: "/blog/smes-and-the-art-of-motivation-maintenance"
+date: '2015-07-27'
+featured: "../featured/logoColor.png"
+categories: ["Design", "Showing my Work"]
+tags: ["editing", "motivation", "SMEs", "writing"]
+---
+
+Imagine this: You're about to walk into a week-long review of a face-to-face course you've been developing. At this point, your content should be solid and you should be feeling great. But you aren't. The course started off fairly strong, but politicking caused a two-week work stoppage while you had to defend the course direction. During that time, SME motivation dropped to 0\. Their writing, which was never stellar, has gotten worse and worse. In spite of prompts, questions, suggestions, and resources, they've lost the story line of the course and everything they've turned in has required massive amounts of revision just to make it readable. You've even resorted to writing sizable bits of content yourself. All this just to make it to the review, where the content is modified, modules are moved around, and while the feedback is good, you notice that your SMEs have mentally checked out and motivation seems to now be in the negative numbers. Quick: What do you do?
+
+When you find out, will you let me know?
+
+That was my week last week. And with the course still under development, that will still be me for the next couple of months. I know that this, too shall pass, but when I'm faced with a full-scale disaster like this one, I can't help but wrack my brain to try and consider what I could do better? How can I fix it? The trouble is, with this situation, I'm not sure I have the answers. Still, by analyzing the situation, maybe I'll come to some.
+
+## Problem One: Content Quantity
+
+So, to begin with, the SMEs seemed really motivated. I did everything I could to give them clear directions. We created objectives, we outlined the content, we debated the flow. Everything seemed good; everyone seemed to be on board with the vision. And they were. The problem was that the writing I was getting was very high-level, very summary. And while that may work for other types of content, this particular course goes through multiple levels of review and the bare bones I got needed much more meat. My response was to go through the content and add a ton (a by that I mean a **ton**) of comments. Can you walk me through x process? What sorts of challenges might a participant face when trying to implement z? Can you define y? Questions, everywhere. I would get back the next iteration and nothing was different. Nothing was better. They wrote in broad stokes and I wanted details. After watching a bit more in last weeks meeting, I heard one of the SMEs ask a few questions about how long the content should be and what type. It seems like, perhaps, I wasn't doing a good job of tailoring my style. It seems like what he needed was specific directions like: write one page of content on x subtopic; then, write half a page on y subtopic. I'm not used to giving instructions in that way. In fact, as an English major, I've never even seen instructions like that. The expectation has always been that you write enough to cover what you need to say. If feedback asked for details, you provided details. That didn't seem to work with these SMEs.
+
+### Takeaways
+
+Perhaps one thing I should have done earlier was take the content that I was given initially and have the project manager look over it. Perhaps that would have prompted a better explanation of expectations from the guy writing their check. The other thing that I might need to start doing is to ask what they need; what type of feedback would help. I'm not 100% sure that it would have helped. They probably would have said that comments would be fine. But maybe by asking I could have opened the space for them to tell me what they needed to know to give me what I needed.
+
+## Problem Two: Content Quality
+
+Like I said, even the beginning content was not strong in the way that it has been in other courses. Don't get me wrong, every course I work on requires some initial revision: reordering paragraphs, working on flow, asking questions. That's a given, but typically, as the iterations continue, revision ceases and editing smaller things, grammar and punctuation, takes its place, until everyone is satisfied. But that never happened in this case. And then, once we had to defend the course outline, they seemed to flip out. They took it very personally that the work we had done had been questioned. I don't; but then again, I'm used to it. Questioning my own work, having my work questioned is a critical part of my design job (not in a micro-managing way, mind you; I consider it part of the design process). After that, motivation plummeted. They still (mostly) kept deadlines, but the work was poorer and poorer. It became even more summary. In some cases, my numerous questions were addressed with a sentence addition or not at all. So in many cases, I've begun writing the content myself. I wouldn't normally consider this a problem because, normally, content I write consists of segues and introductions to enhance overall flow. But in this course, I've had to write about some technical things that I'm not an expert on. Sure, I use the resources I have available, but the whole reason we bring in SMEs in the first place is to get the perspective of and have the benefit of someone with decades of experience. Someone who can get the details right. So, in this instance, it's a problem.
+
+### Takeaways
+
+I had no control over the politics and relationships involved in this course. I had no control over the personalities involved, beyond trying to build consensus (and keep everyone on track) during our face-to-face meetings. It's tough, then to think about how I could have re-motivated the SMEs to give me their best. Maybe this one is beyond me. I don't write this to complain. I really did ask myself, what more can I offer them? What else can I do? You win some and you lose some, I guess. Anyone got any suggestions?

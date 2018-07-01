@@ -2,7 +2,7 @@
 title: "Weeknotes: eLBX My day in Review"
 path: "/blog/weeknotes-elbx-my-day-in-review"
 date: '2018-06-11'
-featured: "../post-images/Learning-Dev-Camp-Day-1.png"
+featured: "../featured/Learning-Dev-Camp-Day-1.png"
 categories: ["Commonplace Book", "Weeknotes"]
 tags: ["augmented reality", "conference", "game-based learning", "virtual reality"]
 ---
