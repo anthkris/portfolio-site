@@ -1,13 +1,15 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import Link from 'gatsby-link'
-import Helmet from 'react-helmet'
-import './index.css'
+import React from 'react';
+import PropTypes from 'prop-types';
+import Link from 'gatsby-link';
+import Helmet from 'react-helmet';
+import './index.css';
+import SkipNav from 'react-skip-nav';
+import "react-skip-nav/lib/style.css";
 
 
 const Header = () =>
 
-   <nav className='mw8 db center' >
+   <nav className='mw8 db center'>
         <div className="dt-l w-100 border-box pa3 pt4 ttu f6">
           <Link className="db dtc-l v-mid link hover-neon tc tl-l mb0-l mb2 " to="/" title="Home">K. Anthony</Link>
           <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
@@ -54,8 +56,12 @@ const TemplateWrapper = ({ children }) =>
         { name: 'twitter:image', content: 'https://jciclitira.com/images/preview.png' },
       ]}
     />
+    <SkipNav
+     id='skip-nav'
+     text='skip to main content'
+     targetDomId='main-content'/>
     <Header />
-    <div className='center mw8 db ph3'>
+    <div id="main-content" className='center mw8 db ph3'>
       {children()}
     </div>
   </div>
