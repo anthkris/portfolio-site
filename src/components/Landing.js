@@ -2,6 +2,7 @@ import React from 'react';
 import Social from './Social';
 import bg from "./images/bg.svg";
 import mockups from "./images/mockups.png";
+import Link from 'gatsby-link';
 import '../styles/landing.scss';
 
 class Landing extends React.Component {
@@ -13,6 +14,7 @@ class Landing extends React.Component {
           <div className='w-50-ns w-100 dib mt4 v-top'>
             <h1 style={{letterSpacing:'-0.85px'}} className='f-subheadline-l mt5-ns'>Learning Experience Designer</h1>
             <h2 className='mt4 fw1 font-1 pr5-ns pr0 about-me' style={{lineHeight: '1.8' }}>Hi I'm Kristin, a Learning Experience Designer. I help create meaningful, memorable, and motivational learning experiences with a focus on sustainable, accessible, user-centered design.</h2>
+            <Link to='/HowIWork' title='How I Work'>How I can help your business</Link>
             <Social/>
           </div>
           <div className='dib-ns dn w-50 mt5'><img className=' mt4' alt='course and app mockups' src={mockups} /></div>
