@@ -1,30 +1,31 @@
 import React from 'react';
 import WorkTile from './WorkTile';
 import WorkTileOut from './WorkTileOut';
-import CrowdScores from "./images/preview/crowdscores-app.jpg";
-import Suggestv from "./images/preview/suggestv-platfom.jpg";
-import Numilli from "./images/preview/numilli.jpg";
-import YunoJuno from "./images/preview/yunojuno.jpg";
-import NumilliSite from "./images/preview/numilli-site.jpg";
-import QuidCo from "./images/preview/quidco.jpg";
-import Deliverate from "./images/preview/deliverate.svg";
-import WorkingOut from "./images/preview/working-out.svg";
+import FIVS123 from "./images/preview/FIVS123.png";
+import DeathInv from "./images/preview/deathInvestigation.png";
+import FOCS from "./images/preview/FOCS.png";
+import UTakeItPhoto from "./images/preview/UTakeItMobile.png";
+import UXLX from "./images/preview/UXLX.png";
+import CVAdapt from "./images/preview/CVBikes.png";
+import Fitopoly from "./images/preview/Fitopoly.png";
+import GameDev from "./images/preview/GameDev.png";
 
 
 class Work extends React.Component {
   render() {
     return (
-    <section>
+    <section className="center mw8 db ph3">
         <h1 className='fw3 f2 mb4'>Recent Works</h1>
-        <WorkTile title='CrowdScores' info='Mobile application' summary='CrowdScores brings you the fastest live scores. It is a social network which allows fans to share in-match events and opinion. Running on both iOS and Android.' img={CrowdScores} link='/CrowdScores'/>
-        <WorkTile title='Suggestv' info='Web application' summary='Suggestv is the inventor of semantic video distribution. Suggestv brings together content sellers and publishes creating a marketplace for online video.' img={Suggestv} link='Suggestv'/>
-        <WorkTile title='Numilli' info='Mobile application' summary='Bitcoin safe and easy. Numilli makes it easy to securely buy and sell bitcoin currency, on the go using a mobile application and ATMs.' img={Numilli} link='Numilli'/>
-        <WorkTile title='YunoJuno' info='Web application' summary='YunoJuno connects the best freelancers with great companies. Employers work directly with freelancers with YunoJuno managing contact and payment.' img={YunoJuno} link='YunoJuno'/>
-        <WorkTileOut title='Numilli' info='Progressive Web App' summary='Web app showing the bitcoin ATM locations - under development' img={NumilliSite} link='https://numilli.surge.sh/'/>
-        <WorkTile title='QuidCo' info='Mobile application' summary='Quidco is the number one cashback service. Partnering with retailers to help consumers earn cashback every year.' img={QuidCo} link='Quidco'/>
-        <h1 className='fw3'>Personal projects</h1>
-        <WorkTileOut title='Deliverate.co.uk' info='Web application' summary='Front-end for a Delivery rating web app showing the top-rated takeaways in your local area.' img={Deliverate} link='http://deliverate.co.uk/'/>
-        <WorkTileOut title='Working-out.design' info='Content management system' summary='Collection of the best free co-working spots in London. Why not submit a location?' img={WorkingOut} link='https://working-out.design/'/>
+        <WorkTile title='UTakeIT' info='Web Application' summary='UTakeIt is a platform built from the ground up for the University of Texas STEM Center to market and sell their professional development offerings.' img={UTakeItPhoto} link='/utakeit'/>
+        <WorkTile title='Foundations of Computer Science' info='MOOC' summary='Foundations of Computer Science is MOOC to help Texas Educators become certified to teach computer science.' img={FOCS} link='/FOCS'/>
+        <WorkTile title='FIVS123' info='eLearning Course' summary='FIVS123 Introduction to Forensics is a synchronous online course in development for Texas A&M University students by TEEX.' img={FIVS123} link='/FIVS123'/>
+        <WorkTile title='Death Investigation' info='eLearning Course' summary='Death Investigation Online was a course converted from one of the popular face-to-face courses into an asychronous online course using Moodle and Lectora Inspire.' img={DeathInv} link='/DeathInvestigation'/>
+
+        <h1 className='fw3'>Personal Projects</h1>
+        <WorkTile title='UXLX' info='Mobile Application' summary='A card-based, xAPI enabled microlearning app to give bite-sized lessons on using UX in LX Design.' img={UXLX} link='/UXLX'/>
+        <WorkTile title='Column and Veil Bikes' info='eLearning Course' summary='A responsive, one-page course and game build using the free and open source Adapt framework.' img={CVAdapt} link='/CVBikes'/>
+        <WorkTile title='Fitopoly' info='Learning Game' summary='A learning game that puts users in the role of a product designer that needs to create a wearable to fit the needs of their target consumer: office workers looking to move more and get fit.' img={Fitopoly} link='/Fitopoly'/>
+        <WorkTile title='Game Development' info='General Game Development' summary='A growing repository of games developed with game-specific toolsets.' img={GameDev} link='/GameDev'/>
     </section>
     )
   }

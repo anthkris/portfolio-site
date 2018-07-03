@@ -102,7 +102,7 @@ textarea {
 
 
 .secondary-text {
-  color: rgba(0, 0, 0, .60)
+  color: rgba(0, 0, 0, 1)
 }
 
 .hint-text {
@@ -112,7 +112,7 @@ textarea {
 .hoverable {
   transition: top .2s, box-shadow .1s;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .12);
-  border-radius: 4px
+  border-radius: 4px;
 }
 
 .hoverable:hover {
@@ -122,69 +122,69 @@ textarea {
 }
 
 .bg-accent {
-  background-color: #EC407A
+  background-color: #EC407A;
 }
 
 
 .bg {
-  background-color: #F9F8FD
+  background-color: #F9F8FD;
 }
 
 .bg-sky {
-  background-color: #508AF8
+  background-color: #508AF8;
 }
 
 .tile .download {
-  display: none
+  display: none;
 }
 
 .tile:hover .download {
-  display: inline
+  display: inline;
 }
 
 canvas,
 progress {
-  display: inline-block
+  display: inline-block;
 }
 
 .w-48 {
-  width: 48%
+  width: 48%;
 }
 
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
   -webkit-animation-fill-mode: both;
-  animation-fill-mode: both
+  animation-fill-mode: both;
 }
 
 .fadeIn {
   -webkit-animation-name: fadeIn;
-  animation-name: fadeIn
+  animation-name: fadeIn;
 }
 
 @keyframes fadeInDown {
   from {
     opacity: 0;
     -webkit-transform: translate3d(0, -100%, 0);
-    transform: translate3d(0, -100%, 0)
+    transform: translate3d(0, -100%, 0);
   }
   to {
     opacity: 1;
     -webkit-transform: none;
-    transform: none
+    transform: none;
   }
 }
 
 @media screen and (min-width:680px) {
   .f-large {
-    font-size: 3rem
+    font-size: 3rem;
   }
 }
 
 @media only screen and (min-device-width:320px) and (max-device-width:680px) {
   .f-large {
-    font-size: 2rem
+    font-size: 2rem;
   }
 }
 
@@ -193,7 +193,7 @@ progress {
   background: -moz-linear-gradient(-45deg, #fdb441 0, #ff6e00 100%);
   background: -webkit-linear-gradient(-45deg, #fdb441 0, #ff6e00 100%);
   background: linear-gradient(135deg, #fdb441 0, #ff6e00 100%);
-  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#fdb441', endColorstr='#ff6e00', GradientType=1)
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#fdb441', endColorstr='#ff6e00', GradientType=1);
 }
 
 .blue {
@@ -201,7 +201,7 @@ progress {
   background: -moz-linear-gradient(-45deg, #0072a2 0, #002e7b 100%);
   background: -webkit-linear-gradient(-45deg, #0072a2 0, #002e7b 100%);
   background: linear-gradient(135deg, #0072a2 0, #002e7b 100%);
-  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#0072a2', endColorstr='#002e7b', GradientType=1)
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#0072a2', endColorstr='#002e7b', GradientType=1);
 }
 
 .Phlox {
@@ -209,7 +209,7 @@ progress {
   background: -moz-linear-gradient(-45deg, #fdb441 0, #f0c 16%, #7db9e8 98%);
   background: -webkit-linear-gradient(-45deg, #fdb441 0, #f0c 16%, #7db9e8 98%);
   background: linear-gradient(135deg, #fdb441 0, #f0c 16%, #7db9e8 98%);
-  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#fdb441', endColorstr='#7db9e8', GradientType=1)
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#fdb441', endColorstr='#7db9e8', GradientType=1);
 }
 
 .Crimson {
@@ -217,7 +217,7 @@ progress {
   background: -moz-linear-gradient(-45deg, #ff1744 0, #faa 100%);
   background: -webkit-linear-gradient(-45deg, #ff1744 0, #faa 100%);
   background: linear-gradient(135deg, #ff1744 0, #faa 100%);
-  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#ff1744', endColorstr='#ffaaaa', GradientType=1)
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#ff1744', endColorstr='#ffaaaa', GradientType=1);
 }
 
 .Ruby {
@@ -333,7 +333,7 @@ main,
 menu,
 nav,
 section {
-  display: block
+  display: block;
 }
 
 h1 {
@@ -343,7 +343,7 @@ h1 {
 
 hr {
   box-sizing: content-box;
-  height: 0
+  height: 0;
 }
 
 code,
@@ -368,7 +368,7 @@ a:hover {
 abbr[title] {
   border-bottom: none;
   text-decoration: underline;
-  text-decoration: underline dotted
+  text-decoration: underline dotted;
 }
 
 b,

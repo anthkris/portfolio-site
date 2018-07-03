@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 
 class Footer extends React.Component {
@@ -13,4 +13,4 @@ class Footer extends React.Component {
     )
   }
 }
-export default Footer
+export default Footer;

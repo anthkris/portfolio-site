@@ -5,8 +5,6 @@ import Img from 'gatsby-image';
 import kebabCase from "lodash/kebabCase";
 import { DiscussionEmbed } from "disqus-react";
 import "katex/dist/katex.min.css";
-import "prismjs/themes/prism-tomorrow.css";
-import Prism from 'prismjs';
 
 import '../styles/blog-post.scss';
 
@@ -67,13 +65,6 @@ export const pageQuery = graphql`
         title
         tags
         categories
-        featured {
-          childImageSharp{
-            sizes(maxWidth: 810) {
-                ...GatsbyImageSharpSizes
-            }
-          }
-        }
       }
     }
   }

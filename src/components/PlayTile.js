@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-
+import '../styles/landing.scss';
 
 class PlayTile extends React.Component {
   render() {
@@ -10,7 +10,7 @@ class PlayTile extends React.Component {
           <div className='center tile'>
             <div className='w-100 pt3 pb2'>
               <img alt='Design-tool' className='h1' src={this.props.type}/>
-              <h4 className='ma0 secondary-text pl3 dib'>{this.props.title}</h4>
+              <h2 className='ma0 secondary-text pl3 dib'>{this.props.title}</h2>
             </div>
             <div className='pv2 dib relative'>
               <img className='hoverable' src={this.props.img} alt='Open-source-design'/>

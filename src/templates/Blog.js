@@ -57,7 +57,7 @@ export default function Blog({ data, pathContext }) {
   }
 
   return (
-    <div className="blog-posts">
+    <div className="blog-posts center mw8 db ph3">
       <h1>The Latest</h1>
       {posts.map(({ node }) => (
         <Link key={node.id} to={node.frontmatter.path}>
@@ -89,7 +89,7 @@ export const pageQuery = graphql`
             path
             featured {
               childImageSharp {
-                sizes(maxWidth: 500, maxHeight: 285, quality: 90, traceSVG: { color: "#ea3257" }, cropFocus: CENTER) {
+                sizes(maxWidth: 500, maxHeight: 285, quality: 70, traceSVG: { color: "#ea3257" }, cropFocus: CENTER) {
                   ...GatsbyImageSharpSizes_tracedSVG
                 }
               }

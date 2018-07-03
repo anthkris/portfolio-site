@@ -10,7 +10,7 @@ class WorkTile extends React.Component {
  <img className='hoverable br4'src={this.props.img} alt='UX/UI'/>
  </Link>
     <div className='pv2'>
-      <h3 className='mt3 mb0'>{this.props.title}</h3>
+      <h2 className='mt3 mb0'>{this.props.title}</h2>
       <p className='dib f7 secondary-text'>{this.props.info}</p>
       <p style={{lineHeight: '24px'}} className='secondary-text pb3 mt2 fw4 f6'>{this.props.summary}</p>
 
@@ -28,4 +28,3 @@ WorkTile.propTypes = {
   img: PropTypes.string.isRequired,
 };
 export default WorkTile
-
