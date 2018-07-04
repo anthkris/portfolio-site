@@ -4,7 +4,7 @@ class Contact extends React.Component {
   render() {
 
     return (
-      <section className='center mt6 bg-transparent' id='form'>
+      <section className='center bg-transparent' id='form'>
         <h2 className='fw3 mb5 pt5'>Get in touch</h2>
         <form name="contact" method="post" action="/thanks/" data-netlify="true" data-netlify-honeypot="bot-field">
           <input type="hidden" name="form-name" value="contact" />
