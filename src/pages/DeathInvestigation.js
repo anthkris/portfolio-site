@@ -19,13 +19,13 @@ const DeathInvestigation = () =>
           <div className='w-100 w-50-ns fl'>
           <img
             className='mt3'
-            src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/DeathInvestigation/module_title.min.webp"
+            src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/DeathInvestigation/module_title.min.webp"
             alt="Death Investigation Module Title Page" />
           </div>
           <div className='w-100 w-50-ns fr'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/DeathInvestigation/blood_test.min.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/DeathInvestigation/blood_test.min.webp"
               alt="Blood Test simulation" />
           </div>
         </section>
@@ -38,13 +38,13 @@ const DeathInvestigation = () =>
           <div className='w-100 w-50-ns fl'>
           <img
             className='mt3 mb3'
-            src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/DeathInvestigation/field_notesslider.webp"
+            src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/DeathInvestigation/field_notesslider.webp"
             alt="Field notes collected over the course of the case" />
           </div>
           <div className='w-100 w-50-ns fr'>
             <img
               className='mt3 mb3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/DeathInvestigation/evidence_contaminationslider.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/DeathInvestigation/evidence_contaminationslider.webp"
               alt="Realistic feedback offering consequences" />
           </div>
         </section>

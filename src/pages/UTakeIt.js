@@ -21,13 +21,13 @@ const UTakeIt = () =>
           <div className='w-20-l w-40-ns w-100 img-center fr'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItPhonePricingSm.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItPhonePricingSm.webp"
               alt="Pricing cards" />
           </div>
           <div className='w-40-l w-60-ns w-100 img-center fr'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItTabletCurricula.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItTabletCurricula.webp"
               alt="Curricula page" />
           </div>
         </section>
@@ -41,24 +41,24 @@ const UTakeIt = () =>
           <div className='w-20-l w-40-ns w-100 img-center fl'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItPhoneCourseSearchsm.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItPhoneCourseSearchsm.webp"
               alt="Showing number of items on display that updates" />
           </div>
           <div className='w-40-l w-60-ns w-100 fl'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItTabletEvents.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItTabletEvents.webp"
               alt="Easy to use filtering on mobile" />
           </div>
         </section>
         <section className='mt5 dib'>
           <img
             className='mt3'
-            src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItProductFilter.webp"
+            src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItProductFilter.webp"
             alt="Product page with filter" />
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItHomePage.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItHomePage.webp"
               alt="UTakeIt Home Page" />
         </section>
       </div>

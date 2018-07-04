@@ -25,7 +25,7 @@ const GameDev = () =>
           <div className='w-100'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/GameDev/GameDevItch.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/GameDev/GameDevItch.webp"
               alt="Games on Itch.io page" />
           </div>
         </section>

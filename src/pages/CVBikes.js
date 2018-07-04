@@ -27,19 +27,19 @@ const CVBikes = () =>
             <div className='w-100 w-33-ns fl'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVAccordion.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVAccordion.webp"
               alt="Content Accordion with check marks" />
             </div>
             <div className='w-100 w-33-ns fl'>
               <img
                 className='mt3'
-                src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVImageSlider.webp"
+                src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVImageSlider.webp"
                 alt="Content image slider" />
             </div>
             <div className='w-100 w-33-ns fl'>
               <img
                 className='mt3'
-                src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVImageClick.webp"
+                src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVImageClick.webp"
                 alt="Content image reveal interaction" />
             </div>
           </div>
@@ -53,7 +53,7 @@ const CVBikes = () =>
           <div className='w-100'>
             <img
               className='mt3 mb3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVGame.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVGame.webp"
               alt="Bike game" />
           </div>
         </section>
