@@ -25,13 +25,13 @@ const UXLX = () =>
           <div className='w-20-l w-40-ns w-100 img-center fr'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UXLX/UXLXPhoneVideo.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UXLX/UXLXPhoneVideo"
               alt="UX video card in a lesson" />
           </div>
           <div className='w-40-l w-60-ns w-100 fr'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UXLX/UXLXTabletLessonStart.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UXLX/UXLXTabletLessonStart"
               alt="Lesson start card" />
           </div>
         </section>
@@ -44,13 +44,13 @@ const UXLX = () =>
           <div className='w-20-l w-60-ns w-100 img-center fl'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UXLX/UXLXPhoneQuestion.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UXLX/UXLXPhoneQuestion"
               alt="Card reflection question" />
           </div>
           <div className='w-40-l w-40-ns w-100 fl'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UXLX/UXLXTabletVideo.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UXLX/UXLXTabletVideo"
               alt="UX video" />
           </div>
           <div className='w-100 img-center'>

@@ -1,0 +1,2 @@
+# Redirect with a 301
+/showcase/*        http://showcase.knanthony.com/:splat              301
