@@ -13,6 +13,7 @@ const Fitopoly = () =>
     clients='Learning Experience Designer and Developer'
     tool='Articulate Storyline 2'
     time='About 25 hours'
+    projectLink='http://knanthony.com/showcase/Fitopoly/story.html'
     job='LX Design, eLearning Development, Graphic Design, Animated Video, Conceptualising Ideas and Prototyping'
     />
       <div className='ph3 center mw8'>

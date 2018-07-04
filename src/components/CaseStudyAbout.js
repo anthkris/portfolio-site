@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
+import '../styles/case-study.scss';
 
 class CaseStudyAbout extends React.Component {
   render() {

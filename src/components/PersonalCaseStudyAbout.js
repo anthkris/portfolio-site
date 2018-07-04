@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
+import '../styles/case-study.scss';
 
 class PersonalCaseStudyAbout extends React.Component {
   render() {
@@ -16,6 +17,7 @@ class PersonalCaseStudyAbout extends React.Component {
               <p className='dib fw3 pr5-ns ma0'>{this.props.tool}</p>
               <h3 className='fw3 '>Time in Development</h3>
               <p className='dib fw3 pr5-ns ma0'>{this.props.time}</p>
+              <a className='case-study-button' href={this.props.projectLink} target="_blank">View the Project</a>
             </div>
             <div className='w-50-ns w-100 dib'>
               <h2 className='fw5'>Roles</h2>
@@ -37,6 +39,6 @@ PersonalCaseStudyAbout.propTypes = {
   job: PropTypes.string.isRequired,
   tool: PropTypes.string.isRequired,
   time: PropTypes.string.isRequired,
-
+  projectLink: PropTypes.string
 };
 export default PersonalCaseStudyAbout;

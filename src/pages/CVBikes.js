@@ -13,6 +13,7 @@ const CVBikes = () =>
     clients='Learning Experience Designer and Developer'
     tool='Adapt Framework and Phaser JS'
     time='About 2 weeks'
+    projectLink='http://knanthony.com/showcase/candvbikes/#/id/co-05'
     job='LX Design, eLearning Development, Graphic Design, Coding, Game Development, Conceptualising Ideas and Prototyping'
     />
       <div className='ph3 center mw8'>

@@ -10,6 +10,7 @@ const GameDev = () =>
     clients='Game Developer'
     tool='PhaserJS or Construct'
     time='Varies'
+    projectLink='https://anthkris.itch.io/'
     job='Game Development, Conceptualising Ideas and Prototyping'
     />
       <div className='ph3 center mw8'>
