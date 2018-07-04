@@ -1,11 +1,5 @@
 import React from "react";
 import CaseStudyAbout from '../components/CaseStudyAbout.js';
-import PhoneSearch from "../components/images/UTakeIt/UTakeItPhoneCourseSearchsm.png";
-import PhonePricing from "../components/images/UTakeIt/UTakeItPhonePricingSm.png";
-import TabletCurricula from "../components/images/UTakeIt/UTakeItTabletCurricula.png";
-import TabletEvents from "../components/images/UTakeIt/UTakeItTabletEvents.png";
-import ProductFilter from "../components/images/UTakeIt/UTakeItProductFilter.png";
-import HomePage from "../components/images/UTakeIt/UTakeItHomePage.png";
 import '../styles/case-study.scss';
 
 const UTakeIt = () =>
@@ -24,11 +18,17 @@ const UTakeIt = () =>
             <p className='fw3 mt4'>The University of Texas STEM Center sought to diversify their income streams early in 2017 by creating a series of professional development courses for educators. Along with this, they also wanted a purpose-built web application to help them market and sell these learning experiences. From the very beginning of the project, I have worked with the team as the front-end developer and web designer. </p>
             <p className='fw3 mt4'>As the project has matured, I have worked to institute best practices and consistent coding practices for the front-end across team members and to document the front-end.</p>
           </div>
-          <div className='w-20-l w-40-ns w-100 fr'>
-            <img className='mt3' src={PhonePricing} alt='Pricing cards'/>
+          <div className='w-20-l w-40-ns w-100 img-center fr'>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItPhonePricingSm.webp"
+              alt="Pricing cards" />
           </div>
           <div className='w-40-l w-60-ns w-100 img-center fr'>
-            <img className='mt3' src={TabletCurricula} alt='Curricula page'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItTabletCurricula.webp"
+              alt="Curricula page" />
           </div>
         </section>
         <section className='mt4 dib' id='ux-design'>
@@ -39,16 +39,28 @@ const UTakeIt = () =>
             <p className='fw3 mt4'>I also brought considerable accessibility experience to the project, having been the accessibility team lead on the large open source project, Oppia. I began by performing a site-wide accessibility audit and identifying and documenting best practices to ensure the site was as accessible as possible.</p>
           </div>
           <div className='w-20-l w-40-ns w-100 img-center fl'>
-            <img className='mt3' src={PhoneSearch} alt='Showing number of items on display that updates'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItPhoneCourseSearchsm.webp"
+              alt="Showing number of items on display that updates" />
           </div>
           <div className='w-40-l w-60-ns w-100 fl'>
-            <img className='mt3' src={TabletEvents} alt='Easy to use filtering on mobile'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItTabletEvents.webp"
+              alt="Easy to use filtering on mobile" />
           </div>
         </section>
         <section className='mt5 dib'>
-            <img className='mt3' src={ProductFilter} alt='Product page with filter'/>
-            <img className='mt3' src={HomePage} alt='UTakeIt Home Page'/>
+          <img
+            className='mt3'
+            src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItProductFilter.webp"
+            alt="Product page with filter" />
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItHomePage.webp"
+              alt="UTakeIt Home Page" />
         </section>
       </div>
   </div>
-export default UTakeIt
+export default UTakeIt;

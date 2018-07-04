@@ -1,10 +1,6 @@
 import React from "react";
 import Link from 'gatsby-link';
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
-import Accordion from "../components/images/Adapt/CVAccordion.png";
-import Game from "../components/images/Adapt/CVGame.png";
-import Click from "../components/images/Adapt/CVImageClick.png";
-import Slider from "../components/images/Adapt/CVImageSlider.png";
 
 const CVBikes = () =>
   <div className='pt5 case-study'>
@@ -29,13 +25,22 @@ const CVBikes = () =>
           </div>
           <div className="center">
             <div className='w-100 w-33-ns fl'>
-              <img className='mt3' src={Accordion} alt='Content Accordion with check marks'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVAccordion.webp"
+              alt="Content Accordion with check marks" />
             </div>
             <div className='w-100 w-33-ns fl'>
-              <img className='mt3' src={Slider} alt='Content image slider'/>
+              <img
+                className='mt3'
+                src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVImageSlider.webp"
+                alt="Content image slider" />
             </div>
             <div className='w-100 w-33-ns fl'>
-              <img className='mt3' src={Click} alt='Content image reveal interaction'/>
+              <img
+                className='mt3'
+                src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVImageClick.webp"
+                alt="Content image reveal interaction" />
             </div>
           </div>
         </section>
@@ -46,9 +51,12 @@ const CVBikes = () =>
             <p className='fw3 mt4'>Inspired by the amazing work of the folks at Sponge UK, I also included a mini-game in Phaser JS to test employee knowledge. In order to get the game to act appropriately as a gate (something that would prevent the learner from moving on until completion), I developed a plugin for the framework that allowed the game to send a signal to the course to let it know when the user has finished the game.</p>
           </div>
           <div className='w-100'>
-            <img className='mt3 mb3' src={Game} alt='Bike game'/>
+            <img
+              className='mt3 mb3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVGame.webp"
+              alt="Bike game" />
           </div>
         </section>
       </div>
   </div>
-export default CVBikes
+export default CVBikes;

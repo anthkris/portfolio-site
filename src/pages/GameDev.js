@@ -1,6 +1,5 @@
 import React from "react";
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
-import ItchPortfolio from "../components/images/GameDev/GameDevItch.png";
 
 const GameDev = () =>
   <div className='pt5 case-study'>
@@ -24,7 +23,10 @@ const GameDev = () =>
             <p className='fw3 mt4'>By focusing on regularly creating projects with these tools, I ensure that I can quickly and easily create game prototypes and polished games for clients outside. Game development tools are purpose built and perform better than elearning tools for creating effective game-like experiences.</p>
           </div>
           <div className='w-100'>
-            <img className='mt3' src={ItchPortfolio} alt='Games on Itch.io page'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/GameDev/GameDevItch.webp"
+              alt="Games on Itch.io page" />
           </div>
         </section>
       </div>

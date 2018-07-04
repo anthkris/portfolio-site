@@ -302,6 +302,7 @@ progress {
 
 @font-face {
   font-family: EuclidFlex;
+	font-display: auto;
   src: url(EuclidFlex-Regular.otf) format('opentype');
 }
 

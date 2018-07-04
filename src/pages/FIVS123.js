@@ -1,11 +1,5 @@
 import React from "react"
 import CaseStudyAbout from '../components/CaseStudyAbout.js';
-import BACRight from "../components/images/FIVS123/BAC_Start.min.png";
-import BACCalc from "../components/images/FIVS123/Gale_BAC.min.png";
-import FIVSHome from "../components/images/FIVS123/FIVSmoodle_home.min.png";
-import FIVSMicroscope from "../components/images/FIVS123/FIVSmoodle_iframeslider.png";
-import BACChar from "../components/images/FIVS123/Edward_scaffold.min.png";
-import BACScaffold from "../components/images/FIVS123/BAC_is_Right.min.png";
 
 const FIVS123 = () =>
   <div className='pt5 case-study'>
@@ -23,10 +17,16 @@ const FIVS123 = () =>
            <p className='fw3 mt4'>BAC or Consequences is a graded activity for the FIVS123 Introduction to Forensics course in development for Texas A&M University by TEEX. This activity combines all of the previous review into one activity that challenges students to calculate the BAC for an individual after choosing an alcoholic drink to be consumed and the number to be consumed. After BAC is calculated, the activity further promotes thought and synthesis by challenging students to determine whether or not the BAC they calculated would mean that the driver would be intoxicated.</p>
           </div>
           <div className='w-50-ns w-100 fl'>
-            <img className='mt3' src={BACRight} alt='BAC is Right Game Start'/>
+          <img
+            className='mt3'
+            src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/FIVS123/BAC_Start.min.webp"
+            alt="BAC is Right Game Start" />
           </div>
           <div className='w-50-ns w-100 fl'>
-            <img className='mt3' src={BACCalc} alt='Calculating the BAC for Gale'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/FIVS123/Gale_BAC.min.webp"
+              alt="Calculating the BAC for Gale" />
           </div>
         </section>
         <section className='mt4 dib' id='ux-design'>
@@ -37,10 +37,16 @@ const FIVS123 = () =>
             <p>I created this theme using CSS and a little basic PHP, based on the Arialist theme. The background image was designed using stock images and Photoshop.</p>
           </div>
           <div className='w-100 w-50-ns fl'>
-            <img className='mt3' src={FIVSHome} alt='FIVS123 Moodle Theme'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/FIVS123/FIVSmoodle_home.min.webp"
+              alt="FIVS123 Moodle Theme" />
           </div>
           <div className='w-100 w-50-ns fl'>
-            <img className='mt3' src={FIVSMicroscope} alt='Embedded interaction in Moodle'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/FIVS123/FIVSmoodle_iframeslider.webp"
+              alt="Embedded interaction in Moodle" />
           </div>
         </section>
         <section className='mt3 dib'>
@@ -50,12 +56,18 @@ const FIVS123 = () =>
             <p className='fw3 mt4 bottom'>The BAC is Right is one of a series of game-like activities that allow students to practice calculating the blood alcohol content (BAC) for people of various genders and weights. This activity was built using a scaffolding technique: students begin with a step-by-step guide through the equation, then try it out with extrinsic feedback, then completely on their own.</p>
           </div>
           <div className='w-100 w-50-ns fl'>
-            <img className='mt3' src={BACChar} alt='Character information'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/FIVS123/Edward_scaffold.min.webp"
+              alt="Character information" />
           </div>
           <div className='w-100 w-50-ns fl'>
-            <img className='mt3' src={BACScaffold} alt='BAC is Right game'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/FIVS123/BAC_is_Right.min.webp"
+              alt="BAC is Right game" />
           </div>
         </section>
       </div>
   </div>
-export default FIVS123
+export default FIVS123;

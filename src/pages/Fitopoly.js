@@ -1,10 +1,6 @@
 import React from "react";
 import Link from 'gatsby-link';
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
-import Design from "../components/images/Fitopoly/FitopolyDesign.png";
-import Research from "../components/images/Fitopoly/FitopolyResearch.png";
-import Results from "../components/images/Fitopoly/FitopolyResults.png";
-import Test from "../components/images/Fitopoly/FitopolyTest.png";
 
 const Fitopoly = () =>
   <div className='pt5 case-study'>
@@ -27,10 +23,16 @@ const Fitopoly = () =>
             <Link className="case-study-link" to="/blog/engaging-animated-video-in-powerpoint" title="How I built the course">Read more about the project.</Link>
           </div>
           <div className='w-100 w-50-ns fl'>
-            <img className='mt3' src={Research} alt='Research phase to suss out what users want'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/Fitopoly/FitopolyResults.webp"
+              alt="Research phase to suss out what users want" />
           </div>
           <div className='w-100 w-50-ns fr'>
-            <img className='mt3' src={Results} alt='Results phase after testing'/>
+            <img
+              className='mt3'
+              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/Fitopoly/FitopolyResults.webp"
+              alt="Results phase after testingt" />
           </div>
         </section>
         <section className='mt4 dib' id='ux-design'>
@@ -47,4 +49,4 @@ const Fitopoly = () =>
         </section>
       </div>
   </div>
-export default Fitopoly
+export default Fitopoly;
