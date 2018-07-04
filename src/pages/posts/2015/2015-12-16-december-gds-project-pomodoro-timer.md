@@ -19,7 +19,7 @@ I took my inspiration both from the pen and from pomodoro apps in the iOS App S
 
 <figure>
   <img
-    sizes="(max-width: 810px) 100vw, 810px"
+    sizes="(max-width: 405px) 100vw, 405px"
     srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/pomodoro-timer-app.jpeg 203w,
             http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/pomodoro-timer-app.jpeg 405w,
             http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/pomodoro-timer-app.jpeg 810w,
@@ -36,7 +36,7 @@ My first trial was to find some frameworks that would allow me to do what I want
 
 My next project was to try and add in progress bars. As I said, I originally wanted to try and create one shaped like a tomato. I hoped that my newfound beginner knowledge of svg could come in handy and I even went to the trouble to create a handy little svg tomato. (Trust me, it's super cute.) But I abandoned that idea after a couple of days in favor of just getting a simple circle to work. I had to do a little thinking to realize that I wanted this image to act as a progress bar, but once I hit upon the idea, I went searching for another jQuery plugin. After going through a couple of options, I found that[ Rostyslav Bryzgunov's jQuery Circle Progress plugin fit the bill perfectly](https://github.com/kottenator). The plugin makes it super easy to create a progress bar to stand alone, but I needed it to work within my larger app. I needed to be able to start it, pause it, and resume it. Again, this was where I had a lot of issues. Documentation for the plugin mentions a way to stop the animation and, through days of experimentation, I was becoming more and more familiar with the variables involved. I was able to create a half-solution by updating the animationProgress property of the animation call. However, I found that that this only worked for the first pause. If you were to resume the timer, let it run, pause it, and try to resume it again, animationProgess stayed stuck at the older value. After about 3 days, I broke down and asked on StackOverflow. [As is often the way, I got a quick answer that did the trick](http://stackoverflow.com/questions/34271707/canvas-animation-progress). So, 89 versions in, I was finally able to add the progress bar to my app.
 
-<iframe src="http://jsfiddle.net/anthkris/jeycb92x/116/" width="800" height="300" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/anthkris/jeycb92x/116/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ### The Hitch
 

@@ -12,7 +12,6 @@ I don't always complain. But, when I do, I complain about not being able to inst
 1.  After you install Portable Apps and a couple of programs (it doesn't matter which), open up the folder where you installed it.
 
 <figure>
-  <img src="../featured/portableapps1.png"  />
   <img
     sizes="(max-width: 810px) 100vw, 810px"
     srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/portableapps1.png 203w,

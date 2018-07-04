@@ -41,12 +41,7 @@ I finally knew the why but that didn't bring me any closer to fixing it. But I c
 
 <figure>
   <img
-    sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/AccordionGIF.gif 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/AccordionGIF.gif 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/AccordionGIF.gif 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/AccordionGIF.gif 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/AccordionGIF.gif"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/v1530412103/blog/AccordionGIF.gif"
     alt="Accordion functionality" />
 </figure>
 

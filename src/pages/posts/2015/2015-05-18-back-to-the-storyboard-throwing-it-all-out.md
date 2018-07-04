@@ -56,12 +56,7 @@ This weekend, I finally allowed myself to chuck everything out and start over. I
 
 <figure>
   <img
-    sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/travellydemo2.gif 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/travellydemo2.gif 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/travellydemo2.gif 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/travellydemo2.gif 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/travellydemo2.gif"
+    src="http://res.cloudinary.com/dhdaswa6t/image/upload/v1530396697/blog/travellydemo2.gif"
     alt="Travelly second attempt functionality" />
 </figure>
 

@@ -26,3 +26,12 @@ Well, I'm not sure I know, exactly but it should be one part of informing the 
 ## Give it a Try
 
 This was made for a LGBTQA-positive game jam. If that's not your thing, don't play. No big deal. Also, the game is probably pretty awful, all told, but I'm really glad I was able to actually finish it and include all of the features I planned. I used Construct 2 for the game development. Total game dev time is probably about 2 weeks, with lots of interruptions in between. Try it here: [https://anthkris.itch.io/sweets-for-sweeting](https://anthkris.itch.io/sweets-for-sweeting) You can also check out the other entries for the Jam here: [https://itch.io/jam/sugar-sweets-jam/entries](https://itch.io/jam/sugar-sweets-jam/entries) ![SweetsScreenshot](/blog/wp-content/uploads/2016/04/SweetsScreenshot-1.png)
+
+<img
+    sizes="(max-width: 810px) 100vw, 810px"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530682145/blog/SweetsScreenshot-1.png203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530682145/blog/SweetsScreenshot-1.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530682145/blog/SweetsScreenshot-1.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530682145/blog/SweetsScreenshot-1.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530682145/blog/SweetsScreenshot-1.png"
+    alt="Game Screenshot" />

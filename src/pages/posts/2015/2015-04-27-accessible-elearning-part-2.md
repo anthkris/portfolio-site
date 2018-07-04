@@ -83,7 +83,14 @@ Before you ever install anything, there are several basic things you can do to t
 **About:** The FireEyes extension works with the Firebug developer extension in Firefox (whew! that's a lot of fire!) and is yet another tool you can use to spot accessibility issues and create a report. It's available for free but requires a signup.
 
 <figure>
-  <img src="../featured/Fireeyes.jpg" alt="Fireeyes UI" />
+  <img
+    sizes="(max-width: 810px) 100vw, 810px"
+    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Fireeyes.jpg 203w,
+    http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Fireeyes.jpg 405w,
+    http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Fireeyes.jpg 810w,
+    http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Fireeyes.jpg 1215w"
+    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Fireeyes.jpg"
+    alt="Fireeyes UI" />
 </figure>
 
 ### NVDA Screen Reader

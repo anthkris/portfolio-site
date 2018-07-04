@@ -20,11 +20,11 @@ I drew major inspiration from the Zombie college course created by the very tale
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/IMG_0402.jpg 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/IMG_0402.jpg 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/IMG_0402.jpg 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/IMG_0402.jpg 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/IMG_0402.jpg"
+    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,a_-90,w_203/v1530396697/blog/IMG_0402.jpg 203w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,a_-90,w_405/v1530396697/blog/IMG_0402.jpg 405w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,a_-90,w_810/v1530396697/blog/IMG_0402.jpg 810w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,a_-90,w_1215/v1530396697/blog/IMG_0402.jpg 1215w"
+    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,a_-90,w_810/v1530396697/blog/IMG_0402.jpg"
     alt="game prototype" />
   <figcaption>My simple prototype</figcaption>
 </figure>
@@ -53,7 +53,14 @@ That's it for my post-development review. Here's the shipped example, if you wan
 
 <figure>
   <a href="http://www.knanthony.com/showcase/AcmeU/story.html" target="blank">
-    <img src="../featured/SaveOurSchool.png" alt="game final version" />
+    <img
+      sizes="(max-width: 810px) 100vw, 810px"
+      srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/SaveOurSchool.png 203w,
+              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/SaveOurSchool.png 405w,
+              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/SaveOurSchool.png 810w,
+              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/SaveOurSchool.png 1215w"
+      src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/SaveOurSchool.png"
+      alt="game final version" />
   </a>
   <figcaption>Click the image to play</figcaption>
 </figure>

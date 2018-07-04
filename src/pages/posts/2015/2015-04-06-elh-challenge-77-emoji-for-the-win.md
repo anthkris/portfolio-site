@@ -47,7 +47,7 @@ Like I wrote above, I wanted to tell a little story and I loved that Emoji Dick 
 Last but not least, here's the emoji story. Enjoy!
 
 <figure>
-  < a href="http://knanthony.com/showcase/emoji/story.html" target="blank">
+  <a href="http://knanthony.com/showcase/emoji/story.html" target="blank">
     <img
       sizes="(max-width: 810px) 100vw, 810px"
       srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/EmojiScreenshot.png 203w,

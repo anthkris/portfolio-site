@@ -16,11 +16,11 @@ My idea is to begin with a game-like/comic-book type aesthetic, giving some cont
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/IMG_0402.jpg 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/IMG_0402.jpg 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/IMG_0402.jpg 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/IMG_0402.jpg 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/IMG_0402.jpg"
+    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,a_-90,w_203/v1530396697/blog/IMG_0402.jpg 203w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,a_-90,w_405/v1530396697/blog/IMG_0402.jpg 405w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,a_-90,w_810/v1530396697/blog/IMG_0402.jpg 810w,
+            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,a_-90,w_1215/v1530396697/blog/IMG_0402.jpg 1215w"
+    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,a_-90,w_810/v1530396697/blog/IMG_0402.jpg"
     alt="ACME U Game prototype" />
   <figcaption>My basic prototype</figcaption>
 </figure>
