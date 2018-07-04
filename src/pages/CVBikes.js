@@ -1,4 +1,5 @@
 import React from "react";
+import Link from 'gatsby-link';
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
 import Accordion from "../components/images/Adapt/CVAccordion.png";
 import Game from "../components/images/Adapt/CVGame.png";
@@ -21,9 +22,10 @@ const CVBikes = () =>
           <div className='w-100 fl'>
             <h2 className='fw3'>Open Source Tools for Learning</h2>
             <div className='bg-accent' style={{width: '40px', height:'4px' }}> </div>
-            <p className='fw3 mt4'>The Adapt Learning Framework caught my attention as soon as I heard about it. This open source, responsive framework works on the concept of modularity, uses contemporary design patterns, and is fully responsive. What got me excited primarily (besides it’s being open source!) was here was an elearning authoring tool that actually generated good, well-formed code AND that you could touch and alter and work with in very deep ways. Unlike so many other authoring tool options, I can control every facet of my Adapt course. I was very eager to get my hands on it and create something.</p>
+            <p className='fw3 mt4'>The Adapt Learning Framework caught my attention as soon as I heard about it. This open source, responsive framework works on the concept of modularity, uses contemporary design patterns, and is fully responsive. What got me excited primarily (besides its being open source!) was that here was an elearning authoring tool that actually generated good, well-formed code AND that you could touch and alter and work with in very deep ways. Unlike so many other authoring tool options, I can control every facet of my Adapt course. I was very eager to get my hands on it and create something.</p>
             <p className='fw3 mt4'>
             So, I made some time to install the framework version of the tool and created an employee onboarding course for a (fictional) bespoke bicycle company.</p>
+            <Link className="case-study-link" to="/blog/trying-out-kineo-adapt-open-source-elearning-authoring-framework" title="How I built the course">Read more about the project.</Link>
           </div>
           <div className="center">
             <div className='w-100 w-33-ns fl'>

@@ -24,7 +24,7 @@ const UXLX = () =>
             <h2 className='fw3'>App Development</h2>
             <div className='bg-accent' style={{width: '40px', height:'4px' }}> </div>
             <p className='fw3 mt4'>Built with thie Ionic framework, UXLX is a progressive web application that is usable online and downloadable on both the iOS and Android mobile app stores. It tracks user movement across various interactions by sending xAPI statements to a learning record store. From there, such data could be reviewed in context with data from other learning experiences to get a better view of what effective learners do.</p>
-            <Link className="case-study-link" to="/blog/uxlx-i-released-an-xapi-enabled-app-on-android-and-ios" title="How I built the app">Read more about the app development</Link>
+            <Link className="case-study-link" to="/blog/uxlx-i-released-an-xapi-enabled-app-on-android-and-ios" title="How I built the app">Read more about the app development.</Link>
           </div>
           <div className='w-20-l w-40-ns w-100 img-center fr'>
             <img className='mt3' src={PhoneVideo} alt='UX video card in a lesson'/>
