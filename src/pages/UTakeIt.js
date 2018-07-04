@@ -21,8 +21,8 @@ const UTakeIt = () =>
           <div className='w-40-l w-100-ns  w-100 fl'>
             <h2 className='fw3'>Front End Development</h2>
             <div className='bg-accent' style={{width: '40px', height:'4px' }}> </div>
-            <p className='fw3 mt4'>The University of Texas STEM Center sought to diversify their income streams early in 2017 by creating a series of professional development courses for educators. Along with this, they also wanted a purpose-build web application to help them market and sell these learning experiences. From the very beginning of the project, I have worked with the team as the front-end developer and web designer. </p>
-            <p className='fw3 mt4'>I began the project by prototyping on the web using the Bootstrap framework and jQuery, helping the team to develop the product and ship it quickly. As the project has matured, I have worked to institute best practices and consistent coding practices for the front-end across team members and to document the front-end.</p>
+            <p className='fw3 mt4'>The University of Texas STEM Center sought to diversify their income streams early in 2017 by creating a series of professional development courses for educators. Along with this, they also wanted a purpose-built web application to help them market and sell these learning experiences. From the very beginning of the project, I have worked with the team as the front-end developer and web designer. </p>
+            <p className='fw3 mt4'>As the project has matured, I have worked to institute best practices and consistent coding practices for the front-end across team members and to document the front-end.</p>
           </div>
           <div className='w-20-l w-40-ns w-100 fr'>
             <img className='mt3' src={PhonePricing} alt='Pricing cards'/>
@@ -35,8 +35,8 @@ const UTakeIt = () =>
           <div className='w-40-l w-100-ns w-100 fr'>
             <h2 className='fw3'>User Experience Design and Accessibility</h2>
             <div className='bg-accent' style={{width: '40px', height:'4px' }}> </div>
-            <p className='fw3 mt4'>As the application has continued to grow, I have served as a user advocate by always considering the point of view of the user and asking lots of questions around what might be causing unecessary friction versus when thoughtful friction might be useful.</p>
-            <p className='fw3 mt4'>I brought considerable accessibility experience to the project, having been the accessibility team lead on the large open source project, Oppia. I began by performing a site-wide accessibility audit and identifying and documenting best practices to ensure the site was as accessible as possible. As the application has continued to grow, I remain in charge of reviewing automated accessibility audits and performing code reviews with accessibility in mind.</p>
+            <p className='fw3 mt4'>As the application has continued to grow, I have served as a user advocate by always considering the point of view of the user and asking lots of questions.</p>
+            <p className='fw3 mt4'>I also brought considerable accessibility experience to the project, having been the accessibility team lead on the large open source project, Oppia. I began by performing a site-wide accessibility audit and identifying and documenting best practices to ensure the site was as accessible as possible.</p>
           </div>
           <div className='w-20-l w-40-ns w-100 img-center fl'>
             <img className='mt3' src={PhoneSearch} alt='Showing number of items on display that updates'/>

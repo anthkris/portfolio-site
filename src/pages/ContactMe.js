@@ -1,7 +1,6 @@
 import React from 'react';
 import Contact from '../components/Contact.js';
 import Social from '../components/Social.js';
-import '../styles/contact.scss';
 
 
 const ContactMe = () =>
