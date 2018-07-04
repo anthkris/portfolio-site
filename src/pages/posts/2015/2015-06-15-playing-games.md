@@ -17,11 +17,11 @@ The Phaser tutorial was really nice and I liked that they not only game you tuto
   <a href="http://www.knanthony.com/showcase/gamedev/phaser/index.html" target="blank">
     <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/PhaserIOtutorial.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/PhaserIOtutorial.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/PhaserIOtutorial.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/PhaserIOtutorial.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/PhaserIOtutorial.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/PhaserIOtutorial.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/PhaserIOtutorial.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/PhaserIOtutorial.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/PhaserIOtutorial.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/PhaserIOtutorial.png"
     alt="Phaser tutorial game" />
   </a>
   <figcaption>Phaser IO Tutorial file. Click to play</figcaption>
@@ -35,11 +35,11 @@ Stencyl development was a little more difficult but I really like the layout of 
   <a href="http://www.knanthony.com/showcase/gamedev/stencyl/CrashCourseGame.swf" target="blank">
     <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Stencyltutorial.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Stencyltutorial.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Stencyltutorial.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Stencyltutorial.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Stencyltutorial.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Stencyltutorial.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Stencyltutorial.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Stencyltutorial.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Stencyltutorial.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Stencyltutorial.png"
     alt="Stencyl tutorial game" />
   </a>
   <figcaption>Stencyl Tutorial file. Click to play</figcaption>
@@ -50,14 +50,14 @@ Stencyl development was a little more difficult but I really like the layout of 
 Construct 2 probably gave me the most trouble development-wise and I'm not a huge fan of the workspace and game files layout. However, the output is really nice-looking HTML5 that seems to be responsive to window size, which makes it a great option for embedding in Storyline. The best thing, though, is that the program can be installed on a portable drive, allowing me to take game development with me, instead of being tied to one computer. The tutorial files were a little less helpful than Stencyl or Phaser IO but I'm (very, very slowly) getting the hang of it. Still, I don't expect that my GDS Challenge will be anything remarkable.
 
 <figure>
-  <a href="http://knanthony.com/showcase/gamedev/construct2/index.html" target="blank">
+  <a href="/showcase/gamedev/construct2/index.html" target="blank">
     <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/construct2tutorial.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/construct2tutorial.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/construct2tutorial.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/construct2tutorial.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/construct2tutorial.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/construct2tutorial.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/construct2tutorial.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/construct2tutorial.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/construct2tutorial.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/construct2tutorial.png"
      alt="Construct 2 tutorial game" />
   </a>
   <figcaption>Made using Construct 2 tutorial. Click to play</figcaption>

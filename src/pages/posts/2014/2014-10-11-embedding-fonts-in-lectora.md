@@ -16,11 +16,11 @@ If you're like me, you may have to test courses with your LMS on a secure server
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Lectora-font-embed.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Lectora-font-embed.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Lectora-font-embed.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Lectora-font-embed.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Lectora-font-embed.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Lectora-font-embed.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Lectora-font-embed.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Lectora-font-embed.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Lectora-font-embed.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Lectora-font-embed.png"
     alt="Embedding fonts in Lectora" />
   <figcaption>Remove the http to ensure fonts are served in secure environments</figcaption>
 </figure>

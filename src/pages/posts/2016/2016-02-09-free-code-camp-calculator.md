@@ -20,11 +20,11 @@ I tried so hard to be conscientious during this process of showing my work, so I
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-02-at-4.54.25-PM.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-02-at-4.54.25-PM.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-02-at-4.54.25-PM.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-02-at-4.54.25-PM.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-02-at-4.54.25-PM.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-02-at-4.54.25-PM.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-02-at-4.54.25-PM.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-02-at-4.54.25-PM.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-02-at-4.54.25-PM.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-02-at-4.54.25-PM.png"
     alt="calculator prototype" />
   <figcaption>A reasonable facsimile of my original prototype. Ugly, huh?</figcaption>
 </figure>
@@ -40,11 +40,11 @@ The basics of the functions worked out, I started to do some styling. I added a 
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-01-31-at-9.31.28-PM.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-01-31-at-9.31.28-PM.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-01-31-at-9.31.28-PM.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-01-31-at-9.31.28-PM.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-01-31-at-9.31.28-PM.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-01-31-at-9.31.28-PM.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-01-31-at-9.31.28-PM.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-01-31-at-9.31.28-PM.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-01-31-at-9.31.28-PM.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-01-31-at-9.31.28-PM.png"
     alt="calculator prototype" />
   <figcaption>Second iteration</figcaption>
 </figure>
@@ -129,11 +129,11 @@ Not an issue exactly, but I found that I HATED the visual design of my second it
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/4-daily-ui.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/4-daily-ui.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/4-daily-ui.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/4-daily-ui.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/4-daily-ui.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/4-daily-ui.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/4-daily-ui.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/4-daily-ui.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/4-daily-ui.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/4-daily-ui.png"
     alt="Original Dribbble Shot" />
   <figcaption>[Dribbble shot by Shabbir Manpurwala](https://dribbble.com/shots/2496666--4-Daily-UI-Calculator)</figcaption>
 </figure>
@@ -141,11 +141,11 @@ Not an issue exactly, but I found that I HATED the visual design of my second it
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-02-at-4.41.12-PM.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-02-at-4.41.12-PM.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-02-at-4.41.12-PM.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-02-at-4.41.12-PM.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-02-at-4.41.12-PM.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-02-at-4.41.12-PM.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-02-at-4.41.12-PM.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-02-at-4.41.12-PM.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-02-at-4.41.12-PM.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-02-at-4.41.12-PM.png"
     alt="My final calculator UI" />
   <figcaption>My Attempt</figcaption>
 </figure>
@@ -162,11 +162,11 @@ With all that out of the way, feel free to give it a test drive and let me know 
   <a href="http://codepen.io/anthkris/full/vLdgev/" target="blank">
     <img
       sizes="(max-width: 810px) 100vw, 810px"
-      srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-01-at-7.07.33-PM.png 203w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-01-at-7.07.33-PM.png 405w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-01-at-7.07.33-PM.png 810w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-01-at-7.07.33-PM.png 1215w"
-      src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-01-at-7.07.33-PM.png"
+      srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-01-at-7.07.33-PM.png 203w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-01-at-7.07.33-PM.png 405w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-01-at-7.07.33-PM.png 810w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-01-at-7.07.33-PM.png 1215w"
+      src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-01-at-7.07.33-PM.png"
       alt="Try out the calculator" />
   </a>
   <figcaption>FCC Calculator in CodePen</figcaption>

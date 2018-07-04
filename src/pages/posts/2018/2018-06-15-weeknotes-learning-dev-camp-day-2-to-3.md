@@ -36,11 +36,11 @@ My first session of the afternoon was on reflecting on the way comic books use v
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/img_2235.jpg 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/img_2235.jpg 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2235.jpg 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/img_2235.jpg 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2235.jpg"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/img_2235.jpg 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/img_2235.jpg 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2235.jpg 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/img_2235.jpg 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2235.jpg"
     alt="slide about history of comic book communcation" />
   <figcaption>Comic book visual communication</figcaption>
 </figure>
@@ -59,11 +59,11 @@ Today was a half day. I spent the morning in Jason Bickle's session around pragm
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/img_2241.jpg 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/img_2241.jpg 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2241.jpg 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/img_2241.jpg 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2241.jpg"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/img_2241.jpg 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/img_2241.jpg 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2241.jpg 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/img_2241.jpg 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2241.jpg"
     alt="stages of conflict journey" />
   <figcaption>8 stages of the conflict journey</figcaption>
 </figure>
@@ -78,11 +78,11 @@ My last presenter session was from Joseph Suarez (!!!) where he told stories abo
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/img_2244.jpg 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/img_2244.jpg 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2244.jpg 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/img_2244.jpg 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2244.jpg"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/img_2244.jpg 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/img_2244.jpg 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2244.jpg 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/img_2244.jpg 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/img_2244.jpg"
     alt="gap between web development and elearning development" />
   <figcaption>The strangeness of elearning courses comes from not bridging the gap.</figcaption>
 </figure>

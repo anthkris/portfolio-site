@@ -16,11 +16,11 @@ If you just dive in, the tool is actually pretty intuitive. So, as a user (albei
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-06-at-9.27.44-PM.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-06-at-9.27.44-PM.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.27.44-PM.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-06-at-9.27.44-PM.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.27.44-PM.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-06-at-9.27.44-PM.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-06-at-9.27.44-PM.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.27.44-PM.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-06-at-9.27.44-PM.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.27.44-PM.png"
     alt="Oppia editor" />
   <figcaption>The basic exploration editor. Lots of great options.</figcaption>
 </figure>
@@ -30,11 +30,11 @@ I really like that I was able to continuously test the interaction before publis
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-06-at-9.23.52-PM.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-06-at-9.23.52-PM.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.23.52-PM.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-06-at-9.23.52-PM.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.23.52-PM.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-06-at-9.23.52-PM.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-06-at-9.23.52-PM.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.23.52-PM.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-06-at-9.23.52-PM.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.23.52-PM.png"
     alt="Oppia editor" />
   <figcaption>The exploration map.</figcaption>
 </figure>
@@ -44,11 +44,11 @@ Another great feature is the history. They tool inspiration from tools like gith
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-06-at-9.24.52-PM.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-06-at-9.24.52-PM.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.24.52-PM.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-06-at-9.24.52-PM.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.24.52-PM.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-06-at-9.24.52-PM.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-06-at-9.24.52-PM.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.24.52-PM.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-06-at-9.24.52-PM.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.24.52-PM.png"
     alt="Oppia editor" />
   <figcaption>The history</figcaption>
 </figure>
@@ -67,11 +67,11 @@ There is an introductory conversation that is set up currently but after an outd
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-06-at-9.36.41-PM.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-06-at-9.36.41-PM.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.36.41-PM.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-06-at-9.36.41-PM.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.36.41-PM.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-06-at-9.36.41-PM.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-06-at-9.36.41-PM.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.36.41-PM.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-06-at-9.36.41-PM.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-06-at-9.36.41-PM.png"
     alt="Oppia exploration with tabs" />
   <figcaption>Can't see videos in tabs.</figcaption>
 </figure>
@@ -81,11 +81,11 @@ Not deal breakers but things that should be fixed. Also, as I sought to playtest
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-07-at-7.01.32-PM.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-07-at-7.01.32-PM.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-07-at-7.01.32-PM.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-07-at-7.01.32-PM.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-07-at-7.01.32-PM.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-02-07-at-7.01.32-PM.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-02-07-at-7.01.32-PM.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-07-at-7.01.32-PM.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-02-07-at-7.01.32-PM.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-02-07-at-7.01.32-PM.png"
     alt="Oppia exploration about instructional design" />
   <figcaption>My first exploration!</figcaption>
 </figure>

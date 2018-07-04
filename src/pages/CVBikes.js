@@ -10,7 +10,7 @@ const CVBikes = () =>
     clients='Learning Experience Designer and Developer'
     tool='Adapt Framework and Phaser JS'
     time='About 2 weeks'
-    projectLink='http://knanthony.com/showcase/candvbikes/index.html#/id/co-05'
+    projectLink='/showcase/candvbikes/index.html#/id/co-05'
     job='LX Design, eLearning Development, Graphic Design, Coding, Game Development, Conceptualising Ideas and Prototyping'
     />
       <div className='ph3 center mw8'>
@@ -27,19 +27,19 @@ const CVBikes = () =>
             <div className='w-100 w-33-ns fl'>
             <img
               className='mt3'
-              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVAccordion.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVAccordion.webp"
               alt="Content Accordion with check marks" />
             </div>
             <div className='w-100 w-33-ns fl'>
               <img
                 className='mt3'
-                src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVImageSlider.webp"
+                src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVImageSlider.webp"
                 alt="Content image slider" />
             </div>
             <div className='w-100 w-33-ns fl'>
               <img
                 className='mt3'
-                src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVImageClick.webp"
+                src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVImageClick.webp"
                 alt="Content image reveal interaction" />
             </div>
           </div>
@@ -53,7 +53,7 @@ const CVBikes = () =>
           <div className='w-100'>
             <img
               className='mt3 mb3'
-              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVGame.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/CVBikes/CVGame.webp"
               alt="Bike game" />
           </div>
         </section>

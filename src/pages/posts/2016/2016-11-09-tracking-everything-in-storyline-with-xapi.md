@@ -15,11 +15,11 @@ I've launched this course about a bajillion times. But here are the statements f
 
 <img
   sizes="(max-width: 810px) 100vw, 810px"
-  srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-11-07-at-10.57.40-PM.png 203w,
-          http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-11-07-at-10.57.40-PM.png 405w,
-          http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-11-07-at-10.57.40-PM.png 810w,
-          http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-11-07-at-10.57.40-PM.png 1215w"
-  src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-11-07-at-10.57.40-PM.png"
+  srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-11-07-at-10.57.40-PM.png 203w,
+          https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2016-11-07-at-10.57.40-PM.png 405w,
+          https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-11-07-at-10.57.40-PM.png 810w,
+          https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2016-11-07-at-10.57.40-PM.png 1215w"
+  src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2016-11-07-at-10.57.40-PM.png"
   alt="exemplar xAPI statements" />
 
 One thing you might notice is that, on some of these statements, my name is in lowercase and in others, it's in uppercase. Storyline is already pulling my name from the currently logged-in Moodle user. So far, I've been gathering this information from the launch URL. I'm figuring that I need to figure out how to steal the current user from Storyline, instead of parsing it out myself. However, one subtle success is that I was able to extend my current code for tracking video to include Start, Paused, and Watched. I looked closely at the [current ADL video recipe](https://registry.tincanapi.com/#profile/19/recipes) (a recipe specifies which verbs to use in a certain context so that we all speak the same language around similar activities) and created separate functions to track those three states of watching a video. I'll be sure to update my Moodle/Storyline code snippets as I continue. Keep an eye on them here: [https://github.com/anthkris/xAPI-video](https://github.com/anthkris/xAPI-video) I need to add the complete state.

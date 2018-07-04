@@ -18,11 +18,11 @@ Texts? Check. Read and reply to email? Check. Track your steps, calories, and ot
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/InspectorGadgetAppleWatch.jpg 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/InspectorGadgetAppleWatch.jpg 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/InspectorGadgetAppleWatch.jpg 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/InspectorGadgetAppleWatch.jpg 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/InspectorGadgetAppleWatch.jpg"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/InspectorGadgetAppleWatch.jpg 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/InspectorGadgetAppleWatch.jpg 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/InspectorGadgetAppleWatch.jpg 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/InspectorGadgetAppleWatch.jpg 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/InspectorGadgetAppleWatch.jpg"
     alt="Watch from Inspector Gadget" />
   <figcaption>Image and Inspector Gadget reference from BlackNerd</figcaption>
 </figure>

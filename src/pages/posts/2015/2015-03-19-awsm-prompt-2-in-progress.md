@@ -12,6 +12,6 @@ For this month's [AWSM Prompt](https://awsmprompts.wordpress.com/2015/03/09/marc
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/v1530396697/blog/FitopolyApp.gif"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/v1530396697/blog/FitopolyApp.gif"
     alt="Fitopoly app functionality" />
 </figure>

@@ -19,16 +19,16 @@ I asked myself that again and again as I resisted the urge to quit. It's not tha
 
 ## The Final Product
 
-[Without further ado, feel free to explore A Hill and Beans](http://knanthony.com/showcase/LEGume/index.html "A Hill and Beans Twine Game"). I tried to make it work on phones and tablets and it does, mostly, but it's probably best on a desktop. Let me know what you think!!
+[Without further ado, feel free to explore A Hill and Beans](/showcase/LEGume/index.html "A Hill and Beans Twine Game"). I tried to make it work on phones and tablets and it does, mostly, but it's probably best on a desktop. Let me know what you think!!
 
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/HillandBeans.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/HillandBeans.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/HillandBeans.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/HillandBeans.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/HillandBeans.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/HillandBeans.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/HillandBeans.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/HillandBeans.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/HillandBeans.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/HillandBeans.png"
     alt="Hill and Beans" />
 </figure>
 

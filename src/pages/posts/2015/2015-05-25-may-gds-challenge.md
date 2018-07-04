@@ -34,14 +34,14 @@ The last challenge tries to put it all together, asking agents to get the right 
 So, after a month's work of development, here's my entry into the first GDS Challenge. Enjoy!
 
 <figure>
-  <a href="http://knanthony.com/showcase/travelly/story.html" target="blank">
+  <a href="/showcase/travelly/story.html" target="blank">
     <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/travellyscreenshot21.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/travellyscreenshot21.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/travellyscreenshot21.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/travellyscreenshot21.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/travellyscreenshot21.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/travellyscreenshot21.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/travellyscreenshot21.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/travellyscreenshot21.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/travellyscreenshot21.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/travellyscreenshot21.png"
     alt="Travelly learning game" />
   </a>
   <figcaption>Click on the image to view the demo</figcaption>

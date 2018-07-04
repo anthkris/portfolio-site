@@ -30,14 +30,14 @@ The feedback centers on tips that guide the employee towards the methods that wo
 When I first looked at this challenge, my mind went immediately to the office work environment and disgruntled workers. But as I dove into the OSHA information on preventing violence, I was most interested in the definition of workplace violence to include violence from clients and customers. I also noticed that taxi drivers were one of the riskiest professions, way up there with law enforcement! So I changed tracks and set to work creating a scenario for taxi drivers using the CCAF model. As I've stated previously, I really appreciate the opportunity to develop rapidly for these challenges. I created the taxi cab illustrations in PowerPoint and worked out the whole thing over the course of two days. Not bad for a short amount of time. In a larger, more fleshed out course, I would definitely include more mistakes, scenarios, and stories taken from real drivers.
 
 <figure>
-  <a href="http://knanthony.com/showcase/WorkplaceViolence/story.html" target="blank">
+  <a href="/showcase/WorkplaceViolence/story.html" target="blank">
     <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/wpviolencescreenshot2.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/wpviolencescreenshot2.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/wpviolencescreenshot2.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/wpviolencescreenshot2.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/wpviolencescreenshot2.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/wpviolencescreenshot2.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/wpviolencescreenshot2.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/wpviolencescreenshot2.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/wpviolencescreenshot2.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/wpviolencescreenshot2.png"
     alt="Workplace Violence MiniCourse Screenshot" />
   </a>
   <figcaption>Take a look at the demo.</figcaption>

@@ -20,11 +20,11 @@ I took my inspiration both from the pen and from pomodoro apps in the iOS App S
 <figure>
   <img
     sizes="(max-width: 405px) 100vw, 405px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/pomodoro-timer-app.jpeg 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/pomodoro-timer-app.jpeg 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/pomodoro-timer-app.jpeg 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/pomodoro-timer-app.jpeg 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/pomodoro-timer-app.jpeg"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/pomodoro-timer-app.jpeg 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/pomodoro-timer-app.jpeg 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/pomodoro-timer-app.jpeg 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/pomodoro-timer-app.jpeg 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/pomodoro-timer-app.jpeg"
     alt="Inspriration Pomodoro App" />
 </figure>
 
@@ -54,11 +54,11 @@ Enough of my rambling. Have a look at the final version and let me know what you
   <a href="http://codepen.io/anthkris/full/MaNZWQ/" target="blank">
     <img
       sizes="(max-width: 810px) 100vw, 810px"
-      srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2015-12-16-at-9.02.05-AM.png 203w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2015-12-16-at-9.02.05-AM.png 405w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2015-12-16-at-9.02.05-AM.png 810w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2015-12-16-at-9.02.05-AM.png 1215w"
-      src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2015-12-16-at-9.02.05-AM.png"
+      srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2015-12-16-at-9.02.05-AM.png 203w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2015-12-16-at-9.02.05-AM.png 405w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2015-12-16-at-9.02.05-AM.png 810w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2015-12-16-at-9.02.05-AM.png 1215w"
+      src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2015-12-16-at-9.02.05-AM.png"
       alt="Final timer UI" />
   </a>
   <figcaption>Click to see the timer!</figcaption>

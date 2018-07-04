@@ -28,11 +28,11 @@ I built this game (as I have my other Phaser games) using the Cloud9 IDE and pus
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2017-01-31-at-12.01.14-AM.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2017-01-31-at-12.01.14-AM.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-01-31-at-12.01.14-AM.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2017-01-31-at-12.01.14-AM.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-01-31-at-12.01.14-AM.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2017-01-31-at-12.01.14-AM.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2017-01-31-at-12.01.14-AM.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-01-31-at-12.01.14-AM.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2017-01-31-at-12.01.14-AM.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-01-31-at-12.01.14-AM.png"
     alt="github issues" />
   <figcaption>Using issues, branches, and pull requests helped me focus on fixing one problem at a time.</figcaption>
 </figure>
@@ -47,11 +47,11 @@ There are still a few minor ticks with bits of the game, but overall, I was able
   <a href="https://anthkris.itch.io/supply-run" target="blank">
     <img
       sizes="(max-width: 810px) 100vw, 810px"
-      srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2017-01-30-at-11.12.20-PM.png 203w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2017-01-30-at-11.12.20-PM.png 405w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-01-30-at-11.12.20-PM.png 810w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2017-01-30-at-11.12.20-PM.png 1215w"
-      src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-01-30-at-11.12.20-PM.png"
+      srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2017-01-30-at-11.12.20-PM.png 203w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2017-01-30-at-11.12.20-PM.png 405w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-01-30-at-11.12.20-PM.png 810w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2017-01-30-at-11.12.20-PM.png 1215w"
+      src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-01-30-at-11.12.20-PM.png"
       alt="Supply Run on Itch.io" />
     <figcaption>Play the Game!</figcaption>
   </a>

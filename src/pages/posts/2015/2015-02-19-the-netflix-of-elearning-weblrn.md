@@ -14,14 +14,14 @@ As I continue on my personal instructional design journey, I consider it very im
 Take a look at the prototype, built using Bootstrap and some awesome other resources (check the Credits page on the prototype site). Then come back here and take a gander at the design thinking behind it all.
 
 <figure>
-  <a href="http://knanthony.com/showcase/WEBLRN/index.html" target="blank">
+  <a href="/showcase/WEBLRN/index.html" target="blank">
     <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/weblrn.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/weblrn.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/weblrn.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/weblrn.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/weblrn.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/weblrn.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/weblrn.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/weblrn.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/weblrn.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/weblrn.png"
     alt="WebLRN Screenshot" />
   </a>
   <figcaption>Click the image to look at the WebLRN prototype.</figcaption>

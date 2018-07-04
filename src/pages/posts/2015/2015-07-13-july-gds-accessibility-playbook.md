@@ -20,11 +20,11 @@ I began by creating a mockup in Photoshop. As I've written before, I'm finding q
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Accessibility-Playbook-Desktop.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Accessibility-Playbook-Desktop.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Accessibility-Playbook-Desktop.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Accessibility-Playbook-Desktop.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Accessibility-Playbook-Desktop.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Accessibility-Playbook-Desktop.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Accessibility-Playbook-Desktop.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Accessibility-Playbook-Desktop.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Accessibility-Playbook-Desktop.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Accessibility-Playbook-Desktop.png"
     alt="accessibility playbook" />
   <figcaption>Initial Prototype</figcaption>
 </figure>
@@ -45,11 +45,11 @@ I also took the opportunity to work more with Github for this project and create
   <a href="http://anthkris.github.io/Accessible-Playbook/" target="blank">
     <img
       sizes="(max-width: 810px) 100vw, 810px"
-      srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/accessiblity-playbooksite.png 203w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/accessiblity-playbooksite.png 405w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/accessiblity-playbooksite.png 810w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/accessiblity-playbooksite.png 1215w"
-      src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/accessiblity-playbooksite.png"
+      srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/accessiblity-playbooksite.png 203w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/accessiblity-playbooksite.png 405w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/accessiblity-playbooksite.png 810w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/accessiblity-playbooksite.png 1215w"
+      src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/accessiblity-playbooksite.png"
       alt="elearning accessibility playbook" />
   </a>
   <figcaption>View the Site on Github</figcaption>

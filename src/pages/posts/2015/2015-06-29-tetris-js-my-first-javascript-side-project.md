@@ -7,7 +7,7 @@ categories: ["Coding", "Weekend Project"]
 tags: ["coding", "game design", "JavaScript", "Jquery", "tetris"]
 ---
 
-This weekend, I took some time to work through a really [well-built tutorial on remaking tetris using JavaScript and jQuery by Chikei Chan](https://chikeichan.wordpress.com/tag/tetris-js/). [Check out the demo!](http://knanthony.com/showcase/TetrisJS/old/index.html) At first, I was concerned that it would just be me copying out the code he wrote, but he very cleverly set some challenges for the reader to do on their own. I was also able to make some slight modifications using things I learned elsewhere.
+This weekend, I took some time to work through a really [well-built tutorial on remaking tetris using JavaScript and jQuery by Chikei Chan](https://chikeichan.wordpress.com/tag/tetris-js/). [Check out the demo!](/showcase/TetrisJS/old/index.html) At first, I was concerned that it would just be me copying out the code he wrote, but he very cleverly set some challenges for the reader to do on their own. I was also able to make some slight modifications using things I learned elsewhere.
 
 ## What I Learned
 

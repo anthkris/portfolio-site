@@ -7,7 +7,7 @@ categories: ["GDS Challenge", "Showing my Work"]
 tags: ["carmen sandiego", "game development", "Storyline"]
 ---
 
-It's taken the better part of a month and a half, but I'm finally shipping my Carmen Sandiego-like game, [Mell Hammer Detective Agency](http://knanthony.com/showcase/MellHammer/story.html). This one was a beastie but I really wanted to finish it and ship it so that I could move forward with a new project.
+It's taken the better part of a month and a half, but I'm finally shipping my Carmen Sandiego-like game, [Mell Hammer Detective Agency](/showcase/MellHammer/story.html). This one was a beastie but I really wanted to finish it and ship it so that I could move forward with a new project.
 
 ## The Good
 
@@ -32,14 +32,14 @@ I'm definitely interested to see how and whether I can treat some of these issue
 ## See the Demo
 
 <figure>
-  <a href="http://knanthony.com/showcase/MellHammer/story.html" target="blank">
+  <a href="/showcase/MellHammer/story.html" target="blank">
     <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Slide5.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Slide5.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Slide5.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Slide5.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Slide5.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Slide5.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Slide5.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Slide5.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Slide5.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Slide5.png"
     alt="Mell Hammer game" />
   </a>
   <figcaption>Click the image to view the demo!</figcaption>

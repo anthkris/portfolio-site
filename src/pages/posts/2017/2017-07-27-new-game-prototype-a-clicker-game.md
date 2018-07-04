@@ -22,11 +22,11 @@ So, I decided to try my hand at yet another game using PhaserJS. I've been think
     <a href="http://www.knanthony.com/showcase/clicker/index.html" target="blank">
       <img
         sizes="(max-width: 810px) 100vw, 810px"
-        srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/screencapture-preview-c9users-io-anthkris-maker-click-index-html.png 203w,
-                http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/screencapture-preview-c9users-io-anthkris-maker-click-index-html.png 405w,
-                http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/screencapture-preview-c9users-io-anthkris-maker-click-index-html.png 810w,
-                http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/screencapture-preview-c9users-io-anthkris-maker-click-index-html.png 1215w"
-        src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/screencapture-preview-c9users-io-anthkris-maker-click-index-html.png"
+        srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/screencapture-preview-c9users-io-anthkris-maker-click-index-html.png 203w,
+                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/screencapture-preview-c9users-io-anthkris-maker-click-index-html.png 405w,
+                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/screencapture-preview-c9users-io-anthkris-maker-click-index-html.png 810w,
+                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/screencapture-preview-c9users-io-anthkris-maker-click-index-html.png 1215w"
+        src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/screencapture-preview-c9users-io-anthkris-maker-click-index-html.png"
         alt="game screenshot" />
       <figcaption>Try the Game!</figcaption>
     </a>

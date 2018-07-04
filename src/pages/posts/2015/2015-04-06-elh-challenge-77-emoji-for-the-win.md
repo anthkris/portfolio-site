@@ -33,11 +33,11 @@ Like I wrote above, I wanted to tell a little story and I loved that Emoji Dick 
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/audacityequalization.png 203w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/audacityequalization.png 405w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/audacityequalization.png 810w,
-            http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/audacityequalization.png 1215w"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/audacityequalization.png"
+    srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/audacityequalization.png 203w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/audacityequalization.png 405w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/audacityequalization.png 810w,
+            https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/audacityequalization.png 1215w"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/audacityequalization.png"
     alt="Audacity UI" />
   <figcaption>Using Audacity</figcaption>
 </figure>
@@ -47,14 +47,14 @@ Like I wrote above, I wanted to tell a little story and I loved that Emoji Dick 
 Last but not least, here's the emoji story. Enjoy!
 
 <figure>
-  <a href="http://knanthony.com/showcase/emoji/story.html" target="blank">
+  <a href="/showcase/emoji/story.html" target="blank">
     <img
       sizes="(max-width: 810px) 100vw, 810px"
-      srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/EmojiScreenshot.png 203w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/EmojiScreenshot.png 405w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/EmojiScreenshot.png 810w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/EmojiScreenshot.png 1215w"
-      src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/EmojiScreenshot.png"
+      srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/EmojiScreenshot.png 203w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/EmojiScreenshot.png 405w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/EmojiScreenshot.png 810w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/EmojiScreenshot.png 1215w"
+      src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/EmojiScreenshot.png"
       alt="My emoji story" />
   </a>
   <figcaption>Click on the Screenshot to View the Demo</figcaption>

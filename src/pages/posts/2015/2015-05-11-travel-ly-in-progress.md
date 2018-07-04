@@ -12,7 +12,7 @@ I didn't spend nearly as long as I should have liked to on my GDS Challenge this
 <figure>
   <img
     sizes="(max-width: 810px) 100vw, 810px"
-    src="http://res.cloudinary.com/dhdaswa6t/image/upload/v1530396697/blog/travellydemo.gif"
+    src="https://res.cloudinary.com/dhdaswa6t/image/upload/v1530396697/blog/travellydemo.gif"
     alt="Travelly course demo functionality" />
 </figure>
 

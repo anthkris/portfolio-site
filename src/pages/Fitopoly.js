@@ -10,7 +10,7 @@ const Fitopoly = () =>
     clients='Learning Experience Designer and Developer'
     tool='Articulate Storyline 2'
     time='About 25 hours'
-    projectLink='http://knanthony.com/showcase/Fitopoly/story.html'
+    projectLink='/showcase/Fitopoly/story.html'
     job='LX Design, eLearning Development, Graphic Design, Animated Video, Conceptualising Ideas and Prototyping'
     />
       <div className='ph3 center mw8'>
@@ -25,13 +25,13 @@ const Fitopoly = () =>
           <div className='w-100 w-50-ns fl'>
             <img
               className='mt3'
-              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/Fitopoly/FitopolyResults.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/Fitopoly/FitopolyResults.webp"
               alt="Research phase to suss out what users want" />
           </div>
           <div className='w-100 w-50-ns fr'>
             <img
               className='mt3'
-              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/Fitopoly/FitopolyResults.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/Fitopoly/FitopolyResults.webp"
               alt="Results phase after testingt" />
           </div>
         </section>

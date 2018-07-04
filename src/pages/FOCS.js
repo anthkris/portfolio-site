@@ -19,13 +19,13 @@ const FOCS = () =>
           <div className='w-100'>
             <img
               className='mt3'
-              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/FOCS/FOCSCanvasSecond.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/FOCS/FOCSCanvasSecond.webp"
               alt="Accordion in Canvas" />
           </div>
           <div className='w-100'>
             <img
               className='mt3'
-              src="http://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/FOCS/FOCSCanvas.webp"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/dpr_auto,q_60/v1530723812/portfolio/FOCS/FOCSCanvas.webp"
               alt="Games and Mobile Module in Canvas" />
           </div>
         </section>

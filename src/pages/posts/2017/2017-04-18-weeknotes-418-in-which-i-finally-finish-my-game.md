@@ -26,11 +26,11 @@ Work, as I've said, has been really kicking my butt, so I haven't had a ton of t
   <a href="https://anthkris.itch.io/Campaign" target="blank">
     <img
       sizes="(max-width: 810px) 100vw, 810px"
-      srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2017-04-16-at-3.46.47-PM.png 203w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2017-04-16-at-3.46.47-PM.png 405w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-04-16-at-3.46.47-PM.png 810w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2017-04-16-at-3.46.47-PM.png 1215w"
-      src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-04-16-at-3.46.47-PM.png"
+      srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2017-04-16-at-3.46.47-PM.png 203w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/Screen-Shot-2017-04-16-at-3.46.47-PM.png 405w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-04-16-at-3.46.47-PM.png 810w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Screen-Shot-2017-04-16-at-3.46.47-PM.png 1215w"
+      src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Screen-Shot-2017-04-16-at-3.46.47-PM.png"
       alt="game screenshot" />
     <figcaption>Play the game!</figcaption>
   </a>
@@ -42,11 +42,11 @@ I'm also working on an iteration 1.0 of an xAPI-enabled game with [Craig Wiggins
   <a href="http://www.knanthony.com/showcase/budget-game/BudgetStory2.html" target="blank">
     <img
       sizes="(max-width: 810px) 100vw, 810px"
-      srcset="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html.png 203w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html.png 405w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html.png 810w,
-              http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html.png 1215w"
-      src="http://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html.png"
+      srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html.png 203w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530396697/blog/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html.png 405w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html.png 810w,
+              https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html.png 1215w"
+      src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/screencapture-file-Users-anthkris-Documents-City-20Budget-20Game-BudgetStory2-html.png"
       alt="game screenshot for twine game" />
     <figcaption>Playtesters needed!</figcaption>
   </a>
