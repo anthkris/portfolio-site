@@ -8,7 +8,7 @@ import FieldNotes from "../components/images/DeathInvestigation/field_notesslide
 const DeathInvestigation = () =>
   <div className='pt5 case-study'>
     <CaseStudyAbout
-    about='Death Investigation Online was a course converted from one of the popular face-to-face courses into an asychronous online course using Moodle and Lectora Inspire. This course has become one of the most successful courses in the Public Safety and Security division, gaining 4,000 registrants within six months of its release.'
+    about='Death Investigation Online is immersive, interactive professional development converted from one of the popular face-to-face courses into an asychronous online course using Moodle and Lectora Inspire.'
     role='I took on the roles of instructional designer, graphic designer, and elearning developer for this project.'
     clients='Learning Experience Designer and Developer'
     job='LX Design, eLearning, Development, Grahic Design, Coding, Conceptualising Ideas and Prototyping'
@@ -18,8 +18,7 @@ const DeathInvestigation = () =>
           <div className='w-100 fl'>
             <h2 className='fw3'>Immersive Scenarios</h2>
             <div className='bg-accent' style={{width: '40px', height:'4px' }}> </div>
-           <p className='fw3 mt4'>
-During the development of this course, I was able to more fully realize some of the best-practices of course design. An overarching murder case with the participants as the death investigator put all of the lessons in context, allowing participants to apply their new knowledge to different case-related problems.</p>
+           <p className='fw3 mt4'>During the development of this course, I was able to more fully realize some of the best-practices of course design. An overarching murder case with the participants as the death investigator put all of the lessons in context, allowing participants to apply their new knowledge to different case-related problems.</p>
           </div>
           <div className='w-100 w-50-ns fl'>
             <img className='mt3' src={ModuleTitle} alt='Death Investigation Module Title Page'/>

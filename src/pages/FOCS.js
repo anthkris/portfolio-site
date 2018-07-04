@@ -6,7 +6,7 @@ import Canvas2 from "../components/images/FOCS/FOCSCanvasSecond.png";
 const FOCS = () =>
   <div className='pt5 case-study'>
     <CaseStudyAbout
-    about='Foundations of Computer Science is professional development MOOC purpose-built to help Texas educators become certified to teach computer science by preparing for certification exams and modeling good teaching.'
+    about='Foundations of Computer Science is professional development MOOC purpose-built to help Texas educators become certified to teach computer science by preparing for certification exams and modeling good teaching practices.'
     role='I was the lead instructional designer, graphic designer, and elearning developer, and game developer for this project.'
     clients='Learning Experience Designer and Developer'
     job='LX Design, eLearning Development, Coding, Game Development, Documentation, Conceptualising Ideas and Prototyping'
@@ -17,7 +17,6 @@ const FOCS = () =>
             <h2 className='fw3'>Learning Experience Design</h2>
             <div className='bg-accent' style={{width: '40px', height:'4px' }}> </div>
             <p className='fw3 mt4'>We_TeachCS kicked off in January 2016 in a whirlwind of activity. Learning Sciences was brought on, initially simply to provide input on a pattern that our clients could use in creating their MOOC to help Texas Educators become certified to teach computer science. But, of course, we didn’t stop there. After taking some time to really try and understand the purpose of the course, I and my colleagues embarked on the task of using evidence-based techniques to elevate this course from the standard MOOC (often described as taking the worst part of University, the lecture, and putting it out there) into a focused course full of varied media, including psuedocode simulations, video, text and diagrams; modeling of good instructional techniques and ideas that teachers could use as their own in the classroom, as well as tons of opportunities to actually practice the computer science concepts they would be confronted with on the certification exam.</p>
-            <p className='fw3 mt4'> Launching for the first time in June 2016, increased the reach of the We_TeachCS program from around 140 participants in their face-to-face workshops to 750 signed up for this MOOC, completing rocketing past client expectations. Over time, the course has continued to bring in hundreds of students in every offering. </p>
           </div>
           <div className='w-100'>
             <img className='mt3' src={Canvas2} alt='Accordion in Canvas'/>
@@ -30,7 +29,7 @@ const FOCS = () =>
           <div className='w-100'>
             <h2 className='fw3'>Custom Interaction Development</h2>
             <div className='bg-accent' style={{width: '40px', height:'4px' }}> </div>
-            <p className='fw3 mt4'>As the course has grown and aged, we've continued to keep the content up to date with the certification exam by adding more interactions. In the interested of sustainability and responsiveness, I began creating interactions using the Phaser JS HTML5 framework. This open source framework outputs clean, standard code using the HTML5 canvas so the interactions are usable on all devices.</p>
+            <p className='fw3 mt4'>As the course has grown and aged, we've continued to keep the content up to date with the certification exam by adding more subject areas and more engaging interactions. In the interest of sustainability and responsiveness, I began creating interactions using the Phaser JS HTML5 framework. This open source framework outputs clean, standard code using the HTML5 canvas so the interactions are usable on all devices.</p>
           </div>
           <div className='w-100'>
             <video className='mt3' src="https://res.cloudinary.com/dhdaswa6t/video/upload/v1530503736/portfolio/FOCSRobotSim.mp4" width="100%" controls>

@@ -10,7 +10,7 @@ import BACScaffold from "../components/images/FIVS123/BAC_is_Right.min.png";
 const FIVS123 = () =>
   <div className='pt5 case-study'>
     <CaseStudyAbout
-    about='FIVS123 Introduction to Forensics is a synchronous online course in development for Texas A&M University students by TEEX. I concentrated on using Moodle LMS to its full capacity, integrating Moodle lessons and activities with HTML and SCORM activities created in Lectora.'
+    about='FIVS123 Introduction to Forensics is a synchronous online course in development for Texas A&M University students by TEEX. I concentrated on using Moodle LMS to its full capacity, integrating readings with engaging, scenario-based learning experiences.'
     role='I was the lead instructional designer, graphic designer, and elearning developer on a team of two for this project.'
     clients='Learning Experience Designer and Developer'
     job='LX Design, eLearning Development, Coding, Conceptualising Ideas and Prototyping'
