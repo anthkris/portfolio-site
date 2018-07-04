@@ -15,8 +15,8 @@ class PersonalCaseStudyAbout extends React.Component {
               <p className='dib fw3 pr5-ns ma0 '>{this.props.role}</p>
               <h3 className='fw5'>Made With</h3>
               <p className='dib fw3 pr5-ns ma0'>{this.props.tool}</p>
-              <h3 className='fw3 '>Time in Development</h3>
-              <p className='dib fw3 pr5-ns ma0'>{this.props.time}</p>
+              <h3 className='fw3'>Time in Development</h3>
+              <p className='fw3 pr5-ns pb4'>{this.props.time}</p>
               <a className='case-study-button' href={this.props.projectLink} target="_blank">View the Project</a>
             </div>
             <div className='w-50-ns w-100 dib'>
