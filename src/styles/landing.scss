@@ -1,3 +1,16 @@
+#landing {
+  .hire-me {
+    color: #ea3257;
+    font-size: 1.4em;
+    font-weight: bold;
+    padding: 0.8em 0;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
 .about-me,
 .secondary-text {
   font-size: 1.17em;
