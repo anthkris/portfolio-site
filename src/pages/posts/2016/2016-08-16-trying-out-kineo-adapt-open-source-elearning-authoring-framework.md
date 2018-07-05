@@ -80,7 +80,7 @@ I'd be remiss without citing my sources for content (I know nothing about bikes)
 I created an onboarding-inspired, bite-sized course for an imaginary hipster, bespoke bicycle company. Check it out and let me know what you think!
 
 <figure>
-  <a href="/showcase/candvbikes" target="blank">
+  <a href="/showcase/candvbikes/index.html#/id/co-05" target="blank">
     <img
     sizes="(max-width: 810px) 100vw, 810px"
     srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Screen-Shot-2016-08-08-at-10.21.49-PM.png 203w,
