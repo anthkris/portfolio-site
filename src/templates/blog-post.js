@@ -5,6 +5,7 @@ import Img from 'gatsby-image';
 import kebabCase from "lodash/kebabCase";
 import { DiscussionEmbed } from "disqus-react";
 import "katex/dist/katex.min.css";
+import "prismjs/themes/prism-twilight.css";
 
 import '../styles/blog-post.scss';
 
