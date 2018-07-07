@@ -47,18 +47,18 @@ const UTakeIt = () =>
           <div className='w-40-l w-60-ns w-100 fl'>
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItTabletEvents"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItTabletEvents"
               alt="Easy to use filtering on mobile" />
           </div>
         </section>
         <section className='mt5 dib'>
           <img
             className='mt3'
-            src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItProductFilter"
+            src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItProductFilter"
             alt="Product page with filter" />
             <img
               className='mt3'
-              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeIt/UTakeItHomePage"
+              src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723812/portfolio/UTakeIt/UTakeItHomePage"
               alt="UTakeIt Home Page" />
         </section>
       </div>
