@@ -57,7 +57,7 @@ export default function Blog({ data, pathContext }) {
   }
 
   return (
-    <div className="blog-posts">
+    <div className="blog-posts center mw8 db ph3">
       <h1>The Latest</h1>
       {posts.map(({ node }) => (
         <Link key={node.id} to={node.frontmatter.path}>

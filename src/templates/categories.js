@@ -12,7 +12,7 @@ const Categories = ({ pathContext, data }) => {
   } categorized with "${category}"`;
 
   return (
-    <div className='pt3 pb5'>
+    <div className='center mw8 db ph3 pt3 pb5'>
       <h1>{categoryHeader}</h1>
       <ul>
         {edges.map(({ node }) => {
