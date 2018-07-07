@@ -9,7 +9,7 @@ import IDQuestions from "./images/preview/ID-questions.svg";
 class Playground extends React.Component {
   render() {
     return (
-      <section className='center mw8 db ph3'>
+      <section>
         <h1 className='fw3 mt5'>LXD Resources</h1>
         <p className='ma0 pa0 fw3 secondary-text'>I've created a number of open source resources for other ID/LXD newbies, all available for free.</p>
         <div className='pt3 db'>

@@ -6,7 +6,7 @@ import WorkTileOut from './WorkTileOut';
 class Work extends React.Component {
   render() {
     return (
-    <section className="center mw8 db ph3">
+    <section>
         <h1 className='fw3 f2 mb4'>Recent Works</h1>
         <WorkTile title='UTakeIT' info='Web Application' summary='UTakeIt is a platform built from the ground up for the University of Texas STEM Center to market and sell their professional development offerings.' img='https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723544/portfolio/preview/UTakeItMobile' link='/utakeit'/>
         <WorkTile title='Foundations of Computer Science' info='MOOC' summary='Foundations of Computer Science is MOOC to help Texas Educators become certified to teach computer science.' img='https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723544/portfolio/preview/FOCS' link='/FOCS'/>
