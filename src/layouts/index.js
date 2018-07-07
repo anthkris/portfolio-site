@@ -63,7 +63,7 @@ const TemplateWrapper = ({ children }) =>
      text='skip to main content'
      targetDomId='main-content'/>
     <Header />
-    <div id="main-content" className=''>
+    <div id="main-content" className="center mw8 db ph3">
       {children()}
     </div>
   </div>

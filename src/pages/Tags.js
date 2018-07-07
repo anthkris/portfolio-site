@@ -18,7 +18,7 @@ const TagsPage = ({
 }) => (
   <div>
     <Helmet title={title} />
-    <div className='center mw8 db ph3 pt3 pb5'>
+    <div className='pt3 pb5'>
       <h1>Posts by Tag</h1>
       <ul>
         {group.map(tag => (

@@ -3,7 +3,7 @@ import Link from 'gatsby-link';
 import '../styles/how.scss';
 
 const HowIWork = () =>
-  <div id="how-i-work" className='center mw8 db ph3 pt3 pb5'>
+  <div id="how-i-work" className='pt3 pb5'>
     <h1>How I Work</h1>
     <h2>Going Under the Hood</h2>
     <h3 className="focus-text">I focus on creating meaningful learning experiences by focusing on the right tools for the job.</h3>
