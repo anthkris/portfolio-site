@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import { Route, Redirect, Switch } from 'react-router';
+import { Route, Redirect } from 'react-router';
 import SearchResultsPage from '../pages/Results.js';
 import '../styles/search.scss';
  
 // Search component
 export default class Search extends Component {
-    constructor(props) {
-        super(props)
+    constructor(props, context) {
+        super(props, context)
         this.state = {
             query: ``,
             results: [],
@@ -40,6 +40,10 @@ export default class Search extends Component {
  
     render() {
         const redirect = this.state.redirect; 
+        if(window.location.pathname.indexOf("blog") === -1) {
+            return null;
+        }
+
         if( redirect ) {
             return <Redirect to={{
                             pathname: '/results',
