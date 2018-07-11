@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Route, Redirect, Switch } from 'react-router';
 import SearchResultsPage from '../pages/Results.js';
+import SearchIcon from 'react-feather/dist/icons/search';
 import '../styles/search.scss';
  
 // Search component
@@ -47,12 +48,21 @@ export default class Search extends Component {
                         }} />; 
         }   
         return (
-            <div className="pt2 flex justify-end-l justify-center search pa3 border-box">
-                <form onSubmit={this.onSubmitHandler}>
-                    <label>
-                        Search 
-                        <input type="text" value={this.state.query} onChange={this.search} placeholder="find posts"/>
-                    </label>
+            <div className="pt2 search pa3 flex justify-end-l justify-center">
+                <form className="SearchBox" onSubmit={this.onSubmitHandler}>
+                    <div className="Field Field--is-search">
+                        <input 
+                            type="search"
+                            name="search"
+                            placeholder="Search Posts"
+                            value={this.state.query}
+                            onChange={this.search}
+                            className="SearchBox-query"/>
+
+                        <button
+                            type="submit"
+                            className="Btn SearchBox-submitBtn dn flex-ns">Search</button>
+                        </div>
                 </form>
             </div>
         )

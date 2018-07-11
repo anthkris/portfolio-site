@@ -20,7 +20,7 @@ class SearchResultsPage extends React.Component {
       <div className='center mw8 db ph3 pt3 pb5' aria-live="polite">
         <h1>Search Results</h1>
         {
-          (this.props.location.state.results.length === 0)
+          (this.props.location.state === undefined || this.props.location.state.results.length === 0)
           ? <p>No results found</p>
           :<div> 
             <p>{this.props.location.state.results.length} result(s) found</p>

@@ -310,6 +310,15 @@ progress {
   font-feature-settings: "ss03";
 }
 
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('fa-solid-900.eot'); /* IE9 Compat Modes */
+  src: url('fa-solid-900.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fa-solid-900.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fa-solid-900.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fa-solid-900.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
 
 html {
   font-family: EuclidFlex;
