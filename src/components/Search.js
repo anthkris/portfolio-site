@@ -40,9 +40,11 @@ export default class Search extends Component {
  
     render() {
         const redirect = this.state.redirect;
-        
+
         if(typeof window !== 'undefined' && window.location.pathname.indexOf("blog") === -1) {
-            return null;
+            if (window.location.pathname.indexOf("results") === -1 ) {
+                return null;
+            }
         }
 
         if( redirect ) {
