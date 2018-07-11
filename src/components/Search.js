@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Route, Redirect, Switch } from 'react-router';
 import SearchResultsPage from '../pages/Results.js';
-import SearchIcon from 'react-feather/dist/icons/search';
 import '../styles/search.scss';
  
 // Search component
