@@ -5,7 +5,7 @@ import Helmet from 'react-helmet';
 import './index.css';
 import SkipNav from 'react-skip-nav';
 import "react-skip-nav/lib/style.css";
-
+import Search from '../components/Search.js';
 
 const Header = () =>
    <nav className='mw8 db center'>
@@ -17,6 +17,7 @@ const Header = () =>
         <a className="link dib mr3 hover-black" href="/blog">Blog</a>
       </div>
     </div>
+    <Search />
   </nav>
 
 const TemplateWrapper = ({ children }) =>
