@@ -1,10 +1,15 @@
-# gatsby-starter-default
+# K. Anthony Portfolio Site
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
+This site was ported over from WordPress and is build on Gatsby JS.
 
-## Deploy
+The base design was taken from the MIT licensed portfolio of James Ciclitira: https://github.com/james-ciclitira/portfolio-site
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+## New Functionality
+
+While the main page design was taken from James, I've added a couple of other pieces of functionality.
+
+- Full-text blog post search
+- Paginated blog home
+- Blog posts
+- Larger body font size
+- Skip navigation link and other accessibility fixes
