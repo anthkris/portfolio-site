@@ -1,8 +1,8 @@
 ---
 title: '#DearID Episode 49: Season 4 Opener'
 path: "/blog/dearid-episode-49-season-4-freelance-journey"
-date: '2018-07-05'
-featured: "https://res.cloudinary.com/dhdaswa6t/image/upload/v1531957213/blog/featured/My_Freelance_Journey.png"
+date: '2018-07-19'
+featured: "../featured/My-Freelance-Journey.png"
 categories: ["Dear ID Show", "elearning"]
 tags: ["season opener", "freelancing", "freelance", "DearID"]
 ---
