@@ -9,7 +9,7 @@ tags: ["season opener", "freelancing", "freelance", "DearID"]
 
 In this episode, we start the long-awaited Season 4. The theme this season is freelancing as an instructional designer and we start by talking about the highs and lows of my freelance journey.
 
-Be sure to check out a transcript of the episode below the player.
+Be sure to check out a transcript of the episode below the player. And the shownotes are here: [https://simplecast.com/s/25221b84](https://simplecast.com/s/25221b84)
 
 <iframe frameBorder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/25221b84?color=f5f5f5' width='100%'></iframe>
 
