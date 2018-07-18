@@ -15,7 +15,7 @@ You guys know the drill by now. I'm working on several personal projects at home
 
 ## Expenses
 
-I use Simplecast to host the episodes ($12/mo.), and I also have a web domain for the main show site ($107/year). There was some upfront costs for recording equipment, but on the whole, costs have been low. However, outsourcing the editing is raising the monthly cost for the show considerably. So that is something for me to consider over time. I'm not super keen on the idea of having sponsors, but I know that when I listen to a show, I totally get why they have them! There's definitely costs involved, especially when you're a solo outfit and the show isn't tied to your business.
+I use Simplecast to host the episodes (<span>$</span>12/mo.), and I also have a web domain for the main show site (<span>$</span>107/year). There was some upfront costs for recording equipment, but on the whole, costs have been low. However, outsourcing the editing is raising the monthly cost for the show considerably. So that is something for me to consider over time. I'm not super keen on the idea of having sponsors, but I know that when I listen to a show, I totally get why they have them! There's definitely costs involved, especially when you're a solo outfit and the show isn't tied to your business.
 
 ### Some Stats
 
