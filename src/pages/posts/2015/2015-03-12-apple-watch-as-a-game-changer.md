@@ -11,7 +11,7 @@ I'm sure there will be a ton of such articles out over the next week or so but I
 
 ## Does the Apple Watch Solve a Problem?
 
-<iframe src="http://www.fastcompany.com/embed/61c3bc20668c0?rel=1&amp;src=embed&amp;veggiemode=1" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.fastcompany.com/embed/61c3bc20668c0?rel=1&amp;src=embed&amp;veggiemode=1" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
 Texts? Check. Read and reply to email? Check. Track your steps, calories, and other health info? Check. Help you check the weather? Check. Help you check where you are and how far to your destination? Check. Guess what? This is all stuff your smartphone or tablet can do now. Oh, and the Apple Watch, too. Like I said, buyers gonna buy. But it does call into question whether the watch will really catch on with people who are more discerning than folks who just like to have the latest gadget and, in turn, whether we should spend our time trying to build websites or learning experiences for this particular device and screen size. I don't see it. Unless we're trying to take down Dr. Claw. In that situation... yeah, it totally solves a problem.
 

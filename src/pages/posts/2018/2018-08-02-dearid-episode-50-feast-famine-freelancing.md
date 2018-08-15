@@ -4,7 +4,7 @@ path: "/blog/dearid-episode-50-feast-famine-freelancing"
 date: '2018-08-02'
 featured: "../featured/Feast-and-Famine-and-Freelancing.png"
 categories: ["Dear ID Show", "elearning"]
-tags: ["season opener", "freelancing", "freelance", "DearID"]
+tags: ["freelancing", "freelance", "DearID"]
 ---
 
 In this episode, I try my hand at answering one of the toughest questions around becoming a freelancer: How does that whole feast and famine cycle work?
