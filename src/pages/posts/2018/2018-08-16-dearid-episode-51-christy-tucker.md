@@ -1,5 +1,5 @@
 ---
-title: '#DearID Episode 50: Feast and Famine and Freelancing'
+title: '#DearID Episode 51: Interview with Christy Tucker'
 path: "/blog/dearid-episode-51-christy-tucker"
 date: '2018-08-16'
 featured: "../featured/twitter.jpg"
