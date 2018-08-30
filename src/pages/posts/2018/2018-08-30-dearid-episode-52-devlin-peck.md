@@ -13,4 +13,4 @@ As always, shownotes are here: [https://simplecast.com/s/2513ae6e](https://simpl
 
 <iframe frameBorder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/2513ae6e?color=f5f5f5' width='100%'></iframe>
 
-Be sure to reach out to Devlin to show her some love for sharing her journey with us. She's [@DevPeck on Twitter](https://twitter.com/devpeck) and her blog is [http://www.devlinpeck.com/](http://www.devlinpeck.com/)
+Be sure to reach out to Devlin to show him some love for sharing his journey with us. He's [@DevPeck on Twitter](https://twitter.com/devpeck) and his blog is [http://www.devlinpeck.com/](http://www.devlinpeck.com/)
