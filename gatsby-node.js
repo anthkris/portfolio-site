@@ -1,8 +1,8 @@
 const path = require('path');
 const _ = require('lodash');
 
-exports.createPages = ({ actions, graphql }) => {
-  const { createPage } = actions;
+exports.createPages = ({ boundActionCreators, graphql }) => {
+  const { createPage } = boundActionCreators;
   const pageSize = 12;
   const blogIndexTemplate = path.resolve(`src/templates/Blog.js`);
   const blogPostTemplate = path.resolve(`src/templates/blog-post.js`);
