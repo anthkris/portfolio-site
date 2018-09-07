@@ -1,6 +1,5 @@
 import React from 'react';
 import WorkTile from './WorkTile';
-import WorkTileOut from './WorkTileOut';
 
 
 class Work extends React.Component {

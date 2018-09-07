@@ -1,24 +1,8 @@
 import React from 'react';
-import PropTypes from 'prop-types';
-import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
-import './index.css';
 import SkipNav from 'react-skip-nav';
+import Header from './Header';
 import "react-skip-nav/lib/style.css";
-import Search from '../components/Search.js';
-
-const Header = () =>
-   <nav className='mw8 db center'>
-    <div className="dt-l w-100 border-box pa3 pt4 ttu f6">
-      <Link className="db dtc-l v-mid link hover-neon tc tl-l mb0-l mb2 " to="/" title="Home">K. Anthony</Link>
-      <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
-        <a className="link dib mr3 hover-black" href="/HowIWork">Hire Me</a>
-        <a className="link dib mr3 hover-black" href="/ContactMe">Contact</a>
-        <a className="link dib mr3 hover-black" href="/blog">Blog</a>
-      </div>
-    </div>
-    <Search />
-  </nav>
 
 const TemplateWrapper = ({ children }) =>
   <div>
@@ -65,12 +49,8 @@ const TemplateWrapper = ({ children }) =>
      targetDomId='main-content'/>
     <Header />
     <div id="main-content" className="center db">
-      {children()}
+      {children}
     </div>
   </div>
 
-TemplateWrapper.propTypes = {
-  children: PropTypes.func,
-}
-
-export default TemplateWrapper
+export default TemplateWrapper;
