@@ -1,22 +1,14 @@
 import React from "react";
 import Link from "gatsby-link";
-import get from "lodash/get";
-import Helmet from "react-helmet";
 import BlogTile from '../components/BlogTile.js';
+import Layout from "../components/layout";
+import { graphql } from 'gatsby';
 
 import '../styles/blog-listing.scss';
 
-const NavLink = props => {
-  if (!props.test) {
-    return <Link to={props.url}>{props.text}</Link>;
-  } else {
-    return <span>{props.text}</span>;
-  }
-};
-
-export default function Blog({ data, pathContext }) {
+export default function Blog({ data, pageContext }) {
   const { edges: posts } = data.allMarkdownRemark;
-  const { currentPage, pageSize, pageSkip, pagesTotal } = pathContext;
+  const { currentPage, pagesTotal } = pageContext;
   let nextPage;
   let prevPage;
 
@@ -57,19 +49,21 @@ export default function Blog({ data, pathContext }) {
   }
 
   return (
-    <div className="blog-posts center mw8 db ph3">
-      <h1>The Latest</h1>
-      {posts.map(({ node }) => (
-        <Link key={node.id} to={node.frontmatter.path}>
-          <BlogTile title={node.frontmatter.title} info={node.frontmatter.date} summary={node.excerpt} imgSizes={node.frontmatter.featured.childImageSharp.sizes} />
-        </Link>
-      ))}
-      <div className="nextPrevLinks">
-        {prevPage}
-        {pagesLinks}
-        {nextPage}
+    <Layout>
+      <div className="blog-posts center mw8 db ph3">
+        <h1>The Latest</h1>
+        {posts.map(({ node }) => (
+          <Link key={node.id} to={node.frontmatter.path}>
+            <BlogTile title={node.frontmatter.title} info={node.frontmatter.date} summary={node.excerpt} imgSizes={node.frontmatter.featured.childImageSharp.sizes} />
+          </Link>
+        ))}
+        <div className="nextPrevLinks">
+          {prevPage}
+          {pagesLinks}
+          {nextPage}
+        </div>
       </div>
-    </div>
+    </Layout>
   );
 }
 

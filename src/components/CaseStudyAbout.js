@@ -12,7 +12,7 @@ class CaseStudyAbout extends React.Component {
           <div className='pb3-ns pb3'>
             <div className='w-50-ns w-100 v-top dib'>
               <h2 className='fw3 '>Role Summary</h2>
-              <p className='dib fw3 pr5-ns ma0 '>{this.props.role}</p>
+              <p className='dib fw3 pr5-ns ma0 '>{this.props.projectRole}</p>
             </div>
             <div className='w-50-ns w-100 dib'>
               <h2 className='fw3'>Job Title</h2>
@@ -29,7 +29,7 @@ class CaseStudyAbout extends React.Component {
 
 CaseStudyAbout.propTypes = {
   about: PropTypes.string.isRequired,
-  role: PropTypes.string.isRequired,
+  projectRole: PropTypes.string.isRequired,
   clients: PropTypes.string.isRequired,
   job: PropTypes.string.isRequired,
 

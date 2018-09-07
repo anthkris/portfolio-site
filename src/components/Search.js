@@ -1,91 +1,48 @@
+// Search component
 import React, { Component } from 'react';
-import { Route, Redirect } from 'react-router';
-import SearchResultsPage from '../pages/Results.js';
+import { Link } from 'gatsby';
 import '../styles/search.scss';
  
-// Search component
-export default class Search extends Component {
-    constructor(props, context) {
-        super(props, context)
-        this.state = {
-            query: ``,
-            results: [],
-            redirect: false,
-        }
-    }
+class Search extends Component {
+  state = {
+    query: '',
+    results: [],
+  }
 
-    componentDidUpdate(prevProps, prevState) {
-         if (this.state.redirect !== false ) {
-            this.setState(s => {
-                return {
-                    redirect: false
-                }
-            })
-        }
-    }
+  render() {
+    return (
+      <div className={this.props.classNames}>
+        <input className='search__input'
+          type='text' 
+          value={this.state.query} 
+          onChange={this.search} 
+          placeholder={'Search'}
+        />
+        <ul className='search__list'>
+          {this.state.results.map((page) => (
+          <li key={page.url}>
+            <Link className='search__list_white search__list_non-decoration'
+              to={page.url}>
+              {page.title}
+            </Link>
+          </li>
+          ))}
+        </ul>
+      </div>
+    )
+  }
 
-    onSubmitHandler = (event) => {
-        event.preventDefault();
-        const query = this.state.query;
-        const results = this.getSearchResults(query);
-        this.setState(s => {
-            return {
-                results,
-                query: ``,
-                redirect: true
-            }
-        })
-        event.currentTarget.reset();
-    }
- 
-    render() {
-        const redirect = this.state.redirect;
+  getSearchResults(query) {
+    if (!query || !window.__LUNR__) return []
+    const results = window.__LUNR__.index.search(query)
+    return results.map(({ ref }) => window.__LUNR__.store[ref])
+  }
 
-        if(typeof window !== 'undefined' && window.location.pathname.indexOf("blog") === -1) {
-            if (window.location.pathname.indexOf("results") === -1 ) {
-                return null;
-            }
-        }
-
-        if( redirect ) {
-            return <Redirect to={{
-                            pathname: '/results',
-                            state: { results: this.state.results }
-                        }} />; 
-        }   
-        return (
-            <div className="pt2 search pa3 flex justify-end-l justify-center">
-                <form className="SearchBox" onSubmit={this.onSubmitHandler}>
-                    <div className="Field Field--is-search">
-                        <input 
-                            type="search"
-                            name="search"
-                            placeholder="Search Posts"
-                            value={this.state.query}
-                            onChange={this.search}
-                            className="SearchBox-query"/>
-
-                        <button
-                            type="submit"
-                            className="Btn SearchBox-submitBtn dn flex-ns">Search</button>
-                        </div>
-                </form>
-            </div>
-        )
-    }
- 
-    getSearchResults(query) {
-        if (!query || !window.__LUNR__) return []
-        const results = window.__LUNR__.index.search(query)
-        return results.map(({ ref }) => window.__LUNR__.store[ref])
-    }
- 
-    search = event => {
-        const query = event.target.value;
-        this.setState(s => {
-            return {
-                query
-            }
-        })
-    }
+  search = event => {
+    const query = event.target.value
+    const results = this.getSearchResults(query)
+    this.setState({ results, query })
+  }
 }
+
+export default Search;
