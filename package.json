@@ -6,6 +6,7 @@
     "@typeform/embed": "^0.5.10",
     "disqus-react": "^1.0.5",
     "elasticlunr": "^0.9.5",
+    "graphql": "^0.13.2",
     "gatsby": "next",
     "gatsby-image": "next",
     "gatsby-link": "next",
