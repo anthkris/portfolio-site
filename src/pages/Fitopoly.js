@@ -1,10 +1,8 @@
 import React from "react";
 import Link from 'gatsby-link';
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
-import Layout from "../components/layout";
 
 const Fitopoly = () =>
-  <Layout>
     <div className='pt5 case-study'>
       <PersonalCaseStudyAbout
       about='Fitopoly is a serious game project built using Articulate Storyline 2 and animated video trailer built using PowerPoint.'
@@ -51,5 +49,4 @@ const Fitopoly = () =>
           </section>
         </div>
     </div>
-  </Layout>
 export default Fitopoly;

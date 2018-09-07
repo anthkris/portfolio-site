@@ -1,9 +1,7 @@
 import React from "react";
 import CaseStudyAbout from '../components/CaseStudyAbout.js';
-import Layout from "../components/layout";
 
 const DeathInvestigation = () =>
-  <Layout>
     <div className='pt5 case-study'>
       <CaseStudyAbout
       about='Death Investigation Online is immersive, interactive professional development converted from one of the popular face-to-face courses into an asychronous online course using Moodle and Lectora Inspire.'
@@ -52,5 +50,4 @@ const DeathInvestigation = () =>
           </section>
         </div>
     </div>
-  </Layout>
 export default DeathInvestigation;

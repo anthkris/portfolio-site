@@ -1,10 +1,8 @@
 import React from 'react';
 import Link from 'gatsby-link';
-import Layout from "../components/layout";
 import '../styles/how.scss';
 
 const HowIWork = () =>
-  <Layout>
     <div id="how-i-work" className='center mw8 db ph3 pt3 pb5'>
       <h1>How I Work</h1>
       <h2>Going Under the Hood</h2>
@@ -56,6 +54,5 @@ const HowIWork = () =>
       </h3>
 
     </div>
-  </Layout>
 
 export default HowIWork;

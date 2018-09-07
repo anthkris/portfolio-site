@@ -1,10 +1,8 @@
 import React from "react";
 import Link from 'gatsby-link';
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
-import Layout from "../components/layout";
 
 const CVBikes = () =>
-  <Layout>
     <div className='pt5 case-study'>
       <PersonalCaseStudyAbout
       about='Column and Veil Bikes is an exprimental responsive course with an HTML5 game built using the free and open source Adapt Framework.'
@@ -61,5 +59,4 @@ const CVBikes = () =>
           </section>
         </div>
     </div>
-  </Layout>
 export default CVBikes;

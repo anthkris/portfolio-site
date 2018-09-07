@@ -1,11 +1,9 @@
 import React from 'react';
 import Contact from '../components/Contact.js';
 import Social from '../components/Social.js';
-import Layout from "../components/layout";
 
 
 const ContactMe = () =>
-  <Layout>
     <section id="contact-me">
       <div className='center mw8 db ph3 pt3 pb5'>
         <h1>Get at Me</h1>
@@ -18,6 +16,5 @@ const ContactMe = () =>
         <Social />
       </div>
     </section>
-  </Layout>
 
 export default ContactMe;
