@@ -5,17 +5,17 @@
   "dependencies": {
     "@typeform/embed": "^0.5.10",
     "disqus-react": "^1.0.5",
-    "elasticlunr": "^0.9.5",
-    "gatsby": "next",
-    "gatsby-image": "next",
-    "gatsby-link": "next",
-    "gatsby-module-loader": "next",
+    "gatsby": "^1.9.273",
+    "gatsby-image": "^1.0.54",
+    "gatsby-link": "^1.6.34",
+    "gatsby-module-loader": "^1.0.11",
     "gatsby-paginate": "^1.0.16",
     "gatsby-plugin-catch-links": "^1.0.24",
     "gatsby-plugin-lodash": "^1.0.11",
     "gatsby-plugin-lunr": "^0.1.10",
     "gatsby-plugin-manifest": "^1.0.27",
     "gatsby-plugin-netlify": "^1.0.21",
+    "gatsby-plugin-offline": "^1.0.18",
     "gatsby-plugin-react-helmet": "^2.0.3",
     "gatsby-plugin-react-next": "^1.0.11",
     "gatsby-plugin-sass": "^1.0.26",
@@ -33,16 +33,11 @@
     "gatsby-transformer-remark": "^1.7.44",
     "gatsby-transformer-sharp": "^1.6.27",
     "prismjs": "^1.15.0",
-    "react": "^16.5.0",
-    "react-dom": "^16.5.0",
     "react-helmet": "^5.2.0",
     "react-skip-nav": "0.0.12",
     "react-typeform-embed": "^0.1.6",
-    "react-typography": "^0.16.13",
-    "typography": "^0.16.17",
     "typography-theme-elk-glen": "^0.16.9",
-    "typography-theme-grand-view": "^0.15.10",
-    "webpack": "^4.17.2"
+    "typography-theme-grand-view": "^0.15.10"
   },
   "keywords": [
     "gatsby"
@@ -60,6 +55,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "@andrew-codes/gatsby-plugin-elasticlunr-search": "^1.0.4",
     "prettier": "^1.10.2",
     "wpxml2md": "^1.1.3"
   }
