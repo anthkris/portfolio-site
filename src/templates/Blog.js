@@ -47,7 +47,6 @@ export default function Blog({ data, pathContext }) {
   }
 
   return (
-    <Layout>
       <div className="blog-posts center mw8 db ph3">
         <h1>The Latest</h1>
         {posts.map(({ node }) => (
@@ -61,7 +60,6 @@ export default function Blog({ data, pathContext }) {
           {nextPage}
         </div>
       </div>
-    </Layout>
   );
 }
 
