@@ -19,7 +19,7 @@ const UXLX = () =>
           <div className='w-40-l w-100-ns  w-100 fl'>
             <h2 className='fw3'>Udacity Nanodegree</h2>
             <div className='bg-accent' style={{width: '40px', height:'4px' }}> </div>
-            <p className='fw3 mt4'>I was fortunate enough to be selected for a Grow with Google scholarship to complete the Udacity Mobile Web Specialist nanodegree. Besides learning more about building progressive web applications, tooling for web development, ES6, developing for accessibility, and more, the nanodegree was structured such that participants would apply their newfound knowledge to building a restaurant review applicaiton in three parts.</p>
+            <p className='fw3 mt4'>I was fortunate enough to be selected for a Grow with Google scholarship to complete the Udacity Mobile Web Specialist nanodegree. Besides learning more about building progressive web applications, tooling for web development, ES6, developing for accessibility, and more, the nanodegree was structured such that participants would apply their newfound knowledge to building a restaurant review application in three parts.</p>
           </div>
           <div className='w-50-l w-100-ns w-100 img-center fr'>
             <img
