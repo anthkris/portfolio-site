@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 
 // Components
 import Link from "gatsby-link";
-import { graphql } from 'gatsby';
 
 const Categories = ({ pageContext, data }) => {
   const { category } = pageContext;

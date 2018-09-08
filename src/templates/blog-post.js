@@ -5,7 +5,6 @@ import kebabCase from "lodash/kebabCase";
 import { DiscussionEmbed } from "disqus-react";
 import "katex/dist/katex.min.css";
 import "prismjs/themes/prism-twilight.css";
-import { graphql } from 'gatsby';
 
 import '../styles/blog-post.scss';
 
