@@ -4,8 +4,8 @@ import PropTypes from "prop-types";
 // Components
 import Link from "gatsby-link";
 
-const Tags = ({ pageContext, data }) => {
-  const { tag } = pageContext;
+const Tags = ({ pathContext, data }) => {
+  const { tag } = pathContext;
   const { edges, totalCount } = data.allMarkdownRemark;
   const tagHeader = `${totalCount} post${
     totalCount === 1 ? "" : "s"
@@ -34,7 +34,7 @@ const Tags = ({ pageContext, data }) => {
 };
 
 Tags.propTypes = {
-  pageContext: PropTypes.shape({
+  pathContext: PropTypes.shape({
     tag: PropTypes.string.isRequired,
   }),
   data: PropTypes.shape({

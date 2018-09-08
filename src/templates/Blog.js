@@ -1,13 +1,12 @@
 import React from "react";
 import Link from "gatsby-link";
 import BlogTile from '../components/BlogTile.js';
-import { graphql } from 'gatsby';
 
 import '../styles/blog-listing.scss';
 
-export default function Blog({ data, pageContext }) {
+export default function Blog({ data, pathContext }) {
   const { edges: posts } = data.allMarkdownRemark;
-  const { currentPage, pagesTotal } = pageContext;
+  const { currentPage, pagesTotal } = pathContext;
   let nextPage;
   let prevPage;
 
