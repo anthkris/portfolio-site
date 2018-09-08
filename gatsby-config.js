@@ -96,35 +96,33 @@ module.exports = {
     `gatsby-plugin-catch-links`,
     `gatsby-plugin-react-next`,
     {
-        resolve: `gatsby-plugin-lunr`,
-        options: {
-            languages: [
-                {
-                    // ISO 639-1 language codes. See https://lunrjs.com/guides/language_support.html for details
-                    name: 'en'
-                }
-            ],
-            // Fields to index. If store === true value will be stored in index file.
-            // Attributes for custom indexing logic. See https://lunrjs.com/docs/lunr.Builder.html for details
-            fields: [
-              { name: 'title', store: true, attributes: { boost: 20 } },
-              { name: 'tags', store: true },
-              { name: 'categories', store: true },
-              { name: 'content' },
-              { name: 'path', store: true },
-            ],
-            // How to resolve each field's value for a supported node type
-            resolvers: {
-                // For any node of type MarkdownRemark, list how to resolve the fields' values
-                MarkdownRemark: {
-                    title: node => node.frontmatter.title,
-                    content: node => node.rawMarkdownBody,
-                    path: node => node.frontmatter.path,
-                    tags: node => node.frontmatter.tags,
-                    categories: node => node.frontmatter.categories,
-                },
-            },
+      resolve: `gatsby-plugin-lunr`,
+      options: {
+        // ISO 639-1 language codes. See https://lunrjs.com/guides/language_support.html for details
+        languages: ['en'],   
+        // Fields to index. If store === true value will be stored in index file. 
+        // Attributes for custom indexing logic. See https://lunrjs.com/docs/lunr.Builder.html for details
+        fields: [
+          { name: 'title', store: true, attributes: { boost: 20 } },
+          { name: 'tags', store: true },
+          { name: 'categories', store: true },
+          { name: 'content' },
+          { name: 'path', store: true },
+        ],
+        // A function for filtering nodes. () => true by default
+        filterNodes: node => node.frontmatter !== undefined,
+        // How to resolve each field's value for a supported node type
+        resolvers: {
+          // For any node of type MarkdownRemark, list how to resolve the fields' values
+          MarkdownRemark: {
+              title: node => node.frontmatter.title,
+              tags: node => node.frontmatter.tags,
+              categories: node => node.frontmatter.categories,
+              content: node => node.rawMarkdownBody,
+              path: node => node.frontmatter.path,
+          },
         },
+      },
     },
     {
       resolve: `gatsby-plugin-manifest`,
