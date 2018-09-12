@@ -6,7 +6,7 @@ const UTakeIt = () =>
     <div className='pt5 case-study'>
       <CaseStudyAbout
       about='UTakeIt is the fully responsive platform for the University of Texas STEM Center to market and sell face-to-face and online learning experiences and products.'
-      projectRole="I have been the front-end developer and accessibility lead for this project since it's start."
+      projectRole="I have been the front end developer and accessibility lead for this project since it's start."
       clients='Front End Developer and UX Designer'
       job='LX Design, Front End Development, Web Design, UX Design, Documentation, Conceptualising Ideas and Prototyping, Accessibility'
       />
@@ -15,8 +15,8 @@ const UTakeIt = () =>
             <div className='w-40-l w-100-ns  w-100 fl'>
               <h2 className='fw3'>Front End Development</h2>
               <div className='bg-accent' style={{width: '40px', height:'4px' }}> </div>
-              <p className='fw3 mt4'>The University of Texas STEM Center sought to diversify their income streams early in 2017 by creating a series of professional development courses for educators. Along with this, they also wanted a purpose-built web application to help them market and sell these learning experiences. From the very beginning of the project, I have worked with the team as the front-end developer and web designer. </p>
-              <p className='fw3 mt4'>As the project has matured, I have worked to institute best practices and consistent coding practices for the front-end across team members and to document the front-end.</p>
+              <p className='fw3 mt4'>The University of Texas STEM Center sought to diversify their income streams early in 2017 by creating a series of professional development courses for educators. Along with this, they also wanted a purpose-built web application to help them market and sell these learning experiences. From the very beginning of the project, I have worked with the team as the front end developer and web designer. </p>
+              <p className='fw3 mt4'>As the project has matured, I have worked to institute best practices and consistent coding practices for the front end across team members and to document the front end.</p>
             </div>
             <div className='w-20-l w-40-ns w-100 img-center fr'>
               <img

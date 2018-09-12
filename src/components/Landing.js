@@ -13,7 +13,7 @@ class Landing extends React.Component {
         <div className="dib v-top pr0 pa0 tl-ns tc vh-100">
           <div className='w-50-ns w-100 dib mt4 v-top'>
             <h1 style={{letterSpacing:'-0.85px'}} className='f-subheadline-l mt5-ns'>Web Developer and LX Designer</h1>
-            <h2 className='mt4 mb4 fw1 font-1 pr5-ns pr0 about-me' style={{lineHeight: '1.8' }}>Hi I'm Kristin, a Front-end developer and Learning Experience Designer. I help create accessible web applications and meaningful, memorable, and motivational learning experiences with a focus on sustainable, accessible, user-centered design</h2>
+            <h2 className='mt4 mb4 fw1 font-1 pr5-ns pr0 about-me' style={{lineHeight: '1.8' }}>Hi I'm Kristin, a Front End developer and Learning Experience Designer. I help create accessible web applications and meaningful, memorable, and motivational learning experiences with a focus on sustainable, accessible, user-centered design</h2>
             <Link className='hire-me' to='/HowIWork' title='How I Work'>Looking for a good web developer?</Link>
             <Social/>
           </div>
