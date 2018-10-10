@@ -1,5 +1,5 @@
 ---
-title: '#DearID Episode 55: Building a Network'
+title: '#DearID Episode 54: Building a Network'
 path: "/blog/dearid-episode-54-building-a-network"
 date: '2018-09-27'
 featured: "../featured/Building-a-network.png"
