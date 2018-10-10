@@ -1,8 +1,8 @@
 ---
 title: '#DearID Episode 55: Interview with Wes Atkinson'
 path: "/blog/dearid-episode-55-interview-with-wes-atkinson"
-date: '2018-09-27'
-featured: ".../featured/twitter.jpg"
+date: '2018-10-11'
+featured: "../featured/twitter.jpg"
 categories: ["Dear ID Show", "elearning"]
 tags: ["freelancing", "freelance", "DearID", "Evolve", "vendor"]
 ---
