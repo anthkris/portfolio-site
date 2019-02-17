@@ -18,14 +18,14 @@ Many of you will probably be familiar with Twine. I first heard about it way bac
 
 ## My Design and Process
 
-I started the Twine phase of my self-planned curriculum last week. After re-reading several posts from the amazing Emily Short, [[especially the one in which she describes ideas for interactive fiction| https://emshort.blog/2008/03/06/ideas-for-interactive-fiction/]], I settled on making a game where the main mechanic was Conversation. As the player, you would need to converse, flatter, and otherwise dazzle the NPCs (non-playable characters) in the game with your words.
+I started the Twine phase of my self-planned curriculum last week. After re-reading several posts from the amazing Emily Short, [especially the one in which she describes ideas for interactive fiction](https://emshort.blog/2008/03/06/ideas-for-interactive-fiction/), I settled on making a game where the main mechanic was Conversation. As the player, you would need to converse, flatter, and otherwise dazzle the NPCs (non-playable characters) in the game with your words.
 
 ### Process
 I decided to only give myself a week, following the milestones of a writing post that mapped out writing a short story in a week. My focus right now is quantity because I believe that this will give me more experience which each tools I explore, so that I can go faster in the future, and I also believe that the more I make and release, the better I'll get at making engaging games.
 
 Lacking an idea, I also took inspiration from another blog post and the Writer Emergency card deck which suggested taking a well-known story and rewriting it. In the blog post, you are randomly assigned a number and set to a Wikipedia page that lists out each Grimm's Fairy Tale. The number you get matches the number of one of the stories and that's what you try to re-tell.
 
-I got the [[The Ditmarsch Tale of Wonders|https://ebooks.adelaide.edu.au/g/grimm/g86h/chapter160.html]] which isn't really well-known. It's a silly, nonsensical tale that ends with advising the reader/listener to "Open the windows that the lies may fly out." I decided to make a game where the player would need to use a conversation mechanic to convince a group of nobles at a summer evening fete that they were the entirely fictional, noble Ditmarsch from the land of Wonder and become the greatest liar in history. I've named it Le Shyster.
+I got the [The Ditmarsch Tale of Wonders](https://ebooks.adelaide.edu.au/g/grimm/g86h/chapter160.html) which isn't really well-known. It's a silly, nonsensical tale that ends with advising the reader/listener to "Open the windows that the lies may fly out." I decided to make a game where the player would need to use a conversation mechanic to convince a group of nobles at a summer evening fete that they were the entirely fictional, noble Ditmarsch from the land of Wonder and become the greatest liar in history. I've named it Le Shyster.
 
 ### Lessons Learned
 After allowing myself to focus on the mechanic and not the writing, I actually found the beginnings of development went really smoothly. And Twine, as you may have experienced, is a very easy tool to get started with. I defined the conversation mechanic based on Emily Short's description:
