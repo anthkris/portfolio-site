@@ -7,7 +7,7 @@ categories: ["GameDev", "Showing my Work"]
 tags: ["game design", "gameful learning experiences", "Twine", "gameful design"]
 ---
 
-This week, I attempted to scale back my game design ambitions and I, partly, succeeded. After looking a some videos that described the datamap data type in Twine, I wanted to practice with it. I was inspired by Anna Anthropy's Town game, a starter game she made to demonstrate Twine, which is now down, but [I wrote a post on it a while back](https://www.knanthony.com/blog/unconventional-using-google-forms-for-text-based-branching).
+This week, I attempted to scale back my game design ambitions and I, partly, succeeded. After looking a some videos that described the datamap data type in Twine, I wanted to practice with it. I was inspired by Anna Anthropy's Town game, a starter game she made to demonstrate Twine, which is now down, but [I wrote a post on it a while back](/blog/unconventional-using-google-forms-for-text-based-branching).
 
 ## My Design and Process
 
