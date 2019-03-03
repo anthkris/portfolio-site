@@ -1,7 +1,9 @@
 import React from "react"
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
+import Layout from '../components/layout';
 
 const Tribute = () =>
+  <Layout>
     <div className='pt5 case-study'>
       <PersonalCaseStudyAbout
       about='This responsive tribute page was built for the Free Code Camp Front End Certification.'
@@ -29,4 +31,6 @@ const Tribute = () =>
           </section>
         </div>
     </div>
+  </Layout>
+  
 export default Tribute;

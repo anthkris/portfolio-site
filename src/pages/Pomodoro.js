@@ -1,7 +1,10 @@
 import React from "react";
-import Link from 'gatsby-link';
+import {Link} from 'gatsby';
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
+import Layout from '../components/layout';
+
 const Pomodoro = () =>
+  <Layout>
     <div className='pt5 case-study'>
       <PersonalCaseStudyAbout
       about='A web-based pomodoro timer for all you productivity fans!'
@@ -19,6 +22,7 @@ const Pomodoro = () =>
               <div className='bg-accent' style={{width: '40px', height:'4px' }}> </div>
               <p className='fw3 mt4'>As a professional, I've found the pomodoro technique to be an absolute lifesaver, especially on those days where motivation to work is low. As a part of the Free Code Camp Front End certification, I built this web-based pomodoro timer with features to set your own session and break intervals; pause, resume, and stop the timer; and a really nifty tomato progress bar animation!</p>
               <Link className="case-study-link" to="/blog/december-gds-project-pomodoro-timer" title="More on how I built the Pomodoro Timer">Read more about the app development.</Link>
+              <p className='fw3 mt4'>More recently, I went back through the FCC curriculum and remade the Pomodoro timer from scratch using React JS. You can <a className="case-study-link" href="https://codepen.io/anthkris/full/JwZbBe" >take a gander at the new version on Codepen.</a></p>
             </div>
             <div className='w-100'>
               <img
@@ -35,4 +39,6 @@ const Pomodoro = () =>
           </section>
         </div>
     </div>
+  </Layout>
+  
 export default Pomodoro;

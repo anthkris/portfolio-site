@@ -1,8 +1,10 @@
 import React from "react";
 import CaseStudyAbout from '../components/CaseStudyAbout.js';
 import '../styles/case-study.scss';
+import Layout from '../components/layout';
 
 const UTakeIt = () =>
+  <Layout>
     <div className='pt5 case-study'>
       <CaseStudyAbout
       about='UTakeIt is the fully responsive platform for the University of Texas STEM Center to market and sell face-to-face and online learning experiences and products.'
@@ -63,4 +65,6 @@ const UTakeIt = () =>
           </section>
         </div>
     </div>
+  </Layout>
+  
 export default UTakeIt;

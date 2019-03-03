@@ -1,7 +1,9 @@
 import React from "react"
 import CaseStudyAbout from '../components/CaseStudyAbout.js';
+import Layout from '../components/layout';
 
 const FIVS123 = () =>
+  <Layout>
     <div className='pt5 case-study'>
       <CaseStudyAbout
       about='FIVS123 Introduction to Forensics is a synchronous online course in development for Texas A&M University students by TEEX. I concentrated on using Moodle LMS to its full capacity, integrating readings with engaging, scenario-based learning experiences.'
@@ -70,4 +72,6 @@ const FIVS123 = () =>
           </section>
         </div>
     </div>
+  </Layout>
+  
 export default FIVS123;

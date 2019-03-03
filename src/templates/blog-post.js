@@ -1,8 +1,9 @@
 import React from "react";
 import Helmet from "react-helmet";
-import Link from "gatsby-link";
+import {Link} from "gatsby";
 import kebabCase from "lodash/kebabCase";
 import { DiscussionEmbed } from "disqus-react";
+import Layout from '../components/layout';
 import "katex/dist/katex.min.css";
 import "prismjs/themes/prism-twilight.css";
 
@@ -19,6 +20,7 @@ class Template extends React.Component {
     const categories = post.frontmatter.categories;
     const tags = post.frontmatter.tags;
     return (
+      <Layout>
         <div className="blog-post-container">
          <Helmet title={`The Latest - ${post.frontmatter.title}`} />
           <div className="blog-post">
@@ -49,6 +51,7 @@ class Template extends React.Component {
           </div>
           <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
         </div>
+      </Layout>
     );
   }
 }
