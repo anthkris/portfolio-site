@@ -3,7 +3,7 @@ import Helmet from "react-helmet";
 import {Link, graphql} from "gatsby";
 import kebabCase from "lodash/kebabCase";
 import { DiscussionEmbed } from "disqus-react";
-import Layout from '../components/layout';
+import Layout from '../components/Layout.js';
 import "katex/dist/katex.min.css";
 import "prismjs/themes/prism-twilight.css";
 

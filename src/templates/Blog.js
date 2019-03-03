@@ -1,7 +1,7 @@
 import React from "react";
 import {Link, graphql} from "gatsby";
 import BlogTile from '../components/BlogTile.js';
-import Layout from '../components/layout';
+import Layout from '../components/Layout.js';
 
 import '../styles/blog-listing.scss';
 
