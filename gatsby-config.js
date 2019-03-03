@@ -94,7 +94,6 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-catch-links`,
-    `gatsby-plugin-react-next`,
     {
       resolve: `gatsby-plugin-lunr`,
       options: {
