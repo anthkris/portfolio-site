@@ -13,7 +13,6 @@
     "gatsby-paginate": "^1.0.17",
     "gatsby-plugin-catch-links": "^2.0.12",
     "gatsby-plugin-lodash": "^3.0.4",
-    "gatsby-plugin-lunr": "^1.4.0",
     "gatsby-plugin-manifest": "^2.0.20",
     "gatsby-plugin-netlify": "^2.0.11",
     "gatsby-plugin-react-helmet": "^3.0.7",

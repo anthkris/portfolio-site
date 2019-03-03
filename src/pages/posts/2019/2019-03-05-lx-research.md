@@ -11,7 +11,7 @@ This week was a bit rough in terms of having development time, and I expect next
 
 ## Inspiration
 
-My initial inspiration was the wonderful website at (usefulscience.org)[http://www.usefulscience.org/]. I'd listed the project as "Create a site that lists out research about certain education topics." It came to mind again after talking with my co-worker about how she looks up research and whitepapers when she's looking for research-backed models. And yet again, after seeing Mike T's Twitter post about 2018 research. So, I figured that this was a good week to do something quicker and that this was the very project to take on.
+My initial inspiration was the wonderful website at [usefulscience.org](http://www.usefulscience.org/). I'd listed the project as "Create a site that lists out research about certain education topics." It came to mind again after talking with my co-worker about how she looks up research and whitepapers when she's looking for research-backed models. And yet again, after seeing Mike T's Twitter post about 2018 research. So, I figured that this was a good week to do something quicker and that this was the very project to take on.
 
 ## Design and Development
 

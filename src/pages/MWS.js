@@ -1,7 +1,7 @@
 import React from "react";
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
 import '../styles/case-study.scss';
-import Layout from '../components/layout';
+import Layout from '../components/Layout.js';
 
 const UXLX = () =>
   <Layout>

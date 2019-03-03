@@ -5,7 +5,7 @@ import How from '../components/How.js';
 import Work from '../components/Work.js';
 import Footer from '../components/Footer.js';
 import Playground from '../components/Playground.js';
-import Layout from '../components/layout';
+import Layout from '../components/Layout.js';
 
 const IndexPage = () =>
     <Layout>

@@ -1,6 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
-import {Link} from "gatsby";
+import {Link, graphql} from "gatsby";
 import kebabCase from "lodash/kebabCase";
 import { DiscussionEmbed } from "disqus-react";
 import Layout from '../components/layout';

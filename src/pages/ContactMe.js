@@ -1,7 +1,7 @@
 import React from 'react';
 import Contact from '../components/Contact.js';
 import Social from '../components/Social.js';
-import Layout from '../components/layout';
+import Layout from '../components/Layout.js';
 
 
 const ContactMe = () =>

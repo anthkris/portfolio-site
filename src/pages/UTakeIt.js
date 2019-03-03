@@ -1,7 +1,7 @@
 import React from "react";
 import CaseStudyAbout from '../components/CaseStudyAbout.js';
 import '../styles/case-study.scss';
-import Layout from '../components/layout';
+import Layout from '../components/Layout.js';
 
 const UTakeIt = () =>
   <Layout>

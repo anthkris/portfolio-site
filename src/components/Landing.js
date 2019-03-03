@@ -1,7 +1,7 @@
 import React from 'react';
 import Social from './Social';
 import bg from "./images/bg.svg";
-import mockups from "./images/mockups.png";
+import dev from "./images/undraw-dev.svg";
 import {Link} from 'gatsby';
 import '../styles/landing.scss';
 
@@ -17,7 +17,7 @@ class Landing extends React.Component {
             <Link className='hire-me' to='/HowIWork' title='How I Work'>Looking for a good web developer?</Link>
             <Social/>
           </div>
-          <div className='dib-ns dn w-50 mt5'><img className=' mt4' alt='course and app mockups' src={mockups} /></div>
+          <div className='dib-ns dn w-50 mt5'><img className=' mt4' alt='course and app mockups' src={dev} /></div>
         </div>
       </section>
     )

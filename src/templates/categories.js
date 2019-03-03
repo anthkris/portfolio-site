@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import Layout from '../components/layout';
 
 // Components
-import {Link} from "gatsby";
+import {Link, graphql} from "gatsby";
 
 const Categories = ({ pathContext, data }) => {
   const { category } = pathContext;

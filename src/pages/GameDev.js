@@ -1,6 +1,6 @@
 import React from "react";
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
-import Layout from '../components/layout';
+import Layout from '../components/Layout.js';
 
 const GameDev = () =>
   <Layout>

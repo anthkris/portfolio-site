@@ -1,5 +1,5 @@
 import React from "react";
-import {Link} from "gatsby";
+import {Link, graphql} from "gatsby";
 import BlogTile from '../components/BlogTile.js';
 import Layout from '../components/layout';
 

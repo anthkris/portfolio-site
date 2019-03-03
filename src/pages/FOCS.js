@@ -1,6 +1,6 @@
 import React from "react"
 import CaseStudyAbout from '../components/CaseStudyAbout.js';
-import Layout from '../components/layout';
+import Layout from '../components/Layout.js';
 
 const FOCS = () =>
   <Layout>
