@@ -1,7 +1,9 @@
 import React from "react"
 import CaseStudyAbout from '../components/CaseStudyAbout.js';
+import Layout from '../components/layout';
 
 const FOCS = () =>
+  <Layout>
     <div className='pt5 case-study'>
       <CaseStudyAbout
       about='Foundations of Computer Science is professional development MOOC purpose-built to help Texas educators become certified to teach computer science by preparing for certification exams and modeling good teaching practices.'
@@ -55,4 +57,6 @@ const FOCS = () =>
           </section>
         </div>
     </div>
+  </Layout>
+  
 export default FOCS

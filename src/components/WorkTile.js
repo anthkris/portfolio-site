@@ -1,21 +1,21 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-import Link from 'gatsby-link'
+import {Link} from 'gatsby'
 
 class WorkTile extends React.Component {
   render() {
     return (
- <div className='w-50-ns w-100 dib pr5-ns pl0-ns mv3 v-top'>
- <Link to={this.props.link}>
- <img className='hoverable br4'src={this.props.img} alt='UX/UI'/>
- </Link>
-    <div className='pv2'>
-      <h2 className='mt3 mb0'>{this.props.title}</h2>
-      <p className='dib f7 secondary-text'>{this.props.info}</p>
-      <p style={{lineHeight: '24px'}} className='secondary-text pb3 mt2 fw4 f6'>{this.props.summary}</p>
+       <div className='w-50-ns w-100 dib pr5-ns pl0-ns mv3 v-top'>
+       <Link to={this.props.link}>
+       <img className='hoverable br4'src={this.props.img} alt='UX/UI'/>
+       </Link>
+          <div className='pv2'>
+            <h2 className='mt3 mb0'>{this.props.title}</h2>
+            <p className='dib f7 secondary-text'>{this.props.info}</p>
+            <p style={{lineHeight: '24px'}} className='secondary-text pb3 mt2 fw4 f6'>{this.props.summary}</p>
 
-    </div>
-</div>
+          </div>
+      </div>
 
     )
   }

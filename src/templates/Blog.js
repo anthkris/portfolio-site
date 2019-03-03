@@ -1,6 +1,7 @@
 import React from "react";
-import Link from "gatsby-link";
+import {Link} from "gatsby";
 import BlogTile from '../components/BlogTile.js';
+import Layout from '../components/layout';
 
 import '../styles/blog-listing.scss';
 
@@ -47,6 +48,7 @@ export default function Blog({ data, pathContext }) {
   }
 
   return (
+    <Layout>
       <div className="blog-posts center mw8 db ph3">
         <h1>The Latest</h1>
         {posts.map(({ node }) => (
@@ -60,6 +62,7 @@ export default function Blog({ data, pathContext }) {
           {nextPage}
         </div>
       </div>
+    </Layout>
   );
 }
 

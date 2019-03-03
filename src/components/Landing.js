@@ -2,7 +2,7 @@ import React from 'react';
 import Social from './Social';
 import bg from "./images/bg.svg";
 import mockups from "./images/mockups.png";
-import Link from 'gatsby-link';
+import {Link} from 'gatsby';
 import '../styles/landing.scss';
 
 class Landing extends React.Component {

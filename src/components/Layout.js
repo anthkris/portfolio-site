@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Link from 'gatsby-link';
+import {Link} from 'gatsby';
 import Helmet from 'react-helmet';
-import './index.css';
+import '../styles/index.css';
 import SkipNav from 'react-skip-nav';
 import "react-skip-nav/lib/style.css";
 
@@ -56,12 +56,8 @@ const TemplateWrapper = ({ children }) =>
      targetDomId='main-content'/>
     <Header />
     <div id="main-content" className="center db">
-      {children()}
+      {children}
     </div>
   </div>
-
-TemplateWrapper.propTypes = {
-  children: PropTypes.func,
-}
 
 export default TemplateWrapper

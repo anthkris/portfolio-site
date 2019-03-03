@@ -1,7 +1,10 @@
 import React from "react";
-import Link from 'gatsby-link';
+import {Link} from 'gatsby';
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
+import Layout from '../components/layout';
+
 const Simone = () =>
+  <Layout>
     <div className='pt5 case-study'>
       <PersonalCaseStudyAbout
       about='A web-based Simon clone. Betcha can&#8217;t beat it!'
@@ -30,4 +33,6 @@ const Simone = () =>
           </section>
         </div>
     </div>
+  </Layout>
+  
 export default Simone;

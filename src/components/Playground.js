@@ -13,6 +13,7 @@ class Playground extends React.Component {
         <h1 className='fw3 mt5'>LXD Resources</h1>
         <p className='ma0 pa0 fw3 secondary-text'>I've created a number of open source resources for other ID/LXD newbies, all available for free.</p>
         <div className='pt3 db'>
+          <PlayTile title='LX Research' type={websiteTool} img='https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723544/portfolio/preview/LX-research' summary='Learning experience design and development research.' link='https://lx-research.netlify.com/'/>
           <PlayTile title='Hack ID' type={websiteTool} img='https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723544/portfolio/preview/hackid' summary='Resources for Self Taught IDs. Made with Jekyll and Github.' link='https://hackid.github.io/'/>
           <PlayTile title='Dear ID' type={podcastTool} img='https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723544/portfolio/preview/DearIDtwitter' summary='Podcast about the Instructional Design Journey.' link='http://dearinstructionaldesigner.com/'/>
           <PlayTile title='Go Design Something' type={websiteTool} img='https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,dpr_auto,q_60/v1530723544/portfolio/preview/gds-briefs' summary='Project briefs for instructional designers. Made with Angular JS.' link='http://godesignsomething.co/'/>

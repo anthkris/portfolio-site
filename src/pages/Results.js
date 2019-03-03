@@ -2,7 +2,7 @@ import React from "react";
 
 
 // Components
-import Link from "gatsby-link";
+import {Link} from "gatsby";
 
 class SearchResultsPage extends React.Component {
   constructor(props){

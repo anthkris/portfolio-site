@@ -1,8 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
+import Layout from '../components/layout';
 
 // Components
-import Link from "gatsby-link";
+import {Link} from "gatsby";
 
 const Tags = ({ pathContext, data }) => {
   const { tag } = pathContext;
@@ -12,24 +13,26 @@ const Tags = ({ pathContext, data }) => {
   } tagged with "${tag}"`;
 
   return (
-    <div className='center mw8 db ph3 pt3 pb5'>
-      <h1>{tagHeader}</h1>
-      <ul>
-        {edges.map(({ node }) => {
-          const { path, title } = node.frontmatter;
-          return (
-            <li key={path}>
-              <Link to={path}>{title}</Link>
-            </li>
-          );
-        })}
-      </ul>
-      {/*
-              This links to a page that does not yet exist.
-              We'll come back to it!
-            */}
-      <Link to="/tags">All tags</Link>
-    </div>
+    <Layout>
+      <div className='center mw8 db ph3 pt3 pb5'>
+        <h1>{tagHeader}</h1>
+        <ul>
+          {edges.map(({ node }) => {
+            const { path, title } = node.frontmatter;
+            return (
+              <li key={path}>
+                <Link to={path}>{title}</Link>
+              </li>
+            );
+          })}
+        </ul>
+        {/*
+                This links to a page that does not yet exist.
+                We'll come back to it!
+              */}
+        <Link to="/Tags">All tags</Link>
+      </div>
+    </Layout>
   );
 };
 

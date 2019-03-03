@@ -1,7 +1,9 @@
 import React from "react";
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
+import Layout from '../components/layout';
 
 const GameDev = () =>
+  <Layout>
     <div className='pt5 case-study'>
       <PersonalCaseStudyAbout
       about='I prioritize building my skills as a game developer by regularly building games with Phaser JS and Construct 3.'
@@ -31,4 +33,6 @@ const GameDev = () =>
           </section>
         </div>
     </div>
+  </Layout>
+  
 export default GameDev

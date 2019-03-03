@@ -1,9 +1,11 @@
 import React from "react";
-import Link from 'gatsby-link';
+import {Link} from 'gatsby';
 import PersonalCaseStudyAbout from '../components/PersonalCaseStudyAbout.js';
 import '../styles/case-study.scss';
+import Layout from '../components/layout';
 
 const UXLX = () =>
+  <Layout>
     <div className='pt5 case-study'>
       <PersonalCaseStudyAbout
       about='UXLX is a card-based, xAPI-enabled microlearning app to help LX Designers learn lessons from User Experience Design.'
@@ -59,4 +61,6 @@ const UXLX = () =>
           </section>
         </div>
     </div>
+  </Layout>
+  
 export default UXLX
