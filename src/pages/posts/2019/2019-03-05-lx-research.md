@@ -43,11 +43,11 @@ From there I wanted to color code the tags. After realizing that I wanted to hav
     <a href="https://lx-research.netlify.com/" target="blank">
       <img
         sizes="(max-width: 810px) 100vw, 810px"
-        srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530723544/portfolio/preview/LX-research.png 203w,
-                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530723544/portfolio/preview/LX-research.png 405w,
-                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530723544/portfolio/preview/LX-research.png 810w,
-                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530723544/portfolio/preview/LX-research.png 1215w"
-        src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530723544/portfolio/preview/LX-research.png"
+        srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1551665421/blog/LXResearchBig.png 203w,
+                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1551665421/blog/LXResearchBig.png 405w,
+                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1551665421/blog/LXResearchBig.png 810w,
+                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1551665421/blog/LXResearchBig.png 1215w"
+        src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1551665421/blog/LXResearchBig.png"
         alt="game shape screenshot" />
       <figcaption>Check out the site</figcaption>
     </a>
