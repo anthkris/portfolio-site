@@ -2,7 +2,7 @@
 title: 'LX Research'
 path: "/blog/lx-research"
 date: '2019-03-05'
-featured: "../featured/Datamaps-in-Twine.png"
+featured: "../featured/LX-Research.png"
 categories: ["Showing my Work", "Coding", "Design"]
 tags: ["research", "learning experience research", "portfolio work", "project"]
 ---
@@ -35,6 +35,20 @@ The most basic starter is just a list of posts, all text. Since that aligns well
 
 From there I wanted to color code the tags. After realizing that I wanted to have a tag filter menu and have the tags show up under each post, I created a utility component that lists my categories and chooses the appropriate color. 
 
+<figure>
+    <a href="https://lx-research.netlify.com/" target="blank">
+      <img
+        sizes="(max-width: 810px) 100vw, 810px"
+        srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530723544/portfolio/preview/LX-research.png 203w,
+                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_405/v1530723544/portfolio/preview/LX-research.png 405w,
+                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530723544/portfolio/preview/LX-research.png 810w,
+                https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530723544/portfolio/preview/LX-research.png 1215w"
+        src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530723544/portfolio/preview/LX-research.png"
+        alt="game shape screenshot" />
+      <figcaption>Check out the site</figcaption>
+    </a>
+</figure>
+
 ## Further Development
 
 As an MVP, I've decided not to add pagination, search, or separate pages with comments quite yet. I want to keep it simple, for now. I can see search as being a really good and useful feature for the future and I intend to test it out by trying to re-add it to this website.
@@ -42,3 +56,5 @@ As an MVP, I've decided not to add pagination, search, or separate pages with co
 I need to update the footer to put some more information about the site as well as add a way for people to suggest new research.
 
 I also really like the fact that youc an star certain posts as useful on the Useful Science website. I'm not sure how I would do that without any kind of website backend or database, but I'll keep it in my back pocket as an idea for later.
+
+Be sure to let me know what you think in the comments!
