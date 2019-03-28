@@ -11,7 +11,7 @@ Several weeks ago, one of the tiny projects I took on at work was creating a pro
 
 ## My Design and Process
 
-For the original game, I was inspired by a couple of small gameful/quiz-zy experiences I had seen recently. One was a game called It's Centered That, which is a game that asks you to test your design eye by checking to see if a dot is centered in a group of one or more shapes. The other game, NAME, took a similar approach to ask you to test your design eye by seeing if you could tell which of two designs was the best, closer to best practices. 
+For the original game, I was inspired by a couple of small gameful/quiz-zy experiences I had seen recently. One was a game called [It's Centered That](https://www.supremo.co.uk/designers-eye/), which is a game that asks you to test your design eye by checking to see if a dot is centered in a group of one or more shapes. The other game, [Can't Unsee](https://cantunsee.space/), took a similar approach to ask you to test your design eye by seeing if you could tell which of two designs was the best/closer to best practices. 
 
 Normally, I think, I'd ignore this type of game. I mean, they're cute and all, but I didn't see that they could do much for someone from a learning perspective. But after looking more closely at these two examples, I was suddenly struck by the fact that they offer players a chance at deliberate practice on a particular, small, tightly-bound design skill. They ask you to identify the "right" thing and offer immediate expert feedback. And that, of course, is exstremely useful in a learning context.
 
