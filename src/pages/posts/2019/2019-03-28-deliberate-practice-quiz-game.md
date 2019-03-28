@@ -31,9 +31,9 @@ So that's the whole story about the original attempt. I wanted to have something
 
 I built both games using ReactJS. Originally, I used it because my official work computer was having issues and I didn't want to install Storyline on the loaner laptop only to have to move all of the assets to the new computer a little later. I used React for Similirillion as well because I don't own the latest version of Storyline and because I liked the idea of being able to create a gameful experience from scratch using the React framework. It's a testament to how far I've come in being able to use React from a year ago.
 
-Since I could lean on what I learned from the Crisp(y) game, development was pretty short, though I did add a few new tiny animations to this game to try and make the user experience a little better. One of the things I noticed about my friend [Mel Milloway's work](http://melslearninglab.com/)is that she does an amazing job of noticing the details of UX animation even in Storyline and it makes the things she makes even more magical. I tend not to focus on that, so I wanted to make the effort this go round.
+Since I could lean on what I learned from the Crisp(y) game, development was pretty short, though I did add a few new tiny animations to this game to try and make the user experience a little better. One of the things I noticed about my friend [Mel Milloway's work](http://melslearninglab.com/) is that she does an amazing job of noticing the details of UX animation even in Storyline and it makes the things she makes even more magical. I tend not to focus on that, so I wanted to make the effort this go round.
 
-## Lessons Learned and Acknowlegements
+## Lessons Learned
 
 I really liked using React for this project, though it certainly could be done in a rapid elearning tool. The biggest issue for coding projects in this context is building for sustainability, so that, in the event that you win the lottery and run away, someone else can pick up your work. One workaround, I think, in this game is that the game "content" (the sentences, the correct answer, and the feedback) are all in the JSON format, like this:
 
@@ -68,7 +68,7 @@ const Sentences = [
 ### Results
 
 Check out the game for yourself!
-https://res.cloudinary.com/dhdaswa6t/image/upload/v1553735248/blog/Similirillion.png
+
 <figure>
     <a href="https://similirillion-game.netlify.com" target="blank">
       <img
