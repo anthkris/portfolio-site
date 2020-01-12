@@ -16,8 +16,6 @@ class Experience extends React.Component {
           <div className='pt3 '>
             <div className='dib w-33-l w-50-ns w-100 v-top'>
               <Role jobTitle='LX Designer' employer='Amazon' img={Amazon} link='https://www.amazon.com/'/>
-            </div>
-            <div className='dib w-33-l w-50-ns w-100 v-top'>
               <Role jobTitle='LX Designer and Front End Developer' employer='University of Texas' img={UT} link='https://utakeit.stemcenter.utexas.edu/'/>
               <Role jobTitle='LX Designer and Front End Developer' employer='Little Bird Games' img={LBG} link='http://littlebirdgames.com/'/>
             </div>

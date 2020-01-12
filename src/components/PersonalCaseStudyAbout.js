@@ -17,7 +17,11 @@ class PersonalCaseStudyAbout extends React.Component {
               <p className='dib fw3 pr5-ns ma0'>{this.props.tool}</p>
               <h3 className='fw3'>Time in Development</h3>
               <p className='fw3 pr5-ns pb4'>{this.props.time}</p>
-              <a className='case-study-button' href={this.props.projectLink} target="_blank" rel="noopener noreferrer">View the Project</a>
+              {this.props.projectLink ? (
+                <a className='case-study-button' href={this.props.projectLink} target="_blank" rel="noopener noreferrer">View the Project</a>
+              ) : (
+                null
+              )}
             </div>
             <div className='w-50-ns w-100 dib'>
               <h2 className='fw5'>Roles</h2>
