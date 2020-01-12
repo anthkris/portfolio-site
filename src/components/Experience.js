@@ -5,6 +5,7 @@ import LBG from "./images/companies/littlebirdgames.png";
 import Planview from "./images/companies/planview.png";
 import TEEX from "./images/companies/TEEXsm.png";
 import ESC13 from "./images/companies/esc13.png";
+import Amazon from "./images/companies/amazon.png";
 
 class Experience extends React.Component {
   render() {
@@ -13,6 +14,9 @@ class Experience extends React.Component {
         <div className="db-ns center mt4">
           <h1 className='fw3'>Past experience</h1>
           <div className='pt3 '>
+            <div className='dib w-33-l w-50-ns w-100 v-top'>
+              <Role jobTitle='LX Designer' employer='Amazon' img={Amazon} link='https://www.amazon.com/'/>
+            </div>
             <div className='dib w-33-l w-50-ns w-100 v-top'>
               <Role jobTitle='LX Designer and Front End Developer' employer='University of Texas' img={UT} link='https://utakeit.stemcenter.utexas.edu/'/>
               <Role jobTitle='LX Designer and Front End Developer' employer='Little Bird Games' img={LBG} link='http://littlebirdgames.com/'/>

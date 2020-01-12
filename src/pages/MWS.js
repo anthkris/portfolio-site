@@ -12,7 +12,6 @@ const UXLX = () =>
       clients='Web Developer, UX Designer'
       tool='ES6'
       time='About 4 months'
-      projectLink='https://ka-mws-project.netlify.com/'
       job='Web Development, Web Design, UX Design, Conceptualising Ideas and Prototyping'
       />
         <div className='ph3 center mw8'>
