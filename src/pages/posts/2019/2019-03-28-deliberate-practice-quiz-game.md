@@ -57,7 +57,7 @@ const Sentences = [
 
  I also worked hard to make Similirillion a responsive experience so that it can be played in a mobile view as well as a desktop view, which I didn't do with Crisp(y).
 
- ### Acknowlegements
+### Acknowlegements
 
  I found some really amazing animated emoji that I used, as well as a couple of React components that I didn't build from scratch so I'll list those here:
 
