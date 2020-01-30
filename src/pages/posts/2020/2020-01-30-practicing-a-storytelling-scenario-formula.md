@@ -50,6 +50,10 @@ The experience isn't perfect, but I'm really quite happy with it. Check it out a
     </a>
 </figure>
 
+## Instructional Design Implications
+
+My original intent with the game was to create something that might be useful as an onboarding experience and would get a player used to internal tools to help them navigate a multi-building campus. I don't think it works entirely in it's current form, but I do think that, with a few tweaks, it could perform that function. For example, links could go to a company intranet, actual campus maps, etc. Of course, that would mean that it might work best after official hire and access to internal systems, as opposed to pre-hire or before the player had been integrated into work systems.
+
 ## Going Forward
 
 One of the things I planned to do was to give the game some polish by integrating illustrations and sound effects. But by the time I got around to it, I was having some difficulty getting myself to finish this part. So I thought that I'd better just wrap it up and move on to the next one. That said, I think it might be a good idea to design with the graphics and SFX in mind from the beginning, especially since I'm not creating them myself. I found it difficult to think about what images I should show of each passage. On the other hand, when I look at some of my favorite interactive fiction, it might be better for me to concentrate on the writing bit. Adding xAPI statements would also be an extra task, but if I'm not actually going to use the data, it doesn't seem worthwhile. I might consider it whenever I move on to larger, more in-depth projects.
