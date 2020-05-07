@@ -4,7 +4,7 @@ path: "/blog/ux-lx-redesign-effort"
 date: '2020-05-07'
 featured: "../featured/logoColor.png"
 categories: ["Showing my Work", "Coding", "Design"]
-tags: ["ux research", "learning experience research", "portfolio work", "project", "app development"m "xAPI"]
+tags: ["ux research", "learning experience research", "portfolio work", "project", "app development", "xAPI"]
 ---
 
 One of the things I love most about blogs is that they are always here for you. No matter how long you're gone, you can always come home to your blog. And that's what I'm doing.
