@@ -20,8 +20,6 @@ Strangely, I've been really doubting my design chops lately. I've been having tr
 ## Wireframing
 I'm hoping to finish the wireframes by the end of next week, but this is where I am so far:
 
-https://res.cloudinary.com/dhdaswa6t/image/upload/v1588813762/blog/UXLX-Redesign-Wireframe.png
-
 <figure>
     <img
     sizes="(max-width: 810px) 100vw, 810px"
