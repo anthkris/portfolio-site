@@ -106,6 +106,7 @@ module.exports = {
         icon: "src/pages/posts/featured/logoColor.png", // This path is relative to the root of the site.
       },
     },
+    `gatsby-plugin-feed`,
     `gatsby-plugin-netlify`
   ],
 };
