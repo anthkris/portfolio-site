@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'K. Anthony: LX Designer',
+    siteUrl: 'https://knanthony.com'
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -114,7 +115,6 @@ module.exports = {
             site {
               siteMetadata {
                 title
-                description
                 siteUrl
                 site_url: siteUrl
               }
