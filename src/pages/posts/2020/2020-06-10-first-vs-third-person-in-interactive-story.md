@@ -10,7 +10,7 @@ tags: [“first vs third person”, “interactive stories”, “simulation”]
 ## Introduction
 Let’s say you’re in a simulation. You’ve reached the end.. Let’s say it’s the bad ending. which of these is better?
 
-<iframe src="https://s3.amazonaws.com/explorables.knanthony.com/firstvthird/FirstvThirdTwine.html" width="605" height="496" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
+<iframe src="https://s3.amazonaws.com/explorables.knanthony.com/firstvthird/FirstvThirdTwine.html" width="605" height="400" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" frameBorder="0"></iframe>
 
 Which of these works better for stories in learning?
 
@@ -40,7 +40,7 @@ So, we’re talking about interactive stories, situated as catalysts to the lear
 ## First and Third Person
 What do we mean about first and third person?
 
-<iframe src="https://s3.amazonaws.com/explorables.knanthony.com/firstvthird/firstvthird.html" width="605" height="496" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
+<iframe src="https://s3.amazonaws.com/explorables.knanthony.com/firstvthird/firstvthird.html" width="605" height="364" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" frameBorder="0"></iframe>
 
 ### A Quick Note
 If you took a look at the above definitions and the first interactive, you're probably saying, 
