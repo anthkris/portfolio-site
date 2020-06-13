@@ -20,7 +20,6 @@ As I mentioned in a previous post, I am currently participating in a group conce
 And that matters because, in thinking about what works better in learning, we need to think about where the product is situated in the learning journey.
 
 <figure>
-  <a href="/showcase/WorkplaceViolence/story.html" target="blank">
     <img
     sizes="(max-width: 810px) 100vw, 810px"
     srcset="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_203/v1530396697/blog/Learner_Journeyv2.png 203w,
@@ -29,7 +28,6 @@ And that matters because, in thinking about what works better in learning, we ne
             https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_1215/v1530396697/blog/Learner_Journeyv2.png 1215w"
     src="https://res.cloudinary.com/dhdaswa6t/image/upload/f_auto,q_60,w_810/v1530396697/blog/Learner_Journeyv2.png"
     alt="Learner journey diagram from emotion to epiphany to logic" />
-  </a>
   <figcaption>The interactive story is positioned in the emotion phase, engaging with the learner's feelings and attitudes. It acts as a catalyst. Once they've had their epiphany, then you can lead them to the "logic" of training and job aids and resources.</figcaption>
 </figure>
 
