@@ -1,7 +1,7 @@
 {
   "name": "gatsby-knanthony-portfolio",
   "private": true,
-  "description": "Slick Serves the Sweetest Slices",
+  "description": "Knanthony.com Portfolio Site",
   "version": "2.0.0",
   "author": "Kristin Anthony <kristin@knanthony.com>",
   "license": "MIT",
@@ -18,17 +18,38 @@
     "serve": "cross-env NODE_OPTIONS=\"-r esm\" gatsby serve",
     "clean": "gatsby clean",
     "netlify": "netlify dev",
-    "prebuild": "netlify-lambda install"
+    "prebuild": "netlify-lambda install",
+    "lint": "eslint **/*.js"
   },
   "eslintConfig": {
     "extends": [
       "wesbos"
     ],
+    "plugins": [
+      "jsx-a11y",
+      "prettier"
+    ],
     "rules": {
-      "react/prop-types": 0
+      "react/prop-types": 0,
+      "jsx-quotes": [
+        "error",
+        "prefer-single"
+      ],
+      "prettier/prettier": [
+        "error",
+        {
+          "singleQuote": true
+        }
+      ]
+    }
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
     }
   },
   "dependencies": {
+    "@reach/skip-nav": "^0.13.2",
     "babel-plugin-styled-components": "^1.11.1",
     "dotenv": "^8.2.0",
     "gatsby": "^2.24.63",
@@ -44,7 +65,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
-    "react-icons": "^4.1.0",
+    "react-icons": "^4.2.0",
     "styled-components": "^5.2.0"
   },
   "devDependencies": {

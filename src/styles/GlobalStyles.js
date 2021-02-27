@@ -1,20 +1,28 @@
 import { createGlobalStyle } from 'styled-components';
-import bg from '../assets/images/bg.svg';
-import stripes from '../assets/images/stripes.svg';
 
 const GlobalStyles = createGlobalStyle`
   :root {
     --game-blue: #37ABD4;
     --black: #2E2E2E;
-    —-portfolio-yellow: #FFCC29;
+    --portfolio-yellow: #FFCC29;
     --snow: #F4F4F4;
-    —-portfolio-link-pink: #FA3C85;
-    -—portfolio-light-blue: #C1E8FA;
-    -—porfolio-cold-blue: #96C4D9;
+    --c-steely-blue: #96C4D9;
+    --link-pink: #FA3C85;
+    --pale-blue: #C1E8FA;
   }
 
   html {
-    font-size: 18px;
+    font-size: 14px;
+  }
+
+  html, body, #___gatsby, #gatsby-focus-wrapper {
+    height: 100%;
+  }
+
+  @media only screen and (min-width: 700px) {
+    html {
+      font-size: 18px;
+    }
   }
 
   body {
@@ -57,6 +65,15 @@ const GlobalStyles = createGlobalStyle`
     transform: rotate(-2deg);
     position: relative;
     display: inline-block;
+  }
+
+  .sr-only {
+    position:absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
   }
 
 `;
