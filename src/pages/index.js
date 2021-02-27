@@ -8,12 +8,13 @@ import ColumnAndVeil from '../assets/images/portfolioImages/column_and_veil.png'
 import BoB from '../assets/images/portfolioImages/brink_of_burnout.png';
 
 const HalfPageStyles = styled.div`
-  background-color: var(--snow);
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2%;
-  align-items: center;
   padding: 2rem;
+  .interior {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%;
+    align-items: center;
+  }
   font-size: 1.2rem;
   .leadText {
     font-size: 1.7rem;
@@ -68,84 +69,90 @@ const OtherProjectStyles = styled.section`
 `;
 
 const HomePage = () => (
-  <main>
+  <>
     <HalfPageStyles>
-      <section>
-        <p className="leadText">Howdy!</p>
-        <p className="leadText">
-          I'm a front-end engineer and learning technologist — a mix of web
-          developer, learning experience designer, and game developer. I create
-          story-focused learning experiences that help solve problems for
-          people.
-        </p>
-        <p>
-          I’ve been in the learning space for a while (almost a decade!), hosted
-          the Dear Instructional Designer podcast, and help wherever I can to
-          foster newbies into learning experience design.
-        </p>
-        <Connect name="Me" />
-      </section>
-      <section className='imageSection'>
-        <img
-          className='homeImg'
-          src={KrisBot}
-          alt="KrisBot, Kristin's Robot pal"
-        />
-      </section>
+      <div className='interior'>
+        <section>
+          <p className="leadText">Howdy!</p>
+          <p className="leadText">
+            I'm a front-end engineer and learning technologist — a mix of web
+            developer, learning experience designer, and game developer. I
+            create story-focused learning experiences that help solve problems
+            for people.
+          </p>
+          <p>
+            I’ve been in the learning space for a while (almost a decade!),
+            hosted the Dear Instructional Designer podcast, and help wherever I
+            can to foster newbies into learning experience design.
+          </p>
+          <Connect name="Me" />
+        </section>
+        <section className='imageSection'>
+          <img
+            className='homeImg'
+            src={KrisBot}
+            alt="KrisBot, Kristin's Robot pal"
+          />
+        </section>
+      </div>
     </HalfPageStyles>
     <PortfolioStyles>
-      <h3>
-        Kristin focuses on creating story-focused, game-based learning
-        experiences…
-      </h3>
-      <div className='portfolioCards'>
-        <PortfolioCard
-          imgSrc={BoB}
-          imgAlt=''
-          itemTitle='Brink of Burnout'
-          itemDesc='Brink of Burnout is an xAPI-enabled interactive story about taking back control of your work.'
-          itemUrl='https://brink-of-burnout.netlify.app/'
-        />
-        <PortfolioCard
-          imgSrc={ColumnAndVeil}
-          imgAlt=''
-          itemTitle='Column and Veil Bikes'
-          itemDesc='A responsive, one-page course and game build using the free and open source Adapt framework and PhaserJS.'
-          itemUrl='http://showcase.knanthony.com/candvbikes/index.html#/id/co-05'
-        />
+      <div className='interior'>
+        <h3>
+          Kristin focuses on creating story-focused, game-based learning
+          experiences…
+        </h3>
+        <div className='portfolioCards'>
+          <PortfolioCard
+            imgSrc={BoB}
+            imgAlt=''
+            itemTitle='Brink of Burnout'
+            itemDesc='Brink of Burnout is an xAPI-enabled interactive story about taking back control of your work.'
+            itemUrl='https://brink-of-burnout.netlify.app/'
+          />
+          <PortfolioCard
+            imgSrc={ColumnAndVeil}
+            imgAlt=''
+            itemTitle='Column and Veil Bikes'
+            itemDesc='A responsive, one-page course and game build using the free and open source Adapt framework and PhaserJS.'
+            itemUrl='http://showcase.knanthony.com/candvbikes/index.html#/id/co-05'
+          />
+        </div>
       </div>
     </PortfolioStyles>
     <OtherProjectStyles>
-      <h3>… and lots of other resources, too!</h3>
-      <div className='otherProjectCards'>
-        <PlainCard
-          itemTitle='Dear Instructional Designer'
-          itemDesc='The four-season podcast about the instructional design journey.'
-          itemUrl='https://www.dearinstructionaldesigner.com/'
-        />
-        <PlainCard
-          itemTitle='Go Design Something'
-          itemDesc='Project briefs for instructional designers.'
-          itemUrl='https://godesignsomething.co/'
-        />
-        <PlainCard
-          itemTitle='Hack ID'
-          itemDesc='Resources for Self Taught IDs.'
-          itemUrl='https://hackid.github.io/'
-        />
-        <PlainCard
-          itemTitle='LX Research'
-          itemDesc='Learning experience design and development research.'
-          itemUrl='https://lx-research.netlify.app/'
-        />
-        <PlainCard
-          itemTitle='ID Interview Questions'
-          itemDesc='Practice questions for instructional design interviews.'
-          itemUrl='https://github.com/anthkris/instructional-design-interview-questions'
-        />
+      <div className="interior">
+        <h3>… and lots of other resources, too!</h3>
+        <div className='otherProjectCards'>
+          <PlainCard
+            itemTitle='Dear Instructional Designer'
+            itemDesc='The four-season podcast about the instructional design journey.'
+            itemUrl='https://www.dearinstructionaldesigner.com/'
+          />
+          <PlainCard
+            itemTitle='Go Design Something'
+            itemDesc='Project briefs for instructional designers.'
+            itemUrl='https://godesignsomething.co/'
+          />
+          <PlainCard
+            itemTitle='Hack ID'
+            itemDesc='Resources for Self Taught IDs.'
+            itemUrl='https://hackid.github.io/'
+          />
+          <PlainCard
+            itemTitle='LX Research'
+            itemDesc='Learning experience design and development research.'
+            itemUrl='https://lx-research.netlify.app/'
+          />
+          <PlainCard
+            itemTitle='ID Interview Questions'
+            itemDesc='Practice questions for instructional design interviews.'
+            itemUrl='https://github.com/anthkris/instructional-design-interview-questions'
+          />
+        </div>
       </div>
     </OtherProjectStyles>
-  </main>
+  </>
 );
 
 export default HomePage;

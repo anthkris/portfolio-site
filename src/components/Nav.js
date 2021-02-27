@@ -1,6 +1,8 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
+import { animated } from 'react-spring';
+import useBoop from '../utils/useBoop';
 import logo from '../assets/images/knanthony_logo.svg';
 
 const NavStyles = styled.nav`
@@ -47,34 +49,42 @@ const NavStyles = styled.nav`
   }
 `;
 
-const Nav = () => (
-  <NavStyles>
-    <Link className='logoLink' to='/'>
-      <img className='logo' src={logo} alt='Home page' />
-    </Link>
-    <ul>
-      <li>
-        <Link activeClassName='active' to='/writing'>
-          Writing
-        </Link>
-      </li>
-      <li>
-        <Link activeClassName='active' to='/play'>
-          Play
-        </Link>
-      </li>
-      <li>
-        <Link activeClassName='active' to='/explorables'>
-          Explorables
-        </Link>
-      </li>
-      <li>
-        <Link activeClassName='active' to='/contact'>
-          Contact
-        </Link>
-      </li>
-    </ul>
-  </NavStyles>
-);
+const Nav = () => {
+  const [style, trigger] = useBoop({ x: 2, y: 0, rotation: 0, scale: 1.2 });
+  return (
+    <NavStyles>
+      <Link className='logoLink' to='/' onMouseEnter={trigger}>
+        <animated.img
+          style={style}
+          className='logo'
+          src={logo}
+          alt='Home page'
+        />
+      </Link>
+      <ul>
+        <li>
+          <Link activeClassName='active' to='/writing'>
+            Writing
+          </Link>
+        </li>
+        <li>
+          <Link activeClassName='active' to='/play'>
+            Play
+          </Link>
+        </li>
+        <li>
+          <Link activeClassName='active' to='/explorables'>
+            Explorables
+          </Link>
+        </li>
+        <li>
+          <Link activeClassName='active' to='/contact'>
+            Contact
+          </Link>
+        </li>
+      </ul>
+    </NavStyles>
+  );
+};
 
 export default Nav;

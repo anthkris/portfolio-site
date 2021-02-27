@@ -9,11 +9,6 @@ const PageHeadStyles = styled.header`
   text-align: center;
   text-transform: uppercase;
 
-  .interior {
-    max-width: 1000px;
-    margin: 0 auto;
-  }
-
   h1 {
     margin-bottom: 0px;
     font-size: 1.5em;
@@ -45,11 +40,11 @@ const PageHead = ({
   tagline = 'Makes Work you can Play',
 }) => (
   <PageHeadStyles>
-    <div className="interior">
+    <div className='interior'>
       <Nav />
       <h1>
         Kristin
-        <span className="mark">{markText}</span>
+        <span className='mark'>{markText}</span>
       </h1>
       <h2>{tagline}</h2>
     </div>

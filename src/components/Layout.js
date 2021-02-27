@@ -9,7 +9,7 @@ import Typography from '../styles/Typography';
 
 const ContentStyles = styled.div`
   background: var(--snow);
-  height: 100%;
+  min-height: 100%;
 `;
 
 const Layout = ({ children }) => {
@@ -36,7 +36,7 @@ const Layout = ({ children }) => {
         <SkipNavLink />
         <PageHead markText={markText} tagline={tagline} />
         <SkipNavContent />
-        {children}
+        <main>{children}</main>
       </ContentStyles>
     </>
   );

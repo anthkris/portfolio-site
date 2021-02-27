@@ -29,6 +29,11 @@ const GlobalStyles = createGlobalStyle`
     font-size: 2rem;
   }
 
+  .interior {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
   fieldset {
     border-color: rgba(0,0,0,0.1);
     border-width: 1px;

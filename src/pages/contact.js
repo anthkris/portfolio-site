@@ -4,7 +4,6 @@ import Connect from '../components/Connect';
 import Puppers from '../assets/images/Jazzy_and_Dash.jpg';
 
 const HalfPageStyles = styled.div`
-  background-color: var(--snow);
   display: flex;
   gap: 2%;
   flex-wrap: wrap;
@@ -40,8 +39,8 @@ const HalfPageStyles = styled.div`
 `;
 
 const ContactPage = () => (
-  <main>
-    <HalfPageStyles>
+  <>
+    <HalfPageStyles className="interior">
       <section>
         <p className='leadText'>
           I am fundamentally motivated to{' '}
@@ -89,7 +88,7 @@ const ContactPage = () => (
         <Connect name='Kristin' />
       </section>
     </HalfPageStyles>
-  </main>
+  </>
 );
 
 export default ContactPage;
