@@ -2,7 +2,7 @@ const dotenv = require('dotenv');
 
 dotenv.config({ path: '.env' });
 
-export default {
+module.exports = {
   siteMetadata: {
     title: `K. Anthony Portfolio`,
     siteUrl: `https://knanthony.com`,
