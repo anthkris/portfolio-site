@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import SEO from '../components/SEO';
 import Connect from '../components/Connect';
 import PortfolioCard from '../components/PortfolioCard';
 import PlainCard from '../components/PlainCard';
@@ -70,6 +71,7 @@ const OtherProjectStyles = styled.section`
 
 const HomePage = () => (
   <>
+    <SEO title='Home' />
     <HalfPageStyles>
       <div className='interior'>
         <section>

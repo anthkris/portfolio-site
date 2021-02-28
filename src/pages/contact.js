@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import SEO from '../components/SEO';
 import Connect from '../components/Connect';
 import Puppers from '../assets/images/Jazzy_and_Dash.jpg';
 
@@ -40,15 +41,16 @@ const HalfPageStyles = styled.div`
 
 const ContactPage = () => (
   <>
-    <HalfPageStyles className="interior">
+    <SEO title="Contact" />
+    <HalfPageStyles className='interior'>
       <section>
-        <p className='leadText'>
+        <p className="leadText">
           I am fundamentally motivated to{' '}
-          <span className='motivationHighlight'>learn new things</span> and
+          <span className="motivationHighlight">learn new things</span> and
           display that learning through projects,{' '}
-          <span className='motivationHighlight'>meet challenges</span> and make
+          <span className="motivationHighlight">meet challenges</span> and make
           progress towards goals, and{' '}
-          <span className='motivationHighlight'>make an impact</span> on
+          <span className="motivationHighlight">make an impact</span> on
           processes, people, and organizations.
         </p>
         <p>
@@ -76,16 +78,16 @@ const ContactPage = () => (
           that knowledge, and share with others.
         </p>
       </section>
-      <section className="imageSection">
+      <section className='imageSection'>
         <img
-          className="pupperImg"
+          className='pupperImg'
           src={Puppers}
-          alt='Jazzy and Dashwood (dogs)'
+          alt="Jazzy and Dashwood (dogs)"
         />
-        <caption className='imageCaption'>
+        <caption className="imageCaption">
           Dashwood and Jazzy help, too! (but mostly, they don’t)
         </caption>
-        <Connect name='Kristin' />
+        <Connect name="Kristin" />
       </section>
     </HalfPageStyles>
   </>

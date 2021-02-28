@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import SEO from '../components/SEO';
 import PlainCard from '../components/PlainCard';
 
 const PlayProjectStyles = styled.section`
@@ -16,6 +17,7 @@ const PlayProjectStyles = styled.section`
 
 const PlayPage = () => (
   <>
+    <SEO title='Play' />
     <PlayProjectStyles className="interior">
       <div className='playProjectCards'>
         <PlainCard
